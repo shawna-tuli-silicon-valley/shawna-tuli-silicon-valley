@@ -1,5 +1,5 @@
 ### Hi there! 👋🏽
-I’m currently an AI & Advanced Analytics Associate Manager at Avanade, the Accenture Microsoft Business Group, in San Francisco and Accenture Ventures & Open Innovation West Ambassador.
+I’m currently an AI & Advanced Analytics Associate Manager at Avanade, the Accenture Microsoft Business Group, in San Francisco and Accenture Ventures & Open Innovation West Ambassador! I also public speak at Google, Accenture, and Avanade and attend tech conferences!
 
 Highlights: ❤️💛💚💙 ["Google’s cloud business turns profitable for the first time on record"](https://www.cnbc.com/2023/04/25/googles-cloud-business-turns-profitable-for-the-first-time-on-record.html), ☢️ [12 Penn Medicine Radiation Oncology White Papers + Abstracts](https://github.com/shawna-tuli-silicon-valley/uci-ics-penn-medicine-global-radiation-oncology-analytics) (📊 [Google Scholar](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en)), 🏆 [2 Up to Us National Honor Badges](https://www.credly.com/users/shawna-tuli/badges), 📉 [12.11% YTD return on $100,0000](https://github.com/shawna-tuli-silicon-valley/uci-merage-investment-management)
 
