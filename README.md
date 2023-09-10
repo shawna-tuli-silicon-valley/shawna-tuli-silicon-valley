@@ -1,6 +1,5 @@
 ### Hi! 👋
-
-Hightlight: 
+Hightlights: 
 ☢️ [Penn Medicine Radiation Oncology White Papers], 📊 [Google Scholar](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en), 
 🏆 [National Honor Badges](https://www.credly.com/users/shawna-tuli/badges)
 
