@@ -1,6 +1,7 @@
 ### Hi! 👋
 
-📊 [Shawna Tuli Google Scholar](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en)
+📊 [Google Scholar](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en)
+🏆 [National Honor Badges](https://www.credly.com/users/shawna-tuli/badges)
 
 <!--
 **shawna-tuli-silicon-valley/shawna-tuli-silicon-valley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
