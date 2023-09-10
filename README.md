@@ -1,6 +1,6 @@
 ### Hi there! 👋🏽
 Highlights: 💛 ["Google’s cloud business turns profitable for the first time on record"](https://www.cnbc.com/2023/04/25/googles-cloud-business-turns-profitable-for-the-first-time-on-record.html), 
-☢️ [Penn Medicine Radiation Oncology White Papers], 📊 [Google Scholar](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en), 
+☢️ [12 Penn Medicine Radiation Oncology White Papers and Abstracts](https://github.com/shawna-tuli-silicon-valley/uci-ics-penn-medicine-global-radiation-oncology-analytics), 📊 [Google Scholar](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en), 
 🏆 [2 Up to Us National Honor Badges](https://www.credly.com/users/shawna-tuli/badges)
 
 <!--
