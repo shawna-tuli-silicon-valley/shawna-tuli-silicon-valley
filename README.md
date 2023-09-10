@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+♡
+
 <!--
 **shawna-tuli-silicon-valley/shawna-tuli-silicon-valley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
