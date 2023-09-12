@@ -7,8 +7,6 @@ Highlights: 📉 [Accenture V360 Awards in Innovation nominee for forecasting en
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shawna-tuli-silicon-valley&hide_progress=true) 
 
-[![Shawna's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shawna-tuli-silicon-valley)](https://github.com/shawna-tuli-silicon-valley/github-readme-stats)
-
 <!--
 **shawna-tuli-silicon-valley/shawna-tuli-silicon-valley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
