@@ -53,7 +53,7 @@
 
 • [Harvard Univerity Artificial Intelligence](https://github.com/shawna-tuli-silicon-valley/harvard-ai)
 
-#### GOOGLE_____________________________________________________________________________________________________________________________ 
+#### GOOGLE______________________________________________________________________________________________________________________________ 
 
 • ❤️ Google Advanced Data Analytics [(Certificates)](https://github.com/shawna-tuli-silicon-valley/google-advanced-data-analytics-professional-certificate)
 
