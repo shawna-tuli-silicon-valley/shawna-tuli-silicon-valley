@@ -1,9 +1,9 @@
 ### Hi, I'm Shawna! 👋🏽
 🌁 I'm currently an AI & Advanced Analytics [Associate Manager](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics-2) in Strategy & Consulting at Avanade, the Accenture Microsoft Business Group, in SF, Accenture & UCI ICS Data Science Capstone Lead, Accenture Ventures & Open Innovation West Ambassador, and HBR [Advisor](https://github.com/shawna-tuli-silicon-valley/harvard-business-review-advisory-council). I also [public speak](https://github.com/shawna-tuli-silicon-valley/big-tech-silicon-valley-public-speaking) at and [attend](https://github.com/shawna-tuli-silicon-valley/big-tech-silicon-valley-conferences-and-programs) big tech conferences and programs in Silicon Valley! Xoogler.
 
-🤖 Highlights (click on the emoji for details): 
+🤖 Highlights: 
 
-• [📉](https://github.com/shawna-tuli-silicon-valley/accenture-california-energy-ai-and-predictive-analytics) Accenture V360 Awards in Innovation nominee for forecasting energy usage with AI in California
+• 📉 Accenture V360 Awards in Innovation nominee for forecasting energy usage with AI in California [Repo](https://github.com/shawna-tuli-silicon-valley/accenture-california-energy-ai-and-predictive-analytics)
 
 • [🔬](https://github.com/shawna-tuli-silicon-valley/accenture-california-energy-and-ai-predictive-analytics-2) National Science Foundation white paper + abstract for predicting energy consumption with AI in California
 
