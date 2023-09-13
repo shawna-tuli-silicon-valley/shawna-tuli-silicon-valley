@@ -27,7 +27,7 @@
 
 • 💰 Alpha Kappa Psi Professional Business Fraternity "Most Likely to be a Billionaire" award [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-alpha-kappa-psi-professional-business-fraternity)
 
-• 🏆 2 Up to Us national honor badges [(Repo)](https://www.credly.com/users/shawna-tuli/badges)
+• 🏆 2 Up to Us national honor badges [(Credly)](https://www.credly.com/users/shawna-tuli/badges)
 
 • 📈 12.11% year-to-date return on an $100,000 portfolio [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-merage-investment-management)
 
