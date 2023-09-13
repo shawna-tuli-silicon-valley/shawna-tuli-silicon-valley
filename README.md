@@ -1,7 +1,7 @@
 ## Hi, I'm Shawna! 👋🏽
 🌁 I'm currently an AI & Advanced Analytics [Associate Manager](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics-2) in Strategy & Consulting at Avanade, the Accenture Microsoft Business Group, in SF, Accenture & UCI ICS Data Science Capstone Lead, Accenture Ventures & Open Innovation West Ambassador, and HBR [Advisor](https://github.com/shawna-tuli-silicon-valley/harvard-business-review-advisory-council). I also [public speak](https://github.com/shawna-tuli-silicon-valley/big-tech-silicon-valley-public-speaking) at and [attend](https://github.com/shawna-tuli-silicon-valley/big-tech-silicon-valley-conferences-and-programs) big tech conferences and programs in Silicon Valley! Xoogler.
 
-#### Highlights 🤖
+#### Highlights
 
 • 📉 Accenture V360 Awards in Innovation nominee for forecasting energy usage with AI in California [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-california-energy-ai-and-predictive-analytics)
 
@@ -11,11 +11,11 @@
 
 • 🔎 Accenture V360 Awards in Innovation nominee for predicting risk of type 2 diabetes with AI in California [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-california-type-2-diabetes-ai-and-predictive-analytics)
 
-• 🎯 AI & Advanced Analytics Consultant in Strategy & Consulting at Avanade, the Accenture Microsoft Business Group, in San Francisco [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics)
+• 🤖 AI & Advanced Analytics Consultant in Strategy & Consulting at Avanade, the Accenture Microsoft Business Group, in San Francisco [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics)
 
 • 📊 12 Penn Medicine, University of Pennsylvania Health System Radiation Oncology white papers + abstracts [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-penn-medicine-global-radiation-oncology-analytics) 
 
-• 📖 [Google Scholar](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en)
+• 🎯 Google Scholar [(Profile)](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en)
 
 • 🖼️ Avanade Top 5 in Innovation award for creating an Azure AI product via computer vision [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-irvine-ai-product)
  
