@@ -33,9 +33,9 @@
 
 • 🥇 Olympics Games bayesian data analysis [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-olympic-games-bayesian-data-analysis)
 
-• 💋 Kys iOS app - built in 24 hours at USC's AthenaHacks hackathon [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-kys-ios-app)
+• 💋 Kys iOS app - built in 24 hours at USC's Viterbi School of Engineering AthenaHacks hackathon [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-kys-ios-app)
 
-• 💯 Exceed Android app [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-exceed-android-app)
+• 💯 Exceed Android app - UCI ICS Butterworth Product Development Competition (Software) Finalist [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-exceed-android-app)
 
 • 📲 Yaksee interactive broadcasting app - SiliconValley.com mention [(Repo)](https://github.com/shawna-tuli-silicon-valley/lghs-yaksee-interactive-broadcasting-app)
 
