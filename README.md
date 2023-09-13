@@ -29,29 +29,31 @@
 
 • 🏆 2 Up to Us national honor badges [(Credly)](https://www.credly.com/users/shawna-tuli/badges)
 
-• 📈 12.11% year-to-date return on an $100,000 portfolio [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-merage-investment-management)
+• 📈 12.11% year-to-date return on an $100,000 portfolio from CFA Society Orange County [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-merage-investment-management)
 
 • 🥇 Olympics Games bayesian data analysis [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-olympic-games-bayesian-data-analysis)
 
 • 💋 Kys iOS app - built in 24 hours at USC's Viterbi School of Engineering AthenaHacks hackathon [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-kys-ios-app)
 
-• 💯 Exceed Android app - UCI ICS Butterworth Product Development Competition (Software) Finalist [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-exceed-android-app)
+• 💯 Exceed Android app - UCI ICS Butterworth Product Development Competition (Software) Finalist award [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-exceed-android-app)
+
+• 💳 Eidebtic Vault web app - built in 24 hours at Capital One's Santa Monica hackathon [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-merage-ics-eidebtic-vault-web-app) 
 
 • 📲 Yaksee interactive broadcasting app - SiliconValley.com mention [(Repo)](https://github.com/shawna-tuli-silicon-valley/lghs-yaksee-interactive-broadcasting-app)
 
-• 💳 Eidebtic Vault web app - built in 24 hours at Capital One's Santa Monica hackathon [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-merage-ics-eidebtic-vault-web-app)  
-
 #### EDUCATION__________________________________________________________________________________________________________________________
 
-• [Kellogg Education Education in Leading with Analytics and Artificial Intelligence](https://execedcertificate.kellogg.northwestern.edu/308a9e71-d504-4194-9c74-22667c48e450#gs.utv39r)
+• Kellogg Education Education in Leading with Analytics and Artificial Intelligence [(Certificate)](https://execedcertificate.kellogg.northwestern.edu/308a9e71-d504-4194-9c74-22667c48e450#gs.utv39r)
 
-• [Stanford University Machine Learning](https://www.coursera.org/account/accomplishments/verify/47XPJRBC4F5C)
+• Stanford University Machine Learning [(Certificate)](https://www.coursera.org/account/accomplishments/verify/47XPJRBC4F5C)
 
-• [University of California, Irvine Donald Bren School of Information and Computer Sciences Bachelor of Science in Data Science](https://github.com/shawna-tuli-silicon-valley/uci-ics-data-science),  [Stanford University Computer Science](https://github.com/shawna-tuli-silicon-valley/stanford-engineering-computer-science)
+• University of California, Irvine Donald Bren School of Information and Computer Sciences in Data Science [Bachelor of Science](https://github.com/shawna-tuli-silicon-valley/uci-ics-data-science)
 
-• [Bloomberg Market Concepts (BMC)](https://github.com/shawna-tuli-silicon-valley/bloomberg-market-concepts-certificate)
+• Stanford University Computer Science [(Certificate)](https://github.com/shawna-tuli-silicon-valley/stanford-engineering-computer-science)
 
-• [Harvard Univerity Artificial Intelligence](https://github.com/shawna-tuli-silicon-valley/harvard-ai)
+• Bloomberg Market Concepts (BMC) [(Certificate)](https://github.com/shawna-tuli-silicon-valley/bloomberg-market-concepts-certificate)
+
+• Harvard Univerity Artificial Intelligence [(Courses)](https://github.com/shawna-tuli-silicon-valley/harvard-ai)
 
 #### GOOGLE______________________________________________________________________________________________________________________________ 
 
