@@ -1,5 +1,5 @@
 ### Hi, I'm Shawna! 👋🏽
-🌁 I'm currently an AI & Advanced Analytics [Associate Manager](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics-2) in Strategy & Consulting at Avanade, the Accenture Microsoft Business Group, in San Francisco, Accenture & UCI ICS Data Science Capstone Lead, Accenture Ventures & Open Innovation West Ambassador, and HBR [Advisor](https://github.com/shawna-tuli-silicon-valley/harvard-business-review-advisory-council). I also [public speak](https://github.com/shawna-tuli-silicon-valley/big-tech-silicon-valley-public-speaking) at and [attend](https://github.com/shawna-tuli-silicon-valley/big-tech-silicon-valley-conferences-and-programs) big tech conferences and programs in Silicon Valley! Xoogler.
+🌁 I'm currently an AI & Advanced Analytics [Associate Manager in Strategy & Consulting](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics-2) at Avanade, the Accenture Microsoft Business Group, in San Francisco, Accenture & UCI ICS Data Science Capstone Lead, Accenture Ventures & Open Innovation West Ambassador, and [HBR Advisor](https://github.com/shawna-tuli-silicon-valley/harvard-business-review-advisory-council). I also [public speak](https://github.com/shawna-tuli-silicon-valley/big-tech-silicon-valley-public-speaking) at and [attend](https://github.com/shawna-tuli-silicon-valley/big-tech-silicon-valley-conferences-and-programs) big tech conferences and programs in Silicon Valley! Xoogler.
 
 #### HIGHLIGHTS_________________________________________________________________________________________________________________________
 
@@ -47,7 +47,7 @@
 
 • Stanford University Machine Learning [(Certificate)](https://www.coursera.org/account/accomplishments/verify/47XPJRBC4F5C)
 
-• University of California, Irvine Donald Bren School of Information and Computer Sciences in Data Science [Bachelor of Science](https://github.com/shawna-tuli-silicon-valley/uci-ics-data-science)
+• University of California, Irvine Donald Bren School of Information and Computer Sciences in Data Science [(Bachelor of Science)](https://github.com/shawna-tuli-silicon-valley/uci-ics-data-science)
 
 • Stanford University Computer Science [(Certificate)](https://github.com/shawna-tuli-silicon-valley/stanford-engineering-computer-science)
 
