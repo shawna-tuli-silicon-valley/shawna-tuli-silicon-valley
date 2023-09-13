@@ -17,19 +17,29 @@
 
 • 📖 [Google Scholar](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en)
 
-• 🖼️ Avanade Top 5 in Innovation award for creating an Azure AI product via computer vision ([Repo])(https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-irvine-ai-product)
+• 🖼️ Avanade Top 5 in Innovation award for creating an Azure AI product via computer vision [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-irvine-ai-product)
  
-• 💡 Forbes Under 30 Scholar in Innovation award ([Repo])(https://github.com/shawna-tuli-silicon-valley/forbes-under-30-scholar-innovation)
+• 💡 Forbes Under 30 Scholar in Innovation award [(Repo)](https://github.com/shawna-tuli-silicon-valley/forbes-under-30-scholar-innovation)
 
-• 📷 "Google Photos suggesting ‘Best of 2018’ photo book as Google News recaps ‘Year in News’" ([Repo])(https://9to5google.com/2018/12/28/google-photos-news-2018-recap/)
+• 📷 "Google Photos suggesting ‘Best of 2018’ photo book as Google News recaps ‘Year in News’" [(Repo)](https://9to5google.com/2018/12/28/google-photos-news-2018-recap/)
 
-• 🚀 Data Scientist at UCI Beall Applied Innovation ([Repo])(https://github.com/shawna-tuli-silicon-valley/uci-beall-applied-innovation-product-analytics-data-science)
+• 🚀 Data Scientist at UCI Beall Applied Innovation [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-beall-applied-innovation-product-analytics-data-science)
 
-• 💰 Alpha Kappa Psi Professional Business Fraternity "Most Likely to be a Billionaire" award ([Repo])(https://github.com/shawna-tuli-silicon-valley/uci-alpha-kappa-psi-professional-business-fraternity)
+• 💰 Alpha Kappa Psi Professional Business Fraternity "Most Likely to be a Billionaire" award [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-alpha-kappa-psi-professional-business-fraternity)
 
-• 🏆 2 Up to Us national honor badges ([Repo])(https://www.credly.com/users/shawna-tuli/badges)
+• 🏆 2 Up to Us national honor badges [(Repo)](https://www.credly.com/users/shawna-tuli/badges)
 
-• 📈 [12.11% year-to-date return on an $100,000 portfolio](https://github.com/shawna-tuli-silicon-valley/uci-merage-investment-management), 🥇 [Olympics Games bayesian data analysis](https://github.com/shawna-tuli-silicon-valley/uci-ics-olympic-games-bayesian-data-analysis), 💋 [Kys iOS app](https://github.com/shawna-tuli-silicon-valley/uci-ics-kys-ios-app), 💯 [Exceed Android app](https://github.com/shawna-tuli-silicon-valley/uci-ics-exceed-android-app), 📲 [Yaksee interactive broadcasting app](https://github.com/shawna-tuli-silicon-valley/lghs-yaksee-interactive-broadcasting-app), 💳 [Capital One Eidebtic Vault web app](https://github.com/shawna-tuli-silicon-valley/uci-merage-ics-eidebtic-vault-web-app)  
+• 📈 12.11% year-to-date return on an $100,000 portfolio [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-merage-investment-management)
+
+• 🥇 Olympics Games bayesian data analysis [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-olympic-games-bayesian-data-analysis)
+
+• 💋 Kys iOS app [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-kys-ios-app)
+
+• 💯 Exceed Android app [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-exceed-android-app)
+
+• 📲 Yaksee interactive broadcasting app [(Repo)](https://github.com/shawna-tuli-silicon-valley/lghs-yaksee-interactive-broadcasting-app)
+
+• 💳 Capital One Eidebtic Vault web app [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-merage-ics-eidebtic-vault-web-app)  
 
 🎓 Education: [Kellogg Education Education in Leading with Analytics and Artificial Intelligence](https://execedcertificate.kellogg.northwestern.edu/308a9e71-d504-4194-9c74-22667c48e450#gs.utv39r), [Stanford University Machine Learning](https://www.coursera.org/account/accomplishments/verify/47XPJRBC4F5C), [University of California, Irvine Donald Bren School of Information and Computer Sciences Bachelor of Science in Data Science](https://github.com/shawna-tuli-silicon-valley/uci-ics-data-science),  [Stanford University Computer Science](https://github.com/shawna-tuli-silicon-valley/stanford-engineering-computer-science), [Bloomberg Market Concepts (BMC)](https://github.com/shawna-tuli-silicon-valley/bloomberg-market-concepts-certificate), [Harvard Univerity Artificial Intelligence](https://github.com/shawna-tuli-silicon-valley/harvard-ai)
 
