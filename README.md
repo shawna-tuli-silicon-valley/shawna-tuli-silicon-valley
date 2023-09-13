@@ -5,9 +5,9 @@
 
 • 📉 Accenture V360 Awards in Innovation nominee for forecasting energy usage with AI in California [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-california-energy-ai-and-predictive-analytics)
 
-• [🔬](https://github.com/shawna-tuli-silicon-valley/accenture-california-energy-and-ai-predictive-analytics-2) National Science Foundation white paper + abstract for predicting energy consumption with AI in California
+• 🔬 National Science Foundation white paper + abstract for predicting energy consumption with AI in California [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-california-energy-and-ai-predictive-analytics-2)
 
-• [☁️](https://www.cnbc.com/2023/04/25/googles-cloud-business-turns-profitable-for-the-first-time-on-record.html) "Google’s cloud business turns profitable for the first time on record"
+• ☁️ "Google’s cloud business turns profitable for the first time on record" [(Repo)](https://www.cnbc.com/2023/04/25/googles-cloud-business-turns-profitable-for-the-first-time-on-record.html)
 
 • [🔎](https://github.com/shawna-tuli-silicon-valley/accenture-california-type-2-diabetes-ai-and-predictive-analytics) Accenture V360 Awards in Innovation nominee for predicting risk of type 2 diabetes with AI in California
 
