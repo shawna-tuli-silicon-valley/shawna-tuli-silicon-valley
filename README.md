@@ -3,7 +3,9 @@
 
 🤖 Highlights (click on the emoji for details): 
 
-• [📉](https://github.com/shawna-tuli-silicon-valley/accenture-california-energy-ai-and-predictive-analytics) [Accenture V360 Awards in Innovation nominee for forecasting energy usage with AI in California]([National Science Foundation white paper + abstract](https://github.com/shawna-tuli-silicon-valley/accenture-california-energy-and-ai-predictive-analytics-2)) 
+• [📉](https://github.com/shawna-tuli-silicon-valley/accenture-california-energy-ai-and-predictive-analytics) Accenture V360 Awards in Innovation nominee for forecasting energy usage with AI in California
+
+• [ ](https://github.com/shawna-tuli-silicon-valley/accenture-california-energy-and-ai-predictive-analytics-2) National Science Foundation white paper + abstract
 
 • [☁️](https://www.cnbc.com/2023/04/25/googles-cloud-business-turns-profitable-for-the-first-time-on-record.html) "Google’s cloud business turns profitable for the first time on record"
 
