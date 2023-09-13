@@ -13,15 +13,15 @@
 
 • [🎯](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics) AI & Advanced Analytics Consultant in Strategy & Consulting at Avanade, the Accenture Microsoft Business Group, in SF
 
-• 📊 [12 Penn Medicine, University of Pennsylvania Health System Radiation Oncology white papers + abstracts](https://github.com/shawna-tuli-silicon-valley/uci-ics-penn-medicine-global-radiation-oncology-analytics) ([Google Scholar](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en))
+• [📊] [12 Penn Medicine, University of Pennsylvania Health System Radiation Oncology white papers + abstracts](https://github.com/shawna-tuli-silicon-valley/uci-ics-penn-medicine-global-radiation-oncology-analytics) ([Google Scholar](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en))
 
-• 🖼️ [Avanade Top 5 in Innovation award for creating an Azure AI product via computer vision](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-irvine-ai-product)
+• [🖼️](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-irvine-ai-product) Avanade Top 5 in Innovation award for creating an Azure AI product via computer vision
 
-• 💡 [Forbes Under 30 Scholar in Innovation award](https://github.com/shawna-tuli-silicon-valley/forbes-under-30-scholar-innovation)
+• [💡](https://github.com/shawna-tuli-silicon-valley/forbes-under-30-scholar-innovation) Forbes Under 30 Scholar in Innovation award
 
-• 📷 ["Google Photos suggesting ‘Best of 2018’ photo book as Google News recaps ‘Year in News’"](https://9to5google.com/2018/12/28/google-photos-news-2018-recap/)
+• [📷](https://9to5google.com/2018/12/28/google-photos-news-2018-recap/) "Google Photos suggesting ‘Best of 2018’ photo book as Google News recaps ‘Year in News’"
 
-• 🚀 [Data Scientist at UCI Beall Applied Innovation](https://github.com/shawna-tuli-silicon-valley/uci-beall-applied-innovation-product-analytics-data-science)
+• [🚀](https://github.com/shawna-tuli-silicon-valley/uci-beall-applied-innovation-product-analytics-data-science) Data Scientist at UCI Beall Applied Innovation
 
 • [💰](https://github.com/shawna-tuli-silicon-valley/uci-alpha-kappa-psi-professional-business-fraternity) Alpha Kappa Psi Professional Business Fraternity "Most Likely to be a Billionaire" award
 
