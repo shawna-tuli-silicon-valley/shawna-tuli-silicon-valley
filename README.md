@@ -1,5 +1,5 @@
 ### Hi, I'm Shawna! 👋🏽
-🌁 I'm currently an AI & Advanced Analytics [Associate Manager](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics-2) in Strategy & Consulting at Avanade, the Accenture Microsoft Business Group, in SF, Accenture & UCI ICS Data Science Capstone Lead, Accenture Ventures & Open Innovation West Ambassador, and HBR [Advisor](https://github.com/shawna-tuli-silicon-valley/harvard-business-review-advisory-council). I also [public speak](https://github.com/shawna-tuli-silicon-valley/big-tech-silicon-valley-public-speaking) at and [attend](https://github.com/shawna-tuli-silicon-valley/big-tech-silicon-valley-conferences-and-programs) big tech conferences and programs in Silicon Valley! Xoogler.
+🌁 I'm currently an AI & Advanced Analytics [Associate Manager](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics-2) in Strategy & Consulting at Avanade, the Accenture Microsoft Business Group, in San Francisco, Accenture & UCI ICS Data Science Capstone Lead, Accenture Ventures & Open Innovation West Ambassador, and HBR [Advisor](https://github.com/shawna-tuli-silicon-valley/harvard-business-review-advisory-council). I also [public speak](https://github.com/shawna-tuli-silicon-valley/big-tech-silicon-valley-public-speaking) at and [attend](https://github.com/shawna-tuli-silicon-valley/big-tech-silicon-valley-conferences-and-programs) big tech conferences and programs! Xoogler.
 
 #### HIGHLIGHTS_________________________________________________________________________________________________________________________
 
@@ -33,11 +33,11 @@
 
 • 🥇 Olympics Games bayesian data analysis [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-olympic-games-bayesian-data-analysis)
 
-• 💋 Kys iOS app [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-kys-ios-app)
+• 💋 Kys iOS app in 24 hours [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-kys-ios-app)
 
 • 💯 Exceed Android app [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-exceed-android-app)
 
-• 📲 Yaksee interactive broadcasting app [(Repo)](https://github.com/shawna-tuli-silicon-valley/lghs-yaksee-interactive-broadcasting-app)
+• 📲 SiliconValley.com mention for Yaksee interactive broadcasting app [(Repo)](https://github.com/shawna-tuli-silicon-valley/lghs-yaksee-interactive-broadcasting-app)
 
 • 💳 Capital One Eidebtic Vault web app [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-merage-ics-eidebtic-vault-web-app)  
 
