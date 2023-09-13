@@ -41,7 +41,7 @@
 
 • 💳 Eidebtic Vault web app - built in 24 hours at Capital One's Santa Monica hackathon [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-merage-ics-eidebtic-vault-web-app)  
 
-#### EDUCATION_______________________________________________________________________________________________________________________________
+#### EDUCATION__________________________________________________________________________________________________________________________
 
 • [Kellogg Education Education in Leading with Analytics and Artificial Intelligence](https://execedcertificate.kellogg.northwestern.edu/308a9e71-d504-4194-9c74-22667c48e450#gs.utv39r)
 
@@ -53,7 +53,7 @@
 
 • [Harvard Univerity Artificial Intelligence](https://github.com/shawna-tuli-silicon-valley/harvard-ai)
 
-#### GOOGLE__________________________________________________________________________________________________________________________________ 
+#### GOOGLE_____________________________________________________________________________________________________________________________ 
 
 • ❤️ Google Advanced Data Analytics [(Certificates)](https://github.com/shawna-tuli-silicon-valley/google-advanced-data-analytics-professional-certificate)
 
@@ -65,9 +65,9 @@
 
 • 🤍 Google Cloud Generative Artificial Intelligence [(Certificates)](https://github.com/shawna-tuli-silicon-valley/google-cloud-generative-ai/tree/main)
 
-💘 OOO, I am [in my gym](https://github.com/shawna-tuli-silicon-valley/gym), [dancing](https://github.com/shawna-tuli-silicon-valley/dance), [boxing](https://github.com/shawna-tuli-silicon-valley/box), [oil painting](https://github.com/shawna-tuli-silicon-valley/oil-painting), [reading](https://github.com/shawna-tuli-silicon-valley/strategy-and-management-books), [studying](https://github.com/shawna-tuli-silicon-valley/google-cloud-generative-ai), [shopping](https://github.com/shawna-tuli-silicon-valley/shopping), and [at music festivals](https://github.com/shawna-tuli-silicon-valley/uci-alpha-kappa-psi-professional-business-fraternity-music-festivals) and [concerts](https://github.com/shawna-tuli-silicon-valley/concerts/tree/main). I enjoy healthy cooking, playing tennis and badminton, beaches, interior design, and watching TV shows and movies on Netflix and Prime. 
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shawna-tuli-silicon-valley&hide_progress=true) 
+
+💘 OOO, I am [in my gym](https://github.com/shawna-tuli-silicon-valley/gym), [dancing](https://github.com/shawna-tuli-silicon-valley/dance), [boxing](https://github.com/shawna-tuli-silicon-valley/box), [oil painting](https://github.com/shawna-tuli-silicon-valley/oil-painting), [reading](https://github.com/shawna-tuli-silicon-valley/strategy-and-management-books), [studying](https://github.com/shawna-tuli-silicon-valley/google-cloud-generative-ai), [shopping](https://github.com/shawna-tuli-silicon-valley/shopping), and [at music festivals](https://github.com/shawna-tuli-silicon-valley/uci-alpha-kappa-psi-professional-business-fraternity-music-festivals) and [concerts](https://github.com/shawna-tuli-silicon-valley/concerts/tree/main). I enjoy healthy cooking, playing tennis and badminton, beaches, interior design, and watching TV shows and movies on Netflix and Prime. 
 
 <!--
 **shawna-tuli-silicon-valley/shawna-tuli-silicon-valley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
