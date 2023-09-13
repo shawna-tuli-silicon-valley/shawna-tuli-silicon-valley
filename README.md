@@ -9,9 +9,9 @@
 
 • [☁️](https://www.cnbc.com/2023/04/25/googles-cloud-business-turns-profitable-for-the-first-time-on-record.html) "Google’s cloud business turns profitable for the first time on record"
 
-• 🔎 [Accenture V360 Awards in Innovation nominee for predicting risk of type 2 diabetes with AI in California](https://github.com/shawna-tuli-silicon-valley/accenture-california-type-2-diabetes-ai-and-predictive-analytics)
+• [🔎](https://github.com/shawna-tuli-silicon-valley/accenture-california-type-2-diabetes-ai-and-predictive-analytics) Accenture V360 Awards in Innovation nominee for predicting risk of type 2 diabetes with AI in California
 
-• 🎯 [AI & Advanced Analytics Consultant in Strategy & Consulting at Avanade, the Accenture Microsoft Business Group, in SF](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics)
+• [🎯](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics) AI & Advanced Analytics Consultant in Strategy & Consulting at Avanade, the Accenture Microsoft Business Group, in SF
 
 • 📊 [12 Penn Medicine, University of Pennsylvania Health System Radiation Oncology white papers + abstracts](https://github.com/shawna-tuli-silicon-valley/uci-ics-penn-medicine-global-radiation-oncology-analytics) ([Google Scholar](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en))
 
