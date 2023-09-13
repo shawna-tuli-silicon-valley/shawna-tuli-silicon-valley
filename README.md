@@ -3,7 +3,7 @@
 
 🤖 Highlights: 
 
-• 📉 Accenture V360 Awards in Innovation nominee for forecasting energy usage with AI in California [Repo](https://github.com/shawna-tuli-silicon-valley/accenture-california-energy-ai-and-predictive-analytics)
+• 📉 Accenture V360 Awards in Innovation nominee for forecasting energy usage with AI in California [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-california-energy-ai-and-predictive-analytics)
 
 • [🔬](https://github.com/shawna-tuli-silicon-valley/accenture-california-energy-and-ai-predictive-analytics-2) National Science Foundation white paper + abstract for predicting energy consumption with AI in California
 
