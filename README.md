@@ -13,19 +13,21 @@
 
 • 🎯 AI & Advanced Analytics Consultant in Strategy & Consulting at Avanade, the Accenture Microsoft Business Group, in San Francisco [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics)
 
-• 📊 12 Penn Medicine, University of Pennsylvania Health System Radiation Oncology white papers + abstracts [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-penn-medicine-global-radiation-oncology-analytics) ([Google Scholar](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en))
+• 📊 12 Penn Medicine, University of Pennsylvania Health System Radiation Oncology white papers + abstracts [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-penn-medicine-global-radiation-oncology-analytics) 
 
-• [🖼️](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-irvine-ai-product) Avanade Top 5 in Innovation award for creating an Azure AI product via computer vision
+• 📖 [Google Scholar](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en)
 
-• [💡](https://github.com/shawna-tuli-silicon-valley/forbes-under-30-scholar-innovation) Forbes Under 30 Scholar in Innovation award
+• 🖼️ Avanade Top 5 in Innovation award for creating an Azure AI product via computer vision ([Repo])(https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-irvine-ai-product)
+ 
+• 💡 Forbes Under 30 Scholar in Innovation award ([Repo])(https://github.com/shawna-tuli-silicon-valley/forbes-under-30-scholar-innovation)
 
-• [📷](https://9to5google.com/2018/12/28/google-photos-news-2018-recap/) "Google Photos suggesting ‘Best of 2018’ photo book as Google News recaps ‘Year in News’"
+• 📷 "Google Photos suggesting ‘Best of 2018’ photo book as Google News recaps ‘Year in News’" ([Repo])(https://9to5google.com/2018/12/28/google-photos-news-2018-recap/)
 
-• [🚀](https://github.com/shawna-tuli-silicon-valley/uci-beall-applied-innovation-product-analytics-data-science) Data Scientist at UCI Beall Applied Innovation
+• 🚀 Data Scientist at UCI Beall Applied Innovation ([Repo])(https://github.com/shawna-tuli-silicon-valley/uci-beall-applied-innovation-product-analytics-data-science)
 
-• [💰](https://github.com/shawna-tuli-silicon-valley/uci-alpha-kappa-psi-professional-business-fraternity) Alpha Kappa Psi Professional Business Fraternity "Most Likely to be a Billionaire" award
+• 💰 Alpha Kappa Psi Professional Business Fraternity "Most Likely to be a Billionaire" award ([Repo])(https://github.com/shawna-tuli-silicon-valley/uci-alpha-kappa-psi-professional-business-fraternity)
 
-• [🏆](https://www.credly.com/users/shawna-tuli/badges) 2 Up to Us national honor badges
+• 🏆 2 Up to Us national honor badges ([Repo])(https://www.credly.com/users/shawna-tuli/badges)
 
 • 📈 [12.11% year-to-date return on an $100,000 portfolio](https://github.com/shawna-tuli-silicon-valley/uci-merage-investment-management), 🥇 [Olympics Games bayesian data analysis](https://github.com/shawna-tuli-silicon-valley/uci-ics-olympic-games-bayesian-data-analysis), 💋 [Kys iOS app](https://github.com/shawna-tuli-silicon-valley/uci-ics-kys-ios-app), 💯 [Exceed Android app](https://github.com/shawna-tuli-silicon-valley/uci-ics-exceed-android-app), 📲 [Yaksee interactive broadcasting app](https://github.com/shawna-tuli-silicon-valley/lghs-yaksee-interactive-broadcasting-app), 💳 [Capital One Eidebtic Vault web app](https://github.com/shawna-tuli-silicon-valley/uci-merage-ics-eidebtic-vault-web-app)  
 
