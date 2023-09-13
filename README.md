@@ -33,15 +33,15 @@
 
 • 🥇 Olympics Games bayesian data analysis [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-olympic-games-bayesian-data-analysis)
 
-• 💋 Kys iOS app in 24 hours [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-kys-ios-app)
+• 💋 Kys iOS app - built in 24 hours at USC's AthenaHacks hackathon [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-kys-ios-app)
 
 • 💯 Exceed Android app [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-exceed-android-app)
 
-• 📲 SiliconValley.com mention for Yaksee interactive broadcasting app [(Repo)](https://github.com/shawna-tuli-silicon-valley/lghs-yaksee-interactive-broadcasting-app)
+• 📲 Yaksee interactive broadcasting app - SiliconValley.com mention [(Repo)](https://github.com/shawna-tuli-silicon-valley/lghs-yaksee-interactive-broadcasting-app)
 
-• 💳 Capital One Eidebtic Vault web app [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-merage-ics-eidebtic-vault-web-app)  
+• 💳 Eidebtic Vault web app - built in 24 hours at Capital One's Santa Monica hackathon [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-merage-ics-eidebtic-vault-web-app)  
 
-#### EDUCATION 🎓
+#### EDUCATION_______________________________________________________________________________________________________________________________
 
 • [Kellogg Education Education in Leading with Analytics and Artificial Intelligence](https://execedcertificate.kellogg.northwestern.edu/308a9e71-d504-4194-9c74-22667c48e450#gs.utv39r)
 
@@ -53,7 +53,7 @@
 
 • [Harvard Univerity Artificial Intelligence](https://github.com/shawna-tuli-silicon-valley/harvard-ai)
 
-#### GOOGLE____________________________________________________________________________________________________________________________________________ 
+#### GOOGLE__________________________________________________________________________________________________________________________________ 
 
 • ❤️ Google Advanced Data Analytics [(Certificates)](https://github.com/shawna-tuli-silicon-valley/google-advanced-data-analytics-professional-certificate)
 
