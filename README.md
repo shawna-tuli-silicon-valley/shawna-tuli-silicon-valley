@@ -2,7 +2,7 @@
 🌁 I'm currently an [AI & Advanced Analytics Associate Manager in Strategy & Consulting at Avanade, the Accenture Microsoft Business Group](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics-2), in SF, Accenture & UCI ICS Data Science Capstone Lead, Accenture Ventures & Open Innovation West Ambassador, and [HBR Advisor](https://github.com/shawna-tuli-silicon-valley/harvard-business-review-advisory-council). I also [public speak](https://github.com/shawna-tuli-silicon-valley/big-tech-silicon-valley-public-speaking) at and [attend](https://github.com/shawna-tuli-silicon-valley/big-tech-silicon-valley-conferences-and-programs) big tech conferences and programs in Silicon Valley! Xoogler.
 
 🤖 Highlights (click on the emoji for details: 
-• 📉 [Accenture V360 Awards in Innovation nominee for forecasting energy usage with AI in California](https://github.com/shawna-tuli-silicon-valley/accenture-california-energy-ai-and-predictive-analytics) ([National Science Foundation white paper + abstract](https://github.com/shawna-tuli-silicon-valley/accenture-california-energy-and-ai-predictive-analytics-2)) 
+• [📉](https://github.com/shawna-tuli-silicon-valley/accenture-california-energy-ai-and-predictive-analytics) [Accenture V360 Awards in Innovation nominee for forecasting energy usage with AI in California]([National Science Foundation white paper + abstract](https://github.com/shawna-tuli-silicon-valley/accenture-california-energy-and-ai-predictive-analytics-2)) 
 
 • [☁️](https://www.cnbc.com/2023/04/25/googles-cloud-business-turns-profitable-for-the-first-time-on-record.html) "Google’s cloud business turns profitable for the first time on record"
 
