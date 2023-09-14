@@ -51,7 +51,7 @@ I will complete my Executive Master of Business Administration and will be a Ven
 
 • 💭 AI & Advanced Analytics Senior Analyst in Strategy & Consulting at Avanade in San Francisco [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics)
 
-• 📊 12 Penn Medicine Radiation Oncology papers + abstracts and led 30+ surgeons, doctors, and med students [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-penn-medicine-global-radiation-oncology-analytics) 
+• 📊 12 Penn Medicine Radiation Oncology papers + abstracts and led 30+ surgeons, doctors, and premed and med students [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-penn-medicine-global-radiation-oncology-analytics) 
 
 • 🎯 Google Scholar [(Profile)](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en)
 
