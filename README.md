@@ -6,7 +6,7 @@ I will complete my Executive Master of Business Administration and will be a Ven
 #### EDUCATION__________________________________________________________________________________________________________________________
 * Kellogg Education Education in Leading with Analytics and Artificial Intelligence [(Education Education)](https://execedcertificate.kellogg.northwestern.edu/308a9e71-d504-4194-9c74-22667c48e450#gs.utv39r)
 * Stanford University Machine Learning [(Certificate)](https://www.coursera.org/account/accomplishments/verify/47XPJRBC4F5C)
-* University of California, Irvine Donald Bren School of Information and Computer Sciences in Data Science [(B.S.)](https://github.com/shawna-tuli-silicon-valley/uci-ics-data-science)
+* University of California, Irvine Donald Bren School of Information and Computer Sciences in Data Science [(BS)](https://github.com/shawna-tuli-silicon-valley/uci-ics-data-science)
 * Stanford University Computer Science [(Certificate)](https://github.com/shawna-tuli-silicon-valley/stanford-engineering-computer-science)
 * Harvard Univerity Artificial Intelligence [(Courses)](https://github.com/shawna-tuli-silicon-valley/harvard-ai)
 * Bloomberg Market Concepts (BMC) [(Certificate)](https://github.com/shawna-tuli-silicon-valley/bloomberg-market-concepts-certificate)
