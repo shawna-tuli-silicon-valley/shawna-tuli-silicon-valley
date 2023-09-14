@@ -3,6 +3,32 @@
 
 I will complete my Executive Master of Business Administration and will be a Venture Capitalist and on tech corporate boards. 
 
+#### EDUCATION__________________________________________________________________________________________________________________________
+
+• Kellogg Education Education in Leading with Analytics and Artificial Intelligence [(Certificate)](https://execedcertificate.kellogg.northwestern.edu/308a9e71-d504-4194-9c74-22667c48e450#gs.utv39r)
+
+• Stanford University Machine Learning [(Certificate)](https://www.coursera.org/account/accomplishments/verify/47XPJRBC4F5C)
+
+• University of California, Irvine Donald Bren School of Information and Computer Sciences in Data Science [(Bachelor of Science)](https://github.com/shawna-tuli-silicon-valley/uci-ics-data-science)
+
+• Stanford University Computer Science [(Certificate)](https://github.com/shawna-tuli-silicon-valley/stanford-engineering-computer-science)
+
+• Bloomberg Market Concepts (BMC) [(Certificate)](https://github.com/shawna-tuli-silicon-valley/bloomberg-market-concepts-certificate)
+
+• Harvard Univerity Artificial Intelligence [(Courses)](https://github.com/shawna-tuli-silicon-valley/harvard-ai)
+
+#### GOOGLE______________________________________________________________________________________________________________________________ 
+
+• ❤️ Google Advanced Data Analytics [(Certificates)](https://github.com/shawna-tuli-silicon-valley/google-advanced-data-analytics-professional-certificate)
+
+• 💛 Google Data Analytics [(Certificates)](https://github.com/shawna-tuli-silicon-valley/google-data-analytics-professional-certificate)
+
+• 💚 Google Business Intelligence [(Certificates)](https://github.com/shawna-tuli-silicon-valley/google-business-intelligence-professional-certificate)
+
+• 💙 Google Project Management [(Certificates)](https://github.com/shawna-tuli-silicon-valley/google-project-management-professional-certificate)
+
+• 🤍 Google Cloud Generative Artificial Intelligence [(Certificates)](https://github.com/shawna-tuli-silicon-valley/google-cloud-generative-ai/tree/main)
+
 #### HIGHLIGHTS_________________________________________________________________________________________________________________________
 
 • 📉 Accenture V360 Awards in Innovation nominee for forecasting energy usage with AI in California [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-california-energy-ai-and-predictive-analytics)
@@ -44,32 +70,6 @@ I will complete my Executive Master of Business Administration and will be a Ven
 • 💳 Eidebtic Vault web app - built in 24 hours [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-merage-ics-eidebtic-vault-web-app) 
 
 • 📲 Yaksee interactive broadcasting app - SiliconValley.com mention [(Repo)](https://github.com/shawna-tuli-silicon-valley/lghs-yaksee-interactive-broadcasting-app)
-
-#### EDUCATION__________________________________________________________________________________________________________________________
-
-• Kellogg Education Education in Leading with Analytics and Artificial Intelligence [(Certificate)](https://execedcertificate.kellogg.northwestern.edu/308a9e71-d504-4194-9c74-22667c48e450#gs.utv39r)
-
-• Stanford University Machine Learning [(Certificate)](https://www.coursera.org/account/accomplishments/verify/47XPJRBC4F5C)
-
-• University of California, Irvine Donald Bren School of Information and Computer Sciences in Data Science [(Bachelor of Science)](https://github.com/shawna-tuli-silicon-valley/uci-ics-data-science)
-
-• Stanford University Computer Science [(Certificate)](https://github.com/shawna-tuli-silicon-valley/stanford-engineering-computer-science)
-
-• Bloomberg Market Concepts (BMC) [(Certificate)](https://github.com/shawna-tuli-silicon-valley/bloomberg-market-concepts-certificate)
-
-• Harvard Univerity Artificial Intelligence [(Courses)](https://github.com/shawna-tuli-silicon-valley/harvard-ai)
-
-#### GOOGLE______________________________________________________________________________________________________________________________ 
-
-• ❤️ Google Advanced Data Analytics [(Certificates)](https://github.com/shawna-tuli-silicon-valley/google-advanced-data-analytics-professional-certificate)
-
-• 💛 Google Data Analytics [(Certificates)](https://github.com/shawna-tuli-silicon-valley/google-data-analytics-professional-certificate)
-
-• 💚 Google Business Intelligence [(Certificates)](https://github.com/shawna-tuli-silicon-valley/google-business-intelligence-professional-certificate)
-
-• 💙 Google Project Management [(Certificates)](https://github.com/shawna-tuli-silicon-valley/google-project-management-professional-certificate)
-
-• 🤍 Google Cloud Generative Artificial Intelligence [(Certificates)](https://github.com/shawna-tuli-silicon-valley/google-cloud-generative-ai/tree/main)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shawna-tuli-silicon-valley&hide_progress=true) 
 
