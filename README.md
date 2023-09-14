@@ -17,7 +17,7 @@
 
 • 🎯 Google Scholar [(Profile)](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en)
 
-• 🖼️ Avanade Top 5 in Innovation award for creating an Azure AI product via computer vision [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-irvine-ai-product)
+• 🖼️ Avanade, the Accenture Microsoft Business Group, in Irvine Top 5 in Innovation award for creating an Azure AI product via computer vision [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-irvine-ai-product)
  
 • 💡 Forbes Under 30 Scholar in Innovation award [(Repo)](https://github.com/shawna-tuli-silicon-valley/forbes-under-30-scholar-innovation)
 
