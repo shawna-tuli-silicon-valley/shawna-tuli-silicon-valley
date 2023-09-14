@@ -31,7 +31,7 @@ I will complete my Executive Master of Business Administration and will be a Ven
 
 #### HIGHLIGHTS_________________________________________________________________________________________________________________________
 
-• 📉 Accenture V360 Awards in Innovation nominee for forecasting energy usage with AI in California [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-california-energy-ai-and-predictive-analytics)
+• 📉 Accenture V360 Awards in Innovation nominee for forecasting energy usage with AI in California [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-california-energy-ai-and-predictive-analytics) [(Student Repo)](https://github.com/shawna-tuli-silicon-valley/Energy-Group)
 
 • 🔮 National Science Foundation white paper + abstract for predicting energy consumption with AI in California [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-california-energy-and-ai-predictive-analytics-2)
 
