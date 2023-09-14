@@ -4,30 +4,19 @@
 I will complete my Executive Master of Business Administration and will be a Venture Capitalist and on tech corporate boards. 
 
 #### EDUCATION__________________________________________________________________________________________________________________________
-
-• Kellogg Education Education in Leading with Analytics and Artificial Intelligence [(Education Education)](https://execedcertificate.kellogg.northwestern.edu/308a9e71-d504-4194-9c74-22667c48e450#gs.utv39r)
-
-• Stanford University Machine Learning [(Certificate)](https://www.coursera.org/account/accomplishments/verify/47XPJRBC4F5C)
-
-• University of California, Irvine Donald Bren School of Information and Computer Sciences in Data Science [(Bachelor of Science)](https://github.com/shawna-tuli-silicon-valley/uci-ics-data-science)
-
-• Stanford University Computer Science [(Certificate)](https://github.com/shawna-tuli-silicon-valley/stanford-engineering-computer-science)
-
-• Harvard Univerity Artificial Intelligence [(Courses)](https://github.com/shawna-tuli-silicon-valley/harvard-ai)
-
-• Bloomberg Market Concepts (BMC) [(Certificate)](https://github.com/shawna-tuli-silicon-valley/bloomberg-market-concepts-certificate)
+* Kellogg Education Education in Leading with Analytics and Artificial Intelligence [(Education Education)](https://execedcertificate.kellogg.northwestern.edu/308a9e71-d504-4194-9c74-22667c48e450#gs.utv39r)
+* Stanford University Machine Learning [(Certificate)](https://www.coursera.org/account/accomplishments/verify/47XPJRBC4F5C)
+* University of California, Irvine Donald Bren School of Information and Computer Sciences in Data Science [(Bachelor of Science)](https://github.com/shawna-tuli-silicon-valley/uci-ics-data-science)
+* Stanford University Computer Science [(Certificate)](https://github.com/shawna-tuli-silicon-valley/stanford-engineering-computer-science)
+* Harvard Univerity Artificial Intelligence [(Courses)](https://github.com/shawna-tuli-silicon-valley/harvard-ai)
+* Bloomberg Market Concepts (BMC) [(Certificate)](https://github.com/shawna-tuli-silicon-valley/bloomberg-market-concepts-certificate)
 
 #### GOOGLE______________________________________________________________________________________________________________________________ 
-
-• ❤️ Google Advanced Data Analytics [(Certificates)](https://github.com/shawna-tuli-silicon-valley/google-advanced-data-analytics-professional-certificate)
-
-• 💛 Google Data Analytics [(Certificates)](https://github.com/shawna-tuli-silicon-valley/google-data-analytics-professional-certificate)
-
-• 💚 Google Business Intelligence [(Certificates)](https://github.com/shawna-tuli-silicon-valley/google-business-intelligence-professional-certificate)
-
-• 💙 Google Project Management [(Certificates)](https://github.com/shawna-tuli-silicon-valley/google-project-management-professional-certificate)
-
-• 🤍 Google Cloud Generative Artificial Intelligence [(Certificates)](https://github.com/shawna-tuli-silicon-valley/google-cloud-generative-ai/tree/main)
+* ❤️ Google Advanced Data Analytics [(Certificates)](https://github.com/shawna-tuli-silicon-valley/google-advanced-data-analytics-professional-certificate)
+* 💛 Google Data Analytics [(Certificates)](https://github.com/shawna-tuli-silicon-valley/google-data-analytics-professional-certificate)
+* 💚 Google Business Intelligence [(Certificates)](https://github.com/shawna-tuli-silicon-valley/google-business-intelligence-professional-certificate)
+* 💙 Google Project Management [(Certificates)](https://github.com/shawna-tuli-silicon-valley/google-project-management-professional-certificate)
+* 🤍 Google Cloud Generative Artificial Intelligence [(Certificates)](https://github.com/shawna-tuli-silicon-valley/google-cloud-generative-ai/tree/main)
 
 #### HIGHLIGHTS_________________________________________________________________________________________________________________________
 * 🖥️ Analytics and Modeling Lead 
