@@ -55,7 +55,7 @@ I will complete my Executive Master of Business Administration and will be a Ven
  
 • 💡 Forbes Under 30 Scholar in Innovation award [(Repo)](https://github.com/shawna-tuli-silicon-valley/forbes-under-30-scholar-innovation)
 
-• 📷 Data Scientist at Google Photos "Google Photos suggesting ‘Best of 2018’ photo book as Google News recaps ‘Year in News’" [(Article)](https://9to5google.com/2018/12/28/google-photos-news-2018-recap/)
+• 📷 Data Scientist at Google Photos "... suggesting ‘Best of 2018’ photo book as Google News recaps ‘Year in News’" [(Article)](https://9to5google.com/2018/12/28/google-photos-news-2018-recap/)
 
 • 🚀 Data Scientist at UCI Beall Applied Innovation [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-beall-applied-innovation-product-analytics-data-science)
 
