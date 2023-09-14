@@ -31,6 +31,8 @@ I will complete my Executive Master of Business Administration and will be a Ven
 
 #### HIGHLIGHTS_________________________________________________________________________________________________________________________
 
+• 🧡 Analytics and Modeling Lead 
+
 • 🧡 Data Scientist at Avanade 
 
 • 📢 Software Engineer at The NPD Group
