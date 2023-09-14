@@ -41,9 +41,9 @@ I will complete my Executive Master of Business Administration and will be a Ven
 
 • ☁️ Data Scientist at Google Cloud and led a data engineer [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-sunnyvale-ai-and-data-science-3) [(Article)](https://www.cnbc.com/2023/04/25/googles-cloud-business-turns-profitable-for-the-first-time-on-record.html)
 
-• ▶️ Software Engineer at Google Play [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-mountain-view-devops-advanced-analytics-4)
+• ▶️ Software Engineer at Google Play
 
-• 1️⃣ Software Engineer at Google One [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-mountain-view-product-analytics-data-science-2)
+• 1️⃣ Software Engineer at Google One 
 
 • 🔎 Accenture V360 Awards in Innovation nominee for predicting risk of type 2 diabetes with AI in California [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-california-type-2-diabetes-ai-and-predictive-analytics) [(Student Repo)](https://github.com/shawna-tuli-silicon-valley/STATS170_Project-1)
 
@@ -56,6 +56,8 @@ I will complete my Executive Master of Business Administration and will be a Ven
 • 💜 Data Scientist at Accenture CIO
 
 • ☕ Software Engineer at Starbucks Coffee
+
+• 🔢 Advanced Analytics Lead at Applied Materials and led 2 analysts
 
 • 💭 AI & Advanced Analytics Senior Analyst in Strategy & Consulting at Avanade in San Francisco [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics)
 
