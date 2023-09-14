@@ -29,7 +29,7 @@ I will complete my Executive Master of Business Administration and will be a Ven
 
 • 🤍 Google Cloud Generative Artificial Intelligence [(Certificates)](https://github.com/shawna-tuli-silicon-valley/google-cloud-generative-ai/tree/main)
 
-#### HIGHLIGHTS_________________________________________________________________________________________________________________________
+#### HIGHLIGHTS__________________________________________________________________________________________________________________________
 
 • 🖥️ Analytics and Modeling Lead 
 
