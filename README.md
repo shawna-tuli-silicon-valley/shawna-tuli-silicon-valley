@@ -59,19 +59,19 @@ I will complete my Executive Master of Business Administration and will be a Ven
 
 • 🚀 Data Scientist at UCI Beall Applied Innovation [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-beall-applied-innovation-product-analytics-data-science)
 
-• 💰 Alpha Kappa Psi Professional Business Fraternity "Most Likely to be a Billionaire" award [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-alpha-kappa-psi-professional-business-fraternity)
+• 💰 UCI Alpha Kappa Psi Professional Business Fraternity "Most Likely to be a Billionaire" award [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-alpha-kappa-psi-professional-business-fraternity)
 
 • 🏆 2 Up to Us national honor badges [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-merage-national-debt-marketing-analytics) [(Credly)](https://www.credly.com/users/shawna-tuli/badges)
 
-• 📈 12.11% year-to-date return on an $100,000 portfolio [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-merage-investment-management)
+• 📈 12.11% year-to-date return on an $100,000 portfolio from CFA Society Orange County [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-merage-investment-management)
 
 • 🥇 Olympics Games bayesian data analysis [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-olympic-games-bayesian-data-analysis)
 
-• 💋 Kys iOS app - built in 24 hours [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-kys-ios-app)
+• 💋 Kys iOS app - built in 24 hours at USC Viterbi AthenaHacks hackathon [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-kys-ios-app)
 
 • 💯 Exceed Android app - UCI ICS Butterworth Product Development Competition (Software) Finalist award [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-exceed-android-app)
 
-• 💳 Eidebtic Vault web app - built in 24 hours [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-merage-ics-eidebtic-vault-web-app) 
+• 💳 Eidebtic Vault web app - built in 24 hours at Capital One Santa Monica hackathon [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-merage-ics-eidebtic-vault-web-app) 
 
 • 📲 Yaksee interactive broadcasting app - SiliconValley.com mention [(Repo)](https://github.com/shawna-tuli-silicon-valley/lghs-yaksee-interactive-broadcasting-app)
 
