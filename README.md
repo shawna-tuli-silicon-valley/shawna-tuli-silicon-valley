@@ -63,11 +63,11 @@ I will complete my Executive Master of Business Administration and will be a Ven
 
 • 🚀 Data Scientist at UCI Beall Applied Innovation [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-beall-applied-innovation-product-analytics-data-science)
 
-• 💰 UCI Alpha Kappa Psi Professional Business Fraternity "Most Likely to be a Billionaire" award [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-alpha-kappa-psi-professional-business-fraternity)
+• 💰 UCI Alpha Kappa Psi Professional Business Fraternity "Most Likely to be a Billionaire" award and led 50+ professionals [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-alpha-kappa-psi-professional-business-fraternity)
 
 • 🏆 2 Up to Us national honor badges [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-merage-national-debt-marketing-analytics) [(Credly)](https://www.credly.com/users/shawna-tuli/badges)
 
-• 📈 12.11% year-to-date return on an $100,000 portfolio from CFA Society Orange County [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-merage-investment-management)
+• 📈 12.11% year-to-date return on an $100,000 portfolio from CFA Society Orange County and led 35+ analysts [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-merage-investment-management)
 
 • 🥇 Olympics Games bayesian data analysis [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-olympic-games-bayesian-data-analysis)
 
