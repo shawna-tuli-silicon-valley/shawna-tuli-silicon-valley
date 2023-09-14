@@ -30,10 +30,10 @@ I will complete my Executive Master of Business Administration and will be a Ven
 • 🤍 Google Cloud Generative Artificial Intelligence [(Certificates)](https://github.com/shawna-tuli-silicon-valley/google-cloud-generative-ai/tree/main)
 
 #### HIGHLIGHTS_________________________________________________________________________________________________________________________
-* • 🖥️ Analytics and Modeling Lead 
-* • 🧡 Data Scientist at Avanade 
-* • 📢 Software Engineer at The NPD Group
-* • ✅ Data Scientist at Avanade
+* 🖥️ Analytics and Modeling Lead 
+* 🧡 Data Scientist at Avanade 
+* 📢 Software Engineer at The NPD Group
+* ✅ Data Scientist at Avanade
 
 • 📉 Accenture V360 Awards in Innovation nominee for forecasting energy usage with AI in California [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-california-energy-ai-and-predictive-analytics) [(Student Repo)](https://github.com/shawna-tuli-silicon-valley/EnergyPredictionCA)
 
