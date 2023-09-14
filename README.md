@@ -18,65 +18,38 @@ I will complete my Executive Master of Business Administration and will be a Ven
 * 💙 Google Project Management [(Certificates)](https://github.com/shawna-tuli-silicon-valley/google-project-management-professional-certificate)
 * 🤍 Google Cloud Generative Artificial Intelligence [(Certificates)](https://github.com/shawna-tuli-silicon-valley/google-cloud-generative-ai/tree/main)
 
-#### HIGHLIGHTS_________________________________________________________________________________________________________________________
+#### WORK EXPERIENCE________________________________________________________________________________________________________________
 * 🖥️ Analytics and Modeling Lead 
 * 🧡 Data Scientist at Avanade 
 * 📢 Software Engineer at The NPD Group
 * ✅ Data Scientist at Avanade
-
-• 📉 Accenture V360 Awards in Innovation nominee for forecasting energy usage with AI in California [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-california-energy-ai-and-predictive-analytics) [(Student Repo)](https://github.com/shawna-tuli-silicon-valley/EnergyPredictionCA)
-
-• 🔮 National Science Foundation paper + abstract for predicting energy consumption with AI in California [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-california-energy-and-ai-predictive-analytics-2) (Student Repo)
-
-• ☁️ Data Scientist at Google Cloud and led a data engineer [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-sunnyvale-ai-and-data-science-3) [(Article)](https://www.cnbc.com/2023/04/25/googles-cloud-business-turns-profitable-for-the-first-time-on-record.html)
-
-• ▶️ Software Engineer at Google Play
-
-• 1️⃣ Software Engineer at Google One 
-
-• 🔎 Accenture V360 Awards in Innovation nominee for predicting risk of type 2 diabetes with AI in California [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-california-type-2-diabetes-ai-and-predictive-analytics) [(Student Repo)](https://github.com/shawna-tuli-silicon-valley/STATS170_Project-1)
-
-• 🤖 AI & Advanced Analytics Consultant in Strategy & Consulting at Avanade in San Francisco [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics)
-
-• 🧾 Software Engineer at H&R Block and led a software engineer
-
-• 🖤 Engineering Lead at Bill & Melinda Gates Foundation and led 4 software engineers 
-
-• 💜 Data Scientist at Accenture CIO
-
-• ☕ Software Engineer at Starbucks Coffee
-
-• 🔢 Advanced Analytics Lead at Applied Materials and led 2 analysts
-
-• 💭 AI & Advanced Analytics Senior Analyst in Strategy & Consulting at Avanade in San Francisco [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics)
-
-• 📊 12 Penn Medicine Radiation Oncology papers + abstracts and led 30+ surgeons, doctors, and med students [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-penn-medicine-global-radiation-oncology-analytics) 
-
-• 🎯 Google Scholar [(Profile)](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en)
-
-• 🖼️ Avanade Top 5 in Innovation award for creating an Azure AI product via computer vision [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-irvine-ai-product)
- 
-• 💡 Forbes Under 30 Scholar in Innovation award [(Repo)](https://github.com/shawna-tuli-silicon-valley/forbes-under-30-scholar-innovation)
-
-• 📷 Data Scientist at Google Photos [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-mountain-view-product-analytics-data-science-1) [(Article)](https://9to5google.com/2018/12/28/google-photos-news-2018-recap/)
-
-• 🚀 Data Scientist at UCI Beall Applied Innovation [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-beall-applied-innovation-product-analytics-data-science)
-
-• 💰 UCI Alpha Kappa Psi Professional Business Fraternity "Most Likely to be a Billionaire" award and led 50+ professionals [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-alpha-kappa-psi-professional-business-fraternity)
-
-• 🏆 Co-Founder & Marketing Director at UptoUCI and 2 Up to Us national honor badges [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-merage-national-debt-marketing-analytics) [(Credly)](https://www.credly.com/users/shawna-tuli/badges)
-
-• 📈 12.11% year-to-date return on an $100,000 portfolio from CFA Society Orange County and led 35+ analysts [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-merage-investment-management)
-
-• 🥇 Olympics Games bayesian data analysis [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-olympic-games-bayesian-data-analysis)
-
-• 💋 Kys iOS app - built in 24 hours at USC Viterbi AthenaHacks hackathon [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-kys-ios-app)
-
-• 💯 Exceed Android app - UCI ICS Butterworth Product Development Competition (Software) Finalist award [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-exceed-android-app)
-
-• 💳 Eidebtic Vault web app - built in 24 hours at Capital One Santa Monica hackathon [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-merage-ics-eidebtic-vault-web-app) 
-
-• 📲 Yaksee interactive broadcasting app - SiliconValley.com mention [(Repo)](https://github.com/shawna-tuli-silicon-valley/lghs-yaksee-interactive-broadcasting-app)
+* 📉 Accenture V360 Awards in Innovation nominee for forecasting energy usage with AI in California [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-california-energy-ai-and-predictive-analytics) [(Student Repo)](https://github.com/shawna-tuli-silicon-valley/EnergyPredictionCA)
+* 🔮 National Science Foundation paper + abstract for predicting energy consumption with AI in California [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-california-energy-and-ai-predictive-analytics-2) (Student Repo)
+* ☁️ Data Scientist at Google Cloud and led a data engineer [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-sunnyvale-ai-and-data-science-3) [(Article)](https://www.cnbc.com/2023/04/25/googles-cloud-business-turns-profitable-for-the-first-time-on-record.html)
+* ▶️ Software Engineer at Google Play
+* 1️⃣ Software Engineer at Google One 
+* 🔎 Accenture V360 Awards in Innovation nominee for predicting risk of type 2 diabetes with AI in California [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-california-type-2-diabetes-ai-and-predictive-analytics) [(Student Repo)](https://github.com/shawna-tuli-silicon-valley/STATS170_Project-1)
+* 🤖 AI & Advanced Analytics Consultant in Strategy & Consulting at Avanade in San Francisco [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics)
+* 🧾 Software Engineer at H&R Block and led a software engineer
+* 🖤 Engineering Lead at Bill & Melinda Gates Foundation and led 4 software engineers 
+* 💜 Data Scientist at Accenture CIO
+* ☕ Software Engineer at Starbucks Coffee
+* 🔢 Advanced Analytics Lead at Applied Materials and led 2 analysts
+* 💭 AI & Advanced Analytics Senior Analyst in Strategy & Consulting at Avanade in San Francisco [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics)
+* 📊 12 Penn Medicine Radiation Oncology papers + abstracts and led 30+ surgeons, doctors, and med students [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-penn-medicine-global-radiation-oncology-analytics) 
+* 🎯 Google Scholar [(Profile)](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en)
+* 🖼️ Avanade Top 5 in Innovation award for creating an Azure AI product via computer vision [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-irvine-ai-product)
+* 💡 Forbes Under 30 Scholar in Innovation award [(Repo)](https://github.com/shawna-tuli-silicon-valley/forbes-under-30-scholar-innovation)
+* 📷 Data Scientist at Google Photos [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-mountain-view-product-analytics-data-science-1) [(Article)](https://9to5google.com/2018/12/28/google-photos-news-2018-recap/)
+* 🚀 Data Scientist at UCI Beall Applied Innovation [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-beall-applied-innovation-product-analytics-data-science)
+* 💰 UCI Alpha Kappa Psi Professional Business Fraternity "Most Likely to be a Billionaire" award and led 50+ professionals [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-alpha-kappa-psi-professional-business-fraternity)
+* 🏆 Co-Founder & Marketing Director at UptoUCI and 2 Up to Us national honor badges [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-merage-national-debt-marketing-analytics) [(Credly)](https://www.credly.com/users/shawna-tuli/badges)
+* 📈 12.11% year-to-date return on an $100,000 portfolio from CFA Society Orange County and led 35+ analysts [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-merage-investment-management)
+* 🥇 Olympics Games bayesian data analysis [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-olympic-games-bayesian-data-analysis)
+* 💋 Kys iOS app - built in 24 hours at USC Viterbi AthenaHacks hackathon [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-kys-ios-app)
+* 💯 Exceed Android app - UCI ICS Butterworth Product Development Competition (Software) Finalist award [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-exceed-android-app)
+* 💳 Eidebtic Vault web app - built in 24 hours at Capital One Santa Monica hackathon [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-merage-ics-eidebtic-vault-web-app) 
+* 📲 Yaksee interactive broadcasting app - SiliconValley.com mention [(Repo)](https://github.com/shawna-tuli-silicon-valley/lghs-yaksee-interactive-broadcasting-app)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shawna-tuli-silicon-valley&hide_progress=true) 
 
