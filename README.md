@@ -31,6 +31,8 @@ I will complete my Executive Master of Business Administration and will be a Ven
 
 #### HIGHLIGHTS_________________________________________________________________________________________________________________________
 
+• 🧡 Data Scientist at Avanade 
+
 • 📢 Software Engineer at The NPD Group
 
 • 📉 Accenture V360 Awards in Innovation nominee for forecasting energy usage with AI in California [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-california-energy-ai-and-predictive-analytics) [(Student Repo)](https://github.com/shawna-tuli-silicon-valley/EnergyPredictionCA)
