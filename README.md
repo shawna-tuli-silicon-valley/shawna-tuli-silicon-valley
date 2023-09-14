@@ -37,6 +37,10 @@ I will complete my Executive Master of Business Administration and will be a Ven
 
 • ☁️ "Google’s cloud business turns profitable for the first time on record" [(Article)](https://www.cnbc.com/2023/04/25/googles-cloud-business-turns-profitable-for-the-first-time-on-record.html)
 
+• ▶️ Software Engineer at Google Play (Repo)
+
+• 1️⃣ Software Engineer at Google One (Repo)
+
 • 🔎 Accenture V360 Awards in Innovation nominee for predicting risk of type 2 diabetes with AI in California [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-california-type-2-diabetes-ai-and-predictive-analytics)
 
 • 🤖 AI & Advanced Analytics Consultant in Strategy & Consulting at Avanade in San Francisco [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics)
