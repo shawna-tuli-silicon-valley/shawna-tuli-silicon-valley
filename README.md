@@ -49,6 +49,10 @@ I will complete my Executive Master of Business Administration and will be a Ven
 
 • 🤖 AI & Advanced Analytics Consultant in Strategy & Consulting at Avanade in San Francisco [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics)
 
+• 🧾 Software Engineer at H&R Block and led a software engineer
+
+• 🖤 Engineering Lead at Bill & Melinda Gates Foundation and led 4 software engineers 
+
 • 💜 Data Scientist at Accenture CIO
 
 • ☕ Software Engineer at Starbucks Coffee
