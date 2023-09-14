@@ -11,13 +11,13 @@
 
 • 🔎 Accenture V360 Awards in Innovation nominee for predicting risk of type 2 diabetes with AI in California [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-california-type-2-diabetes-ai-and-predictive-analytics)
 
-• 🤖 AI & Advanced Analytics Consultant in Strategy & Consulting at Avanade, the Accenture Microsoft Business Group, in San Francisco [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics)
+• 🤖 AI & Advanced Analytics Consultant in Strategy & Consulting at Avanade in San Francisco [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics)
 
 • 📊 12 Penn Medicine, University of Pennsylvania Health System Radiation Oncology white papers + abstracts [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-penn-medicine-global-radiation-oncology-analytics) 
 
 • 🎯 Google Scholar [(Profile)](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en)
 
-• 🖼️ Avanade, the Accenture Microsoft Business Group, in Irvine Top 5 in Innovation award for creating an Azure AI product via computer vision [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-irvine-ai-product)
+• 🖼️ Avanade Top 5 in Innovation award for creating an Azure AI product via computer vision [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-irvine-ai-product)
  
 • 💡 Forbes Under 30 Scholar in Innovation award [(Repo)](https://github.com/shawna-tuli-silicon-valley/forbes-under-30-scholar-innovation)
 
