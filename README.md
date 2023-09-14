@@ -35,7 +35,7 @@ I will complete my Executive Master of Business Administration and will be a Ven
 
 • 🔮 National Science Foundation paper + abstract for predicting energy consumption with AI in California [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-california-energy-and-ai-predictive-analytics-2) [(Student Repo)](https://github.com/shawna-tuli-silicon-valley/Energy-Group)
 
-• ☁️ "Google’s cloud business turns profitable for the first time on record" [(Article)](https://www.cnbc.com/2023/04/25/googles-cloud-business-turns-profitable-for-the-first-time-on-record.html)
+• ☁️ Data Scientist at Google Cloud "Google’s cloud business turns profitable for the first time on record" [(Article)](https://www.cnbc.com/2023/04/25/googles-cloud-business-turns-profitable-for-the-first-time-on-record.html)
 
 • ▶️ Software Engineer at Google Play [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-mountain-view-devops-advanced-analytics-4)
 
@@ -55,7 +55,7 @@ I will complete my Executive Master of Business Administration and will be a Ven
  
 • 💡 Forbes Under 30 Scholar in Innovation award [(Repo)](https://github.com/shawna-tuli-silicon-valley/forbes-under-30-scholar-innovation)
 
-• 📷 "Google Photos suggesting ‘Best of 2018’ photo book as Google News recaps ‘Year in News’" [(Article)](https://9to5google.com/2018/12/28/google-photos-news-2018-recap/)
+• 📷 Data Scientist at Google Photos "Google Photos suggesting ‘Best of 2018’ photo book as Google News recaps ‘Year in News’" [(Article)](https://9to5google.com/2018/12/28/google-photos-news-2018-recap/)
 
 • 🚀 Data Scientist at UCI Beall Applied Innovation [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-beall-applied-innovation-product-analytics-data-science)
 
