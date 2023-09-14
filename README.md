@@ -1,5 +1,5 @@
 ### Hi, I'm Shawna! 👋🏽
-🌁 I'm currently an AI & Advanced Analytics [Associate Manager in Strategy & Consulting](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics-2) at Avanade, the Accenture Microsoft Business Group, in San Francisco, Accenture & UCI ICS Data Science Capstone Lead, Accenture Ventures & Open Innovation West Ambassador, and [HBR Advisor](https://github.com/shawna-tuli-silicon-valley/harvard-business-review-advisory-council). I also [public speak](https://github.com/shawna-tuli-silicon-valley/big-tech-silicon-valley-public-speaking) at and [attend](https://github.com/shawna-tuli-silicon-valley/big-tech-silicon-valley-conferences-and-programs) big tech conferences and programs in Silicon Valley! Xoogler. 
+🌁 I'm currently an AI & Advanced Analytics [Associate Manager in Strategy & Consulting](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics-2) at Avanade, the Accenture Microsoft Business Group, in San Francisco, Accenture & UCI ICS Data Science Capstone Lead, Accenture Ventures & Open Innovation West Ambassador, and HBR Advisor. I also public speak at and attend big tech conferences and programs in Silicon Valley! Xoogler. 
 
 I will complete my Executive Master of Business Administration and will be a Venture Capitalist and on tech corporate boards. 
 
@@ -30,14 +30,10 @@ I will complete my Executive Master of Business Administration and will be a Ven
 • 🤍 Google Cloud Generative Artificial Intelligence [(Certificates)](https://github.com/shawna-tuli-silicon-valley/google-cloud-generative-ai/tree/main)
 
 #### HIGHLIGHTS_________________________________________________________________________________________________________________________
-
-• 🖥️ Analytics and Modeling Lead 
-
-• 🧡 Data Scientist at Avanade 
-
-• 📢 Software Engineer at The NPD Group
-
-• ✅ Data Scientist at Avanade
+* • 🖥️ Analytics and Modeling Lead 
+* • 🧡 Data Scientist at Avanade 
+* • 📢 Software Engineer at The NPD Group
+* • ✅ Data Scientist at Avanade
 
 • 📉 Accenture V360 Awards in Innovation nominee for forecasting energy usage with AI in California [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-california-energy-ai-and-predictive-analytics) [(Student Repo)](https://github.com/shawna-tuli-silicon-valley/EnergyPredictionCA)
 
@@ -96,9 +92,6 @@ I will complete my Executive Master of Business Administration and will be a Ven
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shawna-tuli-silicon-valley&hide_progress=true) 
 
 💘 OOO, I am [in my gym](https://github.com/shawna-tuli-silicon-valley/gym), [dancing](https://github.com/shawna-tuli-silicon-valley/dance), [boxing](https://github.com/shawna-tuli-silicon-valley/box), [oil painting](https://github.com/shawna-tuli-silicon-valley/oil-painting), [reading](https://github.com/shawna-tuli-silicon-valley/strategy-and-management-books), [studying](https://github.com/shawna-tuli-silicon-valley/google-cloud-generative-ai), [shopping](https://github.com/shawna-tuli-silicon-valley/shopping), and [at music festivals](https://github.com/shawna-tuli-silicon-valley/uci-alpha-kappa-psi-professional-business-fraternity-music-festivals) and [concerts](https://github.com/shawna-tuli-silicon-valley/concerts/tree/main). I enjoy healthy cooking, playing tennis and badminton, beaches, interior design, and watching TV shows and movies on Netflix and Prime. 
-
-#### TRAVELS_____________________________________________________________________________________________________________________________
-India (New Delhi, Agra), New York City (Manhattan, Liberty Island), London, San Francisco, South Bay Area (Los Gatos, San Jose, Almaden, Saratoga, Mountain View, Los Altos, Los Altos Hills, Cupertino, Stanford, Palo Alto, Menlo Park, Gilroy, Milpitas, Morgan Hill, Santa Clara), North Bay Area (Marin, Napa, Half Moon Bay, Daly City), East Bay Area (Fremont, Hayward), Lake Tahoe, Mammoth Lakes, Carmel-by-the-Sea, Monterey, Santa Barbara, Yosemite National Park, Big Sur, San Diego, Los Angeles (Los Angeles, Bel Air, Malibu, Beverly Hills, Venice, Santa Monica, Marina del Rey, Long Beach, Pomona, Pasadena), Orange County (Newport Beach, Irvine, Tustin, Anaheim, Santa Ana, Laguna Beach, Dana Point, Garden Grove, Laguna Hills), Bloomington, Washington D.C., Baltimore, Pittsburgh, Charleston, Atlanta, Savannah, Orlando, St. Augustine, Charlotte (Charlotte, Waxhaw), Durham, Raleigh, Myrtle Beach, Boone, Lake Lure, Denver
 
 <!--
 **shawna-tuli-silicon-valley/shawna-tuli-silicon-valley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
