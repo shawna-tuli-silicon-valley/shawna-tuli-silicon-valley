@@ -5,7 +5,7 @@ I will complete my Executive Master of Business Administration and will be a Ven
 
 #### EDUCATION__________________________________________________________________________________________________________________________
 
-• Kellogg Education Education in Leading with Analytics and Artificial Intelligence [(Certificate)](https://execedcertificate.kellogg.northwestern.edu/308a9e71-d504-4194-9c74-22667c48e450#gs.utv39r)
+• Kellogg Education Education in Leading with Analytics and Artificial Intelligence [(Education Education)](https://execedcertificate.kellogg.northwestern.edu/308a9e71-d504-4194-9c74-22667c48e450#gs.utv39r)
 
 • Stanford University Machine Learning [(Certificate)](https://www.coursera.org/account/accomplishments/verify/47XPJRBC4F5C)
 
