@@ -10,6 +10,8 @@ I will complete my Master of Business Administration and will be an Executive, V
 * Stanford University Computer Science [(Certificate)](https://github.com/shawna-tuli-silicon-valley/stanford-engineering-computer-science)
 * Harvard Univerity Artificial Intelligence [(Courses)](https://github.com/shawna-tuli-silicon-valley/harvard-ai)
 * Bloomberg Market Concepts (BMC) [(Certificate)](https://github.com/shawna-tuli-silicon-valley/bloomberg-market-concepts-certificate)
+* Los Gatos High School - AP Scholar with Distinction [(Repo)](https://github.com/shawna-tuli-silicon-valley/lghs-advanced-placement)
+* Marvin Ridge High School - Valedictiorian, Interntational Baccaleaurate, and National Speech and Debate Association Degree of Excellence
 
 #### GOOGLE______________________________________________________________________________________________________________________________ 
 * ❤️ Google Advanced Data Analytics [(Certificates)](https://github.com/shawna-tuli-silicon-valley/google-advanced-data-analytics-professional-certificate)
