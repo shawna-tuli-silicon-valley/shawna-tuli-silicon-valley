@@ -10,7 +10,7 @@ I will complete my Master of Business Administration and will be an Executive, V
 * Stanford University Computer Science [(Certificate)](https://github.com/shawna-tuli-silicon-valley/stanford-engineering-computer-science)
 * Harvard Univerity Artificial Intelligence [(Courses)](https://github.com/shawna-tuli-silicon-valley/harvard-ai)
 * Bloomberg Market Concepts (BMC) [(Certificate)](https://github.com/shawna-tuli-silicon-valley/bloomberg-market-concepts-certificate)
-* Los Gatos High School - AP Scholar with Distinction [(Repo)](https://github.com/shawna-tuli-silicon-valley/lghs-advanced-placement)
+* Los Gatos High School - AP Scholar with Distinction, Christine Guenther Brienzo merit scholarship recipient
 * Marvin Ridge High School - *Valedictiorian, IB, and National Speech and Debate Association Degree of Excellence [(Repo)](https://github.com/shawna-tuli-silicon-valley/mrhs-north-carolina-forensic-league-state-championship)
 
 #### GOOGLE______________________________________________________________________________________________________________________________ 
