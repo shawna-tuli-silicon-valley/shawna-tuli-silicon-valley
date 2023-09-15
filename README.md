@@ -18,7 +18,7 @@ I will complete my Executive Master of Business Administration and will be a Ven
 * 💙 Google Project Management [(Certificates)](https://github.com/shawna-tuli-silicon-valley/google-project-management-professional-certificate)
 * 🤍 Google Cloud Generative Artificial Intelligence [(Certificates)](https://github.com/shawna-tuli-silicon-valley/google-cloud-generative-ai/tree/main)
 
-#### WORK EXPERIENCE________________________________________________________________________________________________________________
+#### WORK EXPERIENCE_________________________________________________________________________________________________________________
 * 🖥️ Analytics and Modeling Lead 
 * 🧡 Data Scientist at Avanade 
 * 📢 Software Engineer at The NPD Group
