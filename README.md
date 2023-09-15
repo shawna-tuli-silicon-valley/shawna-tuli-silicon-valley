@@ -1,7 +1,7 @@
 ### Hi, I'm Shawna! 👋🏽
 🌁 I'm currently an AI & Advanced Analytics [Associate Manager in Strategy & Consulting](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics-2) at Avanade, the Accenture Microsoft Business Group, in San Francisco, Accenture & UCI ICS Data Science Capstone Lead, Accenture Ventures & Open Innovation West Ambassador, and HBR Advisor. I also public speak at and attend big tech conferences and programs in Silicon Valley! Xoogler. 
 
-I will complete my Master of Business Administration and will be a Venture Capitalist and on tech corporate boards. 
+I will complete my Master of Business Administration and will be an Executive, Venture Capitalist, and on tech corporate boards. 
 
 #### EDUCATION__________________________________________________________________________________________________________________________
 * Kellogg Education Education in Leading with Analytics and Artificial Intelligence [(Education Education)](https://execedcertificate.kellogg.northwestern.edu/308a9e71-d504-4194-9c74-22667c48e450#gs.utv39r)
