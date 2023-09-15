@@ -31,7 +31,7 @@ I will complete my Master of Business Administration and will be an Executive, V
 * 🔎 Accenture V360 Awards in Innovation nominee for predicting risk of T2 diabetes with AI in California [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-california-type-2-diabetes-ai-and-predictive-analytics) [(Student Repo)](https://github.com/shawna-tuli-silicon-valley/STATS170_Project-1)
 * 🤖 AI & Advanced Analytics Consultant in Strategy & Consulting at Avanade in San Francisco [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics)
 * 🧾 Software Engineer at H&R Block and led a software engineer
-* 🖤 Engineering Lead at Bill & Melinda Gates Foundation and led 4 software engineers 
+* 🖤 Software Engineering Lead at Bill & Melinda Gates Foundation and led 4 software engineers 
 * 💜 Data Scientist at Accenture CIO
 * ☕ Software Engineer at Starbucks Coffee
 * 🔢 Advanced Analytics Lead at Applied Materials and led 2 analysts
