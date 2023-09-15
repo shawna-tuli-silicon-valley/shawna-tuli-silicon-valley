@@ -6,11 +6,11 @@ I will complete my Master of Business Administration and will be an Executive, V
 #### EDUCATION__________________________________________________________________________________________________________________________
 * Kellogg Education Education in Leading with Analytics and Artificial Intelligence [(Education Education)](https://execedcertificate.kellogg.northwestern.edu/308a9e71-d504-4194-9c74-22667c48e450#gs.utv39r)
 * Stanford University Machine Learning [(Certificate)](https://www.coursera.org/account/accomplishments/verify/47XPJRBC4F5C)
-* University of California, Irvine Donald Bren School of Information and Computer Sciences in Data Science [(BS)](https://github.com/shawna-tuli-silicon-valley/uci-ics-data-science)
+* University of California, Irvine Donald Bren School of Information and Computer Sciences B.S. in Data Science [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-data-science)
 * Stanford University Computer Science [(Certificate)](https://github.com/shawna-tuli-silicon-valley/stanford-engineering-computer-science)
 * Harvard Univerity Artificial Intelligence [(Courses)](https://github.com/shawna-tuli-silicon-valley/harvard-ai)
 * Bloomberg Market Concepts (BMC) [(Certificate)](https://github.com/shawna-tuli-silicon-valley/bloomberg-market-concepts-certificate)
-* Los Gatos High School - AP Scholar with Distinction, Christine Guenther Brienzo merit scholarship recipient
+* Los Gatos High School - LGSUHSD Scholar, AP Scholar with Distinction, Christine Guenther Brienzo merit scholarship recipient
 * Marvin Ridge High School - *Valedictiorian, IB, and National Speech and Debate Association Degree of Excellence [(Repo)](https://github.com/shawna-tuli-silicon-valley/mrhs-north-carolina-forensic-league-state-championship)
 
 #### GOOGLE______________________________________________________________________________________________________________________________ 
