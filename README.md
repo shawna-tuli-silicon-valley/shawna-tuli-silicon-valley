@@ -11,7 +11,7 @@ I will complete my Master of Business Administration and will be an Executive, V
 * Harvard Univerity Artificial Intelligence [(Courses)](https://github.com/shawna-tuli-silicon-valley/harvard-ai)
 * Bloomberg Market Concepts (BMC) [(Certificate)](https://github.com/shawna-tuli-silicon-valley/bloomberg-market-concepts-certificate)
 * Los Gatos High School - LGSUHSD Scholar, AP Scholar with Distinction, Christine Guenther Brienzo merit scholarship [(Repo)](https://github.com/shawna-tuli-silicon-valley/lghs-advanced-placement)
-* Marvin Ridge High School - Valedictorian*, IB [(Repo)](https://github.com/shawna-tuli-silicon-valley/mrhs-international-baccalaureate), and National Speech & Debate Association Degree of Excellence [(Repo)](https://github.com/shawna-tuli-silicon-valley/mrhs-north-carolina-forensic-league-state-championship)
+* Marvin Ridge High School - Valedictorian*, IB [(Repo)](https://github.com/shawna-tuli-silicon-valley/mrhs-international-baccalaureate), National Speech & Debate Association Degree of Excellence [(Repo)](https://github.com/shawna-tuli-silicon-valley/mrhs-north-carolina-forensic-league-state-championship)
 
 #### GOOGLE______________________________________________________________________________________________________________________________ 
 * ❤️ Google Advanced Data Analytics [(Certificates)](https://github.com/shawna-tuli-silicon-valley/google-advanced-data-analytics-professional-certificate)
@@ -47,10 +47,12 @@ I will complete my Master of Business Administration and will be an Executive, V
 * 💰 Alpha Kappa Psi Professional Business Fraternity "Most Likely to be a Billionaire" award and led 50+ professionals [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-alpha-kappa-psi-professional-business-fraternity)
 * 🏆 Co-Founder & Marketing Director at UptoUCI and 2 Up to Us national honor badges [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-merage-national-debt-marketing-analytics) [(Credly)](https://www.credly.com/users/shawna-tuli/badges)
 * 📈 12.11% year-to-date return on an $100,000 portfolio from CFA Society Orange County and led 35+ analysts [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-merage-investment-management)
+* 🏦 CFA Institute Research Challenge [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-merage-cfa-institute-research-challenge)
 * 🥇 Olympics Games bayesian data analysis [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-olympic-games-bayesian-data-analysis)
 * 💋 Kys iOS app - built in 24 hours at USC Viterbi AthenaHacks hackathon [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-kys-ios-app)
 * 💯 Exceed Android app - UCI ICS Butterworth Product Development Competition (Software) Finalist award [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-exceed-android-app)
-* 💳 Eidebtic Vault web app - built in 24 hours at Capital One Santa Monica hackathon [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-merage-ics-eidebtic-vault-web-app) 
+* 💳 Eidebtic Vault web app - built in 24 hours at Capital One Santa Monica hackathon [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-merage-ics-eidebtic-vault-web-app)
+* 🛍️ Data Scientist Intern at eBay [(Repo)](https://github.com/shawna-tuli-silicon-valley/ebay-san-jose-product-analytics-data-science) 
 * 📲 Yaksee interactive broadcasting app - SiliconValley.com mention [(Repo)](https://github.com/shawna-tuli-silicon-valley/lghs-yaksee-interactive-broadcasting-app)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shawna-tuli-silicon-valley&hide_progress=true) 
