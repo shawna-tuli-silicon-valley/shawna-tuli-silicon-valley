@@ -14,11 +14,11 @@ I will complete my Master of Business Administration and will be an Executive, V
 * Marvin Ridge High School - Valedictorian*, IB [(Repo)](https://github.com/shawna-tuli-silicon-valley/mrhs-international-baccalaureate), and National Speech & Debate Association Degree of Excellence [(Repo)](https://github.com/shawna-tuli-silicon-valley/mrhs-north-carolina-forensic-league-state-championship)
 
 #### GOOGLE______________________________________________________________________________________________________________________________ 
-* ❤️ Google Advanced Data Analytics [(Certificates)](https://github.com/shawna-tuli-silicon-valley/google-advanced-data-analytics-professional-certificate)
-* 💛 Google Data Analytics [(Certificates)](https://github.com/shawna-tuli-silicon-valley/google-data-analytics-professional-certificate)
-* 💚 Google Business Intelligence [(Certificates)](https://github.com/shawna-tuli-silicon-valley/google-business-intelligence-professional-certificate)
-* 💙 Google Project Management [(Certificates)](https://github.com/shawna-tuli-silicon-valley/google-project-management-professional-certificate)
-* 🤍 Google Cloud Generative Artificial Intelligence [(Certificates)](https://github.com/shawna-tuli-silicon-valley/google-cloud-generative-ai/tree/main)
+* ❤️ Google Advanced Data Analytics [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-advanced-data-analytics-professional-certificate)
+* 💛 Google Data Analytics [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-data-analytics-professional-certificate)
+* 💚 Google Business Intelligence [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-business-intelligence-professional-certificate)
+* 💙 Google Project Management [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-project-management-professional-certificate)
+* 🤍 Google Cloud Generative Artificial Intelligence [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-cloud-generative-ai/tree/main)
 
 #### PAPERS_______________________________________________________________________________________________________________________________
 * Google Scholar [(Profile)](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en)
