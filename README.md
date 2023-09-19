@@ -21,7 +21,7 @@ I will complete my Master of Business Administration and will be an Executive, V
 * 🤍 Google Cloud Generative Artificial Intelligence [(Certificates)](https://github.com/shawna-tuli-silicon-valley/google-cloud-generative-ai/tree/main)
 
 #### WORK EXPERIENCE__________________________________________________________________________________________________________________
-* 🖥️ Analytics and Modeling Lead 
+* 🎯 Analytics and Modeling Lead 
 * 🧡 AI Data Scientist at Avanade 
 * 📢 Software Engineer at The NPD Group
 * ✅ AI Data Scientist at Avanade
@@ -39,7 +39,6 @@ I will complete my Master of Business Administration and will be an Executive, V
 * 🔢 Advanced Analytics Lead at Applied Materials and led 2 analysts
 * 💭 AI & Advanced Analytics Senior Analyst in Strategy & Consulting at Avanade in San Francisco [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics)
 * 📊 12 Penn Medicine Radiation Oncology papers + abstracts and led 30+ surgeons, doctors, and med students [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-penn-medicine-global-radiation-oncology-analytics) 
-* 🎯 Google Scholar [(Profile)](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en)
 * 🖼️ Avanade Top 5 in Innovation award for creating an Azure AI product via computer vision [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-irvine-ai-product)
 * 💡 Forbes Under 30 Scholar in Innovation award [(Repo)](https://github.com/shawna-tuli-silicon-valley/forbes-under-30-scholar-innovation)
 * 📷 Data Scientist at Google Photos [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-mountain-view-product-analytics-data-science-1) [(Article)](https://9to5google.com/2018/12/28/google-photos-news-2018-recap/)
@@ -54,6 +53,9 @@ I will complete my Master of Business Administration and will be an Executive, V
 * 💳 Eidebtic Vault web app - built in 24 hours at Capital One Santa Monica hackathon [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-merage-ics-eidebtic-vault-web-app)
 * 🛍️ Data Scientist Intern at eBay [(Repo)](https://github.com/shawna-tuli-silicon-valley/ebay-san-jose-product-analytics-data-science) 
 * 📲 Yaksee interactive broadcasting app - SiliconValley.com mention [(Repo)](https://github.com/shawna-tuli-silicon-valley/lghs-yaksee-interactive-broadcasting-app)
+
+#### PAPERS________________________________________________________________________________________________________________________________________________
+* Google Scholar [(Profile)](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shawna-tuli-silicon-valley&hide_progress=true) 
 
