@@ -20,6 +20,9 @@ I will complete my Master of Business Administration and will be an Executive, V
 * 💙 Google Project Management [(Certificates)](https://github.com/shawna-tuli-silicon-valley/google-project-management-professional-certificate)
 * 🤍 Google Cloud Generative Artificial Intelligence [(Certificates)](https://github.com/shawna-tuli-silicon-valley/google-cloud-generative-ai/tree/main)
 
+#### PAPERS_______________________________________________________________________________________________________________________________
+* Google Scholar [(Profile)](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en)
+
 #### WORK EXPERIENCE__________________________________________________________________________________________________________________
 * 🎯 Analytics and Modeling Lead 
 * 🧡 AI Data Scientist at Avanade 
@@ -53,9 +56,6 @@ I will complete my Master of Business Administration and will be an Executive, V
 * 💳 Eidebtic Vault web app - built in 24 hours at Capital One Santa Monica hackathon [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-merage-ics-eidebtic-vault-web-app)
 * 🛍️ Data Scientist Intern at eBay [(Repo)](https://github.com/shawna-tuli-silicon-valley/ebay-san-jose-product-analytics-data-science) 
 * 📲 Yaksee interactive broadcasting app - SiliconValley.com mention [(Repo)](https://github.com/shawna-tuli-silicon-valley/lghs-yaksee-interactive-broadcasting-app)
-
-#### PAPERS_______________________________________________________________________________________________________________________________
-* Google Scholar [(Profile)](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shawna-tuli-silicon-valley&hide_progress=true) 
 
