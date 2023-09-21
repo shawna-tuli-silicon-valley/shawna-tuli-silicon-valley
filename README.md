@@ -14,6 +14,9 @@ I will complete my Master of Business Administration and will be an Executive, V
 * Los Gatos High School - LGSUHSD Scholar, AP Scholar with Distinction, and Christine Guenther Brienzo Scholarship [(Repo)](https://github.com/shawna-tuli-silicon-valley/lghs-advanced-placement)
 * Marvin Ridge High School - Valedictorian*, IB [(Repo)](https://github.com/shawna-tuli-silicon-valley/mrhs-international-baccalaureate), and National Speech & Debate Association Degree of Excellence [(Repo)](https://github.com/shawna-tuli-silicon-valley/mrhs-north-carolina-forensic-league-state-championship)
 
+#### TEST SCORES_________________________________________________________________________________________________________________________
+* GMAT - Waived
+
 #### GOOGLE______________________________________________________________________________________________________________________________ 
 * 🤍 Google Cloud Generative Artificial Intelligence [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-cloud-generative-ai/)
 * ❤️ Google Advanced Data Analytics [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-advanced-data-analytics-professional-certificate)
