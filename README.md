@@ -1,7 +1,7 @@
 ### Hi, I'm Shawna! 👋🏽
 🌁 I'm currently an AI & Advanced Analytics [Associate Manager](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics-2) in Strategy & Consulting at Avanade, the Accenture Microsoft Business Group, in San Francisco, Accenture & UCI ICS Data Science Capstone Lead, Accenture Ventures & Open Innovation West Ambassador, and HBR Advisor. I also public speak at and attend big tech conferences and programs in Silicon Valley! Xoogler. 
 
-I will complete my Master of Business Administration and will be an Executive, Venture Capitalist, and on tech corporate boards. 
+I will will be an Executive, Venture Capitalist, and Tech Corporate Boards Member. 
 
 #### EDUCATION__________________________________________________________________________________________________________________________
 * Plan: Santa Clara University Evening Master of Business Administration - Dean's Honor List
@@ -24,13 +24,13 @@ I will complete my Master of Business Administration and will be an Executive, V
 * 💚 Google Business Intelligence [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-business-intelligence-professional-certificate)
 * 💙 Google Project Management [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-project-management-professional-certificate)
 
-#### BIG TECH PUBLIC SPEAKING________________________________________________________________________________________________________
-* Conferences [(Repo)](https://github.com/shawna-tuli-silicon-valley/big-tech-silicon-valley-conferences-and-programs)
-
 #### DATA SCIENCE PAPERS______________________________________________________________________________________________________________
 * Google Scholar [(Profile)](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en)
 
-#### WORK EXPERIENCE__________________________________________________________________________________________________________________
+#### BIG TECH PUBLIC SPEAKING________________________________________________________________________________________________________
+* Conferences [(Repo)](https://github.com/shawna-tuli-silicon-valley/big-tech-silicon-valley-conferences-and-programs)
+
+#### BIG TECH WORK EXPERIENCE_________________________________________________________________________________________________________
 * 🎯 Analytics and Modeling Lead 
 * 🧡 AI Data Scientist at Avanade 
 * 📢 Software Engineer at The NPD Group
