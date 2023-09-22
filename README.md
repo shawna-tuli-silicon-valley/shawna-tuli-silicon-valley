@@ -30,7 +30,7 @@ I will will be an Executive, Venture Capitalist, and Tech Corporate Boards Membe
 #### BIG TECH PUBLIC SPEAKING________________________________________________________________________________________________________
 * Conferences [(Repo)](https://github.com/shawna-tuli-silicon-valley/big-tech-silicon-valley-conferences-and-programs)
 
-#### BIG TECH WORK EXPERIENCE________________________________________________________________________________________________________
+#### BIG TECH WORK EXPERIENCE_______________________________________________________________________________________________________
 * 🎯 Analytics and Modeling Lead 
 * 🧡 AI Data Scientist at Avanade 
 * 📢 Software Engineer at The NPD Group
