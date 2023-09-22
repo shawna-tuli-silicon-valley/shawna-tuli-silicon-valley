@@ -17,14 +17,14 @@ I will complete my Master of Business Administration and will be an Executive, V
 #### TEST SCORE_________________________________________________________________________________________________________________________
 * GMAT - Waived
 
-#### GOOGLE______________________________________________________________________________________________________________________________ 
+#### GOOGLE EDUCATION___________________________________________________________________________________________________________________
 * 🤍 Google Cloud Generative Artificial Intelligence [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-cloud-generative-ai/)
 * ❤️ Google Advanced Data Analytics [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-advanced-data-analytics-professional-certificate)
 * 💛 Google Data Analytics [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-data-analytics-professional-certificate)
 * 💚 Google Business Intelligence [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-business-intelligence-professional-certificate)
 * 💙 Google Project Management [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-project-management-professional-certificate)
 
-#### DATA SCIENCE PAPERS______________________________________________________________________________________________________________
+#### DATA SCIENCE PAPERS_______________________________________________________________________________________________________________
 * Google Scholar [(Profile)](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en)
 
 #### WORK EXPERIENCE__________________________________________________________________________________________________________________
