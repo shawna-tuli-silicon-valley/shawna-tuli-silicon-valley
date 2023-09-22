@@ -24,7 +24,7 @@ I will complete my Master of Business Administration and will be an Executive, V
 * 💚 Google Business Intelligence [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-business-intelligence-professional-certificate)
 * 💙 Google Project Management [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-project-management-professional-certificate)
 
-#### DATA SCIENCE PAPERS____________________________________________________________________________________________________________
+#### DATA SCIENCE PAPERS______________________________________________________________________________________________________________
 * Google Scholar [(Profile)](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en)
 
 #### WORK EXPERIENCE__________________________________________________________________________________________________________________
