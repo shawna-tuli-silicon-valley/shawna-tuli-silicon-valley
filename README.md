@@ -2,7 +2,6 @@
 🌁 I'm currently an AI & Advanced Analytics [Associate Manager](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics-2) in Strategy & Consulting at Avanade, the Accenture Microsoft Business Group, in San Francisco, Accenture & UCI ICS Data Science Capstone Lead, Accenture Ventures & Open Innovation West Ambassador, and HBR Advisor. Xoogler. I will be an Executive, Venture Capitalist, and Tech Corporate Boards Member. 
 
 #### EDUCATION__________________________________________________________________________________________________________________________
-* Plan: Santa Clara University Evening Master of Business Administration - Dean's Honor List
 * Kellogg Education Education in Leading with Analytics and Artificial Intelligence [(Repo)](https://github.com/shawna-tuli-silicon-valley/kellogg-executive-education-leading-with-analytics-and-ai)
 * Stanford University Machine Learning [(Repo)](https://github.com/shawna-tuli-silicon-valley/stanford-engineering-machine-learning)
 * University of California, Irvine Donald Bren School of Information and Computer Sciences Bachelor of Science in Data Science - Dean's Honor List [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-data-science)
