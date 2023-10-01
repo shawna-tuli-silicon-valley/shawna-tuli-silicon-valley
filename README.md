@@ -68,6 +68,7 @@
 * Attendee, Google I/O (3x)
 * Nominee, Accenture V360 Awards in Innovation (2x)
 * Avanade Top 5 in Innovation
+* Dean's Honor List
 * Forbes Under 30 Scholar in Innovation
 * Alpha Kappa Psi Professional Business Fraternity Most Likely to be a Billionaire
 * Up to Us Top 20 Team
