@@ -63,7 +63,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shawna-tuli-silicon-valley&hide_progress=true) 
 
-#### HONORS & AWARDS________________________________________________________________________________________________________________
+#### HONORS & AWARDS_________________________________________________________________________________________________________________
 * Avanade Best Baker
 * Attendee, Google I/O (3x)
 * Nominee, Accenture V360 Awards in Innovation (2x)
