@@ -54,7 +54,7 @@
 * 🏆 Co-Founder & Marketing Director at UptoUCI and 2 Up to Us national honor badges [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-merage-national-debt-marketing-analytics) [(Credly)](https://www.credly.com/users/shawna-tuli/badges)
 * 📈 12.11% year-to-date return on an $100,000 portfolio from CFA Society Orange County and led 35+ analysts [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-merage-investment-management)
 * 🏦 CFA Institute Research Challenge [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-merage-cfa-institute-research-challenge)
-* 🥇 Olympics Games bayesian data analysis - UCI STATS 115/205 [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-olympic-games-bayesian-data-analysis)
+* 🥇 Olympics Games bayesian data analysis - UCI ICS STATS 115/205 [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-olympic-games-bayesian-data-analysis)
 * 💋 Kys iOS app - built in 24 hours at USC Viterbi School of Engineering AthenaHacks hackathon [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-kys-ios-app)
 * 💯 Exceed Android app - UCI ICS Butterworth Product Development Competition (Software) Finalist award [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-exceed-android-app)
 * 💳 Eidebtic Vault web app - built in 24 hours at Capital One Santa Monica hackathon [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-merage-ics-eidebtic-vault-web-app)
