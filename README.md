@@ -3,9 +3,9 @@
 
 #### EDUCATION__________________________________________________________________________________________________________________________
 * Kellogg Education Education in Leading with Analytics and Artificial Intelligence [(Repo)](https://github.com/shawna-tuli-silicon-valley/kellogg-executive-education-leading-with-analytics-and-ai)
-* Stanford University Machine Learning [(Repo)](https://github.com/shawna-tuli-silicon-valley/stanford-engineering-machine-learning)
+* Stanford University Certificate in Machine Learning [(Repo)](https://github.com/shawna-tuli-silicon-valley/stanford-engineering-machine-learning)
 * University of California, Irvine Donald Bren School of Information and Computer Sciences Bachelor of Science in Data Science - Dean's Honor List [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-data-science)
-* Stanford University Computer Science [(Repo)](https://github.com/shawna-tuli-silicon-valley/stanford-engineering-computer-science)
+* Stanford University Certificate in Computer Science [(Repo)](https://github.com/shawna-tuli-silicon-valley/stanford-engineering-computer-science)
 * Harvard Univerity Artificial Intelligence [(Repo)](https://github.com/shawna-tuli-silicon-valley/harvard-ai)
 * Bloomberg Market Concepts (BMC) [(Repo)](https://github.com/shawna-tuli-silicon-valley/bloomberg-market-concepts-certificate)
 * Los Gatos High School - Los Gatos-Saratoga Union High School District Scholar, Advanced Placement Scholar with Distinction, and Christine Guenther Brienzo Merit Scholarship [(Repo)](https://github.com/shawna-tuli-silicon-valley/lghs-advanced-placement)
@@ -15,11 +15,11 @@
 * GMAT - Waived
 
 #### GOOGLE EDUCATION________________________________________________________________________________________________________________
-* 🤍 Google Cloud Generative Artificial Intelligence [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-cloud-generative-ai/)
-* ❤️ Google Advanced Data Analytics [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-advanced-data-analytics-professional-certificate)
-* 💛 Google Data Analytics [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-data-analytics-professional-certificate)
-* 💚 Google Business Intelligence [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-business-intelligence-professional-certificate)
-* 💙 Google Project Management [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-project-management-professional-certificate)
+* 🤍 Google Cloud Certificate in Generative Artificial Intelligence [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-cloud-generative-ai/)
+* ❤️ Google Certificate in Advanced Data Analytics [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-advanced-data-analytics-professional-certificate)
+* 💛 Google Certificate in Data Analytics [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-data-analytics-professional-certificate)
+* 💚 Google Certificate in Business Intelligence [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-business-intelligence-professional-certificate)
+* 💙 Google Certificate in Project Management [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-project-management-professional-certificate)
 
 #### DATA SCIENCE PAPERS______________________________________________________________________________________________________________
 * Google Scholar [(Profile)](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en)
