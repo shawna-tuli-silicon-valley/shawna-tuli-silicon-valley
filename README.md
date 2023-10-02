@@ -67,19 +67,19 @@
 * Avanade Best Baker
 * Attendee, Google I/O (3x)
 * Nominee, Accenture V360 Awards in Innovation (2x)
-* Dean's Honor List
+* University of California, Irvine Dean's Honor List
 * Avanade Top 5 in Innovation
 * Forbes Under 30 Scholar in Innovation
-* Alpha Kappa Psi Professional Business Fraternity Most Likely to be a Billionaire
+* University of California, Irvine Alpha Kappa Psi Professional Business Fraternity Most Likely to be a Billionaire
 * Up to Us Top 20 Team
 * Up to Us Top Pledge Earner
-* Finalist, Butterworth Product Development Competition (Software) 
+* Finalist, University of California, Irvine Donald Bren School of Information and Computer Sciences Butterworth Product Development Competition (Software) 
 * Second Place, CFA Society Orange County Request for Proposal
 * CFA Institute Research Challenge
-* Christine Guether Brienzo Merit Scholarship
-* California Personal Finance Challenge
+* Los Gatos High School Christine Guether Brienzo Merit Scholarship
+* California Council on Economic Education Personal Finance Challenge
 * National Speech & Debate Association Degree of Excellence
-* North Carolina Economics Challenge
+* North Carolina Council on Economic Education Economics Challenge
 
 #### INTERESTS___________________________________________________________________________________________________________________________
 💘 OOO, I am [in my gym](https://github.com/shawna-tuli-silicon-valley/gym), [dancing](https://github.com/shawna-tuli-silicon-valley/dance), [boxing](https://github.com/shawna-tuli-silicon-valley/box), [oil painting](https://github.com/shawna-tuli-silicon-valley/oil-painting), [reading](https://github.com/shawna-tuli-silicon-valley/strategy-and-management-books), [studying](https://github.com/shawna-tuli-silicon-valley/google-cloud-generative-ai), [shopping](https://github.com/shawna-tuli-silicon-valley/shopping), and [at music festivals](https://github.com/shawna-tuli-silicon-valley/uci-alpha-kappa-psi-professional-business-fraternity-music-festivals) and [concerts](https://github.com/shawna-tuli-silicon-valley/concerts/tree/main). I enjoy healthy cooking, playing tennis and badminton, beaches, interior design, and watching TV shows and movies on Netflix and Prime. 
