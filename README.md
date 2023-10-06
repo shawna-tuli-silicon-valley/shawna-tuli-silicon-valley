@@ -7,7 +7,7 @@
 * University of California, Irvine Donald Bren School of Information and Computer Sciences Bachelor of Science in Data Science - Dean's Honor List [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-data-science)
 * Stanford University School of Engineering Certificate in Computer Science [(Repo)](https://github.com/shawna-tuli-silicon-valley/stanford-engineering-computer-science)
 * Harvard Univerity Artificial Intelligence [(Repo)](https://github.com/shawna-tuli-silicon-valley/harvard-ai)
-* Bloomberg Market Concepts (BMC) [(Repo)](https://github.com/shawna-tuli-silicon-valley/bloomberg-market-concepts-certificate)
+* Bloomberg Market Concepts (BMC)
 * Los Gatos High School - Los Gatos-Saratoga Union High School District Scholar, Advanced Placement Scholar with Distinction, and Christine Guenther Brienzo Merit Scholarship [(Repo)](https://github.com/shawna-tuli-silicon-valley/lghs-advanced-placement)
 * Marvin Ridge High School - Valedictorian*, International Baccalaureate [(Repo)](https://github.com/shawna-tuli-silicon-valley/mrhs-international-baccalaureate), and National Speech & Debate Association Degree of Excellence [(Repo)](https://github.com/shawna-tuli-silicon-valley/mrhs-north-carolina-forensic-league-state-championship)
 
