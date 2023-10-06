@@ -1,5 +1,5 @@
 ### Hi, I'm Shawna! 👋🏽
-🌁 I'm currently an AI & Advanced Analytics [Associate Manager](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics-2) in Strategy & Consulting at Avanade, the Accenture Microsoft Business Group, in San Francisco, Accenture & University of California, Irvine Donald Bren School of Information and Computer Sciences Data Science Capstone Lead, Accenture Ventures & Open Innovation West Ambassador, Xoogler, and Harvard Business Review Advisor. I will be an Executive, Venture Capitalist, and Tech Corporate Boards Member in Silicon Valley. 
+🌁 Shawna Tuli is a Silicon Valley leader and Xoogler on the path to Executive, Venture Capitalist, and Tech Corporate Board Member. She has over three years of experience as an AI & Advanced Analytics [Associate Manager](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics-2) in Strategy & Consulting, specializing in AI, Data Science, and Advanced Analytics, at Accenture and Avanade, the Accenture Microsoft Business Group. She is currently building Avanade's AI practice from the ground up. Shawna has also contributed to four Google products: Photos, Cloud, Play, and One. In addition, she advises in Data Science and Analytics for Harvard Business Review and Hofstra University.
 
 #### EDUCATION__________________________________________________________________________________________________________________________
 * Kellogg Education Education in Leading with Analytics and Artificial Intelligence [(Repo)](https://github.com/shawna-tuli-silicon-valley/kellogg-executive-education-leading-with-analytics-and-ai)
@@ -28,7 +28,8 @@
 * Conferences [(Repo)](https://github.com/shawna-tuli-silicon-valley/big-tech-silicon-valley-conferences-and-programs)
 
 #### BIG TECH WORK EXPERIENCE_______________________________________________________________________________________________________
-* 🎯 Analytics and Modeling Lead 
+* 🎯 Data Scientist at Microsoft
+* 🦄 Accenture Ventures & Open Innovation West Ambassador 
 * 🧡 AI Data Scientist at Avanade 
 * 📢 Software Engineer at The NPD Group
 * ✅ AI Data Scientist at Avanade
