@@ -28,7 +28,7 @@
 * Conferences [(Repo)](https://github.com/shawna-tuli-silicon-valley/big-tech-silicon-valley-conferences-and-programs)
 
 #### BIG TECH WORK EXPERIENCE_______________________________________________________________________________________________________
-* 💭 Data Science Advisor at Hofstra University
+* 🎖️ Data Science Advisor at Hofstra University
 * 🧠 Analytics Advisor at Harvard Business Review
 * 🎯 AI Data Scientist at Microsoft
 * 🦄 Accenture Ventures & Open Innovation West Ambassador 
