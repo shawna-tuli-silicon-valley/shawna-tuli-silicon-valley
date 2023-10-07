@@ -30,7 +30,7 @@
 #### BIG TECH WORK EXPERIENCE_______________________________________________________________________________________________________
 * 💭 Data Science Advisor at Hofstra University
 * 🧠 Analytics Advisor at Harvard Business Review
-* 🎯 Data Scientist at Microsoft
+* 🎯 AI Data Scientist at Microsoft
 * 🦄 Accenture Ventures & Open Innovation West Ambassador 
 * 🧡 AI Data Scientist at Avanade 
 * 📢 Software Engineer at The NPD Group
