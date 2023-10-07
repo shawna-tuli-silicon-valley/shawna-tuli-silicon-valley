@@ -28,9 +28,10 @@
 * Conferences [(Repo)](https://github.com/shawna-tuli-silicon-valley/big-tech-silicon-valley-conferences-and-programs)
 
 #### BIG TECH WORK EXPERIENCE_______________________________________________________________________________________________________
+* 🦾 AI Lead at Viking
+* 🎯 AI Data Scientist at Microsoft
 * 🎖️ Data Science Advisor at Hofstra University
 * 🧠 Analytics Advisor at Harvard Business Review
-* 🎯 AI Data Scientist at Microsoft
 * 🦄 Accenture Ventures & Open Innovation West Ambassador 
 * 🧡 AI Data Scientist at Avanade 
 * 📢 Software Engineer at The NPD Group
