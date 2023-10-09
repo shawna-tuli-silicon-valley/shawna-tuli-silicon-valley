@@ -21,7 +21,7 @@
 * 💚 Google Certificates in Business Intelligence [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-business-intelligence-professional-certificate)
 * 💙 Google Certificates in Project Management [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-project-management-professional-certificate)
 
-#### PENN MEDICINE RADIATION ONCOLOGY DATA SCIENCE PAPERS_________________________________________________________
+#### PENN MEDICINE RADIATION ONCOLOGY DATA SCIENCE PAPERS____________________________________________________________
 * Google Scholar [(Profile)](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en)
 
 #### BIG TECH PUBLIC SPEAKING________________________________________________________________________________________________________
