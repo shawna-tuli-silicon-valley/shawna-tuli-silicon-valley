@@ -27,7 +27,7 @@
 #### BIG TECH PUBLIC SPEAKING________________________________________________________________________________________________________
 * Conferences [(Repo)](https://github.com/shawna-tuli-silicon-valley/big-tech-silicon-valley-conferences-and-programs)
 
-#### BIG TECH WORK EXPERIENCE_______________________________________________________________________________________________________
+#### BIG TECH AI & DATA SCIENCE WORK EXPERIENCE_______________________________________________________________________________________
 * 🦾 AI Lead at Viking
 * 🎯 AI Data Scientist at Microsoft
 * 🎖️ Data Science Advisor at Hofstra University
