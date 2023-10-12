@@ -20,6 +20,9 @@ Shawna completed her Kellogg Executive Education in Leading with Analytics and A
 * 💚 Google Certificates in Business Intelligence [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-business-intelligence-professional-certificate)
 * 💙 Google Certificates in Project Management [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-project-management-professional-certificate)
 
+#### TEST SCORE_________________________________________________________________________________________________________________________
+* GMAT - Waived
+
 #### BIG TECH PUBLIC SPEAKING________________________________________________________________________________________________________
 * Conferences and programs [(Repo)](https://github.com/shawna-tuli-silicon-valley/big-tech-silicon-valley-conferences-and-programs)
 
@@ -80,9 +83,6 @@ Shawna completed her Kellogg Executive Education in Leading with Analytics and A
 * California Council on Economic Education Personal Finance Challenge
 * National Speech & Debate Association Degree of Excellence
 * North Carolina Council on Economic Education Economics Challenge
-
-#### TEST SCORE_________________________________________________________________________________________________________________________
-* GMAT - Waived
 
 #### PENN MEDICINE RADIATION ONCOLOGY DATA SCIENCE PAPERS_________________________________________________________________
 * Papers [(Google Scholar)](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en)
