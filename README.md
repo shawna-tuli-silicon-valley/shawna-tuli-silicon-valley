@@ -13,9 +13,6 @@ Shawna completed her Kellogg Executive Education in Leading with Analytics and A
 * Los Gatos High School - Los Gatos-Saratoga Union High School District Scholar, Advanced Placement Scholar with Distinction, and Christine Guenther Brienzo Merit Scholarship [(Repo)](https://github.com/shawna-tuli-silicon-valley/lghs-advanced-placement)
 * Marvin Ridge High School - Valedictorian*, International Baccalaureate [(Repo)](https://github.com/shawna-tuli-silicon-valley/mrhs-international-baccalaureate), and National Speech & Debate Association Degree of Excellence [(Repo)](https://github.com/shawna-tuli-silicon-valley/mrhs-north-carolina-forensic-league-state-championship)
 
-#### TEST SCORE_________________________________________________________________________________________________________________________
-* GMAT - Waived
-
 #### GOOGLE EDUCATION________________________________________________________________________________________________________________
 * 🤍 Google Cloud Certificates in Generative Artificial Intelligence [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-cloud-generative-ai/)
 * ❤️ Google Certificates in Advanced Data Analytics [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-advanced-data-analytics-professional-certificate)
@@ -86,6 +83,9 @@ Shawna completed her Kellogg Executive Education in Leading with Analytics and A
 * California Council on Economic Education Personal Finance Challenge
 * National Speech & Debate Association Degree of Excellence
 * North Carolina Council on Economic Education Economics Challenge
+
+#### TEST SCORE_________________________________________________________________________________________________________________________
+* GMAT - Waived
 
 #### INTERESTS___________________________________________________________________________________________________________________________
 💘 OOO, I am [in my gym](https://github.com/shawna-tuli-silicon-valley/gym), [dancing](https://github.com/shawna-tuli-silicon-valley/dance), [boxing](https://github.com/shawna-tuli-silicon-valley/box), [oil painting](https://github.com/shawna-tuli-silicon-valley/oil-painting), [reading](https://github.com/shawna-tuli-silicon-valley/strategy-and-management-books), [studying](https://github.com/shawna-tuli-silicon-valley/google-cloud-generative-ai), [shopping](https://github.com/shawna-tuli-silicon-valley/shopping), and [at music festivals](https://github.com/shawna-tuli-silicon-valley/uci-alpha-kappa-psi-professional-business-fraternity-music-festivals) and [concerts](https://github.com/shawna-tuli-silicon-valley/concerts/tree/main). I enjoy healthy cooking, playing tennis and badminton, beaches, interior design, and watching TV shows and movies on Netflix and Prime. 
