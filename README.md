@@ -4,8 +4,8 @@
 Shawna completed her Kellogg Executive Education in Leading with Analytics and Artificial Intelligence, Bachelor of Science in Data Science from Donald Bren School of Information and Computer Sciences at University of California, Irvine, and Certificates in Machine Learning and Computer Science from Stanford University School of Engineering. She advises in data science and analytics for Harvard Business Review and Hofstra University; published twelve articles with Penn Medicine Radiation Oncology. 
 
 #### EDUCATION__________________________________________________________________________________________________________________________
-* Kellogg Education Education in Leading with Analytics and Artificial Intelligence [(Repo)](https://github.com/shawna-tuli-silicon-valley/kellogg-executive-education-leading-with-analytics-and-ai)
 * Stanford University School of Engineering Certificate in Machine Learning [(Repo)](https://github.com/shawna-tuli-silicon-valley/stanford-engineering-machine-learning)
+* Kellogg Education Education in Leading with Analytics and Artificial Intelligence [(Repo)](https://github.com/shawna-tuli-silicon-valley/kellogg-executive-education-leading-with-analytics-and-ai)
 * University of California, Irvine Donald Bren School of Information and Computer Sciences Bachelor of Science in Data Science - Dean's Honor List [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-data-science)
 * Stanford University School of Engineering Certificate in Computer Science [(Repo)](https://github.com/shawna-tuli-silicon-valley/stanford-engineering-computer-science)
 * Harvard Univerity Artificial Intelligence [(Repo)](https://github.com/shawna-tuli-silicon-valley/harvard-ai)
