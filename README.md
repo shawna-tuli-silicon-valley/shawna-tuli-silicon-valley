@@ -27,7 +27,7 @@ Shawna completed her Kellogg Executive Education in Leading with Analytics and A
 * Conferences and programs [(Repo)](https://github.com/shawna-tuli-silicon-valley/big-tech-silicon-valley-conferences-and-programs)
 
 #### BIG TECH AI & DATA SCIENCE WORK EXPERIENCE_________________________________________________________________________________
-* 🎯 AI Data Scientist at Microsoft
+* 🎯 Incoming AI Data Scientist at Google
 * ⚡ AI Expert at LinkedIn AI-powered collaborative articles 
 * 🦾 AI Lead at Viking Cruises and led 2 advanced analytics senior consultants
 * 🎖️ Data Science Advisor at Hofstra University
