@@ -63,7 +63,7 @@ Shawna completed her Certificates in Machine Learning and Computer Science from 
 * 💋 Kys iOS app - built in 24 hours at USC Viterbi School of Engineering AthenaHacks hackathon [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-kys-ios-app)
 * 💯 Exceed Android app - won UCI ICS Butterworth Product Development Competition (Software) Finalist award [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-exceed-android-app)
 * 💳 Eidebtic Vault web app - built in 24 hours at Capital One Santa Monica hackathon [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-merage-ics-eidebtic-vault-web-app)
-* 🛍️ Data Scientist Intern at eBay [(Repo)](https://github.com/shawna-tuli-silicon-valley/ebay-san-jose-product-analytics-data-science) 
+* 🛍️ Data Scientist Intern at eBay in the Office of the CIO [(Repo)](https://github.com/shawna-tuli-silicon-valley/ebay-san-jose-product-analytics-data-science) 
 * 📲 Yaksee interactive broadcasting app - mentioned in SiliconValley.com [(Repo)](https://github.com/shawna-tuli-silicon-valley/lghs-yaksee-interactive-broadcasting-app)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shawna-tuli-silicon-valley&hide_progress=true) 
