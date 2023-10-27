@@ -38,7 +38,7 @@ Shawna completed her Certificates in Machine Learning and Computer Science from 
 * 📢 Software Engineer at The NPD Group
 * ✅ AI Data Scientist at Avanade
 * 📉 Accenture V360 Awards in Innovation nominee for forecasting energy usage with AI in California [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-california-energy-ai-and-predictive-analytics) [(Student Repo)](https://github.com/shawna-tuli-silicon-valley/EnergyPredictionCA)
-* 🔮 National Science Foundation paper + abstract for predicting energy consumption with AI in California [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-california-energy-and-ai-predictive-analytics-2) (Student Repo)
+* 🔮 National Science Foundation paper + abstract for predicting energy consumption with AI in California [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-california-energy-and-ai-predictive-analytics-2)
 * ☁️ AI & Data Science Lead at Google Cloud and led a data engineer [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-sunnyvale-ai-and-data-science-3) [(Article)](https://www.cnbc.com/2023/04/25/googles-cloud-business-turns-profitable-for-the-first-time-on-record.html)
 * ▶️ Software Engineer at Google Play
 * 1️⃣ Software Engineer at Google One 
