@@ -28,7 +28,7 @@ Shawna completed her Certificates in Machine Learning and Computer Science from 
 
 #### BIG TECH AI & DATA SCIENCE WORK EXPERIENCE_________________________________________________________________________________
 * 🎯 Incoming AI Data Scientist at Google
-* 📦 AI Data Scientist at Amazon
+* 📦 AI & Data Science Lead at Amazon
 * ⚡ AI Expert at LinkedIn AI-powered collaborative articles 
 * 🦾 AI Lead at Viking Cruises and led 2 advanced analytics senior consultants
 * 🎖️ AI & Data Science Advisor at PaceLearn
