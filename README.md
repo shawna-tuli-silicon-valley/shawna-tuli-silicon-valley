@@ -27,7 +27,7 @@ Shawna completed her Certificates in Machine Learning and Computer Science from 
 * Conferences and programs [(Repo)](https://github.com/shawna-tuli-silicon-valley/big-tech-silicon-valley-conferences-and-programs)
 
 #### BIG TECH AI & DATA SCIENCE WORK EXPERIENCE_________________________________________________________________________________
-* 🎯 Incoming AI Data Scientist at Google
+* 🎯 Incoming AI & Data Science Lead at Google
 * 📦 AI & Data Science Lead at Amazon
 * ⚡ AI Expert at LinkedIn AI-powered collaborative articles 
 * 🦾 AI Lead at Viking Cruises and led 2 advanced analytics senior consultants
