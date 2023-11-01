@@ -31,7 +31,6 @@ Shawna completed her Certificates in Machine Learning and Computer Science from 
 * 📦 AI & Data Science Lead at Amazon
 * ⚡ AI Expert at LinkedIn AI-powered collaborative articles 
 * 🦾 AI Lead at Viking Cruises and led 2 advanced analytics senior consultants
-* 🎖️ AI & Data Science Advisor at PaceLearn
 * 🧠 Analytics Advisor at Harvard Business Review
 * 🦄 Accenture Ventures & Open Innovation West Ambassador 
 * 🧡 AI Data Scientist at Avanade 
