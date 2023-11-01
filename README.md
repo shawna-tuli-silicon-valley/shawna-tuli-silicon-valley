@@ -21,7 +21,7 @@ Shawna completed her Certificates in Machine Learning and Computer Science from 
 * 💙 Google Certificates in Project Management [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-project-management-professional-certificate)
 
 #### ACCENTURE EDUCATION____________________________________________________________________________________________________________
-* Master Data Architect Certificate
+* Accenture Master Data Architect Certificate
 
 #### TEST SCORE_________________________________________________________________________________________________________________________
 * GMAT - Waived
