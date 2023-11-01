@@ -26,7 +26,7 @@ Shawna completed her Certificates in Machine Learning and Computer Science from 
 #### TEST SCORE_________________________________________________________________________________________________________________________
 * GMAT - Waived
 
-#### BIG TECH AI & DATA SCIENCE PUBLIC SPEAKING_________________________________________________________________________________
+#### BIG TECH AI & DATA SCIENCE PUBLIC SPEAKING__________________________________________________________________________________
 * Conferences and programs [(Repo)](https://github.com/shawna-tuli-silicon-valley/big-tech-silicon-valley-conferences-and-programs)
 
 #### BIG TECH AI & DATA SCIENCE WORK EXPERIENCE_________________________________________________________________________________
