@@ -52,6 +52,7 @@ Shawna completed her Certificates in Machine Learning and Computer Science from 
 * 💜 AI & Data Science Lead at Accenture CIO and led a data scientist
 * ☕ Software Engineer at Starbucks Coffee
 * 🔢 Advanced Analytics Lead at Applied Materials and led 2 analysts
+* 🎉 Avanade NorCal Social Committee Member
 * 💭 AI & Advanced Analytics Senior Analyst in Strategy & Consulting at Avanade in San Francisco [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics)
 * 📊 12 Penn Medicine Radiation Oncology papers + abstracts and led 30+ surgeons, doctors, and medical students [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-penn-medicine-global-radiation-oncology-analytics) 
 * 🖼️ Avanade Top 5 in Innovation award for creating an Azure AI product via computer vision [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-irvine-ai-product)
