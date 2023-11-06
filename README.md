@@ -94,10 +94,11 @@ Shawna completed her Certificates in Machine Learning and Computer Science from 
 #### TEST SCORE_________________________________________________________________________________________________________________________
 * GMAT - Waived
 
-#### LANGUAGES____________________________________________________________________________________________________________
+#### LANGUAGES__________________________________________________________________________________________________________________________
 * Engligh
 * Hindi
 * Spanish
+* Punjabi
 
 #### INTERESTS___________________________________________________________________________________________________________________________
 💘 OOO, I am [in my gym](https://github.com/shawna-tuli-silicon-valley/gym), [dancing](https://github.com/shawna-tuli-silicon-valley/dance), [boxing](https://github.com/shawna-tuli-silicon-valley/box), [oil painting](https://github.com/shawna-tuli-silicon-valley/oil-painting), [reading](https://github.com/shawna-tuli-silicon-valley/strategy-and-management-books), [studying](https://github.com/shawna-tuli-silicon-valley/google-cloud-generative-ai), [shopping](https://github.com/shawna-tuli-silicon-valley/shopping), and [at music festivals](https://github.com/shawna-tuli-silicon-valley/uci-alpha-kappa-psi-professional-business-fraternity-music-festivals) and [concerts](https://github.com/shawna-tuli-silicon-valley/concerts/tree/main). I enjoy healthy cooking, playing tennis and badminton, beaches, interior design, and watching TV shows and movies on Netflix and Prime. 
