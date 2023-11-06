@@ -91,7 +91,7 @@ Shawna completed her Certificates in Machine Learning and Computer Science from 
 #### PENN MEDICINE RADIATION ONCOLOGY DATA SCIENCE PAPERS_________________________________________________________________
 * Papers [(Google Scholar)](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en)
 
-#### TEST SCORE_________________________________________________________________________________________________________________________
+#### TEST SCORE__________________________________________________________________________________________________________________________
 * GMAT - Waived
 
 #### LANGUAGES__________________________________________________________________________________________________________________________
