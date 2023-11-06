@@ -89,6 +89,7 @@ Shawna completed her Certificates in Machine Learning and Computer Science from 
 * California Council on Economic Education Personal Finance Challenge
 * National Speech & Debate Association Degree of Excellence
 * North Carolina Council on Economic Education Economics Challenge
+* Kathak North Indian Classical Dance Certification
 * Marvin Ridge High School International Baccalaureate 
 * Marvin Ridge High School Valedictorian*
 
