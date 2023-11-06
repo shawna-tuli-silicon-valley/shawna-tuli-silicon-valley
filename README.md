@@ -95,7 +95,7 @@ Shawna completed her Certificates in Machine Learning and Computer Science from 
 * GMAT - Waived
 
 #### LANGUAGES__________________________________________________________________________________________________________________________
-* Engligh
+* English
 * Hindi
 * Spanish
 * Punjabi
