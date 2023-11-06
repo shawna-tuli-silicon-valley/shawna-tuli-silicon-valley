@@ -84,9 +84,13 @@ Shawna completed her Certificates in Machine Learning and Computer Science from 
 * Second Place, CFA Society Orange County Request for Proposal
 * CFA Institute Research Challenge
 * Los Gatos High School Christine Guether Brienzo Merit Scholarship
+* Los Gatos High School Los Gatos-Saratoga Union High School District Scholar
+* Advanced Placement Scholar with Distinction
 * California Council on Economic Education Personal Finance Challenge
 * National Speech & Debate Association Degree of Excellence
 * North Carolina Council on Economic Education Economics Challenge
+* Marvin Ridge High School International Baccalaureate 
+* Marvin Ridge High School Valedictorian*
 
 #### PENN MEDICINE RADIATION ONCOLOGY DATA SCIENCE PAPERS_________________________________________________________________
 * Papers [(Google Scholar)](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en)
