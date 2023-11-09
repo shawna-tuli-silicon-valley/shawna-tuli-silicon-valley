@@ -5,9 +5,8 @@ Shawna completed her Kellogg Executive Education in Leading with Analytics and A
 
 #### EDUCATION__________________________________________________________________________________________________________________________
 * Kellogg Education Education in Leading with Analytics and Artificial Intelligence [(Repo)](https://github.com/shawna-tuli-silicon-valley/kellogg-executive-education-leading-with-analytics-and-ai)
-* Stanford University School of Engineering Certificate in Machine Learning [(Repo)](https://github.com/shawna-tuli-silicon-valley/stanford-engineering-machine-learning)
+* Stanford University School of Engineering Certificates in Computer Science and Machine Learning [(Repo)](https://github.com/shawna-tuli-silicon-valley/stanford-engineering-machine-learning) [(Repo)](https://github.com/shawna-tuli-silicon-valley/stanford-engineering-computer-science)
 * University of California, Irvine Donald Bren School of Information and Computer Sciences Bachelor of Science in Computer Science and Statistics in Data Science - Dean's Honor List [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-data-science)
-* Stanford University School of Engineering Certificate in Computer Science [(Repo)](https://github.com/shawna-tuli-silicon-valley/stanford-engineering-computer-science)
 * Harvard Univerity Artificial Intelligence [(Repo)](https://github.com/shawna-tuli-silicon-valley/harvard-ai)
 * Bloomberg Market Concepts (BMC)
 * Los Gatos High School - Los Gatos-Saratoga Union High School District Scholar, Advanced Placement Scholar with Distinction, and Christine Guenther Brienzo Merit Scholarship [(Repo)](https://github.com/shawna-tuli-silicon-valley/lghs-advanced-placement)
