@@ -1,7 +1,7 @@
 ### Hi, I'm Shawna! 👋🏽
 🌁 Shawna Tuli is a Silicon Valley leader and Xoogler on the path to Executive, Venture Capitalist, and Tech Corporate Boards Member. She has over three years of experience as an AI & Advanced Analytics Associate Manager in strategy and consulting in applied intelligence, specializing in AI, data science, and advanced analytics at Big Tech, at Accenture and Avanade, the Accenture Microsoft Business Group. She is building Avanade's AI practice from the ground up with David Gormley. Shawna has also contributed to four Google products: Photos, Cloud, Play, and One and Amazon.
 
-Shawna completed her Kellogg Executive Education in Leading with Analytics and Artificial Intelligence, Certificates in Machine Learning and Computer Science from Stanford University School of Engineering, and Bachelor of Science in Computer Science and Statistics in Data Science from Donald Bren School of Information and Computer Sciences at University of California, Irvine. She advises in AI and data science for Harvard Business Review and contributes to LinkedIn's AI-powered collaborative articles as an AI expert; published twelve articles with Penn Medicine Radiation Oncology. 
+Shawna completed her Kellogg Executive Education in Leading with Analytics and Artificial Intelligence, Certificates in Machine Learning and Computer Science from Stanford University School of Engineering, and Bachelor of Science in Computer Science and Statistics in Data Science from Donald Bren School of Information and Computer Sciences at University of California, Irvine. She advises in AI and data science for Harvard Business Review and contributes to LinkedIn Collaborative Articles as an AI expert; published twelve articles with Penn Medicine Radiation Oncology. 
 
 #### EDUCATION__________________________________________________________________________________________________________________________
 * Accenture Master Data Architect Certificate
@@ -26,7 +26,7 @@ Shawna completed her Kellogg Executive Education in Leading with Analytics and A
 #### BIG TECH AI & DATA SCIENCE WORK EXPERIENCE_________________________________________________________________________________
 * 🎯 Incoming AI & Data Science Lead at Google
 * 📦 AI & Data Science Lead at Amazon
-* ⚡ AI Expert at LinkedIn AI-powered collaborative articles 
+* ⚡ AI Expert at LinkedIn Collaborative Articles
 * 🦾 AI Lead at Viking River Cruises and led 2 advanced analytics senior consultants
 * 🧠 AI & Data Science Advisor at Harvard Business Review
 * 🦄 Accenture Ventures & Open Innovation West Ambassador 
