@@ -95,7 +95,7 @@ Shawna completed her Kellogg Executive Education in Leading with Analytics and A
 #### PENN MEDICINE RADIATION ONCOLOGY DATA SCIENCE PAPERS_________________________________________________________________
 * Papers [(Google Scholar)](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en)
 
-#### TEST SCORE__________________________________________________________________________________________________________________________
+#### TEST SCORE_______________________________________________________________________________________________________________________
 * GMAT - Waived
 
 #### LANGUAGES__________________________________________________________________________________________________________________________
