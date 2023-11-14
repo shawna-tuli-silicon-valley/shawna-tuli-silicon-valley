@@ -86,7 +86,7 @@ Shawna completed her Kellogg Executive Education in Leading with Analytics and A
 * California Council on Economic Education Personal Finance Challenge
 * National Speech & Debate Association Degree of Excellence
 * North Carolina Council on Economic Education Economics Challenge
-* Kathak North Indian Classical Dance Certification
+* Kathak North Indian Classical Dance
 * Marvin Ridge High School International Baccalaureate 
 * Marvin Ridge High School Valedictorian*
 
