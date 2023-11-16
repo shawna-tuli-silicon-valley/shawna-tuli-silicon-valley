@@ -1,5 +1,5 @@
 ### Hi, I'm Shawna! 👋🏽
-🤖 Shawna Tuli is a Silicon Valley leader and Xoogler on the path to Executive, Venture Capitalist, and Tech Corporate Boards Member. She has over three years of experience as an AI & Advanced Analytics Associate Manager in strategy and consulting in applied intelligence, specializing in AI, data science, and advanced analytics at Big Tech, at Accenture and Avanade, the Accenture Microsoft Business Group. She is building Avanade's AI practice from the ground up with David Gormley. Shawna has also contributed to four Google products: Photos, Cloud, Play, and One and Amazon.
+🤖 Shawna Tuli is a Silicon Valley leader and Xoogler on the path to Executive, Venture Capitalist, and Tech Corporate Boards Member. She has over three years of experience as an AI & Advanced Analytics Associate Manager in strategy and consulting in applied intelligence, specializing in AI, data science, and advanced analytics at Big Tech, at Accenture and Avanade, the Accenture Microsoft Business Group. She is building Avanade's AI Practice from the ground up with David Gormley. Shawna has also contributed to four Google products: Photos, Cloud, Play, and One and Amazon.
 
 #### EDUCATION__________________________________________________________________________________________________________________________
 * Accenture Master Data Architect Certificate
