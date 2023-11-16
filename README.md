@@ -27,7 +27,7 @@
 * ⚡ AI Expert at LinkedIn Collaborative Articles [(LinkedIn)](https://www.linkedin.com/in/shawna-tuli-silicon-valley)
 * 🦾 AI Lead at Viking River Cruises and led 2 advanced analytics senior consultants
 * 🧠 AI & Data Science Advisor at Harvard Business Review
-* 🦄 Accenture Ventures & Open Innovation West Ambassador 
+* 🦄 Accenture Ventures & Open Innovation West Ambassador
 * 🧡 AI Data Scientist at Avanade 
 * 📢 Software Engineer at The NPD Group
 * ✅ AI Data Scientist at Avanade
