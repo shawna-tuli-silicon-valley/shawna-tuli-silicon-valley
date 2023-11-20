@@ -1,3 +1,5 @@
+<img width="365" alt="Screen Shot 2023-11-20 at 10 51 48 AM" src="https://github.com/shawna-tuli-silicon-valley/shawna-tuli-silicon-valley/assets/19508013/147ee3db-29e8-4aa5-8e3e-9e0ce1725614">
+
 🌁 Shawna Tuli is a Silicon Valley leader and Xoogler on the path to Executive, Venture Capitalist, and Tech Corporate Boards Member. She has over three years of experience as an AI & Advanced Analytics Associate Manager in strategy and consulting in applied intelligence, specializing in artificial intelligence, data science, and advanced analytics at Big Tech, at Accenture and Avanade, the Accenture Microsoft Business Group. She is building Avanade's Artificial Intelligence Practice from the ground up with David Gormley. Shawna has also contributed to four Google products: Photos, Cloud, Play, and One and Amazon.
 
 #### EDUCATION__________________________________________________________________________________________________________________________
