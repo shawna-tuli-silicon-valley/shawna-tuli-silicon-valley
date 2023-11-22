@@ -26,6 +26,7 @@
 * 🎯 Incoming AI & Data Science Lead at Google
 * 📦 AI & Data Science Lead at Amazon [(Article)](https://www.pcmag.com/news/amazon-to-spend-over-1-billion-on-microsoft-365-licenses)
 * ⚡ AI Expert at LinkedIn Collaborative Articles [(LinkedIn)](https://www.linkedin.com/in/shawna-tuli-silicon-valley)
+* 👾 AI & Advanced Analytics Associate Manager in Strategy & Consulting at Avanade in Mountain View (Repo)
 * 🦾 AI Lead at Viking River Cruises and led 2 advanced analytics senior consultants
 * 🧠 AI & Data Science Advisor at Harvard Business Review [(Magazine)](https://hbr.org/)
 * 🦄 Accenture Ventures & Open Innovation West Ambassador
