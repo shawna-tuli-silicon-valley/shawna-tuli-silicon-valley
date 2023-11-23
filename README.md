@@ -1,8 +1,6 @@
 <img width="283" alt="Screen Shot 2023-11-20 at 12 20 49 PM" src="https://github.com/shawna-tuli-silicon-valley/shawna-tuli-silicon-valley/assets/19508013/7d2e9ed5-ca32-4e18-aa9a-bc21645f9997"><img width="365" alt="Screen Shot 2023-11-20 at 10 51 48 AM" src="https://github.com/shawna-tuli-silicon-valley/shawna-tuli-silicon-valley/assets/19508013/147ee3db-29e8-4aa5-8e3e-9e0ce1725614"><img width="136" alt="Screen Shot 2023-11-20 at 12 25 08 PM" src="https://github.com/shawna-tuli-silicon-valley/shawna-tuli-silicon-valley/assets/19508013/b793d3c5-df45-4c91-b2f6-704bb6c5b0e2">
 
-🌁 Shawna Tuli is a Silicon Valley leader and Xoogler on the path to Executive, Venture Capitalist, and Tech Corporate Boards Member. She has over three years of experience as an AI & Advanced Analytics Associate Manager in strategy and consulting in applied intelligence, specializing in artificial intelligence, data science, and advanced analytics at Big Tech, at Accenture and Avanade, the Accenture Microsoft Business Group. 
-
-Shawna is building Avanade's Artificial Intelligence Practice from the ground up with David Gormley and is the Practice's San Francisco Lead. She has also contributed to four Google products: Photos, Cloud, Play, and One and Amazon.
+🌁 Shawna Tuli is a Silicon Valley leader and Xoogler on the path to Executive, Venture Capitalist, and Tech Corporate Boards Member. She has over three years of experience as an AI & Advanced Analytics Associate Manager in strategy and consulting in applied intelligence, specializing in artificial intelligence, data science, and advanced analytics at Big Tech, at Accenture and Avanade, the Accenture Microsoft Business Group. Shawna is building Avanade's Artificial Intelligence Practice from the ground up with David Gormley and is the Practice's San Francisco Lead. She has also contributed to four Google products: Photos, Cloud, Play, and One and Amazon.
 
 #### EDUCATION__________________________________________________________________________________________________________________________
 * Accenture Master Data Architect Certificate
@@ -26,6 +24,7 @@ Shawna is building Avanade's Artificial Intelligence Practice from the ground up
 
 #### BIG TECH AI & DATA SCIENCE WORK EXPERIENCE_________________________________________________________________________________
 * 🎯 Incoming AI & Data Science Lead at Google
+* 🌁 Avanade AI Practice San Francisco Lead 
 * 📦 AI & Data Science Lead at Amazon [(Article)](https://www.pcmag.com/news/amazon-to-spend-over-1-billion-on-microsoft-365-licenses)
 * ⚡ AI Expert at LinkedIn Collaborative Articles [(LinkedIn)](https://www.linkedin.com/in/shawna-tuli-silicon-valley)
 * 👾 AI & Advanced Analytics Associate Manager in Strategy & Consulting at Avanade in Mountain View (Repo)
