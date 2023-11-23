@@ -27,7 +27,7 @@
 * 🌁 Avanade AI Practice San Francisco Lead: organizing and hosting events monthly for 50+ employees in San Francisco
 * 📦 AI & Data Science Lead at Amazon [(Article)](https://www.pcmag.com/news/amazon-to-spend-over-1-billion-on-microsoft-365-licenses)
 * ⚡ AI Expert at LinkedIn Collaborative Articles [(LinkedIn)](https://www.linkedin.com/in/shawna-tuli-silicon-valley)
-* 👾 AI & Advanced Analytics Associate Manager in Strategy & Consulting at Avanade in Mountain View (Repo)
+* 👾 AI & Advanced Analytics Associate Manager in Strategy & Consulting at Avanade in Mountain View [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics-3)
 * 🦾 AI Lead at Viking River Cruises and led 2 advanced analytics senior consultants
 * 🧠 AI & Data Science Advisor at Harvard Business Review [(Magazine)](https://hbr.org/)
 * 🦄 Accenture Ventures & Open Innovation West Ambassador
@@ -81,6 +81,7 @@
 * Finalist, University of California, Irvine Donald Bren School of Information and Computer Sciences Butterworth Product Development Competition (Software) 
 * Second Place, CFA Society Orange County Request for Proposal
 * CFA Institute Research Challenge
+* Girls Inc. of Orange County STEM Mentor
 * Los Gatos High School Christine Guether Brienzo Merit Scholarship
 * Los Gatos High School Los Gatos-Saratoga Union High School District Scholar
 * Advanced Placement Scholar with Distinction
