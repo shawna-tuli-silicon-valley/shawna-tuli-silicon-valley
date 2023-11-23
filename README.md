@@ -82,6 +82,7 @@
 * Second Place, CFA Society Orange County Request for Proposal
 * CFA Institute Research Challenge
 * Girls Inc. of Orange County STEM (Science, Technology, Engineering, and Math) Mentor
+* University of California, Irvine Math CEO STEM (Science, Technology, Engineering, and Math) Mentor
 * Los Gatos High School Christine Guether Brienzo Merit Scholarship
 * Los Gatos High School Los Gatos-Saratoga Union High School District Scholar
 * Advanced Placement Scholar with Distinction
