@@ -5,7 +5,7 @@
 #### EDUCATION__________________________________________________________________________________________________________________________
 * Accenture Master Data Architect Certificate
 * Harvard Univerity Artificial Intelligence [(Repo)](https://github.com/shawna-tuli-silicon-valley/harvard-ai)
-* Kellogg Education Education in Leading with Analytics and Artificial Intelligence [(Repo)](https://github.com/shawna-tuli-silicon-valley/kellogg-executive-education-leading-with-analytics-and-ai)
+* Accenture Kellogg Education Education in Leading with Analytics and Artificial Intelligence [(Repo)](https://github.com/shawna-tuli-silicon-valley/kellogg-executive-education-leading-with-analytics-and-ai)
 * Stanford University School of Engineering Certificates in Machine Learning and Computer Science [(Repo)](https://github.com/shawna-tuli-silicon-valley/stanford-engineering-machine-learning) [(Repo)](https://github.com/shawna-tuli-silicon-valley/stanford-engineering-computer-science)
 * University of California, Irvine Donald Bren School of Information and Computer Sciences Bachelor of Science in Computer Science and Statistics in Data Science - Dean's Honor List [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-data-science)
 * Bloomberg Market Concepts (BMC)
