@@ -24,7 +24,7 @@
 
 #### BIG TECH AI & DATA SCIENCE WORK EXPERIENCE_________________________________________________________________________________
 * 🎯 Incoming AI & Data Science Lead at Google
-* 🌁 Avanade AI Practice San Francisco Lead 
+* 🌁 Avanade AI Practice San Francisco Lead and organizing and hosting events monthly for 50+ employees in San Francisco
 * 📦 AI & Data Science Lead at Amazon [(Article)](https://www.pcmag.com/news/amazon-to-spend-over-1-billion-on-microsoft-365-licenses)
 * ⚡ AI Expert at LinkedIn Collaborative Articles [(LinkedIn)](https://www.linkedin.com/in/shawna-tuli-silicon-valley)
 * 👾 AI & Advanced Analytics Associate Manager in Strategy & Consulting at Avanade in Mountain View (Repo)
@@ -47,7 +47,7 @@
 * 💜 AI & Data Science Lead at Accenture CIO and led a data scientist
 * ☕ Software Engineer at Starbucks Coffee
 * 🔢 Advanced Analytics Lead at Applied Materials and led 2 analysts
-* 🎉 Avanade NorCal Social Committee Member and organized and hosted events monthly for 50+ employees in South Bay Area
+* 🎉 Avanade NorCal Social Committee Member and organizing and hosting events monthly for 50+ employees in South Bay Area
 * 💭 AI & Advanced Analytics Senior Analyst in Strategy & Consulting at Avanade in San Francisco [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics)
 * 📊 12 Penn Medicine Radiation Oncology papers + abstracts and led 30+ surgeons, doctors, and medical students [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-penn-medicine-global-radiation-oncology-analytics) 
 * 🖼️ Avanade Top 5 in Innovation award for creating an Azure AI product via computer vision [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-irvine-ai-product)
