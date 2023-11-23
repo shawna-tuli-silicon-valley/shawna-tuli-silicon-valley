@@ -24,7 +24,7 @@
 
 #### BIG TECH AI & DATA SCIENCE WORK EXPERIENCE_________________________________________________________________________________
 * 🎯 Incoming AI & Data Science Lead at Google
-* 🌁 Avanade AI Practice San Francisco Lead: organizing and hosting events monthly for 50+ employees in San Francisco
+* 🌁 Avanade AI Practice San Francisco Lead: organizing and hosting events monthly for 5+ employees in San Francisco
 * 📦 AI & Data Science Lead at Amazon [(Article)](https://www.pcmag.com/news/amazon-to-spend-over-1-billion-on-microsoft-365-licenses)
 * ⚡ AI Expert at LinkedIn Collaborative Articles [(LinkedIn)](https://www.linkedin.com/in/shawna-tuli-silicon-valley)
 * 👾 AI & Advanced Analytics Associate Manager in Strategy & Consulting at Avanade in Mountain View [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics-3)
