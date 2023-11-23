@@ -19,6 +19,16 @@
 * 💚 Google Certificates in Business Intelligence [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-business-intelligence-professional-certificate)
 * 💙 Google Certificates in Project Management [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-project-management-professional-certificate)
 
+#### PROGRAMMING LANGUAGES_______________________________________________________________________________________________________
+* Python
+* R
+* SQL
+* C++
+* Java
+* Swift
+* Javascript
+* HTML/CSS
+
 #### BIG TECH AI & DATA SCIENCE PUBLIC SPEAKING__________________________________________________________________________________
 * Conferences and programs [(Repo)](https://github.com/shawna-tuli-silicon-valley/big-tech-silicon-valley-conferences-and-programs)
 
