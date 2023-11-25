@@ -3,10 +3,10 @@
 🌁 Shawna Tuli is a Silicon Valley leader and Xoogler on the path to Executive, Venture Capitalist, and Tech Corporate Boards Member. She has over three years of experience as an AI & Advanced Analytics Associate Manager in strategy and consulting in applied intelligence, specializing in artificial intelligence, data science, and advanced analytics at Big Tech, at Accenture and Avanade, the Accenture Microsoft Business Group. Shawna is building Avanade's AI Practice from the ground up with David Gormley and is the San Francisco Lead. She has contributed to four Google products: Photos, Cloud, Play, and One and Amazon.
 
 #### EDUCATION__________________________________________________________________________________________________________________________
-* Accenture Master Data Architect Certificate
-* Harvard Univerity Artificial Intelligence [(Repo)](https://github.com/shawna-tuli-silicon-valley/harvard-ai)
 * Accenture Kellogg Education Education in Leading with Analytics and Artificial Intelligence [(Repo)](https://github.com/shawna-tuli-silicon-valley/kellogg-executive-education-leading-with-analytics-and-ai)
 * Stanford University School of Engineering Certificates in Machine Learning and Computer Science [(Repo)](https://github.com/shawna-tuli-silicon-valley/stanford-engineering-machine-learning) [(Repo)](https://github.com/shawna-tuli-silicon-valley/stanford-engineering-computer-science)
+* Accenture Master Data Architect Certificate
+* Harvard Univerity Artificial Intelligence [(Repo)](https://github.com/shawna-tuli-silicon-valley/harvard-ai)
 * University of California, Irvine Donald Bren School of Information and Computer Sciences Bachelor of Science in Computer Science and Statistics in Data Science - Dean's Honor List [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-data-science)
 * Bloomberg Market Concepts (BMC)
 * Los Gatos High School - Los Gatos-Saratoga Union High School District Scholar, Advanced Placement Scholar with Distinction, and Christine Guenther Brienzo Merit Scholarship [(Repo)](https://github.com/shawna-tuli-silicon-valley/lghs-advanced-placement)
@@ -25,6 +25,7 @@
 * SQL
 * C++
 * Java
+* x86 Assembly
 * Swift
 * Javascript
 * HTML/CSS
