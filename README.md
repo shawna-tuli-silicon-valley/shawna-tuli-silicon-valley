@@ -27,7 +27,8 @@
 * Java
 * Swift
 * Javascript
-* HTML/CSS
+* HTML
+* CSS
 * x86 Assembly
 
 #### BIG TECH AI & DATA SCIENCE PUBLIC SPEAKING__________________________________________________________________________________
