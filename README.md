@@ -69,7 +69,8 @@
 #### CERTIFICATES________________________________________________________________________________________________________________
 * Accenture Master Data Architect Certificate
 * Bloomberg Market Concepts (BMC)
-* 
+* The Wharton School - Introduction to Marketing [(Certificate)](https://www.coursera.org/account/accomplishments/certificate/NMFXW69JVDJX)
+* University of California, Davis - SQL for Data Science [(Certificate)](https://www.coursera.org/account/accomplishments/certificate/TG58RPJKTBB9)
 
 #### PROGRAMMING LANGUAGES_______________________________________________________________________________________________________
 * Python
