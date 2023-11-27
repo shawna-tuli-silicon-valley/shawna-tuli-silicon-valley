@@ -2,34 +2,6 @@
 
 🌁 Shawna Tuli is a Silicon Valley leader and Xoogler on the path to Executive, Venture Capitalist, and Tech Corporate Boards Member. She has over three years of experience as an AI & Advanced Analytics Associate Manager in strategy and consulting in applied intelligence, specializing in artificial intelligence, data science, and advanced analytics at Big Tech, at Accenture and Avanade, the Accenture Microsoft Business Group. Shawna is building Avanade's AI Practice from the ground up with David Gormley and is the San Francisco Lead. She has contributed to four Google products: Photos, Cloud, Play, and One and Amazon.
 
-#### EDUCATION__________________________________________________________________________________________________________________________
-* Accenture Kellogg Education Education in Leading with Analytics and Artificial Intelligence [(Repo)](https://github.com/shawna-tuli-silicon-valley/kellogg-executive-education-leading-with-analytics-and-ai)
-* Stanford University School of Engineering Certificates in Machine Learning and Computer Science [(Repo)](https://github.com/shawna-tuli-silicon-valley/stanford-engineering-machine-learning) [(Repo)](https://github.com/shawna-tuli-silicon-valley/stanford-engineering-computer-science)
-* Harvard Univerity Artificial Intelligence [(Repo)](https://github.com/shawna-tuli-silicon-valley/harvard-ai)
-* University of California, Irvine Donald Bren School of Information and Computer Sciences Bachelor of Science in Computer Science and Statistics in Data Science - Dean's Honor List [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-data-science)
-* Los Gatos High School - Los Gatos-Saratoga Union High School District Scholar, Advanced Placement Scholar with Distinction, and Christine Guenther Brienzo Merit Scholarship [(Repo)](https://github.com/shawna-tuli-silicon-valley/lghs-advanced-placement)
-* Marvin Ridge High School - Valedictorian*, International Baccalaureate [(Repo)](https://github.com/shawna-tuli-silicon-valley/mrhs-international-baccalaureate), and National Speech & Debate Association Degree of Excellence [(Repo)](https://github.com/shawna-tuli-silicon-valley/mrhs-north-carolina-forensic-league-state-championship)
-
-#### GOOGLE EDUCATION________________________________________________________________________________________________________________
-* 🤍 Google Cloud Certificates in Generative Artificial Intelligence [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-cloud-generative-ai/)
-* ❤️ Google Certificates in Advanced Data Analytics [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-advanced-data-analytics-professional-certificate)
-* 💛 Google Certificates in Data Analytics [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-data-analytics-professional-certificate)
-* 💚 Google Certificates in Business Intelligence [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-business-intelligence-professional-certificate)
-* 💙 Google Certificates in Project Management [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-project-management-professional-certificate)
-
-#### PROGRAMMING LANGUAGES_______________________________________________________________________________________________________
-* Python
-* R
-* SQL
-* C++
-* Java
-* Swift
-* Javascript
-* HTML
-* CSS
-* x86 Assembly
-* Bash
-
 #### BIG TECH AI & DATA SCIENCE PUBLIC SPEAKING__________________________________________________________________________________
 * Conferences and programs [(Repo)](https://github.com/shawna-tuli-silicon-valley/big-tech-silicon-valley-conferences-and-programs)
 
@@ -78,6 +50,39 @@
 * 💙 HSHacks hackathon at PayPal [(Article)](https://venturebeat.com/dev/teenagers-take-over-paypal-hold-their-own-hackathon/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shawna-tuli-silicon-valley&layout=compact) 
+
+#### EDUCATION__________________________________________________________________________________________________________________________
+* Accenture Kellogg Education Education in Leading with Analytics and Artificial Intelligence [(Repo)](https://github.com/shawna-tuli-silicon-valley/kellogg-executive-education-leading-with-analytics-and-ai)
+* Stanford University School of Engineering Certificates in Machine Learning and Computer Science [(Repo)](https://github.com/shawna-tuli-silicon-valley/stanford-engineering-machine-learning) [(Repo)](https://github.com/shawna-tuli-silicon-valley/stanford-engineering-computer-science)
+* Harvard Univerity Artificial Intelligence [(Repo)](https://github.com/shawna-tuli-silicon-valley/harvard-ai)
+* University of California, Irvine Donald Bren School of Information and Computer Sciences Bachelor of Science in Computer Science and Statistics in Data Science - Dean's Honor List [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-data-science)
+* Los Gatos High School - Los Gatos-Saratoga Union High School District Scholar, Advanced Placement Scholar with Distinction, and Christine Guenther Brienzo Merit Scholarship [(Repo)](https://github.com/shawna-tuli-silicon-valley/lghs-advanced-placement)
+* Marvin Ridge High School - Valedictorian*, International Baccalaureate [(Repo)](https://github.com/shawna-tuli-silicon-valley/mrhs-international-baccalaureate), and National Speech & Debate Association Degree of Excellence [(Repo)](https://github.com/shawna-tuli-silicon-valley/mrhs-north-carolina-forensic-league-state-championship)
+
+#### GOOGLE EDUCATION________________________________________________________________________________________________________________
+* 🤍 Google Cloud Certificates in Generative Artificial Intelligence [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-cloud-generative-ai/)
+* ❤️ Google Certificates in Advanced Data Analytics [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-advanced-data-analytics-professional-certificate)
+* 💛 Google Certificates in Data Analytics [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-data-analytics-professional-certificate)
+* 💚 Google Certificates in Business Intelligence [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-business-intelligence-professional-certificate)
+* 💙 Google Certificates in Project Management [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-project-management-professional-certificate)
+
+#### CERTIFICATES________________________________________________________________________________________________________________
+* Accenture Master Data Architect Certificate
+* Bloomberg Market Concepts (BMC)
+* 
+
+#### PROGRAMMING LANGUAGES_______________________________________________________________________________________________________
+* Python
+* R
+* SQL
+* C++
+* Java
+* Swift
+* Javascript
+* HTML
+* CSS
+* x86 Assembly
+* Bash
 
 #### HONORS & AWARDS_________________________________________________________________________________________________________________
 * Avanade Best Baker
