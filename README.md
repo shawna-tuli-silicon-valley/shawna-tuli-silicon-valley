@@ -66,7 +66,7 @@
 * 💚 Google Certificates in Business Intelligence [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-business-intelligence-professional-certificate)
 * 💙 Google Certificates in Project Management [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-project-management-professional-certificate)
 
-#### CERTIFICATES________________________________________________________________________________________________________________
+#### CERTIFICATES______________________________________________________________________________________________________________________
 * Accenture Master Data Architect Certificate
 * Bloomberg Market Concepts (BMC)
 * The Wharton School - Introduction to Marketing [(Certificate)](https://www.coursera.org/account/accomplishments/certificate/NMFXW69JVDJX)
