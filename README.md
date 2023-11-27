@@ -72,6 +72,9 @@
 * The Wharton School - Introduction to Marketing [(Certificate)](https://www.coursera.org/account/accomplishments/certificate/NMFXW69JVDJX)
 * University of California, Davis - SQL for Data Science [(Certificate)](https://www.coursera.org/account/accomplishments/certificate/TG58RPJKTBB9)
 
+#### TEST SCORE________________________________________________________________________________________________________________________
+* GMAT - Waived
+
 #### PROGRAMMING LANGUAGES_______________________________________________________________________________________________________
 * Python
 * R
@@ -112,9 +115,6 @@
 
 #### PENN MEDICINE RADIATION ONCOLOGY DATA SCIENCE PAPERS_________________________________________________________________
 * Papers [(Google Scholar)](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en)
-
-#### TEST SCORE________________________________________________________________________________________________________________________
-* GMAT - Waived
 
 #### LANGUAGES_________________________________________________________________________________________________________________________
 * English
