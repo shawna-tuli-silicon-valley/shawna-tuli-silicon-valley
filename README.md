@@ -53,7 +53,7 @@
 
 #### EDUCATION__________________________________________________________________________________________________________________________
 * Accenture Kellogg Education Education in Leading with Analytics and Artificial Intelligence [(Repo)](https://github.com/shawna-tuli-silicon-valley/kellogg-executive-education-leading-with-analytics-and-ai)
-* Stanford University School of Engineering Certificates in Machine Learning and Computer Science [(Certificate)](https://www.coursera.org/account/accomplishments/certificate/47XPJRBC4F5C)[(Repo)](https://github.com/shawna-tuli-silicon-valley/stanford-engineering-computer-science)
+* Stanford University School of Engineering Certificates in Machine Learning and Computer Science [(Certificate)](https://www.coursera.org/account/accomplishments/certificate/47XPJRBC4F5C) [(Repo)](https://github.com/shawna-tuli-silicon-valley/stanford-engineering-computer-science)
 * Harvard Univerity Artificial Intelligence [(Repo)](https://github.com/shawna-tuli-silicon-valley/harvard-ai)
 * University of California, Irvine Donald Bren School of Information and Computer Sciences Bachelor of Science in Computer Science and Statistics in Data Science - Dean's Honor List [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-data-science)
 * Los Gatos High School - Los Gatos-Saratoga Union High School District Scholar, Advanced Placement Scholar with Distinction, and Christine Guenther Brienzo Merit Scholarship [(Repo)](https://github.com/shawna-tuli-silicon-valley/lghs-advanced-placement)
