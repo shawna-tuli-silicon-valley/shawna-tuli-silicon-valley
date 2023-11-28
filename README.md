@@ -10,21 +10,21 @@
 * 🌁 Avanade AI Practice San Francisco Lead: organizing and hosting events monthly for 5+ employees in San Francisco
 * 📦 AI & Data Science Lead at Amazon [(Article)](https://www.pcmag.com/news/amazon-to-spend-over-1-billion-on-microsoft-365-licenses)
 * ⚡ AI Expert at LinkedIn Collaborative Articles [(LinkedIn)](https://www.linkedin.com/in/shawna-tuli-silicon-valley)
-* 👾 Avanade Mountain View AI & Advanced Analytics Associate Manager in Strategy & Consulting [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics-3)
+* 👾 Avanade Mountain View Strategy & Consulting AI & Advanced Analytics Associate Manager [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics-3)
 * 🦾 AI Lead at Viking River Cruises and led 2 advanced analytics senior consultants
 * 🧠 AI & Data Science Advisor at Harvard Business Review [(Repo)](https://github.com/shawna-tuli-silicon-valley/harvard-business-review-advisory-council) [(Magazine)](https://hbr.org/)
 * 🦄 Accenture Ventures & Open Innovation West Ambassador
 * 🧡 AI Data Scientist at Avanade 
 * 📢 Software Engineer at The NPD Group
 * ✅ AI Data Scientist at Avanade
-* ⚙️ Avanade San Francisco AI & Advanced Analytics Associate Manager in Strategy & Consulting [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics-2)
+* ⚙️ Avanade San Francisco Strategy & Consulting AI & Advanced Analytics Associate Manager [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics-2)
 * 📉 Accenture V360 Awards in Innovation nominee for forecasting energy usage with AI in California [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-california-energy-ai-and-predictive-analytics) [(Student Repo)](https://github.com/shawna-tuli-silicon-valley/EnergyPredictionCA)
 * 🔮 National Science Foundation paper + poster for predicting energy consumption with AI in California [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-california-energy-and-ai-predictive-analytics-2) (Student Repo)
 * ☁️ AI & Data Science Lead at Google Cloud and led a data engineer [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-sunnyvale-ai-and-data-science-3) [(Article)](https://www.cnbc.com/2023/04/25/googles-cloud-business-turns-profitable-for-the-first-time-on-record.html)
 * ▶️ Software Engineer at Google Play [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-mountain-view-devops-advanced-analytics-4)
 * 1️⃣ Software Engineer at Google One [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-mountain-view-product-analytics-data-science-2)
 * 🔎 Accenture V360 Awards in Innovation nominee for predicting risk of T2 diabetes with AI in California [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-california-type-2-diabetes-ai-and-predictive-analytics) [(Student Repo)](https://github.com/shawna-tuli-silicon-valley/STATS170_Project-1)
-* 🤖 AI & Advanced Analytics Consultant in Strategy & Consulting at Avanade in San Francisco [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics)
+* 🤖 Avanade San Francisco Strategy & Consulting AI & Advanced Analytics Consultant [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics)
 * 🧾 Software Engineer at H&R Block and led a software engineer
 * 🖤 Software Engineering Lead at Bill & Melinda Gates Foundation and led 4 software engineers 
 * 💜 AI & Data Science Lead at Accenture CIO and led a data scientist
