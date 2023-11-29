@@ -6,6 +6,8 @@
 * Conferences and programs [(Repo)](https://github.com/shawna-tuli-silicon-valley/big-tech-silicon-valley-conferences-and-programs)
 
 #### BIG TECH AI & DATA SCIENCE WORK EXPERIENCE_________________________________________________________________________________
+* 🆕 Incoming Accenture V360 Awards in Innovation nominee
+* ✨ Incoming AI in California
 * 🎯 Incoming AI & Data Science Lead at Google
 * 🌁 Avanade AI Practice San Francisco Lead: organizing and hosting events monthly for 5+ employees in San Francisco
 * 📦 AI & Data Science Lead at Amazon [(Article)](https://www.pcmag.com/news/amazon-to-spend-over-1-billion-on-microsoft-365-licenses)
@@ -93,7 +95,7 @@
 #### HONORS & AWARDS_________________________________________________________________________________________________________________
 * Avanade Best Baker
 * Attendee, Google I/O (3x)
-* Nominee, Accenture V360 Awards in Innovation (2x)
+* Nominee, Accenture V360 Awards in Innovation (3x)
 * University of California, Irvine Dean's Honor List
 * Avanade Top 5 in Innovation
 * Forbes Under 30 Scholar in Innovation
