@@ -44,8 +44,8 @@
 * 🥇 Olympics Games bayesian data analysis - UCI ICS STATS 115/205 [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-olympic-games-bayesian-data-analysis)
 * 💋 Kys iOS app - built in 24 hours at USC Viterbi School of Engineering AthenaHacks hackathon [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-kys-ios-app) [(Devpost)](https://devpost.com/software/kys-0s456d?fbclid=IwAR1zk_PqUaJkhv4SuBtjU898owq_guS0EFm7R68mAZgG_F7k3dZijiDOcT4#updates)
 * 💯 Exceed Android app - won UCI ICS Butterworth Product Development Competition (Software) Finalist award [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-exceed-android-app)
-* University of California, Irvine Math CEO (Community Educational Outreach) STEM Mentor
-* Girls Inc. of Orange County STEM (Science, Technology, Engineering, and Math) Mentor [(Article)](https://issuu.com/dwilliams11/docs/gioc_2017annualreport)
+* 🔢 University of California, Irvine Math CEO (Community Educational Outreach) STEM Mentor
+* 🌐 Girls Inc. of Orange County STEM (Science, Technology, Engineering, and Math) Mentor [(Report)](https://issuu.com/dwilliams11/docs/gioc_2017annualreport)
 * 💳 Eidebtic Vault Web app - built in 24 hours at Capital One Santa Monica hackathon [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-merage-ics-eidebtic-vault-web-app)
 * 🛍️ Data Scientist Intern at eBay in the Office of the CIO [(Repo)](https://github.com/shawna-tuli-silicon-valley/ebay-san-jose-product-analytics-data-science) 
 * 📲 Yaksee interactive broadcasting app - mentioned in SiliconValley.com [(Repo)](https://github.com/shawna-tuli-silicon-valley/lghs-yaksee-interactive-broadcasting-app) [(Article)](https://www.siliconvalley.com/2016/03/23/los-gatos-startup-debuts-interactive-broadcasting-app/)
