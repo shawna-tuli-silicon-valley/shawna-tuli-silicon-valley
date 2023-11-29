@@ -6,9 +6,9 @@
 * Conferences and programs [(Repo)](https://github.com/shawna-tuli-silicon-valley/big-tech-silicon-valley-conferences-and-programs)
 
 #### BIG TECH AI & DATA SCIENCE WORK EXPERIENCE_________________________________________________________________________________
-* 🆕 Incoming Accenture V360 Awards in Innovation nominee
-* ✨ Incoming AI in California
-* 🎯 Incoming AI & Data Science Lead at Google
+* 🆕 Incoming Accenture V360 Awards in Innovation nominee (Repo) (Student Repo) 
+* ✨ Incoming AI in California (Repo) (Student Repo) 
+* 🎯 Incoming AI & Data Science Lead at Google (Repo)
 * 🌁 Avanade AI Practice San Francisco Lead: organizing and hosting events monthly for 5+ employees in San Francisco
 * 📦 AI & Data Science Lead at Amazon [(Article)](https://www.pcmag.com/news/amazon-to-spend-over-1-billion-on-microsoft-365-licenses)
 * ⚡ AI Expert at LinkedIn Collaborative Articles [(LinkedIn)](https://www.linkedin.com/in/shawna-tuli-silicon-valley)
