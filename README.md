@@ -113,9 +113,6 @@
 * Marvin Ridge High School International Baccalaureate 
 * Marvin Ridge High School Valedictorian*
 
-#### PENN MEDICINE RADIATION ONCOLOGY DATA SCIENCE PAPERS_________________________________________________________________
-* Papers [(Google Scholar)](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en)
-
 #### LANGUAGES_________________________________________________________________________________________________________________________
 * English
 * Hindi
