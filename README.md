@@ -29,7 +29,7 @@
 * 🖤 Software Engineering Lead at Bill & Melinda Gates Foundation and led 4 software engineers 
 * 💜 AI & Data Science Lead at Accenture CIO and led a data scientist
 * ☕ Software Engineer at Starbucks Coffee
-* 🔢 Advanced Analytics Lead at Applied Materials and led 2 analysts
+* 💾 Advanced Analytics Lead at Applied Materials and led 2 analysts
 * 🎉 Avanade NorCal Social Committee Member: organizing and hosting events monthly for 50+ employees in South Bay Area
 * 💭 Avanade San Francisco Strategy & Consulting AI & Advanced Analytics Senior Analyst [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics)
 * 📊 12 Penn Medicine Radiation Oncology papers + abstracts and led 30+ surgeons, doctors, and medical students [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-penn-medicine-global-radiation-oncology-analytics) 
