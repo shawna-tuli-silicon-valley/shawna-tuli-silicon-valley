@@ -1,11 +1,12 @@
 <img width="365" alt="Screen Shot 2023-11-20 at 10 51 48 AM" src="https://github.com/shawna-tuli-silicon-valley/shawna-tuli-silicon-valley/assets/19508013/147ee3db-29e8-4aa5-8e3e-9e0ce1725614"><img width="136" alt="Screen Shot 2023-11-20 at 12 25 08 PM" src="https://github.com/shawna-tuli-silicon-valley/shawna-tuli-silicon-valley/assets/19508013/b793d3c5-df45-4c91-b2f6-704bb6c5b0e2">
 
-🌁 Shawna Tuli is a Silicon Valley leader and Xoogler on the path to Executive, Venture Capitalist, and Tech Corporate Boards Member. She has over three years of experience as an AI & Advanced Analytics Associate Manager in strategy and consulting in applied intelligence, specializing in artificial intelligence, data science, and advanced analytics at Big Tech, at Accenture and Avanade, the Accenture Microsoft Business Group. Shawna is building Avanade's AI Practice from the ground up with David Gormley and is the San Francisco Lead. She has contributed to four Google products: Photos, Cloud, Play, and One and Amazon.
+🌁 Shawna Tuli is a Silicon Valley leader and Xoogler on the path to Executive, Venture Capitalist, and Tech Corporate Boards Member. She has over three years of experience as an AI & Advanced Analytics Associate Manager in strategy and consulting in applied intelligence, specializing in generative artificial intelligence, artificial intelligence, data science, and advanced analytics at Big Tech, at Accenture and Avanade, the Accenture Microsoft Business Group. Shawna is building Avanade's AI Practice from the ground up with David Gormley and is the San Francisco Lead. She has contributed to four Google products: Photos, Cloud, Play, and One and Amazon.
 
 #### BIG TECH AI & DATA SCIENCE PUBLIC SPEAKING__________________________________________________________________________________
 * Conferences and programs [(Repo)](https://github.com/shawna-tuli-silicon-valley/big-tech-silicon-valley-conferences-and-programs)
 
 #### BIG TECH AI & DATA SCIENCE WORK EXPERIENCE_________________________________________________________________________________
+* 🖥️ Incoming Accenture Generative AI Lab Member 
 * 🎯 Incoming AI & Data Science Lead at Google (Repo)
 * 🆕 Incoming Accenture V360 Awards in Innovation nominee (Repo) (Student Repo) 
 * ✨ Incoming AI in California (Repo) (Student Repo) 
