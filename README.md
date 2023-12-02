@@ -95,24 +95,27 @@
 
 #### HONORS & AWARDS_________________________________________________________________________________________________________________
 * Avanade Best Baker
-* Attendee, Google I/O (3x)
-* Nominee, Accenture V360 Awards in Innovation (3x)
+* Google I/O Attendee (3x)
+* Accenture V360 Awards in Innovation Nominee (3x)
 * University of California, Irvine Dean's Honor List
 * Avanade Top 5 in Innovation
 * Forbes Under 30 Scholar in Innovation
 * University of California, Irvine Alpha Kappa Psi Professional Business Fraternity Most Likely to be a Billionaire
 * Up to Us Top 20 Team
 * Up to Us Top Pledge Earner
-* Finalist, University of California, Irvine Donald Bren School of Information and Computer Sciences Butterworth Product Development Competition (Software) 
-* Second Place, CFA Society Orange County Request for Proposal
+* University of California, Irvine Donald Bren School of Information and Computer Sciences Butterworth Product Development Competition (Software) Finalist
+* CFA Society Orange County Request for Proposal Second Place
 * CFA Institute Research Challenge
-* Los Gatos High School Christine Guether Brienzo Merit Scholarship
-* Los Gatos High School Los Gatos-Saratoga Union High School District Scholar
 * Advanced Placement Scholar with Distinction
 * California Council on Economic Education Personal Finance Challenge
+* Future Business Leaders of America Bay Section Top 10 in Securities & Investments
+* Science Olympiad Santa Clara County Top 3 (2x)
+* Los Gatos High School Christine Guether Brienzo Merit Scholarship
+* Los Gatos High School Los Gatos-Saratoga Union High School District Scholar
 * National Speech & Debate Association Degree of Excellence
 * North Carolina Council on Economic Education Economics Challenge
 * Kathak North Indian Classical Dance
+* Science Olympiad Union County Top 3 (2x)
 * Marvin Ridge High School International Baccalaureate 
 * Marvin Ridge High School Valedictorian*
 
