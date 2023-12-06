@@ -6,10 +6,10 @@
 * Conferences and programs [(Repo)](https://github.com/shawna-tuli-silicon-valley/big-tech-silicon-valley-conferences-and-programs)
 
 #### BIG TECH AI & DATA SCIENCE WORK EXPERIENCE_________________________________________________________________________________
-* 🖥️ Incoming Accenture Generative AI Studio Member 
 * 🆕 Incoming Accenture V360 Awards in Innovation nominee (Repo) (Student Repo) 
 * ✨ Incoming Generative AI in California (Repo) (Student Repo)
 * 🎯 Incoming AI & Data Science Lead at Google (Repo)
+* 🖥️ Accenture San Francisco Generative AI Studio Member 
 * 🌁 Avanade AI Practice San Francisco Lead: organizing and hosting events monthly for 10+ employees in San Francisco
 * 📦 AI & Data Science Lead at Amazon (Repo) [(Article)](https://www.pcmag.com/news/amazon-to-spend-over-1-billion-on-microsoft-365-licenses)
 * ⚡ AI Expert at LinkedIn Collaborative Articles [(LinkedIn)](https://www.linkedin.com/in/shawna-tuli-silicon-valley)
