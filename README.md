@@ -3,7 +3,7 @@
 🌁 Shawna Tuli is a Silicon Valley leader and Xoogler on the path to Executive, Venture Capitalist, and Tech Corporate Boards Member. She has over three years of experience as an AI & Advanced Analytics Associate Manager in strategy and consulting in applied intelligence, specializing in generative artificial intelligence, artificial intelligence, data science, and advanced analytics at Big Tech, at Accenture and Avanade. Shawna is building Avanade's AI Practice from the ground up with David Gormley and is the San Francisco Lead. She has contributed to four Google products: Photos, Cloud, Play, and One and Amazon. Her MBTI is ENFJ-A and Strengths are Activator, Achiever, Futuristic, Competition, and Significance. Shawna is a proud UCI ICS Data Science Alumna. 
 
 #### BIG TECH AI & DATA SCIENCE PUBLIC SPEAKING__________________________________________________________________________________
-* Conferences and programs [(Repo)](https://github.com/shawna-tuli-silicon-valley/big-tech-silicon-valley-conferences-and-programs)
+* Conferences & programs [(Repo)](https://github.com/shawna-tuli-silicon-valley/big-tech-silicon-valley-conferences-and-programs)
 
 #### BIG TECH AI & DATA SCIENCE WORK EXPERIENCE_________________________________________________________________________________
 * 🆕 Incoming Accenture V360 Awards in Innovation nominee (Repo) (Student Repo) 
