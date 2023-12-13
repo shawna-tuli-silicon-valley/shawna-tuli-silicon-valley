@@ -96,6 +96,7 @@
 * Bash
 
 #### HONORS & AWARDS_________________________________________________________________________________________________________________
+* Google Bay Area AI for everyone
 * Avanade Best Baker
 * Google I/O Attendee (3x)
 * Accenture V360 Awards in Innovation Nominee (3x)
