@@ -55,6 +55,7 @@
 * 💳 Eidebtic Vault Web app - built in 24 hours at Capital One Santa Monica hackathon [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-merage-ics-eidebtic-vault-web-app)
 * 🛍️ Data Scientist Intern at eBay in the Office of the CIO [(Repo)](https://github.com/shawna-tuli-silicon-valley/ebay-san-jose-product-analytics-data-science) 
 * 📲 Yaksee interactive broadcasting app - mentioned in SiliconValley.com [(Repo)](https://github.com/shawna-tuli-silicon-valley/lghs-yaksee-interactive-broadcasting-app) [(Article)](https://www.siliconvalley.com/2016/03/23/los-gatos-startup-debuts-interactive-broadcasting-app/)
+* 🌲 Stanford University Girl Code Program [(Repo)](https://github.com/shawna-tuli-silicon-valley/stanford-engineering-computer-science)
 * 💸 HSHacks hackathon at PayPal [(Article)](https://venturebeat.com/dev/teenagers-take-over-paypal-hold-their-own-hackathon/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shawna-tuli-silicon-valley&layout=compact) 
