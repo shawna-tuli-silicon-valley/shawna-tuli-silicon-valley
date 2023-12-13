@@ -75,12 +75,15 @@
 * Google Women in Engineering Conference
 * Google Photos All-hands 
 * University of California, Irvine Alpha Kappa Psi Professional Business Fraternity Most Likely to be a Billionaire
+* University of California, Irvine Alpha Kappa Psi Professional Business Fraternity Vice President of Professional Development
 * Up to Us Top 20 Team
 * Up to Us Top Pledge Earner
 * University of California, Irvine Donald Bren School of Information & Computer Sciences Butterworth Product Development Competition (Software) Finalist
 * MongoDB.local SoCal Conference
 * CFA Society Orange County Request for Proposal Second Place
 * CFA Institute Research Challenge
+* University of California, Irvine Student Managed Investment Fund Executive Vice President
+* University of California, Irvine Student Managed Investment Fund Fixed Income Analyst 
 * Stanford University Girl Code Program Yahoo Visit
 * Stanford University Girl Code Program 
 * Advanced Placement Scholar with Distinction
