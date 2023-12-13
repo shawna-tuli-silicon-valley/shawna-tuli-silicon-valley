@@ -44,7 +44,7 @@
 * 🚀 Data Scientist at UCI Beall Applied Innovation [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-beall-applied-innovation-product-analytics-data-science)
 * 💰 Alpha Kappa Psi Professional Business Fraternity Most Likely to be a Billionaire award
 * 💼 Alpha Kappa Psi Professional Business Fraternity Professional Chair and led 50+ professionals [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-alpha-kappa-psi-professional-business-fraternity)
-* 🏆 Co-Founder & Marketing Director at UptoUCI - won 2 Up to Us national honor badges [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-merage-national-debt-marketing-analytics) [(Credly)](https://www.credly.com/users/shawna-tuli/badges) [(Article)](https://wfuogb.com/5022/news/up-to-us-movement-raises-awareness-about-national-debt/)
+* 🏆 Co-Founder & Marketing Director of UptoUCI - won 2 Up to Us national honor badges [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-merage-national-debt-marketing-analytics) [(Credly)](https://www.credly.com/users/shawna-tuli/badges) [(Article)](https://wfuogb.com/5022/news/up-to-us-movement-raises-awareness-about-national-debt/)
 * 📈 12.11% year-to-date return on a $100,000 investment fund from CFA Society Orange County [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-merage-investment-management)
 * 💵 Executive Vice President of a $100,000 investment fund from CFA Society Orange County and led 35+ analysts
 * 🏦 CFA Institute Research Challenge on Opus Bank [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-merage-cfa-institute-research-challenge)
