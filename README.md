@@ -57,6 +57,33 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shawna-tuli-silicon-valley&layout=compact) 
 
+#### HONORS & AWARDS_________________________________________________________________________________________________________________
+* Google Bay Area AI for everyone
+* Avanade Best Baker
+* Google I/O Attendee (3x)
+* Accenture V360 Awards in Innovation Nominee (3x)
+* University of California, Irvine Dean's Honor List
+* Avanade Top 5 in Innovation
+* Forbes Under 30 Scholar in Innovation
+* University of California, Irvine Alpha Kappa Psi Professional Business Fraternity Most Likely to be a Billionaire
+* Up to Us Top 20 Team
+* Up to Us Top Pledge Earner
+* University of California, Irvine Donald Bren School of Information & Computer Sciences Butterworth Product Development Competition (Software) Finalist
+* CFA Society Orange County Request for Proposal Second Place
+* CFA Institute Research Challenge
+* Advanced Placement Scholar with Distinction
+* California Council on Economic Education Personal Finance Challenge
+* Future Business Leaders of America Bay Section Top 10 in Securities & Investments
+* Science Olympiad Santa Clara County Top 3 (2x)
+* Los Gatos High School Christine Guether Brienzo Merit Scholarship
+* Los Gatos High School Los Gatos-Saratoga Union High School District Scholar
+* National Speech & Debate Association Degree of Excellence
+* North Carolina Council on Economic Education Economics Challenge
+* Kathak North Indian Classical Dance
+* Science Olympiad Union County Top 3 (2x)
+* Marvin Ridge High School International Baccalaureate 
+* Marvin Ridge High School Valedictorian*
+
 #### EDUCATION__________________________________________________________________________________________________________________________
 * Accenture Kellogg Education Education in Leading with Analytics & Artificial Intelligence [(Certificate)](https://execedcertificate.kellogg.northwestern.edu/308a9e71-d504-4194-9c74-22667c48e450#gs.utv39r)
 * Stanford University School of Engineering Certificates in Machine Learning & Computer Science [(Certificate)](https://www.coursera.org/account/accomplishments/certificate/47XPJRBC4F5C) [(Repo)](https://github.com/shawna-tuli-silicon-valley/stanford-engineering-computer-science)
@@ -94,33 +121,6 @@
 * CSS
 * x86 Assembly
 * Bash
-
-#### HONORS & AWARDS_________________________________________________________________________________________________________________
-* Google Bay Area AI for everyone
-* Avanade Best Baker
-* Google I/O Attendee (3x)
-* Accenture V360 Awards in Innovation Nominee (3x)
-* University of California, Irvine Dean's Honor List
-* Avanade Top 5 in Innovation
-* Forbes Under 30 Scholar in Innovation
-* University of California, Irvine Alpha Kappa Psi Professional Business Fraternity Most Likely to be a Billionaire
-* Up to Us Top 20 Team
-* Up to Us Top Pledge Earner
-* University of California, Irvine Donald Bren School of Information & Computer Sciences Butterworth Product Development Competition (Software) Finalist
-* CFA Society Orange County Request for Proposal Second Place
-* CFA Institute Research Challenge
-* Advanced Placement Scholar with Distinction
-* California Council on Economic Education Personal Finance Challenge
-* Future Business Leaders of America Bay Section Top 10 in Securities & Investments
-* Science Olympiad Santa Clara County Top 3 (2x)
-* Los Gatos High School Christine Guether Brienzo Merit Scholarship
-* Los Gatos High School Los Gatos-Saratoga Union High School District Scholar
-* National Speech & Debate Association Degree of Excellence
-* North Carolina Council on Economic Education Economics Challenge
-* Kathak North Indian Classical Dance
-* Science Olympiad Union County Top 3 (2x)
-* Marvin Ridge High School International Baccalaureate 
-* Marvin Ridge High School Valedictorian*
 
 #### LANGUAGES_________________________________________________________________________________________________________________________
 * English
