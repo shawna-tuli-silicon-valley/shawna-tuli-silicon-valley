@@ -65,14 +65,19 @@
 * University of California, Irvine Dean's Honor List
 * Grace Hopper Celebration of Women in Computing Conference
 * Avanade Top 5 in Innovation
+* Avanade FUEL Leadership Conference 
+* Google ExploreCSR Workshop
 * IEEE International Conference on Semantic Computing
 * Forbes Under 30 Scholar in Innovation
+* Google tgif Conferences 
+* Google Women in Engineering Conference
 * University of California, Irvine Alpha Kappa Psi Professional Business Fraternity Most Likely to be a Billionaire
 * Up to Us Top 20 Team
 * Up to Us Top Pledge Earner
 * University of California, Irvine Donald Bren School of Information & Computer Sciences Butterworth Product Development Competition (Software) Finalist
 * CFA Society Orange County Request for Proposal Second Place
 * CFA Institute Research Challenge
+* Stanford University Girl Code Program 
 * Advanced Placement Scholar with Distinction
 * California Council on Economic Education Personal Finance Challenge
 * Future Business Leaders of America Bay Section Top 10 in Securities & Investments
