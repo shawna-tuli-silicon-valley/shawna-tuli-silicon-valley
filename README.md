@@ -76,6 +76,7 @@
 * Up to Us Top 20 Team
 * Up to Us Top Pledge Earner
 * University of California, Irvine Donald Bren School of Information & Computer Sciences Butterworth Product Development Competition (Software) Finalist
+* MongoDB.local SoCal Conference
 * CFA Society Orange County Request for Proposal Second Place
 * CFA Institute Research Challenge
 * Stanford University Girl Code Program Yahoo Visit
@@ -89,6 +90,7 @@
 * Los Gatos High School Google Visit
 * Los Gatos High School Christine Guether Brienzo Merit Scholarship
 * Los Gatos High School Los Gatos-Saratoga Union High School District Scholar
+* Stanford Splash
 * National Speech & Debate Association Degree of Excellence
 * North Carolina Council on Economic Education Economics Challenge
 * Kathak North Indian Classical Dance
