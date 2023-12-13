@@ -78,11 +78,15 @@
 * University of California, Irvine Donald Bren School of Information & Computer Sciences Butterworth Product Development Competition (Software) Finalist
 * CFA Society Orange County Request for Proposal Second Place
 * CFA Institute Research Challenge
+* Stanford University Girl Code Program Yahoo Visit
 * Stanford University Girl Code Program 
 * Advanced Placement Scholar with Distinction
 * California Council on Economic Education Personal Finance Challenge
 * Future Business Leaders of America Bay Section Top 10 in Securities & Investments
 * Science Olympiad Santa Clara County Top 3 (2x)
+* Los Gatos High School Intel Visit
+* Los Gatos High School Netflix Visit
+* Los Gatos High School Google Visit
 * Los Gatos High School Christine Guether Brienzo Merit Scholarship
 * Los Gatos High School Los Gatos-Saratoga Union High School District Scholar
 * National Speech & Debate Association Degree of Excellence
