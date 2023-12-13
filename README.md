@@ -63,7 +63,9 @@
 * Google I/O Attendee (3x)
 * Accenture V360 Awards in Innovation Nominee (3x)
 * University of California, Irvine Dean's Honor List
+* Grace Hopper Celebration of Women in Computing Conference
 * Avanade Top 5 in Innovation
+* IEEE Conference in Semantic Computing
 * Forbes Under 30 Scholar in Innovation
 * University of California, Irvine Alpha Kappa Psi Professional Business Fraternity Most Likely to be a Billionaire
 * Up to Us Top 20 Team
