@@ -59,36 +59,13 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shawna-tuli-silicon-valley&layout=compact) 
 
-#### HONORS & AWARDS_________________________________________________________________________________________________________________
-* Google Bay Area AI for everyone
-* Google I/O Attendee (3x)
-* Accenture V360 Awards in Innovation Nominee (3x)
-* University of California, Irvine Dean's Honor List
-* Grace Hopper Celebration of Women in Computing Conference
-* Avanade Top 5 in Innovation
-* Avanade FUEL Leadership Conference
-* Google International Women's Day 
-* Google ExploreCSR Workshop
-* IEEE International Conference on Semantic Computing
-* Forbes Under 30 Scholar in Innovation
-* Google Cloud Next Conference
-* Google tgif Conferences 
-* Google Women in Engineering Conference
-* Google Photos All-hands 
-* MongoDB.local SoCal Conference
-* Stanford University Girl Code Program Yahoo Visit
-* Stanford University Girl Code Program 
-* Los Gatos High School Intel Visit
-* Los Gatos High School Netflix Visit
-* Los Gatos High School Google Visit
-
 #### EDUCATION__________________________________________________________________________________________________________________________
 * Accenture Kellogg Education Education in Leading with Analytics & Artificial Intelligence [(Certificate)](https://execedcertificate.kellogg.northwestern.edu/308a9e71-d504-4194-9c74-22667c48e450#gs.utv39r)
 * Stanford University School of Engineering Certificates in Machine Learning & Computer Science [(Certificate)](https://www.coursera.org/account/accomplishments/certificate/47XPJRBC4F5C) [(Repo)](https://github.com/shawna-tuli-silicon-valley/stanford-engineering-computer-science)
 * Harvard Univerity Artificial Intelligence [(Repo)](https://github.com/shawna-tuli-silicon-valley/harvard-ai)
-* University of California, Irvine Donald Bren School of Information & Computer Sciences Bachelor of Science in Computer Science & Statistics in Data Science - Dean's Honor List, Alpha Kappa Psi Professional Business Fraternity, Investment Fund, Penn Medicine Radiation Oncology Data Science Capstone, and Information & Computer Sciences Research [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-data-science)
-* Los Gatos High School - Los Gatos-Saratoga Union High School District Scholar, Advanced Placement Scholar with Distinction, Christine Guenther Brienzo Merit Scholarship, Stanford Splash, Future Business Leaders of America Bay Section Top 10 in Securities & Investments, California Council on Economic Education Personal Finance Challenge, and Science Olympiad Santa Clara County Top 3 (2x) [(Repo)](https://github.com/shawna-tuli-silicon-valley/lghs-advanced-placement)
-* Marvin Ridge High School - Valedictorian*, International Baccalaureate [(Repo)](https://github.com/shawna-tuli-silicon-valley/mrhs-international-baccalaureate), National Speech & Debate Association Degree of Excellence, North Carolina Council on Economic Education Economics Challenge, Science Olympiad Union County Top 3 (2x), and Kathak North Indian Classical Dance [(Repo)](https://github.com/shawna-tuli-silicon-valley/mrhs-north-carolina-forensic-league-state-championship)
+* University of California, Irvine Donald Bren School of Information & Computer Sciences Bachelor of Science in Computer Science & Statistics in Data Science - Dean's Honor List, Alpha Kappa Psi Professional Business Fraternity Vice President of Professional Development, Student Managed Investment Fund Executive Vice President, Penn Medicine Radiation Oncology Data Science Capstone, and Information & Computer Sciences Research [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-data-science)
+* Los Gatos High School - Los Gatos-Saratoga Union High School District Scholar, Advanced Placement Scholar with Distinction, Christine Guenther Brienzo Merit Scholarship, Stanford Splash, Future Business Leaders of America Treasurer and Bay Section Top 10 in Securities & Investments, California Council on Economic Education Personal Finance Challenge, and Science Olympiad Santa Clara County Top 3 (2x) [(Repo)](https://github.com/shawna-tuli-silicon-valley/lghs-advanced-placement)
+* Marvin Ridge High School - Valedictorian*, International Baccalaureate [(Repo)](https://github.com/shawna-tuli-silicon-valley/mrhs-international-baccalaureate), National Speech & Debate Association Degree of Excellence, Future Business Leaders of America, North Carolina Council on Economic Education Economics Challenge, Science Olympiad Union County Top 3 (2x), and Kathak North Indian Classical Dance [(Repo)](https://github.com/shawna-tuli-silicon-valley/mrhs-north-carolina-forensic-league-state-championship)
 
 #### GOOGLE EDUCATION________________________________________________________________________________________________________________
 * 💝 Google Training in Generative Artificial Intelligence [(Training)](https://cloud.google.com/blog/topics/training-certifications/12-days-of-no-cost-generative-ai-training)
