@@ -70,8 +70,10 @@
 * Google ExploreCSR Workshop
 * IEEE International Conference on Semantic Computing
 * Forbes Under 30 Scholar in Innovation
+* Google Cloud Next Conference
 * Google tgif Conferences 
 * Google Women in Engineering Conference
+* Google Photos All-hands 
 * University of California, Irvine Alpha Kappa Psi Professional Business Fraternity Most Likely to be a Billionaire
 * Up to Us Top 20 Team
 * Up to Us Top Pledge Earner
