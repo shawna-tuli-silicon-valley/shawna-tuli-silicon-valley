@@ -9,6 +9,7 @@
 * 🆕 Incoming Accenture V360 Awards in Innovation nominee (Repo) (Student Repo) 
 * ✨ Incoming Generative AI in California (Repo) (Student Repo)
 * 🎯 Incoming Generative AI & Data Science Lead at Google (Repo)
+* 💖 Google Bay Area AI for everyone 
 * 🖥️ Accenture San Francisco Generative AI Studio Member 
 * 🌁 Avanade AI Practice San Francisco Lead: organizing and hosting events monthly for 10+ employees in San Francisco
 * 📦 AI & Data Science Lead at Amazon (Repo) [(Article)](https://www.pcmag.com/news/amazon-to-spend-over-1-billion-on-microsoft-365-licenses)
@@ -17,7 +18,7 @@
 * 🦾 AI Lead at Viking River Cruises and led 2 advanced analytics senior consultants
 * 🧠 AI & Data Science Advisor at Harvard Business Review [(Repo)](https://github.com/shawna-tuli-silicon-valley/harvard-business-review-advisory-council) [(Magazine)](https://hbr.org/)
 * 🦄 Accenture Ventures & Open Innovation West Ambassador
-* 🧡 AI Data Scientist at Avanade 
+* 🧡 AI Data Scientist at Avanade - won Avanade Best Baker
 * 📢 Software Engineer at The NPD Group
 * ✅ AI Data Scientist at Avanade
 * ⚙️ Avanade San Francisco Strategy & Consulting AI & Advanced Analytics Associate Manager [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics-2)
@@ -60,7 +61,6 @@
 
 #### HONORS & AWARDS_________________________________________________________________________________________________________________
 * Google Bay Area AI for everyone
-* Avanade Best Baker
 * Google I/O Attendee (3x)
 * Accenture V360 Awards in Innovation Nominee (3x)
 * University of California, Irvine Dean's Honor List
@@ -75,42 +75,20 @@
 * Google tgif Conferences 
 * Google Women in Engineering Conference
 * Google Photos All-hands 
-* University of California, Irvine Alpha Kappa Psi Professional Business Fraternity Most Likely to be a Billionaire
-* University of California, Irvine Alpha Kappa Psi Professional Business Fraternity Vice President of Professional Development
-* Up to Us Top 20 Team
-* Up to Us Top Pledge Earner
-* University of California, Irvine Donald Bren School of Information & Computer Sciences Butterworth Product Development Competition (Software) Finalist
 * MongoDB.local SoCal Conference
-* CFA Society Orange County Request for Proposal Second Place
-* CFA Institute Research Challenge
-* University of California, Irvine Student Managed Investment Fund Executive Vice President
-* University of California, Irvine Student Managed Investment Fund Fixed Income Analyst 
 * Stanford University Girl Code Program Yahoo Visit
 * Stanford University Girl Code Program 
-* Advanced Placement Scholar with Distinction
-* California Council on Economic Education Personal Finance Challenge
-* Future Business Leaders of America Bay Section Top 10 in Securities & Investments
-* Science Olympiad Santa Clara County Top 3 (2x)
 * Los Gatos High School Intel Visit
 * Los Gatos High School Netflix Visit
 * Los Gatos High School Google Visit
-* Los Gatos High School Christine Guether Brienzo Merit Scholarship
-* Los Gatos High School Los Gatos-Saratoga Union High School District Scholar
-* Stanford Splash
-* National Speech & Debate Association Degree of Excellence
-* North Carolina Council on Economic Education Economics Challenge
-* Kathak North Indian Classical Dance
-* Science Olympiad Union County Top 3 (2x)
-* Marvin Ridge High School International Baccalaureate 
-* Marvin Ridge High School Valedictorian*
 
 #### EDUCATION__________________________________________________________________________________________________________________________
 * Accenture Kellogg Education Education in Leading with Analytics & Artificial Intelligence [(Certificate)](https://execedcertificate.kellogg.northwestern.edu/308a9e71-d504-4194-9c74-22667c48e450#gs.utv39r)
 * Stanford University School of Engineering Certificates in Machine Learning & Computer Science [(Certificate)](https://www.coursera.org/account/accomplishments/certificate/47XPJRBC4F5C) [(Repo)](https://github.com/shawna-tuli-silicon-valley/stanford-engineering-computer-science)
 * Harvard Univerity Artificial Intelligence [(Repo)](https://github.com/shawna-tuli-silicon-valley/harvard-ai)
 * University of California, Irvine Donald Bren School of Information & Computer Sciences Bachelor of Science in Computer Science & Statistics in Data Science - Dean's Honor List, Alpha Kappa Psi Professional Business Fraternity, Investment Fund, Penn Medicine Radiation Oncology Data Science Capstone, and Information & Computer Sciences Research [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-data-science)
-* Los Gatos High School - Los Gatos-Saratoga Union High School District Scholar, Advanced Placement Scholar with Distinction, and Christine Guenther Brienzo Merit Scholarship [(Repo)](https://github.com/shawna-tuli-silicon-valley/lghs-advanced-placement)
-* Marvin Ridge High School - Valedictorian*, International Baccalaureate [(Repo)](https://github.com/shawna-tuli-silicon-valley/mrhs-international-baccalaureate), and National Speech & Debate Association Degree of Excellence [(Repo)](https://github.com/shawna-tuli-silicon-valley/mrhs-north-carolina-forensic-league-state-championship)
+* Los Gatos High School - Los Gatos-Saratoga Union High School District Scholar, Advanced Placement Scholar with Distinction, Christine Guenther Brienzo Merit Scholarship, Stanford Splash, Future Business Leaders of America Bay Section Top 10 in Securities & Investments, California Council on Economic Education Personal Finance Challenge, and Science Olympiad Santa Clara County Top 3 (2x) [(Repo)](https://github.com/shawna-tuli-silicon-valley/lghs-advanced-placement)
+* Marvin Ridge High School - Valedictorian*, International Baccalaureate [(Repo)](https://github.com/shawna-tuli-silicon-valley/mrhs-international-baccalaureate), National Speech & Debate Association Degree of Excellence, North Carolina Council on Economic Education Economics Challenge, Science Olympiad Union County Top 3 (2x), and Kathak North Indian Classical Dance [(Repo)](https://github.com/shawna-tuli-silicon-valley/mrhs-north-carolina-forensic-league-state-championship)
 
 #### GOOGLE EDUCATION________________________________________________________________________________________________________________
 * 💝 Google Training in Generative Artificial Intelligence [(Training)](https://cloud.google.com/blog/topics/training-certifications/12-days-of-no-cost-generative-ai-training)
