@@ -65,7 +65,8 @@
 * University of California, Irvine Dean's Honor List
 * Grace Hopper Celebration of Women in Computing Conference
 * Avanade Top 5 in Innovation
-* Avanade FUEL Leadership Conference 
+* Avanade FUEL Leadership Conference
+* Google International Women's Day 
 * Google ExploreCSR Workshop
 * IEEE International Conference on Semantic Computing
 * Forbes Under 30 Scholar in Innovation
