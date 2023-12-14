@@ -13,6 +13,8 @@
 * 🖥️ Accenture San Francisco Generative AI Studio Member 
 * 🌁 Avanade AI Practice San Francisco Lead: organizing and hosting events monthly for 10+ employees in San Francisco
 * 📦 AI & Data Science Lead at Amazon (Repo) [(Article)](https://www.pcmag.com/news/amazon-to-spend-over-1-billion-on-microsoft-365-licenses)
+* ❣️ Google I/O (3x)
+* 💟 Microsoft Envision (2x) 
 * ⚡ AI Expert at LinkedIn Collaborative Articles [(LinkedIn)](https://www.linkedin.com/in/shawna-tuli-silicon-valley)
 * 👾 Avanade Mountain View Strategy & Consulting AI & Advanced Analytics Associate Manager [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics-3)
 * 🦾 AI Lead at Viking River Cruises and led 2 advanced analytics senior consultants
