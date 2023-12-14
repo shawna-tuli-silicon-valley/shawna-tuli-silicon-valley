@@ -24,7 +24,7 @@
 * 📢 Software Engineer at The NPD Group
 * ✅ AI Data Scientist at Avanade
 * 🤍 Google Cloud Next Conference (3x)
-* 💛 Databricks Data + AI Summit
+* 💛 Databricks San Francisco Data + AI Summit
 * ⚙️ Avanade San Francisco Strategy & Consulting AI & Advanced Analytics Associate Manager [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics-2)
 * 📉 Accenture V360 Awards in Innovation nominee for forecasting energy usage with AI in California [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-california-energy-ai-and-predictive-analytics) [(Student Repo)](https://github.com/shawna-tuli-silicon-valley/EnergyPredictionCA)
 * 🔮 National Science Foundation paper + poster for predicting energy consumption with AI in California [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-california-energy-and-ai-predictive-analytics-2) (Student Repo)
