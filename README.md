@@ -42,7 +42,7 @@
 * 💭 Avanade San Francisco Strategy & Consulting AI & Advanced Analytics Senior Analyst [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics)
 * 💻 Accenture San Francisco Applied Intelligence Member
 * 👥 Accenture + University of California, Irvine Donald Bren School of Information & Computer Sciences Recruitment (3x)
-* 💙 Accenture Applied Intelligence Summer Conference
+* 💙 Accenture San Francisco Applied Intelligence Summer Conference
 * 💼 Avanade FUEL Leadership Conference 
 * 📊 12 Penn Medicine Radiation Oncology publications and led 30+ surgeons, doctors, and students [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-penn-medicine-global-radiation-oncology-analytics) [(Google Scholar)](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en)
 * 💬 Grace Hopper Celebration of Women in Computing Conference
