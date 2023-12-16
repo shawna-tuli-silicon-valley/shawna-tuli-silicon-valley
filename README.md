@@ -7,7 +7,7 @@
 
 #### BIG TECH AI & DATA SCIENCE WORK EXPERIENCE_________________________________________________________________________________
 * 🎯 Incoming Generative AI & Data Science Lead at Google (Repo)
-* 🆕 Accenture V360 Awards in Innovation nominee for inferring homelessness in California with Generative AI (Repo) (Student Repo) 
+* 🆕 Accenture V360 Awards in Innovation nominee for inferring homelessness in California with GenAI (Repo) (Student Repo) 
 * 💖 Google Bay Area AI for everyone 
 * 🖥️ Accenture San Francisco Generative AI Studio Member 
 * 🌁 Avanade AI Practice San Francisco Lead: organizing and hosting events monthly for 10+ employees in San Francisco
