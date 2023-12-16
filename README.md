@@ -6,7 +6,7 @@
 * Conferences & programs [(Repo)](https://github.com/shawna-tuli-silicon-valley/big-tech-silicon-valley-conferences-and-programs)
 
 #### BIG TECH AI & DATA SCIENCE WORK EXPERIENCE_________________________________________________________________________________
-* 🎯 Incoming Generative AI & Data Science Lead at Google (Repo)
+* 🎯 Incoming GenAI & Data Science Lead at Google (Repo)
 * 🆕 Accenture V360 Awards in Innovation nominee for inferring homelessness in California with GenAI (Repo) (Student Repo) 
 * 💖 Google Bay Area AI for everyone 
 * 🖥️ Accenture San Francisco Generative AI Studio Member 
