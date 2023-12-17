@@ -47,7 +47,7 @@
 * 💕 Google exploreCSR Southern California Workshop
 * 💡 Forbes Under 30 Scholar in Innovation award [(Repo)](https://github.com/shawna-tuli-silicon-valley/forbes-under-30-scholar-innovation)
 * 📷 Technical Business Analyst Intern at Google Photos [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-mountain-view-product-analytics-data-science-1) [(Article)](https://9to5google.com/2018/12/28/google-photos-news-2018-recap/)
-* ✨ Google Women in Engineering Conference 
+* ✨ Google Women in Engineering Conference [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-women-in-engineering/tree/main)
 * 🚀 Data Scientist at UCI Beall Applied Innovation [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-beall-applied-innovation-product-analytics-data-science)
 * 💚 MongoDB.local Southern California Conference 
 * 💰 Alpha Kappa Psi Professional Chair, Most Likely to be a Billionaire award, and led 50+ professionals [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-alpha-kappa-psi-professional-business-fraternity)
