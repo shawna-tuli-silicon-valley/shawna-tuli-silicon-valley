@@ -5,7 +5,7 @@
 #### BIG TECH AI & DATA SCIENCE WORK EXPERIENCE AND PUBLIC SPEAKING__________________________________________
 * 🎯 Incoming GenAI & Data Science Lead at Google (Repo)
 * 🆕 Accenture V360 Awards in Innovation nominee for inferring homelessness in California with GenAI (Repo) (Student Repo) 
-* 💖 Google Bay Area AI for everyone 
+* 💖 Google Bay Area AI for everyone [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-bay-area-ai-for-everyone/tree/main)
 * 🖥️ Accenture San Francisco Generative AI Studio Member 
 * 🌁 Avanade AI Practice San Francisco Lead: organizing and hosting events monthly for 10+ employees in San Francisco
 * 📦 AI & Data Science Lead at Amazon (Repo) [(Article)](https://www.pcmag.com/news/amazon-to-spend-over-1-billion-on-microsoft-365-licenses)
