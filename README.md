@@ -4,6 +4,7 @@
 
 #### BIG TECH AI & DATA SCIENCE WORK EXPERIENCE AND PUBLIC SPEAKING_______________________________________________________
 * 🎯 Incoming GenAI & Data Science Lead at Google (Repo)
+* 🌌 Avanade Create the Future award
 * 🆕 Accenture V360 Awards in Innovation nominee for inferring homelessness in California with GenAI (Repo) (Student Repo) 
 * 💖 Google Bay Area AI for everyone [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-bay-area-ai-for-everyone/tree/main)
 * 🖥️ Accenture San Francisco Generative AI Studio Member 
@@ -29,12 +30,14 @@
 * 1️⃣ Software Engineer at Google One [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-mountain-view-product-analytics-data-science-2)
 * 🔎 Accenture V360 Awards in Innovation nominee for predicting risk of T2 diabetes with AI in California [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-california-type-2-diabetes-ai-and-predictive-analytics) [(Student Repo)](https://github.com/shawna-tuli-silicon-valley/STATS170_Project-1)
 * 💗 Avanade San Francisco Strategy & Consulting AI & Advanced Analytics Consultant [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics)
+* 💎 Avanade We Believe Everyone Counts award
 * 🧾 Software Engineer at H&R Block and led a software engineer
 * 🖤 Software Engineering Lead at Bill & Melinda Gates Foundation and led 4 software engineers 
 * 💜 AI & Data Science Lead at Accenture CIO and led a data scientist
 * ☕ Software Engineer at Starbucks Coffee
 * 💾 Advanced Analytics Lead at Applied Materials and led 2 analysts
 * 🎉 Avanade NorCal Social Committee Member: organizing and hosting events monthly for 50+ employees in South Bay Area
+* ✔️ Avanade We Deliver with Excellence award 
 * 💭 Avanade San Francisco Strategy & Consulting AI & Advanced Analytics Senior Analyst [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics)
 * 💻 Accenture San Francisco Applied Intelligence Member
 * 👥 Accenture + University of California, Irvine Recruitment (3x) [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-university-of-california-irvine-recruitment)
@@ -64,7 +67,7 @@
 * 🛍️ Data Scientist Intern at eBay in the Office of the CIO [(Repo)](https://github.com/shawna-tuli-silicon-valley/ebay-san-jose-product-analytics-data-science) 
 * 📲 Yaksee interactive broadcasting app - mentioned in SiliconValley.com [(Repo)](https://github.com/shawna-tuli-silicon-valley/lghs-yaksee-interactive-broadcasting-app) [(Article)](https://www.siliconvalley.com/2016/03/23/los-gatos-startup-debuts-interactive-broadcasting-app/)
 * 💓 Los Gatos High School Google, Netflix, and Intel visits [(Repo)](https://github.com/shawna-tuli-silicon-valley/big-tech-visits/tree/main)
-* 🌲 Stanford University Girl Code Program [(Repo)](https://github.com/shawna-tuli-silicon-valley/stanford-engineering-computer-science)
+* 🌲 Stanford University Girl Code [(Repo)](https://github.com/shawna-tuli-silicon-valley/stanford-engineering-computer-science)
 * 💸 HSHacks hackathon at PayPal [(Article)](https://venturebeat.com/dev/teenagers-take-over-paypal-hold-their-own-hackathon/)
 * 📚 Stanford Splash
 
