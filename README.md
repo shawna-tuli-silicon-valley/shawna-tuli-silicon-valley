@@ -59,11 +59,11 @@
 * 📈 Executive Vice President, 12.11% year-to-date return on an $100,000 investment fund, and led 35+ analysts [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-merage-investment-management)
 * 🏦 CFA Institute Research Challenge on Opus Bank [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-merage-cfa-institute-research-challenge)
 * 🥇 Olympics Games bayesian data analysis - UCI ICS STATS 115/205 [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-olympic-games-bayesian-data-analysis)
-* 💋 Kys iOS app - built in 24 hours at USC Viterbi School of Engineering AthenaHacks hackathon [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-kys-ios-app) [(Devpost)](https://devpost.com/software/kys-0s456d?fbclid=IwAR1zk_PqUaJkhv4SuBtjU898owq_guS0EFm7R68mAZgG_F7k3dZijiDOcT4#updates)
+* 💋 Kys iOS app - built in 24 hours at the USC Viterbi School of Engineering AthenaHacks hackathon [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-kys-ios-app) [(Devpost)](https://devpost.com/software/kys-0s456d?fbclid=IwAR1zk_PqUaJkhv4SuBtjU898owq_guS0EFm7R68mAZgG_F7k3dZijiDOcT4#updates)
 * 💯 Exceed Android app - won UCI ICS Butterworth Product Development Competition (Software) Finalist award [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-exceed-android-app)
 * 🔢 University of California, Irvine Math CEO (Community Educational Outreach) STEM Mentor
 * 🌐 Girls Inc. of Orange County STEM (Science, Technology, Engineering, and Math) Mentor [(Report)](https://issuu.com/dwilliams11/docs/gioc_2017annualreport)
-* 💳 Eidebtic Vault Web app - built in 24 hours at Capital One Santa Monica hackathon [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-merage-ics-eidebtic-vault-web-app)
+* 💳 Eidebtic Vault Web app - built in 24 hours at the Capital One Santa Monica hackathon [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-merage-ics-eidebtic-vault-web-app)
 * 🛍️ Data Scientist Intern at eBay in the Office of the CIO [(Repo)](https://github.com/shawna-tuli-silicon-valley/ebay-san-jose-product-analytics-data-science) 
 * 📲 Yaksee interactive broadcasting app - mentioned in SiliconValley.com [(Repo)](https://github.com/shawna-tuli-silicon-valley/lghs-yaksee-interactive-broadcasting-app) [(Article)](https://www.siliconvalley.com/2016/03/23/los-gatos-startup-debuts-interactive-broadcasting-app/)
 * 💓 Los Gatos High School Google, Netflix, and Intel visits [(Repo)](https://github.com/shawna-tuli-silicon-valley/big-tech-visits/tree/main)
