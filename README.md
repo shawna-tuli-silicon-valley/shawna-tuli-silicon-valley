@@ -118,7 +118,7 @@
 * Spanish
 
 #### INTERESTS___________________________________________________________________________________________________________________________
-💘 OOO, I am in my gym, [dancing](https://github.com/shawna-tuli-silicon-valley/dance), [oil painting](https://github.com/shawna-tuli-silicon-valley/oil-painting), [reading](https://github.com/shawna-tuli-silicon-valley/strategy-and-management-books), [studying](https://github.com/shawna-tuli-silicon-valley/google-cloud-generative-ai), shopping, and at Rap and EDM festivals, raves, and concerts. I enjoy healthy cooking, playing tennis and badminton, beaches, and watching TV shows and movies on Netflix and Prime. 
+💘 OOO, I am in my gym, [dancing](https://github.com/shawna-tuli-silicon-valley/dance), [oil painting](https://github.com/shawna-tuli-silicon-valley/oil-painting), [reading](https://github.com/shawna-tuli-silicon-valley/strategy-and-management-books), [studying](https://github.com/shawna-tuli-silicon-valley/google-cloud-generative-ai), online shopping, and at Rap and EDM festivals, raves, and concerts. I enjoy healthy cooking, playing tennis and badminton, beaches, and watching TV shows and movies on Netflix and Prime. 
 
 #### MUSIC________________________________________________________________________________________________________________________________
 * ABBA, London
