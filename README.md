@@ -118,34 +118,34 @@
 * Spanish
 
 #### INTERESTS___________________________________________________________________________________________________________________________
-💘 OOO, I am [in my gym](https://github.com/shawna-tuli-silicon-valley/gym), [dancing](https://github.com/shawna-tuli-silicon-valley/dance), [oil painting](https://github.com/shawna-tuli-silicon-valley/oil-painting), [reading](https://github.com/shawna-tuli-silicon-valley/strategy-and-management-books), [studying](https://github.com/shawna-tuli-silicon-valley/google-cloud-generative-ai), [shopping](https://github.com/shawna-tuli-silicon-valley/shopping), and at Rap & EDM music festivals, raves, and concerts. I enjoy healthy cooking, playing tennis and badminton, beaches, and watching TV shows and movies on Netflix and Prime. 
+💘 OOO, I am [in my gym](https://github.com/shawna-tuli-silicon-valley/gym), [dancing](https://github.com/shawna-tuli-silicon-valley/dance), [oil painting](https://github.com/shawna-tuli-silicon-valley/oil-painting), [reading](https://github.com/shawna-tuli-silicon-valley/strategy-and-management-books), [studying](https://github.com/shawna-tuli-silicon-valley/google-cloud-generative-ai), [shopping](https://github.com/shawna-tuli-silicon-valley/shopping), and at Rap and EDM music festivals, raves, and concerts. I enjoy healthy cooking, playing tennis and badminton, beaches, and watching TV shows and movies on Netflix and Prime. 
 
-Music Festivals, Raves, and Concerts
-* 2023 ABBA, London
-* 2022 Sam Smith, Los Angeles
-* 2021 Dillon Francis, Las Vegas
-* 2021 The Chainsmokers, Las Vegas
-* 2020 SLAM! The Tour, San Jose
-* 2019 Summerlands, University of California, Irvine
-* 2019 Shocktober, University of California, Irvine
-* 2019 TroyBoi, Costa Mesa
-* 2019 Aldrich Park After Dark, Univeristy of California, Irvine
-* 2018 LED Anniversary, San Diego
-* 2018 Summerlands, University of California, Irvine
-* 2018 Escape Halloween, San Bernardino
-* 2018 Shocktober, University of California, Irvine
-* 2018 Aldrich Park After Dark, Univeristy of California, Irvine
-* 2017 Audiotistic Bay Area Festival, Mountain View
-* 2017 Summerlands, University of California, Irvine
-* 2017 Shocktober, University of California, Irvine
-* 2017 Aldrich Park After Dark, Univeristy of California, Irvine
-* 2017 Air + Style Music Festival, Los Angeles
-* 2016 Summerlands, University of California, Irvine
-* 2016 Kanye West, Saint Pablo Tour, Los Angeles (Canceled)
-* 2016 Shocktober, University of California, Irvine
-* 2016 Aldrich Park After Dark, Univeristy of California, Irvine
-* 2016 BTS, Anaheim
-* 2015 Rock of Ages, Las Vegas
+#### MUSIC FESTIVALS, RAVES, AND CONCERTS________________________________________________________________________________________________
+* ABBA, London
+* Sam Smith, Los Angeles
+* Dillon Francis, Las Vegas
+* The Chainsmokers, Las Vegas
+* SLAM! The Tour, San Jose
+* Summerlands, University of California, Irvine
+* Shocktober, University of California, Irvine
+* TroyBoi, Costa Mesa
+* Aldrich Park After Dark, Univeristy of California, Irvine
+* LED Anniversary, San Diego
+* Summerlands, University of California, Irvine
+* Escape Halloween, San Bernardino
+* Shocktober, University of California, Irvine
+* Aldrich Park After Dark, Univeristy of California, Irvine
+* Audiotistic Bay Area Festival, Mountain View
+* Summerlands, University of California, Irvine
+* Shocktober, University of California, Irvine
+* Aldrich Park After Dark, Univeristy of California, Irvine
+* Air + Style Music Festival, Los Angeles
+* Summerlands, University of California, Irvine
+* Kanye West, Saint Pablo Tour, Los Angeles (Canceled)
+* Shocktober, University of California, Irvine
+* Aldrich Park After Dark, Univeristy of California, Irvine
+* BTS, Anaheim
+* Rock of Ages, Las Vegas
 
 <!--
 **shawna-tuli-silicon-valley/shawna-tuli-silicon-valley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
