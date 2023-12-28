@@ -3,6 +3,7 @@
 🌄 Shawna Tuli is a Silicon Valley leader and Xoogler on the path to Executive, Venture Capitalist, and Tech Corporate Boards Member. She has three and a half years of experience as an AI & Advanced Analytics Associate Manager in strategy and consulting in applied intelligence, specializing in generative artificial intelligence, artificial intelligence, data science, and advanced analytics at Big Tech, at Accenture and Avanade. Shawna is building Avanade's AI Practice from the ground up with David Gormley and is the Silicon Valley Lead. She has contributed to four Google products: Photos, Cloud, Play, and One and Amazon. Her MBTI is ENFJ-A and Strengths are Activator, Achiever, Futuristic, Competition, and Significance. Shawna is a proud UCI ICS Data Science Alumna. 
 
 #### BIG TECH AI & DATA SCIENCE WORK EXPERIENCE AND PUBLIC SPEAKING_______________________________________________________
+* 📧 Presented at Amazon Mailbox Core All-hands 
 * 🎯 Incoming Generative AI & Data Science Lead at Google (Repo)
 * 🌌 Avanade Create the Future super hero award
 * 🆕 Accenture V360 Awards in Innovation nominee for inferring homelessness in California with GenAI (Repo) (Student Repo) 
@@ -47,8 +48,9 @@
 * 💬 Grace Hopper Celebration of Women in Computing Conference [(Repo)](https://github.com/shawna-tuli-silicon-valley/grace-hopper-celebration-of-women-in-engineering/tree/main) 
 * 🖼️ Avanade Top 5 in Innovation award for creating an Azure AI product via computer vision and an one-shot GAN [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-irvine-ai-product)
 * 💞 Google International Women's Day
-* 💕 Google exploreCSR Southern California Workshop
+* 💕 Presented at Google exploreCSR Southern California Workshop
 * 💡 Forbes Under 30 Scholar in Innovation award [(Repo)](https://github.com/shawna-tuli-silicon-valley/forbes-under-30-scholar-innovation)
+* 📸 Presented at Google Photos All-hands 
 * 📷 Technical Business Analyst Intern at Google Photos [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-mountain-view-product-analytics-data-science-1) [(Article)](https://9to5google.com/2018/12/28/google-photos-news-2018-recap/)
 * ✨ Google Women in Engineering Conference [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-women-in-engineering/tree/main)
 * 💝 Google tgif Conferences [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-tgif/tree/main)
