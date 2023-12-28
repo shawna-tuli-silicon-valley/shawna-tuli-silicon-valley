@@ -3,7 +3,7 @@
 🌄 Shawna Tuli is a Silicon Valley leader and Xoogler on the path to Executive, Venture Capitalist, and Tech Corporate Boards Member. She has three and a half years of experience as an AI & Advanced Analytics Associate Manager in strategy and consulting in applied intelligence, specializing in generative artificial intelligence, artificial intelligence, data science, and advanced analytics at Big Tech, at Accenture and Avanade. Shawna is building Avanade's AI Practice from the ground up with David Gormley and is the Silicon Valley Lead. She has contributed to four Google products: Photos, Cloud, Play, and One and Amazon. Her MBTI is ENFJ-A and Strengths are Activator, Achiever, Futuristic, Competition, and Significance. Shawna is a proud UCI ICS Data Science Alumna. 
 
 #### BIG TECH AI & DATA SCIENCE WORK EXPERIENCE AND PUBLIC SPEAKING_______________________________________________________
-* 📧 Presented at Amazon Mailbox Core All-hands 
+* 📧 Presenting at Amazon Mailbox Core All-hands 
 * 🎯 Incoming Generative AI & Data Science Lead at Google (Repo)
 * 🌌 Avanade Create the Future super hero award
 * 🆕 Accenture V360 Awards in Innovation nominee for inferring homelessness in California with GenAI (Repo) (Student Repo) 
@@ -18,6 +18,7 @@
 * 🦾 AI Lead at Viking River Cruises and led 2 advanced analytics senior consultants
 * 🧠 AI & Data Science Advisor at Harvard Business Review [(Repo)](https://github.com/shawna-tuli-silicon-valley/harvard-business-review-advisory-council) [(Magazine)](https://hbr.org/)
 * 🦄 Accenture Ventures & Open Innovation West Ambassador
+* 👀 Presented at Accenture CIO Data Science Guild (3x)
 * 🧡 AI Data Scientist at Avanade - won Best Baker award on the West Region Chargeability Percent Team
 * 📢 Software Engineer at The NPD Group
 * ✅ AI Data Scientist at Avanade
