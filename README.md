@@ -94,6 +94,7 @@
 * Google Certificates in Project Management [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-project-management-professional-certificate)
 
 #### CERTIFICATES_______________________________________________________________________________________________________________________
+* All Avanade Generative AI Learning Path
 * Accenture Master Data Architect Certificate
 * The Wharton School - Introduction to Marketing [(Certificate)](https://www.coursera.org/account/accomplishments/certificate/NMFXW69JVDJX)
 * University of California, Davis - SQL for Data Science [(Certificate)](https://www.coursera.org/account/accomplishments/certificate/TG58RPJKTBB9)
