@@ -5,6 +5,7 @@
 #### BIG TECH AI & DATA SCIENCE WORK EXPERIENCE AND PUBLIC SPEAKING_______________________________________________________
 * 📧 Amazon Mailbox Core All-hands 
 * 🎯 Incoming Generative AI & Data Science Lead at Google (Repo)
+* 🗃️ Avanade West Region Champion for North America Data & AI SA Community Council
 * 🌌 Avanade Create the Future super hero award
 * 🆕 Accenture V360 Awards in Innovation nominee for inferring homelessness in California with GenAI (Repo) (Student Repo) 
 * 💖 Google Bay Area AI for everyone [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-bay-area-ai-for-everyone/tree/main)
