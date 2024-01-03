@@ -6,7 +6,7 @@
 * 📧 Amazon Mailbox Core All-hands 
 * 🎯 Incoming Generative AI & Data Science Lead at Google (Repo)
 * 🗃️ Avanade West Region Champion for North America Data & AI Solution Architect Community Council
-* 🌌 Avanade Create the Future super hero award
+* 🌌 Avanade Create the Future Super Hero Award
 * 🆕 Accenture V360 Awards in Innovation nominee for inferring homelessness in California with GenAI (Repo) (Student Repo) 
 * 💖 Google Bay Area AI for everyone [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-bay-area-ai-for-everyone/tree/main)
 * 🌁 Accenture San Francisco Generative AI Studio Member 
@@ -20,7 +20,7 @@
 * 🧠 AI & Data Science Advisor at Harvard Business Review [(Repo)](https://github.com/shawna-tuli-silicon-valley/harvard-business-review-advisory-council) [(Magazine)](https://hbr.org/)
 * 🦄 Accenture Ventures & Open Innovation West Ambassador
 * 👀 Accenture CIO Data Science Guild (3x)
-* 🧡 AI Data Scientist at Avanade - won Best Baker award on the West Region Chargeability Percent Team
+* 🧡 AI Data Scientist at Avanade - won Best Baker Award on the West Region Chargeability Percent Team
 * 📢 Software Engineer at The NPD Group
 * ✅ AI Data Scientist at Avanade
 * 🤍 Google Cloud Next Conference (3x)
@@ -33,19 +33,20 @@
 * 1️⃣ Software Engineer at Google One [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-mountain-view-product-analytics-data-science-2)
 * 🔎 Accenture V360 Awards in Innovation nominee for predicting risk of T2 diabetes with AI in California [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-california-type-2-diabetes-ai-and-predictive-analytics) [(Student Repo)](https://github.com/shawna-tuli-silicon-valley/STATS170_Project-1)
 * 💗 Avanade San Francisco Strategy & Consulting AI & Advanced Analytics Consultant [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics)
-* 💎 Avanade We Believe Everyone Counts super hero award
+* 💎 Avanade We Believe Everyone Counts Super Hero Award
 * 🧾 Software Engineer at H&R Block and led a software engineer
 * 🖤 Software Engineering Lead at Bill & Melinda Gates Foundation and led 4 software engineers 
 * 💜 AI & Data Science Lead at Accenture CIO and led a data scientist
 * ☕ Software Engineer at Starbucks Coffee
 * 💾 Advanced Analytics Lead at Applied Materials and led 2 analysts
 * 🎉 Avanade NorCal Social Committee Member: organizing and hosting events monthly for 50+ employees in South Bay Area
-* ✔️ Avanade We Deliver with Excellence super hero award
+* ✔️ Avanade We Deliver with Excellence Super Hero Award
 * 📶 Avanade Advanced Analytics All-hands
 * 💭 Avanade San Francisco Strategy & Consulting AI & Advanced Analytics Senior Analyst [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics)
 * 💻 Accenture San Francisco Applied Intelligence Member
 * 👥 Accenture + University of California, Irvine Recruitment (3x) [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-university-of-california-irvine-recruitment)
 * 💙 Accenture San Francisco Applied Intelligence Summer Conference
+* 🎊 Avanade Go Team! Award (4x) 
 * 💼 Avanade FUEL Leadership Conference 
 * 📊 12 Penn Medicine Radiation Oncology publications and led 30+ surgeons, doctors, and students [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-penn-medicine-global-radiation-oncology-analytics) [(Google Scholar)](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en)
 * 💬 Grace Hopper Celebration of Women in Computing Conference [(Repo)](https://github.com/shawna-tuli-silicon-valley/grace-hopper-celebration-of-women-in-engineering/tree/main) 
