@@ -52,7 +52,7 @@
 * 💬 Grace Hopper Celebration of Women in Computing Conference [(Repo)](https://github.com/shawna-tuli-silicon-valley/grace-hopper-celebration-of-women-in-engineering/tree/main) 
 * 🖼️ Avanade Top 5 in Innovation award for creating an Azure AI product via computer vision and an one-shot GAN [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-irvine-ai-product)
 * 💞 Google International Women's Day
-* 💕 Google exploreCSR Southern California Workshop
+* 💕 Google exploreCSR Southern California Workshop [(Article)](https://education.uci.edu/ucisoe_news/google_jacob_mar19)
 * 💡 Forbes Under 30 Scholar in Innovation Award - one of the 1,000 students nationally [(Repo)](https://github.com/shawna-tuli-silicon-valley/forbes-under-30-scholar-innovation)
 * 📸 Google Photos All-hands [(Repo)](https://blog.google/products/photos/go-google-photos-tips-2018/)
 * 📷 Technical Business Analyst Intern at Google Photos [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-mountain-view-product-analytics-data-science-1) [(Article)](https://9to5google.com/2018/12/28/google-photos-news-2018-recap/)
