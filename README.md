@@ -75,7 +75,7 @@
 * 💓 Los Gatos High School Google, Netflix, and Intel visits [(Repo)](https://github.com/shawna-tuli-silicon-valley/big-tech-visits/tree/main)
 * 🌲 Stanford University Girl Code - sponsored as one of 12 top Math and Computer Science students [(Repo)](https://github.com/shawna-tuli-silicon-valley/stanford-engineering-computer-science) [(Article)](https://cs.stanford.edu/sites/default/files/Girl%20Code.pdf)
 * 💸 HSHacks hackathon at PayPal [(Article)](https://venturebeat.com/dev/teenagers-take-over-paypal-hold-their-own-hackathon/)
-* 📚 Stanford Splash
+* 📚 Stanford Splash [(Article)](https://stanforddaily.com/2016/04/13/behind-the-scenes-of-stanford-splash/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shawna-tuli-silicon-valley&layout=compact) 
 
