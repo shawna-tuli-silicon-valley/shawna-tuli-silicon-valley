@@ -69,7 +69,7 @@
 * 💯 Exceed Android app - won UCI ICS Butterworth Product Development Competition (Software) Finalist Award [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-exceed-android-app)
 * 🔢 University of California, Irvine Math CEO (Community Educational Outreach) STEM Mentor
 * 🌐 Girls Inc. of Orange County STEM (Science, Technology, Engineering, and Math) Mentor [(Report)](https://issuu.com/dwilliams11/docs/gioc_2017annualreport)
-* 💳 Eidebtic Vault Web app - built in 24 hours at the Capital One Santa Monica hackathon [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-merage-ics-eidebtic-vault-web-app)
+* 💳 Eidebtic Vault Web app - built in 24 hours at the Capital One Santa Monica hackathon [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-merage-ics-eidebtic-vault-web-app) [(Article)](https://medium.com/capital-one-tech/what-hosting-hackathons-taught-us-about-our-apis-b48d8304b74d)
 * 🛍️ Data Scientist Intern at eBay in the Office of the CIO [(Repo)](https://github.com/shawna-tuli-silicon-valley/ebay-san-jose-product-analytics-data-science) 
 * 📲 Yaksee interactive broadcasting app - mentioned in SiliconValley.com [(Repo)](https://github.com/shawna-tuli-silicon-valley/lghs-yaksee-interactive-broadcasting-app) [(Article)](https://www.siliconvalley.com/2016/03/23/los-gatos-startup-debuts-interactive-broadcasting-app/)
 * 💓 Los Gatos High School Google, Netflix, and Intel visits [(Repo)](https://github.com/shawna-tuli-silicon-valley/big-tech-visits/tree/main)
