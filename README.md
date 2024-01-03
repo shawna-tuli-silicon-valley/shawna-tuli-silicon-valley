@@ -73,7 +73,7 @@
 * 🛍️ Data Scientist Intern at eBay in the Office of the CIO [(Repo)](https://github.com/shawna-tuli-silicon-valley/ebay-san-jose-product-analytics-data-science) 
 * 📲 Yaksee interactive broadcasting app - mentioned in SiliconValley.com [(Repo)](https://github.com/shawna-tuli-silicon-valley/lghs-yaksee-interactive-broadcasting-app) [(Article)](https://www.siliconvalley.com/2016/03/23/los-gatos-startup-debuts-interactive-broadcasting-app/)
 * 💓 Los Gatos High School Google, Netflix, and Intel visits [(Repo)](https://github.com/shawna-tuli-silicon-valley/big-tech-visits/tree/main)
-* 🌲 Stanford University Girl Code [(Repo)](https://github.com/shawna-tuli-silicon-valley/stanford-engineering-computer-science)
+* 🌲 Stanford University Girl Code - selected and sponsored as one of 12 top Math and Computer Science students [(Repo)](https://github.com/shawna-tuli-silicon-valley/stanford-engineering-computer-science)
 * 💸 HSHacks hackathon at PayPal [(Article)](https://venturebeat.com/dev/teenagers-take-over-paypal-hold-their-own-hackathon/)
 * 📚 Stanford Splash
 
