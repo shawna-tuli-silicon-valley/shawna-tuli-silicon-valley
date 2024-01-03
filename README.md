@@ -47,7 +47,7 @@
 * 👥 Accenture + University of California, Irvine Recruitment (3x) [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-university-of-california-irvine-recruitment)
 * 💙 Accenture San Francisco Applied Intelligence Summer Conference
 * 🎊 Avanade Go Team! Award (4x) 
-* 💼 Avanade FUEL Leadership Conference 
+* 💼 Avanade FUEL Leadership Conference [(Article)](https://www.avanade.com/en/blogs/inside-avanade/corporate-citizenship/fuel-conference-2019)
 * 📊 12 Penn Medicine Radiation Oncology publications and led 30+ surgeons, doctors, and students [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-penn-medicine-global-radiation-oncology-analytics) [(Google Scholar)](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en)
 * 💬 Grace Hopper Celebration of Women in Computing Conference [(Repo)](https://github.com/shawna-tuli-silicon-valley/grace-hopper-celebration-of-women-in-engineering/tree/main) 
 * 🖼️ Avanade Top 5 in Innovation award for creating an Azure AI product via computer vision and an one-shot GAN [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-irvine-ai-product)
