@@ -23,7 +23,7 @@
 * 🧡 AI Data Scientist at Avanade - won Best Baker Award on the West Region Chargeability Percent Team
 * 📢 Software Engineer at The NPD Group
 * ✅ AI Data Scientist at Avanade
-* 🤍 Google Cloud Next Conference (3x) [(Article])(https://blog.google/products/google-cloud/cloud-next-2023-sundar-pichai-keynote/)
+* 🤍 Google Cloud Next Conference (3x) ([Article])(https://blog.google/products/google-cloud/cloud-next-2023-sundar-pichai-keynote/)
 * 💛 Databricks San Francisco Data + AI Summit
 * ⚙️ Avanade San Francisco Strategy & Consulting AI & Advanced Analytics Associate Manager [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics-2)
 * 📉 Accenture V360 Awards in Innovation nominee for forecasting energy usage with AI in California [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-california-energy-ai-and-predictive-analytics) [(Student Repo)](https://github.com/shawna-tuli-silicon-valley/EnergyPredictionCA)
