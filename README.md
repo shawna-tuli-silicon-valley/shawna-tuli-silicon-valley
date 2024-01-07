@@ -51,13 +51,13 @@
 * 📊 12 Penn Medicine Radiation Oncology publications and led 30+ surgeons, doctors, and students [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-penn-medicine-global-radiation-oncology-analytics) [(Google Scholar)](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en)
 * 💬 Grace Hopper Celebration of Women in Computing Conference [(Repo)](https://github.com/shawna-tuli-silicon-valley/grace-hopper-celebration-of-women-in-engineering/tree/main) 
 * 🖼️ Avanade Top 5 in Innovation award for creating an Azure AI product via computer vision and an one-shot GAN [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-irvine-ai-product)
-* 💞 Google International Women's Day
+* 💞 Google International Women's Day in Venice
 * 💕 Google exploreCSR Southern California Workshop [(Article)](https://www.csulb.edu/college-of-engineering/article/google-sponsors-explorecsr-research-workshop-for-women)
 * 💡 Forbes Under 30 Scholar in Innovation Award - selected as one of the 1,000 students nationally [(Repo)](https://github.com/shawna-tuli-silicon-valley/forbes-under-30-scholar-innovation)
-* 📸 Google Photos All-hands [(Repo)](https://blog.google/products/photos/go-google-photos-tips-2018/)
-* 📷 Technical Business Analyst Intern at Google Photos [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-mountain-view-product-analytics-data-science-1) [(Article)](https://9to5google.com/2018/12/28/google-photos-news-2018-recap/)
-* ✨ Google Women in Engineering Conference [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-women-in-engineering/tree/main)
-* 💝 Google tgif Conferences [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-tgif/tree/main) [(Article)](https://www.cnbc.com/2019/11/15/google-cancels-tgif-weekly-all-hands-meetings.html)
+* 📸 Google Photos All-hands in Mountain View [(Repo)](https://blog.google/products/photos/go-google-photos-tips-2018/)
+* 📷 Technical Business Analyst Intern at Google Photos in Mountain View [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-mountain-view-product-analytics-data-science-1) [(Article)](https://9to5google.com/2018/12/28/google-photos-news-2018-recap/)
+* ✨ Google Women in Engineering Conference in Mountain View [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-women-in-engineering/tree/main)
+* 💝 Google tgif Conferences in Mountain View [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-tgif/tree/main) [(Article)](https://www.cnbc.com/2019/11/15/google-cancels-tgif-weekly-all-hands-meetings.html)
 * 🚀 Data Scientist at UCI Beall Applied Innovation [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-beall-applied-innovation-product-analytics-data-science)
 * 💚 MongoDB.local Southern California Conference 
 * 💰 Alpha Kappa Psi Professional Chair and led 50+ professionals - won Most Likely to be a Billionaire Award [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-alpha-kappa-psi-professional-business-fraternity)
