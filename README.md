@@ -54,7 +54,7 @@
 * 💞 Google Venice International Women's Day
 * 💕 Google exploreCSR Southern California Workshop [(Article)](https://www.csulb.edu/college-of-engineering/article/google-sponsors-explorecsr-research-workshop-for-women)
 * 💡 Forbes Under 30 Scholar in Innovation Award - selected as one of the 1,000 students nationally [(Repo)](https://github.com/shawna-tuli-silicon-valley/forbes-under-30-scholar-innovation)
-* 📸 Google Photos All-hands in Mountain View [(Repo)](https://blog.google/products/photos/go-google-photos-tips-2018/)
+* 📸 Google Photos Mountain View All-hands [(Repo)](https://blog.google/products/photos/go-google-photos-tips-2018/)
 * 📷 Technical Business Analyst Intern at Google Photos Mountain View [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-mountain-view-product-analytics-data-science-1) [(Article)](https://9to5google.com/2018/12/28/google-photos-news-2018-recap/)
 * ✨ Google Mountain View Women in Engineering Conference [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-women-in-engineering/tree/main)
 * 💝 Google Mountain View tgif Conferences [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-tgif/tree/main) [(Article)](https://www.cnbc.com/2019/11/15/google-cancels-tgif-weekly-all-hands-meetings.html)
