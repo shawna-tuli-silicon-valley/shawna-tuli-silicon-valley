@@ -60,9 +60,9 @@
 * 💝 Google tgif Conferences [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-tgif/tree/main) [(Article)](https://www.cnbc.com/2019/11/15/google-cancels-tgif-weekly-all-hands-meetings.html)
 * 🚀 Data Scientist at UCI Beall Applied Innovation [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-beall-applied-innovation-product-analytics-data-science)
 * 💚 MongoDB.local Southern California Conference 
-* 💰 Alpha Kappa Psi Professional Chair, won Most Likely to be a Billionaire Award, and led 50+ professionals [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-alpha-kappa-psi-professional-business-fraternity)
+* 💰 Alpha Kappa Psi Professional Chair and led 50+ professionals - won Most Likely to be a Billionaire Award [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-alpha-kappa-psi-professional-business-fraternity)
 * 🏆 UptoUCI Co-Founder & Marketing Director - won 2 Up to Us National Honor Badges [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-merage-national-debt-marketing-analytics) [(Credly)](https://www.credly.com/users/shawna-tuli/badges) [(Article)](https://wfuogb.com/5022/news/up-to-us-movement-raises-awareness-about-national-debt/)
-* 📈 Executive Vice President, 12.11% year-to-date return on an $100,000 investment fund, and led 35+ analysts [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-merage-investment-management)
+* 📈 Executive Vice President and led 35+ analysts - won 12.11% year-to-date return on an $100,000 investment fund [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-merage-investment-management)
 * 🏦 CFA Society Orange County Research Challenge on Opus Bank [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-merage-cfa-institute-research-challenge)
 * 🥇 Olympics Games bayesian data analysis - UCI ICS STATS 115/205 [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-olympic-games-bayesian-data-analysis)
 * 💋 Kys iOS app - built in 24 hours at the USC Viterbi School of Engineering AthenaHacks hackathon [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-kys-ios-app) [(Devpost)](https://devpost.com/software/kys-0s456d?fbclid=IwAR1zk_PqUaJkhv4SuBtjU898owq_guS0EFm7R68mAZgG_F7k3dZijiDOcT4#updates)
