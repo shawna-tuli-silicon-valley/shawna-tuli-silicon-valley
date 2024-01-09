@@ -53,6 +53,7 @@
 * 🖼️ Avanade Top 5 in Innovation award for creating an Azure AI product via computer vision and an one-shot GAN [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-irvine-ai-product)
 * 💞 Google Venice International Women's Day
 * 💕 Google exploreCSR Southern California Workshop [(Article)](https://www.csulb.edu/college-of-engineering/article/google-sponsors-explorecsr-research-workshop-for-women)
+* 🥇 Olympics Games bayesian data analysis - analyzed in UCI ICS STATS 115/205 [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-olympic-games-bayesian-data-analysis)
 * 💡 Forbes Under 30 Scholar in Innovation Award - selected as one of the 1,000 students nationally [(Repo)](https://github.com/shawna-tuli-silicon-valley/forbes-under-30-scholar-innovation)
 * 📸 Google Photos Mountain View All-hands [(Repo)](https://blog.google/products/photos/go-google-photos-tips-2018/)
 * 📷 Technical Business Analyst Intern at Google Photos Mountain View [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-mountain-view-product-analytics-data-science-1) [(Article)](https://9to5google.com/2018/12/28/google-photos-news-2018-recap/)
@@ -64,7 +65,6 @@
 * 🏆 UptoUCI Co-Founder & Marketing Director and led UCI - won two Up to Us National Honor Badges [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-merage-national-debt-marketing-analytics) [(Credly)](https://www.credly.com/users/shawna-tuli/badges) [(Article)](https://wfuogb.com/5022/news/up-to-us-movement-raises-awareness-about-national-debt/)
 * 📈 EVP and led 35+ analysts - returned 12.11% YTD on an $100,000 fund and recruited to BlackRock and Bridgewater [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-merage-investment-management)
 * 🏦 CFA Society Orange County Research Challenge on Opus Bank [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-merage-cfa-institute-research-challenge)
-* 🥇 Olympics Games bayesian data analysis - analyzed in UCI ICS STATS 115/205 [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-olympic-games-bayesian-data-analysis)
 * 💋 Kys iOS app - built in 24 hours at the USC Viterbi School of Engineering AthenaHacks hackathon [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-kys-ios-app) [(Devpost)](https://devpost.com/software/kys-0s456d?fbclid=IwAR1zk_PqUaJkhv4SuBtjU898owq_guS0EFm7R68mAZgG_F7k3dZijiDOcT4#updates)
 * 💯 Exceed Android app - won UCI ICS Butterworth Product Development Competition (Software) Finalist Award [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-exceed-android-app)
 * 🔢 University of California, Irvine Math CEO (Community Educational Outreach) STEM Mentor
