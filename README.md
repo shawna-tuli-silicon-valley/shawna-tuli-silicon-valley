@@ -12,7 +12,7 @@
 * 🌁 Accenture San Francisco Generative AI Studio Member 
 * 🌄 Avanade AI Practice Silicon Valley Lead: organizing and hosting events monthly for 10+ employees in Silicon Valley
 * 📦 AI & Data Science Lead at Amazon (Repo) [(Article)](https://www.pcmag.com/news/amazon-to-spend-over-1-billion-on-microsoft-365-licenses)
-* ❤️ Google I/O Conference (3x) [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-io/tree/main)
+* ❤️ Google I/O Conference (3x) [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-io/tree/main) [(2023 Keynote)](https://io.google/2023/program/396cd2d5-9fe1-4725-a3dc-c01bb2e2f38a/) [(2022 Keynote)(https://io.google/2022/program/8e80903f-955f-4a5b-9118-b0ce4acdb0e6/) [(2021 Keynote)](https://io.google/2021/session/88b34a4e-6170-4f18-a321-4260fb559e60?lng=en) 
 * 💟 Microsoft Envision Conference (3x) 
 * ⚡ AI, Data Science, Data Visualization, and Advanced Analytics Expert at LinkedIn Collaborative Articles [(LinkedIn)](https://www.linkedin.com/in/shawna-tuli-silicon-valley)
 * 👾 Avanade Mountain View Strategy & Consulting AI & Advanced Analytics Associate Manager [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics-3)
