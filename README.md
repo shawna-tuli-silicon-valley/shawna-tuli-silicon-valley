@@ -56,7 +56,7 @@
 * 🥇 Olympics Games bayesian data analysis - analyzed in UCI ICS STATS 115/205 [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-olympic-games-bayesian-data-analysis)
 * 💡 Forbes Under 30 Scholar in Innovation Award - selected as one of the 1,000 students nationally [(Repo)](https://github.com/shawna-tuli-silicon-valley/forbes-under-30-scholar-innovation)
 * 📸 Google Photos Mountain View All-hands [(Article)](https://blog.google/products/photos/go-google-photos-tips-2018/)
-* 📷 Technical Business Analyst Intern at Google Photos Mountain View [(Product)](https://www.google.com/photos/about/) [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-mountain-view-product-analytics-data-science-1) [(Article)](https://9to5google.com/2018/12/28/google-photos-news-2018-recap/)
+* 📷 Technical Business Analyst Intern at Google Photos Mountain View [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-mountain-view-product-analytics-data-science-1) [(Article)](https://9to5google.com/2018/12/28/google-photos-news-2018-recap/)
 * ✨ Google Mountain View Women in Engineering Conference [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-women-in-engineering/tree/main)
 * 💝 Google Mountain View tgif Conferences [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-tgif/tree/main) [(Article)](https://www.cnbc.com/2019/11/15/google-cancels-tgif-weekly-all-hands-meetings.html)
 * 🚀 Data Scientist at UCI Beall Applied Innovation [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-beall-applied-innovation-product-analytics-data-science)
