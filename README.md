@@ -133,24 +133,24 @@
 * Dillon Francis, Las Vegas
 * The Chainsmokers, Las Vegas
 * SLAM! The Tour, San Jose
-* Summerlands, University of California, Irvine
-* Shocktober, University of California, Irvine
+* Summerlands, UCI
+* Shocktober, UCI
 * TroyBoi, Costa Mesa
-* Aldrich Park After Dark, Univeristy of California, Irvine
+* Aldrich Park After Dark, UCI
 * LED Anniversary, San Diego
-* Summerlands, University of California, Irvine
+* Summerlands, UCI
 * Escape Halloween, San Bernardino
-* Shocktober, University of California, Irvine
-* Aldrich Park After Dark, Univeristy of California, Irvine
+* Shocktober, UCI
+* Aldrich Park After Dark, UCI
 * Audiotistic Bay Area Festival, Mountain View
-* Summerlands, University of California, Irvine
-* Shocktober, University of California, Irvine
-* Aldrich Park After Dark, Univeristy of California, Irvine
+* Summerlands, UCI
+* Shocktober, UCI
+* Aldrich Park After Dark, UCI
 * Air + Style Music Festival, Los Angeles
-* Summerlands, University of California, Irvine
+* Summerlands, UCI
 * Kanye West, Saint Pablo Tour, Los Angeles (Canceled)
-* Shocktober, University of California, Irvine
-* Aldrich Park After Dark, Univeristy of California, Irvine
+* Shocktober, UCI
+* Aldrich Park After Dark, UCI
 * BTS Wings Tour, Anaheim
 * Rock of Ages, Las Vegas
 
