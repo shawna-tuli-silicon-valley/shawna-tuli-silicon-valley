@@ -63,7 +63,7 @@
 * 💚 MongoDB.local Southern California Conference 
 * 💰 UCI Alpha Kappa Psi Professional Chair and led 50+ professionals - won Most Likely to be a Billionaire Award [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-alpha-kappa-psi-professional-business-fraternity)
 * 🏆 UptoUCI Co-Founder & Marketing Director and led UCI - won two Up to Us National Honor Badges [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-merage-national-debt-marketing-analytics) [(Credly)](https://www.credly.com/users/shawna-tuli/badges) [(Article)](https://wfuogb.com/5022/news/up-to-us-movement-raises-awareness-about-national-debt/)
-* 📈 EVP and led 35+ analysts - returned 12.11% YTD on an $100,000 fund and recruited to BlackRock and Bridgewater [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-merage-investment-management)
+* 📈 EVP and led 35+ UCI analysts - returned 12.11% YTD on an $100,000 fund; recruited to BlackRock and Bridgewater [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-merage-investment-management)
 * 🏦 CFA Society Orange County Research Challenge on Opus Bank [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-merage-cfa-institute-research-challenge)
 * 💋 Kys iOS app - built in 24 hours at the USC Viterbi School of Engineering AthenaHacks hackathon [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-kys-ios-app) [(Devpost)](https://devpost.com/software/kys-0s456d?fbclid=IwAR1zk_PqUaJkhv4SuBtjU898owq_guS0EFm7R68mAZgG_F7k3dZijiDOcT4#updates)
 * 💯 Exceed Android app - won UCI ICS Butterworth Product Development Competition (Software) Finalist Award [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-exceed-android-app)
