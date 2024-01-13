@@ -128,7 +128,7 @@
 💘 OOO, I am in my gym, [dancing](https://github.com/shawna-tuli-silicon-valley/dance), [oil painting](https://github.com/shawna-tuli-silicon-valley/oil-painting), [reading](https://github.com/shawna-tuli-silicon-valley/strategy-and-management-books), studying, online shopping, and at Rap & EDM festivals, raves, and concerts. I enjoy healthy cooking, playing tennis and badminton, beaches, and watching TV shows and movies on Netflix and Prime. 
 
 #### MUSIC________________________________________________________________________________________________________________________________
-* ABBA, London
+* ABBA Voyage, London
 * Sam Smith, Los Angeles
 * Dillon Francis, Las Vegas
 * The Chainsmokers, Las Vegas
@@ -151,7 +151,7 @@
 * Kanye West, Saint Pablo Tour, Los Angeles (Canceled)
 * Shocktober, University of California, Irvine
 * Aldrich Park After Dark, Univeristy of California, Irvine
-* BTS, Anaheim
+* BTS Wings Tour, Anaheim
 * Rock of Ages, Las Vegas
 
 <!--
