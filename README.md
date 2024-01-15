@@ -4,7 +4,7 @@
 
 #### BIG TECH AI & DATA SCIENCE WORK EXPERIENCE AND PUBLIC SPEAKING_______________________________________________________
 * 🎯 Incoming Generative AI & Data Science Lead at Google Mountain View (Repo)
-* 📧 Amazon Mailbox Core All-hands 
+* 📧 Amazon Mountain View Mailbox Core All-hands 
 * 🗃️ Avanade West Region Champion for North America Data & AI Solution Architect Community Council
 * 🌌 Avanade Create the Future Super Hero Award
 * 🆕 Accenture V360 Awards in Innovation nominee for inferring homelessness in California with GenAI (Repo) (Student Repo) 
