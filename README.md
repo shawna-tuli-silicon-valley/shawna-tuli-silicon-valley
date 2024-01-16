@@ -129,7 +129,7 @@
 
 #### MUSIC________________________________________________________________________________________________________________________________
 * ABBA Voyage, London
-* Sam Smith, Los Angeles
+* Sam Smith, Inglewood
 * Dillon Francis, Las Vegas
 * The Chainsmokers, Las Vegas
 * Bollywood SLAM! The Tour, San Jose
@@ -148,7 +148,7 @@
 * Aldrich Park After Dark, UCI
 * Air + Style Music Festival, Los Angeles
 * Summerlands, UCI
-* Kanye West Saint Pablo Tour, Los Angeles (Canceled)
+* Kanye West Saint Pablo Tour, Anaheim (Canceled)
 * Shocktober, UCI
 * Aldrich Park After Dark, UCI
 * BTS Wings Tour, Anaheim
