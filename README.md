@@ -132,7 +132,7 @@
 * Sam Smith, Los Angeles
 * Dillon Francis, Las Vegas
 * The Chainsmokers, Las Vegas
-* SLAM! The Tour, San Jose
+* Bollywood SLAM! The Tour, San Jose
 * Summerlands, UCI
 * Shocktober, UCI
 * TroyBoi, Costa Mesa
@@ -148,7 +148,7 @@
 * Aldrich Park After Dark, UCI
 * Air + Style Music Festival, Los Angeles
 * Summerlands, UCI
-* Kanye West, Saint Pablo Tour, Los Angeles (Canceled)
+* Kanye West Saint Pablo Tour, Los Angeles (Canceled)
 * Shocktober, UCI
 * Aldrich Park After Dark, UCI
 * BTS Wings Tour, Anaheim
