@@ -129,7 +129,7 @@
 
 #### MUSIC________________________________________________________________________________________________________________________________
 * ABBA Voyage, London
-* Sam Smith, Inglewood
+* Sam Smith Gloria the Tour, Inglewood
 * Dillon Francis, Las Vegas
 * The Chainsmokers, Las Vegas
 * Bollywood SLAM! The Tour, San Jose
