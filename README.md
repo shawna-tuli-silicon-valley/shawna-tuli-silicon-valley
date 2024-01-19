@@ -91,7 +91,7 @@
 * Marvin Ridge High School - Valedictorian*, International Baccalaureate, National Speech & Debate Association Degree of Excellence, Future Business Leaders of America, North Carolina Council on Economic Education Economics Challenge, Science Olympiad Union County Top 3 (2x), National Honor Society, and Kathak North Indian Classical Dance [(Repo)](https://github.com/shawna-tuli-silicon-valley/mrhs-international-baccalaureate) [(Repo)](https://github.com/shawna-tuli-silicon-valley/mrhs-north-carolina-forensic-league-state-championship)
 
 #### GOOGLE EDUCATION________________________________________________________________________________________________________________
-* Google Cloud Digital Leader Certificate
+* Google Cloud Digital Leader (Certificate)
 * Google Training in Generative Artificial Intelligence [(Training)](https://cloud.google.com/blog/topics/training-certifications/12-days-of-no-cost-generative-ai-training)
 * Google Cloud Certificates in Generative Artificial Intelligence [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-cloud-generative-ai/)
 * Google Certificates in Advanced Data Analytics [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-advanced-data-analytics-professional-certificate)
