@@ -1,4 +1,4 @@
-#### How to work for/with me: be direct, clear, honest, and accountable. I prefer 15-minute meetings and slide decks. Thank you!
+#### How to work for or with me: be direct, clear, honest, and accountable. I prefer 15-minute meetings and slide decks. I am an admirer of Ray Dalio's Principles and seek to implement them in my leadership and engineering and business teams. Thank you!
 
 <img width="203" alt="Screen Shot 2023-12-24 at 2 26 18 PM" src="https://github.com/shawna-tuli-silicon-valley/shawna-tuli-silicon-valley/assets/19508013/7ea1fef3-e383-4ffa-b6b6-bdc7c52c9f05">
 
