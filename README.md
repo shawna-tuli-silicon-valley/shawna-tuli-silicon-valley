@@ -4,7 +4,7 @@ Shawna has played a key role in building Avanade's AI Practice from the ground u
 
 Shawna is a proud alumna of UCI ICS Data Science, and her MBTI is ENFJ-A, with strengths in Activator, Achiever, Futuristic, Competition, and Significance.
 
-#### BIG TECH AI & DATA SCIENCE WORK EXPERIENCE AND PUBLIC SPEAKING 2024-2015
+#### BIG TECH AI & DATA SCIENCE WORK EXPERIENCE AND PUBLIC SPEAKING (2024-2015)
 * 🌟 Incoming Avanade Mountain View Strategy & Consulting AI & Advanced Analytics Manager (Repo)
 * 🎯 Incoming Generative AI & Data Science Lead at Google Mountain View (Repo)
 * ❣️ Google Cloud Launchpad for Women
