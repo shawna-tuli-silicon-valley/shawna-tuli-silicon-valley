@@ -84,7 +84,7 @@ Shawna is a proud alumna of UCI ICS Data Science, and her MBTI is ENFJ-A, with s
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shawna-tuli-silicon-valley&layout=compact) 
 
-#### EDUCATION_____
+#### EDUCATION
 * Accenture Kellogg Education Education in Leading with Analytics & Artificial Intelligence [(Certificate)](https://execedcertificate.kellogg.northwestern.edu/308a9e71-d504-4194-9c74-22667c48e450#gs.utv39r)
 * Stanford University School of Engineering Certificates in Machine Learning & Computer Science [(Certificate)](https://www.coursera.org/account/accomplishments/certificate/47XPJRBC4F5C) [(Repo)](https://github.com/shawna-tuli-silicon-valley/stanford-engineering-computer-science)
 * Harvard Univerity Artificial Intelligence [(Repo)](https://github.com/shawna-tuli-silicon-valley/harvard-ai)
@@ -109,10 +109,10 @@ Shawna is a proud alumna of UCI ICS Data Science, and her MBTI is ENFJ-A, with s
 * Bloomberg Market Concepts (BMC)
 * Kathak North Indian Classical Dance
 
-#### TEST SCORE_________________________________________________________________________________________________________________________
+#### TEST SCORE
 * GMAT - Waived
 
-#### PROGRAMMING LANGUAGES_______________________________________________________________________________________________________
+#### PROGRAMMING LANGUAGES
 * Python
 * R
 * SQL
@@ -125,16 +125,16 @@ Shawna is a proud alumna of UCI ICS Data Science, and her MBTI is ENFJ-A, with s
 * x86 Assembly
 * Bash
 
-#### LANGUAGES_________________________________________________________________________________________________________________________
+#### LANGUAGES
 * English
 * Hindi
 * Punjabi
 * Spanish
 
-#### INTERESTS___________________________________________________________________________________________________________________________
+#### INTERESTS
 💘 OOO, I am in my gym, [dancing](https://github.com/shawna-tuli-silicon-valley/dance), [oil painting](https://github.com/shawna-tuli-silicon-valley/oil-painting), [reading](https://github.com/shawna-tuli-silicon-valley/strategy-and-management-books), studying, online shopping, and at Pop, Rap, and EDM festivals, raves, and concerts. I enjoy healthy cooking, playing tennis and badminton, beaches, and watching shows and movies on Netflix and Prime. 
 
-#### MUSIC________________________________________________________________________________________________________________________________
+#### MUSIC
 * ABBA Voyage, London
 * Sam Smith Gloria the Tour, Inglewood
 * Dillon Francis, Las Vegas
