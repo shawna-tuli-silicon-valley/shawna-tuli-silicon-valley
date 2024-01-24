@@ -4,9 +4,11 @@
 
 🌄 Shawna Tuli is a seasoned professional in Silicon Valley, with over three years of experience as an AI & Advanced Analytics Associate Manager. She has a strong background in strategy and consulting, particularly in applied intelligence, generative artificial intelligence, data science, and advanced analytics. 
 
-Shawna has played a key role in building Avanade's AI Practice from the ground up in collaboration with David Gormley, serving as the San Francisco Lead. She has made significant contributions to major tech companies, including Amazon and Google, working on products such as Photos, Cloud, Play, and One. Shawna is a proud alumna of UCI ICS Data Science, and her MBTI is ENFJ-A, with strengths in Activator, Achiever, Futuristic, Competition, and Significance.
+Shawna has played a key role in building Avanade's AI Practice from the ground up in collaboration with David Gormley, serving as the San Francisco Lead. She has made significant contributions to major tech companies, including Amazon and Google, working on products such as Photos, Cloud, Play, and One. 
 
-#### BIG TECH AI & DATA SCIENCE WORK EXPERIENCE AND PUBLIC SPEAKING___
+Shawna is a proud alumna of UCI ICS Data Science, and her MBTI is ENFJ-A, with strengths in Activator, Achiever, Futuristic, Competition, and Significance.
+
+#### BIG TECH AI & DATA SCIENCE WORK EXPERIENCE AND PUBLIC SPEAKING_____
 * 🌟 Incoming Avanade Mountain View Strategy & Consulting AI & Advanced Analytics Manager (Repo)
 * 🎯 Incoming Generative AI & Data Science Lead at Google Mountain View (Repo)
 * ❣️ Google Cloud Launchpad for Women
@@ -86,7 +88,7 @@ Shawna has played a key role in building Avanade's AI Practice from the ground u
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shawna-tuli-silicon-valley&layout=compact) 
 
-#### EDUCATION__________________________________________________________________________________________________________________________
+#### EDUCATION_____
 * Accenture Kellogg Education Education in Leading with Analytics & Artificial Intelligence [(Certificate)](https://execedcertificate.kellogg.northwestern.edu/308a9e71-d504-4194-9c74-22667c48e450#gs.utv39r)
 * Stanford University School of Engineering Certificates in Machine Learning & Computer Science [(Certificate)](https://www.coursera.org/account/accomplishments/certificate/47XPJRBC4F5C) [(Repo)](https://github.com/shawna-tuli-silicon-valley/stanford-engineering-computer-science)
 * Harvard Univerity Artificial Intelligence [(Repo)](https://github.com/shawna-tuli-silicon-valley/harvard-ai)
@@ -94,7 +96,7 @@ Shawna has played a key role in building Avanade's AI Practice from the ground u
 * Los Gatos High School - Los Gatos-Saratoga Union High School District Scholar, Advanced Placement Scholar with Distinction, Christine Guenther Brienzo Merit Scholarship, Stanford University Girl Code, Stanford Splash, LIVEbeyond Foundation California President, Future Business Leaders of America Treasurer and Bay Section Top 10 in Securities & Investments, California Council on Economic Education Personal Finance Challenge, Science Olympiad Santa Clara County Top 3 (2x), Link Crew Leader, Women in Computer Science, Tennis, and Badminton [(Repo)](https://github.com/shawna-tuli-silicon-valley/lghs-advanced-placement)
 * Marvin Ridge High School - Valedictorian*, International Baccalaureate, National Speech & Debate Association Degree of Excellence, Future Business Leaders of America, North Carolina Council on Economic Education Economics Challenge, Science Olympiad Union County Top 3 (2x), National Honor Society, and Kathak North Indian Classical Dance [(Repo)](https://github.com/shawna-tuli-silicon-valley/mrhs-international-baccalaureate) [(Repo)](https://github.com/shawna-tuli-silicon-valley/mrhs-north-carolina-forensic-league-state-championship)
 
-#### GOOGLE EDUCATION________________________________________________________________________________________________________________
+#### GOOGLE EDUCATION_____
 * Google Cloud Digital Leader (Certificate)
 * Google Training in Generative Artificial Intelligence [(Training)](https://cloud.google.com/blog/topics/training-certifications/12-days-of-no-cost-generative-ai-training)
 * Google Cloud Certificates in Generative Artificial Intelligence [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-cloud-generative-ai/)
