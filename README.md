@@ -2,7 +2,7 @@ Shawna Tuli is a seasoned professional in Silicon Valley, with over three years 
 
 Shawna has played a key role in building Avanade's AI Practice from the ground up in collaboration with David Gormley, serving as the San Francisco Lead. She has made significant contributions to major tech companies, including **Amazon** and **Google**, working on products such as Photos, Cloud, Play, and One. 
 
-Shawna is a proud alumna of UCI ICS Data Science, and her MBTI is ENFJ-A, with strengths in Activator, Achiever, Futuristic, Competition, and Significance.
+Shawna is a proud alumna of Kellogg Executive Education in Leading with Analytics & Artificial Intelligence and UCI ICS Data Science, and her MBTI is ENFJ-A, with strengths in Activator, Achiever, Futuristic, Competition, and Significance.
 
 #### BIG TECH AI & DATA SCIENCE WORK EXPERIENCE AND PUBLIC SPEAKING (2024-2015)
 * 🌟 Incoming Avanade Mountain View Strategy & Consulting AI & Advanced Analytics Manager (Repo)
