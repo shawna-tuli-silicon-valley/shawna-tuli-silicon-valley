@@ -1,6 +1,6 @@
 Shawna Tuli is a seasoned professional in Silicon Valley, with three and a half years of experience as an Artificial Intelligence & Advanced Analytics Associate Manager at **Accenture** and **Avanade**, the Accenture **Microsoft** Business Group. She has a strong background in strategy and consulting, particularly in ***applied intelligence***, ***generative artificial intelligence***, ***data science***, and ***advanced analytics***. 
 
-Shawna has played a key role in building Avanade's Artificial Intelligence Practice from the ground up in collaboration with David Gormley, serving as the San Francisco Lead. She has made significant contributions to major tech companies, including **Amazon** and **Google**, working on products such as Photos, Cloud, Play, and One. 
+Shawna has played a key role in building Avanade's Artificial Intelligence Practice from the ground up in collaboration with David Gormley, serving as the San Francisco Lead. She has made significant contributions to major tech companies, including **Amazon** and **Google**, working on products such as Photos, Cloud, Play, and One. She advises for Harvard Business Review. 
 
 Shawna is a proud alumna of Accenture Kellogg Executive Education in Leading with Analytics & Artificial Intelligence, University of California, Irvine Donald Bren School of Information & Computer Sciences Data Science, and Stanford University Girl Code. Her strengths are Activator, Achiever, Futuristic, Competition, and Significance.
 
