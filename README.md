@@ -1,7 +1,3 @@
-#### How to work with me: be direct, clear, honest, and accountable. I prefer 15-minute meetings and slide decks. I am a follower of Ray Dalio's Principles and implement them in my leadership of engineering and business teams. Thank you!
-
-<img width="203" alt="Screen Shot 2023-12-24 at 2 26 18 PM" src="https://github.com/shawna-tuli-silicon-valley/shawna-tuli-silicon-valley/assets/19508013/7ea1fef3-e383-4ffa-b6b6-bdc7c52c9f05">
-
 🌄 Shawna Tuli is a seasoned professional in Silicon Valley, with over three years of experience as an AI & Advanced Analytics Associate Manager. She has a strong background in strategy and consulting, particularly in applied intelligence, generative artificial intelligence, data science, and advanced analytics. 
 
 Shawna has played a key role in building Avanade's AI Practice from the ground up in collaboration with David Gormley, serving as the San Francisco Lead. She has made significant contributions to major tech companies, including Amazon and Google, working on products such as Photos, Cloud, Play, and One. 
