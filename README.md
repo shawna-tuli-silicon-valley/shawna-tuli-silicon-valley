@@ -2,7 +2,7 @@ Shawna Tuli is a seasoned professional in Silicon Valley, with three and a half 
 
 Shawna has played a key role in building Avanade's Artificial Intelligence Practice from the ground up in collaboration with David Gormley, serving as the San Francisco Lead. She has made significant contributions to major tech companies, including **Amazon** and **Google**, working on products such as Photos, Cloud, Play, and One. 
 
-Shawna is a proud alumna of Kellogg Executive Education in Leading with Analytics & Artificial Intelligence, University of California, Irvine Donald Bren School of Information & Computer Sciences Data Science, and Stanford University Girl Code. Her strengths are Activator, Achiever, Futuristic, Competition, and Significance.
+Shawna is a proud alumna of Accenture Kellogg Executive Education in Leading with Analytics & Artificial Intelligence, University of California, Irvine Donald Bren School of Information & Computer Sciences Data Science, and Stanford University Girl Code. Her strengths are Activator, Achiever, Futuristic, Competition, and Significance.
 
 #### CALIFORNIA BIG TECH AI & DATA SCIENCE WORK EXPERIENCE AND PUBLIC SPEAKING (2024-2014)
 * 🌟 Incoming Avanade Mountain View Strategy & Consulting AI & Advanced Analytics Manager (Repo)
