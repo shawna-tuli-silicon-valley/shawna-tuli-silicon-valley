@@ -4,7 +4,7 @@ Shawna has played a key role in building Avanade's AI Practice from the ground u
 
 Shawna is a proud alumna of UCI ICS Data Science, and her MBTI is ENFJ-A, with strengths in Activator, Achiever, Futuristic, Competition, and Significance.
 
-#### BIG TECH AI & DATA SCIENCE WORK EXPERIENCE AND PUBLIC SPEAKING_____
+#### BIG TECH AI & DATA SCIENCE WORK EXPERIENCE AND PUBLIC SPEAKING 2024-2015
 * 🌟 Incoming Avanade Mountain View Strategy & Consulting AI & Advanced Analytics Manager (Repo)
 * 🎯 Incoming Generative AI & Data Science Lead at Google Mountain View (Repo)
 * ❣️ Google Cloud Launchpad for Women
@@ -92,7 +92,7 @@ Shawna is a proud alumna of UCI ICS Data Science, and her MBTI is ENFJ-A, with s
 * Los Gatos High School - Los Gatos-Saratoga Union High School District Scholar, Advanced Placement Scholar with Distinction, Christine Guenther Brienzo Merit Scholarship, Stanford University Girl Code, Stanford Splash, LIVEbeyond Foundation California President, Future Business Leaders of America Treasurer and Bay Section Top 10 in Securities & Investments, California Council on Economic Education Personal Finance Challenge, Science Olympiad Santa Clara County Top 3 (2x), Link Crew Leader, Women in Computer Science, Tennis, and Badminton [(Repo)](https://github.com/shawna-tuli-silicon-valley/lghs-advanced-placement)
 * Marvin Ridge High School - Valedictorian*, International Baccalaureate, National Speech & Debate Association Degree of Excellence, Future Business Leaders of America, North Carolina Council on Economic Education Economics Challenge, Science Olympiad Union County Top 3 (2x), National Honor Society, and Kathak North Indian Classical Dance [(Repo)](https://github.com/shawna-tuli-silicon-valley/mrhs-international-baccalaureate) [(Repo)](https://github.com/shawna-tuli-silicon-valley/mrhs-north-carolina-forensic-league-state-championship)
 
-#### GOOGLE EDUCATION_____
+#### GOOGLE EDUCATION
 * Google Cloud Digital Leader (Certificate)
 * Google Training in Generative Artificial Intelligence [(Training)](https://cloud.google.com/blog/topics/training-certifications/12-days-of-no-cost-generative-ai-training)
 * Google Cloud Certificates in Generative Artificial Intelligence [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-cloud-generative-ai/)
@@ -101,7 +101,7 @@ Shawna is a proud alumna of UCI ICS Data Science, and her MBTI is ENFJ-A, with s
 * Google Certificates in Business Intelligence [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-business-intelligence-professional-certificate)
 * Google Certificates in Project Management [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-project-management-professional-certificate)
 
-#### CERTIFICATES_______________________________________________________________________________________________________________________
+#### CERTIFICATES
 * All Avanade Generative AI Learning Path
 * Accenture Master Data Architect Certificate
 * The Wharton School - Introduction to Marketing [(Certificate)](https://www.coursera.org/account/accomplishments/certificate/NMFXW69JVDJX)
