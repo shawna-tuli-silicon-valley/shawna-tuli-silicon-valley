@@ -15,13 +15,13 @@ Shawna is a proud alumna of Kellogg Executive Education in Leading with Analytic
 * 🌌 Avanade Create the Future Super Hero Award
 * 💖 Google Bay Area AI for everyone [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-bay-area-ai-for-everyone/tree/main)
 * 🌁 Accenture San Francisco Generative AI Studio Member [(Article)](https://newsroom.accenture.com/news/2023/accenture-to-launch-network-of-generative-ai-studios-to-help-clients-accelerate-use-of-data-and-ai-technologies)
-* 🌄 Avanade AI Practice San Francisco Lead: organizing and hosting events monthly for 5 employees in San Francisco
+* 🌄 Avanade AI Practice San Francisco Lead: organizing and hosting events monthly for five employees in San Francisco
 * 📦 AI & Data Science Lead at Amazon Mountain View [(Repo)](https://github.com/shawna-tuli-silicon-valley/amazon-mountain-view-ai-and-data-science/tree/main) [(Article)](https://www.pcmag.com/news/amazon-to-spend-over-1-billion-on-microsoft-365-licenses)
 * ❤️ Google I/O Conference (3x) [(Keynote '23)](https://io.google/2023/program/396cd2d5-9fe1-4725-a3dc-c01bb2e2f38a/) [(Keynote '22)](https://io.google/2022/program/8e80903f-955f-4a5b-9118-b0ce4acdb0e6/) [(Keynote '21)](https://io.google/2021/session/88b34a4e-6170-4f18-a321-4260fb559e60?lng=en) [(Keynote '19)](https://www.youtube.com/watch?v=lyRPyRKHO8M) [(Keynote '18)](https://www.youtube.com/watch?v=ogfYd705cRs)
 * 💟 Microsoft Envision Conference (3x) [(Stories)](https://news.microsoft.com/tag/microsoft-envision/)
 * ⚡ AI, Data Science, Data Visualization, and Advanced Analytics Expert at LinkedIn Collaborative Articles [(LinkedIn)](https://www.linkedin.com/in/shawna-tuli-silicon-valley)
 * 👾 Avanade Mountain View Strategy & Consulting AI & Advanced Analytics Associate Manager [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics-3)
-* 🦾 AI Lead at Viking River Cruises and led 2 advanced analytics senior consultants
+* 🦾 AI Lead at Viking River Cruises and led two advanced analytics senior consultants
 * 🧠 AI & Data Science Advisor at Harvard Business Review [(Repo)](https://github.com/shawna-tuli-silicon-valley/harvard-business-review-advisory-council) [(Magazine)](https://hbr.org/)
 * 🦄 Accenture Ventures & Open Innovation West Ambassador
 * 🗂️ Accenture CIO Data Science Guild (3x)
@@ -40,10 +40,10 @@ Shawna is a proud alumna of Kellogg Executive Education in Leading with Analytic
 * 💗 Avanade San Francisco Strategy & Consulting AI & Advanced Analytics Consultant [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics)
 * 💎 Avanade We Believe Everyone Counts Super Hero Award
 * 🧾 Software Engineer at H&R Block and led a software engineer
-* 🖤 Software Engineering Lead at Bill & Melinda Gates Foundation and led 4 software engineers 
+* 🖤 Software Engineering Lead at Bill & Melinda Gates Foundation and led four software engineers 
 * 💜 AI & Data Science Lead at Accenture CIO and led a data scientist
 * ☕ Software Engineer at Starbucks Coffee
-* 💾 Advanced Analytics Lead at Applied Materials and led 2 analysts
+* 💾 Advanced Analytics Lead at Applied Materials and led two analysts
 * 🎉 Avanade NorCal Social Committee Member: organizing and hosting events monthly for 50+ employees in South Bay Area
 * ✔️ Avanade We Deliver with Excellence Super Hero Award
 * 📶 Avanade Advanced Analytics All-hands
