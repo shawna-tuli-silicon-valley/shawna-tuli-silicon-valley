@@ -132,7 +132,7 @@ Shawna is a proud alumna of Accenture Kellogg Executive Education in Leading wit
 * Spanish
 
 #### INTERESTS
-OOO, I am in my gym, [dancing](https://github.com/shawna-tuli-silicon-valley/dance), [oil painting](https://github.com/shawna-tuli-silicon-valley/oil-painting), [reading](https://github.com/shawna-tuli-silicon-valley/strategy-and-management-books), studying, online shopping, and at Pop, Rap, and EDM festivals, raves, and concerts. I enjoy healthy cooking, playing tennis and badminton, beaches, and watching shows and movies on Netflix and Prime. 
+OOO, I am in my gym, [dancing](https://github.com/shawna-tuli-silicon-valley/dance), [oil painting](https://github.com/shawna-tuli-silicon-valley/oil-painting), [reading](https://github.com/shawna-tuli-silicon-valley/strategy-and-management-books), studying, and online shopping. I enjoy healthy cooking, playing tennis and badminton, beaches, watching shows and movies on Netflix and Prime, and at Pop, Rap, and EDM festivals, raves, and concerts. 
 
 #### MUSIC
 * ABBA Voyage, London
