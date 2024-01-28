@@ -28,8 +28,8 @@ Shawna is a proud alumna of Accenture Kellogg Executive Education in Leading wit
 * 🧡 AI Data Scientist at Avanade - won Best Baker Award on the West Region Chargeability Percent Team
 * 📢 Software Engineer at The NPD Group
 * ✅ AI Data Scientist at Avanade
-* 🤍 Google San Francisco Cloud Next Conference (3x) [(Article)](https://blog.google/products/google-cloud/cloud-next-2023-sundar-pichai-keynote/)
-* 💛 Databricks San Francisco Data + AI Summit [(Article)](https://www.databricks.com/blog/2022/06/24/know-before-you-go-data-ai-summit-2022.html)
+* 🤍 Google Cloud Next Conference San Francisco (3x) [(Article)](https://blog.google/products/google-cloud/cloud-next-2023-sundar-pichai-keynote/)
+* 💛 Databricks Data + AI Summit San Francisco [(Article)](https://www.databricks.com/blog/2022/06/24/know-before-you-go-data-ai-summit-2022.html)
 * ⚙️ Avanade San Francisco Strategy & Consulting AI & Advanced Analytics Associate Manager [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics-2)
 * 📉 Accenture V360 Awards in Innovation nominee for forecasting energy usage with AI in California [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-california-energy-ai-and-predictive-analytics) [(Student Repo)](https://github.com/shawna-tuli-silicon-valley/EnergyPredictionCA)
 * 🔮 National Science Foundation paper + poster for predicting energy consumption with AI in California [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-california-energy-and-ai-predictive-analytics-2) (Student Repo)
