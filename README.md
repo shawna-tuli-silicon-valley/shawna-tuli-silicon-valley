@@ -25,7 +25,7 @@ Shawna is a proud alumna of Accenture Kellogg Executive Education in Leading wit
 * 🧠 AI & Data Science Advisor at Harvard Business Review [(Repo)](https://github.com/shawna-tuli-silicon-valley/harvard-business-review-advisory-council) [(Magazine)](https://hbr.org/)
 * 🦄 Accenture Ventures & Open Innovation West Ambassador
 * 🗂️ Accenture CIO Data Science Guild (3x)
-* 📋 Data Science Panelist at UCI Merage Machine Learning for Analytics Graduate Class
+* 📋 Accenture Data Science Panelist at UCI Merage Machine Learning for Analytics Graduate Class
 * 🧡 AI Data Scientist at Avanade - won Best Baker Award on the West Region Chargeability Percent Team
 * 🎓 Data Science Panelist at The Reach Foundation
 * 📢 Software Engineer at The NPD Group
