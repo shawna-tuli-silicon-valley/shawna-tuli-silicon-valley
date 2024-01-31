@@ -26,6 +26,7 @@ Shawna is a proud alumna of Accenture Kellogg Executive Education in Leading wit
 * 🦄 Accenture Ventures & Open Innovation West Ambassador
 * 🗂️ Accenture CIO Data Science Guild (3x)
 * 🧡 AI Data Scientist at Avanade - won Best Baker Award on the West Region Chargeability Percent Team
+* 🎓 STEM Mentor at The Reach Foundation
 * 📢 Software Engineer at The NPD Group
 * ✅ AI Data Scientist at Avanade
 * 🤍 Google Cloud Next Conference San Francisco (3x) [(Article)](https://blog.google/products/google-cloud/cloud-next-2023-sundar-pichai-keynote/)
@@ -72,8 +73,8 @@ Shawna is a proud alumna of Accenture Kellogg Executive Education in Leading wit
 * 🏦 CFA Society Orange County Research Challenge on Opus Bank [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-merage-cfa-institute-research-challenge)
 * 💌 Kys iOS app - built in 24 hours at the USC Viterbi School of Engineering AthenaHacks hackathon [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-kys-ios-app) [(Devpost)](https://devpost.com/software/kys-0s456d?fbclid=IwAR1zk_PqUaJkhv4SuBtjU898owq_guS0EFm7R68mAZgG_F7k3dZijiDOcT4#updates)
 * 💯 Exceed Android app - won UCI ICS Butterworth Product Development Competition (Software) Finalist Award [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-exceed-android-app)
-* 🔢 UCI Math CEO STEM Mentor
-* 🌐 Girls Inc. of Orange County STEM (Science, Technology, Engineering, and Math) Mentor [(Report)](https://issuu.com/dwilliams11/docs/gioc_2017annualreport)
+* 🔢 STEM Mentor at UCI Math CEO
+* 🌐 STEM (Science, Technology, Engineering, and Math) Mentor at Girls Inc. of Orange County [(Report)](https://issuu.com/dwilliams11/docs/gioc_2017annualreport)
 * 💳 Eidebtic Vault Web app - built in 24 hours at the Capital One Santa Monica hackathon [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-merage-ics-eidebtic-vault-web-app) [(Article)](https://medium.com/capital-one-tech/what-hosting-hackathons-taught-us-about-our-apis-b48d8304b74d) [(Article)](https://medium.com/capital-one-tech/5-things-we-learned-from-hosting-hackathons-1781b9728fde)
 * 🛍️ Data Scientist Intern at eBay San Jose in the Office of the CIO [(Repo)](https://github.com/shawna-tuli-silicon-valley/ebay-san-jose-product-analytics-data-science) 
 * 📲 Yaksee interactive broadcasting app - mentioned in SiliconValley.com [(Repo)](https://github.com/shawna-tuli-silicon-valley/lghs-yaksee-interactive-broadcasting-app) [(Article)](https://www.siliconvalley.com/2016/03/23/los-gatos-startup-debuts-interactive-broadcasting-app/)
