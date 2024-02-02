@@ -27,7 +27,7 @@ Shawna is a proud alumna of Accenture Kellogg Executive Education in Leading wit
 * 🗂️ Accenture CIO Data Science Guild (3x)
 * 📋 Accenture Data Science Panelist at UCI Merage Machine Learning for Analytics Graduate Class
 * 🧡 AI Data Scientist at Avanade - won Best Baker Award on the West Region Chargeability Percent Team
-* 🎓 Data Science Panelist at The Reach Foundation
+* 🎓 Data Science Panelist at The Reach Foundation [(Article)](https://www.thereachfoundation.net/blog/j1ijbu5v5tz66u214ut8bsu9izojb9)
 * 📢 Software Engineer at The NPD Group
 * ✅ AI Data Scientist at Avanade
 * 🤍 Google Cloud Next Conference San Francisco (3x) [(Article)](https://blog.google/products/google-cloud/cloud-next-2023-sundar-pichai-keynote/)
