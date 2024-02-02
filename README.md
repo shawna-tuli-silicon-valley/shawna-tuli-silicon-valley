@@ -140,6 +140,7 @@ OOO, I am in my gym, [dancing](https://github.com/shawna-tuli-silicon-valley/dan
 #### MUSIC
 * ABBA Voyage, London
 * Sam Smith Gloria the Tour, Inglewood
+* Illenium, Las Vegas
 * Dillon Francis, Las Vegas
 * The Chainsmokers, Las Vegas
 * Bollywood SLAM! The Tour, San Jose
