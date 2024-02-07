@@ -10,7 +10,7 @@ Shawna is a proud alumna of Accenture Kellogg Executive Education in Leading wit
 * ❣️ Google Cloud Launchpad for Women
 * 🆕 Accenture V360 Awards in Innovation nominee for inferring homelessness in California with GenAI (Repo) (Student Repo)
 * 🌉 Accenture Mountain View Data Science for Social Good (DSSG) Lead with United Way Bay Area (Repo) (Volunteer Repo) 
-* 📧 Amazon Mountain View Mailbox Core All-hands 
+* 📧 Presenter at Amazon Mountain View Mailbox Core All-hands 
 * 🗃️ Avanade West Region Champion for North America Data & AI Solution Architect Community Council
 * 🌌 Avanade Create the Future Super Hero Award
 * 💖 Google Bay Area AI for everyone [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-bay-area-ai-for-everyone/tree/main)
@@ -24,7 +24,7 @@ Shawna is a proud alumna of Accenture Kellogg Executive Education in Leading wit
 * 🦾 AI Lead at Viking River Cruises and led two advanced analytics senior consultants
 * 🧠 AI & Data Science Advisor at Harvard Business Review [(Repo)](https://github.com/shawna-tuli-silicon-valley/harvard-business-review-advisory-council) [(Magazine)](https://hbr.org/)
 * 🦄 Accenture Ventures & Open Innovation West Ambassador
-* 🗂️ Accenture CIO Data Science Guild (3x)
+* 🗂️ Presenter at Accenture CIO Data Science Guild (3x)
 * 📋 Accenture Data Science Panelist at UCI Merage Machine Learning for Analytics Graduate Class
 * 🧡 AI Data Scientist at Avanade - won Best Baker Award on the West Region Chargeability Percent Team
 * 🎓 Data Science Panelist at The Reach Foundation (2x) [(Article)](https://www.thereachfoundation.net/blog/j1ijbu5v5tz66u214ut8bsu9izojb9)
@@ -52,7 +52,7 @@ Shawna is a proud alumna of Accenture Kellogg Executive Education in Leading wit
 * 📖 STEM Mentor at Avanade STEM Scholars 
 * 💭 Avanade San Francisco Strategy & Consulting AI & Advanced Analytics Senior Analyst [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics)
 * 💻 Accenture San Francisco Applied Intelligence Member
-* 👥 Accenture + UCI Donald Bren School of ICS and Merage School of Business Recruitment (3x) [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-university-of-california-irvine-recruitment)
+* 👥 Speaker at Accenture + UCI Donald Bren School of ICS and Merage School of Business Recruitment (3x) [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-university-of-california-irvine-recruitment)
 * 💙 Accenture San Francisco Applied Intelligence Summer Conference
 * 🎊 Avanade Go Team! Award (4x) 
 * 💼 Avanade FUEL Leadership Conference Pomona [(Article)](https://www.avanade.com/en/blogs/inside-avanade/corporate-citizenship/fuel-conference-2019)
@@ -63,7 +63,7 @@ Shawna is a proud alumna of Accenture Kellogg Executive Education in Leading wit
 * 💕 Google exploreCSR Southern California Workshop [(Article)](https://www.csulb.edu/college-of-engineering/article/google-sponsors-explorecsr-research-workshop-for-women)
 * 🥇 Olympics Games bayesian data analysis - analyzed in UCI ICS STATS 115/205 [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-olympic-games-bayesian-data-analysis)
 * 💡 Forbes Under 30 Scholar in Innovation Award - selected as one of the 1,000 students nationally [(Repo)](https://github.com/shawna-tuli-silicon-valley/forbes-under-30-scholar-innovation) [(Article)](https://www.forbes.com/sites/forbesvideo/article/under-30-summit-2019/?sh=433d5b643cdc)
-* 📸 Google Photos Mountain View All-hands [(Article)](https://blog.google/products/photos/go-google-photos-tips-2018/)
+* 📸 Presenter at Google Photos Mountain View All-hands [(Article)](https://blog.google/products/photos/go-google-photos-tips-2018/)
 * 🖱️ Google Computer History Museum visit 
 * 📷 Technical Business Analyst Intern at Google Photos Mountain View [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-mountain-view-product-analytics-data-science-1) [(Article)](https://9to5google.com/2018/12/28/google-photos-news-2018-recap/)
 * ✨ Google Mountain View Women in Engineering Conference [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-women-in-engineering/tree/main)
