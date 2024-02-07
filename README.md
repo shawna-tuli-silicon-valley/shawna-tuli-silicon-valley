@@ -53,7 +53,7 @@ Shawna is a proud alumna of Accenture Kellogg Executive Education in Leading wit
 * 💭 Avanade San Francisco Strategy & Consulting AI & Advanced Analytics Senior Analyst [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics)
 * 💻 Accenture San Francisco Applied Intelligence Member
 * 👥 Speaker and Recruiter at Accenture + UCI Donald Bren School of ICS & Merage School of Business Recruitment (3x) [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-university-of-california-irvine-recruitment)
-* 💙 Accenture San Francisco Applied Intelligence Summer Conference
+* 💙 Accenture Applied Intelligence Summer Conference San Francisco
 * 🎊 Avanade Go Team! Award (4x) 
 * 💼 Avanade FUEL Leadership Conference Pomona [(Article)](https://www.avanade.com/en/blogs/inside-avanade/corporate-citizenship/fuel-conference-2019)
 * 📊 12 Penn Medicine Radiation Oncology publications and led 30+ surgeons, doctors, and students [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-penn-medicine-global-radiation-oncology-analytics) [(Google Scholar)](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en)
