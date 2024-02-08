@@ -38,7 +38,7 @@ Shawna is a proud alumna of Accenture Kellogg Executive Education in Leading wit
 * ☁️ AI & Data Science Lead at Google Cloud and led a data engineer [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-sunnyvale-ai-and-data-science-3) [(Article)](https://www.cnbc.com/2023/04/25/googles-cloud-business-turns-profitable-for-the-first-time-on-record.html)
 * ▶️ Software Engineer at Google Play Mountain View [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-mountain-view-devops-advanced-analytics-4)
 * 1️⃣ Software Engineer at Google One [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-mountain-view-product-analytics-data-science-2)
-* 🔎 Accenture V360 Awards in Innovation nominee for predicting risk of T2 diabetes with AI in California [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-california-type-2-diabetes-ai-and-predictive-analytics) [(Student Repo)](https://github.com/shawna-tuli-silicon-valley/STATS170_Project-1)
+* 🔎 Accenture V360 Awards in Innovation nominee for foreseeing risk of T2 diabetes with AI in California [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-california-type-2-diabetes-ai-and-predictive-analytics) [(Student Repo)](https://github.com/shawna-tuli-silicon-valley/STATS170_Project-1)
 * 💗 Avanade San Francisco Strategy & Consulting AI & Advanced Analytics Consultant [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics)
 * 🧩 Presenter at Avanade Advanced Analytics Community
 * 💎 Avanade We Believe Everyone Counts Super Hero Award
