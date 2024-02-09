@@ -7,6 +7,7 @@ Shawna is a proud alumna of Accenture Kellogg Executive Education in Leading wit
 #### CALIFORNIA BIG TECH AI & DATA SCIENCE WORK EXPERIENCE AND PUBLIC SPEAKING (2024-2014)
 * 🌟 Incoming Avanade Mountain View Strategy & Consulting AI & Advanced Analytics Manager (Repo)
 * 🎯 Incoming Generative AI & Data Science Lead at Google Mountain View (Repo)
+* 🌹 Google Bay Area International Women's Day 
 * ❣️ Google Cloud Launchpad for Women
 * 🆕 Accenture V360 Awards in Innovation nominee for inferring homelessness in California with GenAI (Repo) (Student Repo)
 * 🌉 Accenture Mountain View Data Science for Social Good (DSSG) Lead with United Way Bay Area (Repo) (Volunteer Repo) 
