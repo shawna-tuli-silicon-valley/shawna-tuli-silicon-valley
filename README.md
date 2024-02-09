@@ -107,9 +107,12 @@ Shawna is a proud alumna of Accenture Kellogg Executive Education in Leading wit
 * Google Certificates in Business Intelligence [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-business-intelligence-professional-certificate)
 * Google Certificates in Project Management [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-project-management-professional-certificate)
 
-#### CERTIFICATES
+#### ACCENTURE EDUCATION
+* Microsoft Azure Data and AI - Microsoft Partner Sales Strategy Training 
 * All Avanade Generative AI Learning Path
 * Accenture Master Data Architect Certificate
+
+#### CERTIFICATES
 * The Wharton School - Introduction to Marketing [(Certificate)](https://www.coursera.org/account/accomplishments/certificate/NMFXW69JVDJX)
 * University of California, Davis - SQL for Data Science [(Certificate)](https://www.coursera.org/account/accomplishments/certificate/TG58RPJKTBB9)
 * Bloomberg Market Concepts (BMC)
