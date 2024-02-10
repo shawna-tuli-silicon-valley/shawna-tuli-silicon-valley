@@ -146,7 +146,7 @@ Shawna is a proud alumna of Accenture Kellogg Executive Education in Leading wit
 #### INTERESTS
 OOO, I am working out in my gym, [dancing](https://github.com/shawna-tuli-silicon-valley/dance), healthy cooking, [reading](https://github.com/shawna-tuli-silicon-valley/strategy-and-management-books), studying, online shopping, and [oil painting](https://github.com/shawna-tuli-silicon-valley/oil-painting). I enjoy playing tennis and badminton, watching shows and movies on Netflix and Prime, and going to beaches, concerts, festivals, and raves. 
 
-#### BOLLYWOOD, EDM, POP, AND RAP CONCERTS, MUSIC FESTIVALS, AND RAVES
+#### PUNJABI, BOLLYWOOD, EDM, POP, AND RAP CONCERTS, MUSIC FESTIVALS, AND RAVES
 * ABBA Voyage, London
 * Sam Smith: GLORIA the Tour, Inglewood
 * Illenium, Las Vegas
