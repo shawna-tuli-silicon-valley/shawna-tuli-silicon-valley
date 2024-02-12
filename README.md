@@ -57,8 +57,8 @@ Shawna is a proud alumna of Accenture Kellogg Executive Education in Leading wit
 * 👥 UCI Alumni Speaker at Accenture + UCI Donald Bren School of ICS & Merage School of Business Recruitment (3x) [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-university-of-california-irvine-recruitment)
 * 💙 Accenture Applied Intelligence Summer Conference San Francisco
 * 🎊 Avanade Go Team! Award (4x)
-* 🏛️ Accenture Townhalls
-* 📅 Avanade Townhalls
+* 🏛️ Accenture San Francisco Quarterly Townhalls
+* 📅 Avanade San Francisco Quarterly Townhalls
 * 📊 12 Penn Medicine Radiation Oncology publications and led 30+ surgeons, doctors, and students [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-penn-medicine-global-radiation-oncology-analytics) [(Google Scholar)](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en)
 * 💬 Grace Hopper Celebration of Women in Computing Conference Orlando [(Repo)](https://github.com/shawna-tuli-silicon-valley/grace-hopper-celebration-of-women-in-engineering/tree/main)
 * 🖼️ Avanade Top 5 in Innovation Award - created an Azure AI product via computer vision and an one-shot GAN [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-irvine-ai-product)
