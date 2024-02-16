@@ -4,7 +4,7 @@ Shawna has played a key role in building Avanade's Artificial Intelligence Pract
 
 Shawna is a proud alumna of Accenture Kellogg Executive Education in Leading with Analytics & Artificial Intelligence, University of California, Irvine Donald Bren School of Information & Computer Sciences Data Science, and Stanford University Girl Code. Her strengths are Activator, Achiever, Futuristic, Competition, and Significance.
 
-#### CALIFORNIA BIG TECH AI & DATA SCIENCE WORK EXPERIENCE AND PUBLIC SPEAKING (2024-2014)
+#### CALIFORNIA BIG TECH AI & DATA SCIENCE LEADERSHIP AND PUBLIC SPEAKING (2024-2014)
 * 🌟 Incoming Avanade Mountain View Strategy & Consulting AI & Advanced Analytics Manager (Repo)
 * 🎯 Incoming Generative AI & Data Science Lead at Google Mountain View (Repo)
 * 🗿 Avanade Leadership Accelerator - chosen to inspire greatness and excel in people leadership responsibilities 
