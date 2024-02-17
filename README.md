@@ -11,7 +11,7 @@ Shawna is a proud alumna of Accenture Kellogg Executive Education in Leading wit
 * 💘 Google Bay Area International Women's Day (Article)
 * ❣️ Google Cloud Launchpad for Women
 * 🆕 Accenture V360 Awards in Innovation nominee for inferring homelessness in California with GenAI (Repo) (Student Repo)
-* 🌉 Accenture Mountain View Data Science for Social Good (DSSG) Lead with United Way Bay Area and leading three consultants
+* 🌉 Accenture Mountain View Data Science for Social Good (DSSG) Lead with United Way Bay Area and led three consultants
 * 📧 Presenter at Amazon Mountain View Mailbox Core All-hands 
 * 🗃️ Avanade West Region Champion for North America Data & AI Solution Architect Community Council
 * 🌌 Avanade Create the Future Super Hero Award
