@@ -6,7 +6,8 @@ Shawna is a proud alumna of Accenture Kellogg Executive Education ***Leading wit
 
 Shawna's strengths are Activator, Achiever, Futuristic, Competition, and Significance.
 
-#### SILICON VALLEY BIG TECH AI & DATA SCIENCE + IM LEADERSHIP & PUBLIC SPEAKING (2024-2014)
+#### SILICON VALLEY BIG TECH AI & DATA SCIENCE + INVESTMENT MANAGEMENT LEADERSHIP & PUBLIC SPEAKING 
+#### (2024-2014)
 * 🌟 Incoming Avanade Mountain View Strategy & Consulting AI & Advanced Analytics Manager (Repo)
 * 🎯 Incoming Generative AI & Data Science Lead at Google Mountain View (Repo)
 * 🗿 Avanade Leadership Accelerator - chosen to inspire greatness and excel in people leadership responsibilities 
