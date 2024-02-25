@@ -4,7 +4,7 @@ Shawna has played a key role in building Avanade's Artificial Intelligence Pract
 
 Shawna is a proud alumna of Accenture Kellogg Executive Education ***Leading with Analytics & Artificial Intelligence***, University of California, Irvine Donald Bren School of Information & Computer Sciences ***Data Science***, and Stanford University ***Girl Code***. She is affiliated with University of California, Irvine Paul Merage School of ***Business***, CFA Society Orange County, and Alpha Kappa Psi Professional Business Fraternity - Pi Psi Chapter. 
 
-Shawna's strengths are Activator, Achiever, Futuristic, Competition, and Significance.
+Shawna's strengths are Activator, Achiever, Futuristic, Competition, and Significance. She has 10 years of experience. 
 
 #### SILICON VALLEY BIG TECH AI & DATA SCIENCE + INVESTMENT MANAGEMENT LEADERSHIP & PUBLIC SPEAKING (2024-2014)
 * 🌟 Incoming Avanade Mountain View Strategy & Consulting AI & Advanced Analytics Manager (Repo)
