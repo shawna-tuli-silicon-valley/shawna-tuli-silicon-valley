@@ -15,7 +15,7 @@ Shawna is a proud alumna of Accenture Kellogg Executive Education ***Leading wit
 * 📧 Presenter at Amazon Mountain View Mailbox Core All-hands 
 * 🗃️ Avanade West Region Champion for North America Data & AI Solution Architect Community Council
 * 🌌 Avanade Create the Future Super Hero Award
-* 💖 Google Bay Area AI for everyone [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-bay-area-ai-for-everyone/tree/main)
+* 💖 Google Bay Area AI for everyone - recruited to Google Gemini AI & Data Science [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-bay-area-ai-for-everyone/tree/main)
 * 🌁 Accenture San Francisco Generative AI Studio Member [(Article)](https://newsroom.accenture.com/news/2023/accenture-to-launch-network-of-generative-ai-studios-to-help-clients-accelerate-use-of-data-and-ai-technologies)
 * 🌄 Avanade AI Practice San Francisco Lead: arranging and running events monthly for five employees in San Francisco
 * 📦 AI & Data Science Lead at Amazon Mountain View [(Repo)](https://github.com/shawna-tuli-silicon-valley/amazon-mountain-view-ai-and-data-science/tree/main) [(Article)](https://www.pcmag.com/news/amazon-to-spend-over-1-billion-on-microsoft-365-licenses)
