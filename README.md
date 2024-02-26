@@ -81,7 +81,7 @@ Shawna is a proud alumna of Accenture Kellogg Executive Education ***Leading wit
 * 🏦 CFA Society Orange County Research Challenge on Opus Bank [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-merage-cfa-institute-research-challenge)
 * 💌 Kys iOS App - built in 24 hours at the USC Viterbi School of Engineering AthenaHacks Hackathon [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-kys-ios-app) [(Devpost)](https://devpost.com/software/kys-0s456d?fbclid=IwAR1zk_PqUaJkhv4SuBtjU898owq_guS0EFm7R68mAZgG_F7k3dZijiDOcT4#updates)
 * 💯 Exceed Android app - attained UCI ICS Butterworth Product Development Competition (Software) Finalist Award [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-exceed-android-app)
-* 🔢 STEM Mentor at UCI Math CEO
+* 🔢 STEM Mentor at UCI Math Community Educational Outreach (CEO)
 * 🌐 STEM (Science, Technology, Engineering, and Math) Panelist at Girls Inc. of Orange County [(Report)](https://issuu.com/dwilliams11/docs/gioc_2017annualreport)
 * 💳 Eidebtic Vault Web App - made in 24 hours at the Capital One Santa Monica Hackathon [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-merage-ics-eidebtic-vault-web-app) [(Article)](https://medium.com/capital-one-tech/what-hosting-hackathons-taught-us-about-our-apis-b48d8304b74d) [(Article)](https://medium.com/capital-one-tech/5-things-we-learned-from-hosting-hackathons-1781b9728fde)
 * 🛍️ Data Scientist Intern at eBay San Jose in the Office of the CIO [(Repo)](https://github.com/shawna-tuli-silicon-valley/ebay-san-jose-product-analytics-data-science) 
