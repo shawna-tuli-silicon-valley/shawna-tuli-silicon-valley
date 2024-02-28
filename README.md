@@ -112,9 +112,12 @@ Shawna is a proud alumna of Accenture Kellogg Executive Education ***Leading wit
 * Google Certificates in Business Intelligence [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-business-intelligence-professional-certificate)
 * Google Certificates in Project Management [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-project-management-professional-certificate)
 
+#### MICROSOFT EDUCATION
+* Microsoft Azure AI Partner Council | Azure AI Search
+* Microsoft Azure Data and AI - Microsoft Partner Sales Strategy Training 
+
 #### AVANADE EDUCATION
 * Leadership Accelerator
-* Microsoft Azure Data and AI - Microsoft Partner Sales Strategy Training 
 * All Avanade Generative AI Learning Path
 
 #### ACCENTURE EDUCATION 
