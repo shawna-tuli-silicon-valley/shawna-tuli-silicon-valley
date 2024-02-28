@@ -117,8 +117,8 @@ Shawna is a proud alumna of Accenture Kellogg Executive Education ***Leading wit
 * Microsoft Azure Data and AI - Microsoft Partner Sales Strategy Training 
 
 #### AVANADE EDUCATION
-* Leadership Accelerator
-* All Avanade Generative AI Learning Path
+* Avanade Leadership Accelerator
+* Avanade Generative AI Learning Path
 
 #### ACCENTURE EDUCATION 
 * Accenture Master Data Architect Certificate
