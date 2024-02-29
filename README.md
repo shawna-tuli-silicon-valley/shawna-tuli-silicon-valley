@@ -104,34 +104,19 @@ Shawna is a proud alumna of Accenture Kellogg Executive Education ***Leading wit
 * Marvin Ridge High School - Valedictorian*, International Baccalaureate, National Speech & Debate Association Degree of Excellence, Future Business Leaders of America, North Carolina Council on Economic Education Economics Challenge, Science Olympiad Union County Top 3 (2x), National Honor Society, and Kathak North Indian Classical Dance [(Repo)](https://github.com/shawna-tuli-silicon-valley/mrhs-international-baccalaureate) [(Repo)](https://github.com/shawna-tuli-silicon-valley/mrhs-north-carolina-forensic-league-state-championship)
 
 #### GOOGLE EDUCATION
-* Google Cloud Digital Leader (Certificate)
-* Google Training in Generative Artificial Intelligence [(Training)](https://cloud.google.com/blog/topics/training-certifications/12-days-of-no-cost-generative-ai-training)
-* Google Cloud Certificates in Generative Artificial Intelligence [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-cloud-generative-ai/)
-* Google Certificates in Advanced Data Analytics [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-advanced-data-analytics-professional-certificate)
-* Google Certificates in Data Analytics [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-data-analytics-professional-certificate)
-* Google Certificates in Business Intelligence [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-business-intelligence-professional-certificate)
-* Google Certificates in Project Management [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-project-management-professional-certificate)
+* Google Cloud Digital Leader (Certificate), Google Training in Generative Artificial Intelligence [(Training)](https://cloud.google.com/blog/topics/training-certifications/12-days-of-no-cost-generative-ai-training), Google Cloud Certificates in Generative Artificial Intelligence [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-cloud-generative-ai/), Google Certificates in Advanced Data Analytics [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-advanced-data-analytics-professional-certificate), Google Certificates in Data Analytics [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-data-analytics-professional-certificate), Google Certificates in Business Intelligence [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-business-intelligence-professional-certificate), Google Certificates in Project Management [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-project-management-professional-certificate)
 
-### GOOGLE TECHNOLOGY STACK
-* PLX
-* Dremel
-* Google Data Studio
+#### GOOGLE TECHNOLOGY STACK
+* PLX, Dremel, Google Data Studio
 
 #### MICROSOFT EDUCATION
-* Microsoft Azure AI Partner Council | Azure AI Search
-* Microsoft Azure Data and AI - Microsoft Partner Sales Strategy Training
+* Microsoft Azure AI Partner Council | Azure AI Search, Microsoft Azure Data and AI - Microsoft Partner Sales Strategy Training
 
 #### MICROSOFT TECHNOLOGY STACK
-* Azure Cosmos DB
-* Azure DevOps
-* Azure
-* Visual Studio
-* Microsoft SQL Server
-* Power BI 
+* Azure, Azure Cosmos DB, Azure DevOps, Visual Studio, Microsoft SQL Server, Power BI 
 
 #### AVANADE EDUCATION
-* Avanade Leadership Accelerator
-* Avanade Generative AI Learning Path
+* Leadership Accelerator, Generative AI Learning Path
 
 #### ACCENTURE EDUCATION 
 * Accenture Master Data Architect Certificate
