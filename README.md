@@ -122,12 +122,10 @@ Shawna is a proud alumna of Accenture Kellogg Executive Education ***Leading wit
 * Accenture Master Data Architect Certificate
 
 #### AMAZON TECHNOLOGY STACK
+* Lambads, CDK Pipelines, Sagemaker
 
 #### CERTIFICATES
-* The Wharton School - Introduction to Marketing [(Certificate)](https://www.coursera.org/account/accomplishments/certificate/NMFXW69JVDJX)
-* University of California, Davis - SQL for Data Science [(Certificate)](https://www.coursera.org/account/accomplishments/certificate/TG58RPJKTBB9)
-* Bloomberg Market Concepts (BMC)
-* Kathak North Indian Classical Dance
+* The Wharton School - Introduction to Marketing [(Certificate)](https://www.coursera.org/account/accomplishments/certificate/NMFXW69JVDJX), University of California, Davis - SQL for Data Science [(Certificate)](https://www.coursera.org/account/accomplishments/certificate/TG58RPJKTBB9), Bloomberg Market Concepts (BMC). Kathak North Indian Classical Dance
 
 #### TEST SCORE
 * GMAT - Waived
