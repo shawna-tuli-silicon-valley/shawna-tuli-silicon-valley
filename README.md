@@ -66,7 +66,7 @@ Shawna is a proud alumna of Accenture Kellogg Executive Education ***Leading wit
 * 💼 Avanade FUEL Leadership Conference Pomona [(Article)](https://www.avanade.com/en/blogs/inside-avanade/corporate-citizenship/fuel-conference-2019)
 * 💞 Google Venice International Women's Day [(Article)](https://msmagazine.com/2019/03/07/place-tech-inside-googles-international-womens-day-celebration/)
 * 💕 Google exploreCSR Southern California Workshop - financed as one of the 47 Computer Science university women [(Article)](https://www.csulb.edu/college-of-engineering/article/google-sponsors-explorecsr-research-workshop-for-women)
-* 🥇 Olympics Games Bayesian Data Analysis - analyzed U.S. athletes' chances of winning a gold medal in the Olympics [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-olympic-games-bayesian-data-analysis)
+* 🥇 Olympics Games Bayesian Data Analysis - estimated U.S. athletes' chances of winning a gold medal in the Olympics [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-olympic-games-bayesian-data-analysis)
 * 💡 Forbes Under 30 Scholar in Innovation Award - selected as one of the 1,000 university students nationally [(Repo)](https://github.com/shawna-tuli-silicon-valley/forbes-under-30-scholar-innovation) [(Article)](https://www.forbes.com/sites/forbesvideo/article/under-30-summit-2019/?sh=433d5b643cdc)
 * 📸 Presenter at Google Photos Mountain View All-hands [(Article)](https://blog.google/products/photos/go-google-photos-tips-2018/)
 * 🖱️ Google Mountain View Computer History Museum Visit 
