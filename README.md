@@ -131,23 +131,10 @@ Shawna is a proud alumna of Accenture Kellogg Executive Education ***Leading wit
 * GMAT - Waived
 
 #### PROGRAMMING LANGUAGES
-* Python
-* R
-* SQL
-* C++
-* Java
-* Swift
-* Javascript
-* HTML
-* CSS
-* x86 Assembly
-* Bash
+* Python, R, SQL, C++, Java, Swift, Javascript, HTML, CSS, x86 Assembly, Bash
 
 #### LANGUAGES
-* English
-* Hindi
-* Punjabi
-* Spanish
+* English, Hindi, Punjabi, Spanish
 
 #### INTERESTS
 OOO, I am working out in my gym, [dancing](https://github.com/shawna-tuli-silicon-valley/dance), healthy cooking, [reading](https://github.com/shawna-tuli-silicon-valley/strategy-and-management-books), studying, online shopping, and [oil painting](https://github.com/shawna-tuli-silicon-valley/oil-painting). I enjoy playing tennis and badminton, watching shows and movies on Netflix and Prime, and going to beaches, concerts, festivals, and raves. 
