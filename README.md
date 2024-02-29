@@ -113,16 +113,16 @@ Shawna is a proud alumna of Accenture Kellogg Executive Education ***Leading wit
 * Microsoft Azure AI Partner Council | Azure AI Search, Microsoft Azure Data and AI - Microsoft Partner Sales Strategy Training
 
 #### MICROSOFT TECHNOLOGY STACK
-* Azure, Azure Cosmos DB, Azure DevOps, Visual Studio, Microsoft SQL Server, Power BI 
+* Azure, Azure Cosmos DB, Azure DevOps, Visual Studio, Microsoft SQL Server, Power BI
+
+#### AMAZON TECHNOLOGY STACK
+* Lambads, CDK Pipelines, Sagemaker 
 
 #### AVANADE EDUCATION
 * Leadership Accelerator, Generative AI Learning Path
 
 #### ACCENTURE EDUCATION 
 * Accenture Master Data Architect Certificate
-
-#### AMAZON TECHNOLOGY STACK
-* Lambads, CDK Pipelines, Sagemaker
 
 #### CERTIFICATES
 * The Wharton School - Introduction to Marketing [(Certificate)](https://www.coursera.org/account/accomplishments/certificate/NMFXW69JVDJX), University of California, Davis - SQL for Data Science [(Certificate)](https://www.coursera.org/account/accomplishments/certificate/TG58RPJKTBB9), Bloomberg Market Concepts (BMC). Kathak North Indian Classical Dance
