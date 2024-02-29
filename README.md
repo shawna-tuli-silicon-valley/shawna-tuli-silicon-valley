@@ -18,7 +18,7 @@ Shawna is a proud alumna of Accenture Kellogg Executive Education ***Leading wit
 * 💖 Google Bay Area AI for everyone - recruited to Google Gemini AI & Data Science [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-bay-area-ai-for-everyone/tree/main)
 * 🌁 Accenture San Francisco Generative AI Studio Member [(Article)](https://newsroom.accenture.com/news/2023/accenture-to-launch-network-of-generative-ai-studios-to-help-clients-accelerate-use-of-data-and-ai-technologies)
 * 🌄 Avanade AI Practice San Francisco Lead: arranging and running events monthly for five employees in San Francisco
-* 📦 AI & Data Science Lead at Amazon Mountain View [(Repo)](https://github.com/shawna-tuli-silicon-valley/amazon-mountain-view-ai-and-data-science/tree/main) [(Article)](https://www.pcmag.com/news/amazon-to-spend-over-1-billion-on-microsoft-365-licenses)
+* 📦 AI & Data Science Lead at Amazon Mountain View - analyzing and predicting on PB of mail[(Repo)](https://github.com/shawna-tuli-silicon-valley/amazon-mountain-view-ai-and-data-science/tree/main) [(Article)](https://www.pcmag.com/news/amazon-to-spend-over-1-billion-on-microsoft-365-licenses)
 * ❤️ Google I/O Conference (3x) [(Keynote '23)](https://io.google/2023/program/396cd2d5-9fe1-4725-a3dc-c01bb2e2f38a/) [(Keynote '22)](https://io.google/2022/program/8e80903f-955f-4a5b-9118-b0ce4acdb0e6/) [(Keynote '21)](https://io.google/2021/session/88b34a4e-6170-4f18-a321-4260fb559e60?lng=en) [(Keynote '19)](https://www.youtube.com/watch?v=lyRPyRKHO8M) [(Keynote '18)](https://www.youtube.com/watch?v=ogfYd705cRs)
 * 💟 Microsoft Envision Conference (3x) [(Stories)](https://news.microsoft.com/tag/microsoft-envision/)
 * ⚡ Generative AI, AI, Data Science, Advanced Analytics, and Data Visualization Expert at LinkedIn Collaborative Articles [(LinkedIn)](https://www.linkedin.com/in/shawna-tuli-silicon-valley)
@@ -70,7 +70,7 @@ Shawna is a proud alumna of Accenture Kellogg Executive Education ***Leading wit
 * 💡 Forbes Under 30 Scholar in Innovation Award - selected as one of the 1,000 university students nationally [(Repo)](https://github.com/shawna-tuli-silicon-valley/forbes-under-30-scholar-innovation) [(Article)](https://www.forbes.com/sites/forbesvideo/article/under-30-summit-2019/?sh=433d5b643cdc)
 * 📸 Presenter at Google Photos Mountain View All-hands [(Article)](https://blog.google/products/photos/go-google-photos-tips-2018/)
 * 🖱️ Google Mountain View Computer History Museum Visit 
-* 📷 Technical Business Analyst Intern at Google Photos Mountain View [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-mountain-view-product-analytics-data-science-1) [(Article)](https://9to5google.com/2018/12/28/google-photos-news-2018-recap/)
+* 📷 Technical Business Analyst Intern at Google Photos Mountain View - analyzed 1B+ users' 2.5B photos per day in 20 countries[(Repo)](https://github.com/shawna-tuli-silicon-valley/google-mountain-view-product-analytics-data-science-1) [(Article)](https://9to5google.com/2018/12/28/google-photos-news-2018-recap/)
 * ✨ Google Mountain View Women in Engineering Conference [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-women-in-engineering/tree/main)
 * 💝 Google Mountain View tgif Conferences [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-tgif/tree/main) [(Article)](https://www.cnbc.com/2019/11/15/google-cancels-tgif-weekly-all-hands-meetings.html)
 * 🚀 Data Scientist at UCI Beall Applied Innovation [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-beall-applied-innovation-product-analytics-data-science)
