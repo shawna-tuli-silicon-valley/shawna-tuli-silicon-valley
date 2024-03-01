@@ -131,7 +131,7 @@ Shawna is a proud alumna of Accenture Kellogg Executive Education ***Leading wit
 * GMAT - Waived
 
 #### PROGRAMMING LANGUAGES
-* Python, R, SQL, C++, Java, Swift, Javascript, HTML, CSS, x86 Assembly, Bash
+* Python, R, SQL, C++, Java, Swift, Javascript, HTML, CSS, x86 Assembly, Bash, Go
 
 #### LANGUAGES
 * English, Hindi, Punjabi, Spanish
