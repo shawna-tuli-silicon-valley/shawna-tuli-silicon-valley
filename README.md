@@ -12,6 +12,7 @@ Shawna is a proud alumna of Accenture Kellogg Executive Education ***Leading wit
 * ❣️ Google Cloud Launchpad for Women
 * 🆕 Accenture V360 Awards in Innovation nominee for using LLMs to reform call centers in California [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-call-centers-genai-and-predictive-analytics) (Student Repo)
 * 🌉 Accenture Mountain View Data Science for Social Good (DSSG) Lead with United Way Bay Area and led three consultants
+* 📓 Accenture Expert at Knowledge Exchange 
 * 📧 Presenter at Amazon Mountain View Mailbox Core All-hands 
 * 🗃️ Avanade West Region Champion for North America Data & AI Solution Architect Community Council
 * 🌌 Avanade Create the Future Super Hero Award
@@ -107,13 +108,13 @@ Shawna is a proud alumna of Accenture Kellogg Executive Education ***Leading wit
 * Google Cloud Digital Leader (Certificate), Google Training in Generative Artificial Intelligence [(Training)](https://cloud.google.com/blog/topics/training-certifications/12-days-of-no-cost-generative-ai-training), Google Cloud Certificates in Generative Artificial Intelligence [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-cloud-generative-ai/), Google Certificates in Advanced Data Analytics [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-advanced-data-analytics-professional-certificate), Google Certificates in Data Analytics [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-data-analytics-professional-certificate), Google Certificates in Business Intelligence [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-business-intelligence-professional-certificate), Google Certificates in Project Management [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-project-management-professional-certificate)
 
 #### GOOGLE TECHNOLOGY STACK
-* Google Cloud Platform, PLX, Dremel, Google Data Studio, Android
+* Google Cloud Platform, PLX, Dremel, Google Data Studio, Android, Google Sheets 
 
 #### MICROSOFT EDUCATION
 * Microsoft Azure AI Partner Council | Azure AI Search, Microsoft Azure Data and AI - Microsoft Partner Sales Strategy Training
 
 #### MICROSOFT TECHNOLOGY STACK
-* Azure, Azure Cosmos DB, Azure DevOps, Azure AI Document Intelligence, Azure Active Directory, Azure Pipelines, Visual Studio, Microsoft SQL Server, Microsoft Azure SQL Database, Kubernetes, Power BI
+* Azure, Azure Cosmos DB, Azure DevOps, Azure AI Document Intelligence, Azure Active Directory, Azure Pipelines, Visual Studio, Microsoft SQL Server, Microsoft Azure SQL Database, Kubernetes, Microsoft Power BI, Microsoft Excel, 
 
 #### AMAZON TECHNOLOGY STACK
 * AWS, Lambdas, CDK Pipelines, Sagemaker 
