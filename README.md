@@ -154,6 +154,7 @@ OOO, I am working out in my gym, [dancing](https://github.com/shawna-tuli-silico
 * Aldrich Park After Dark, UCI
 * LED Anniversary, San Diego
 * Summerlands, UCI
+* The Chainsmokers, San Francisco
 * Escape Halloween, San Bernardino
 * Shocktober, UCI
 * Aldrich Park After Dark, UCI
