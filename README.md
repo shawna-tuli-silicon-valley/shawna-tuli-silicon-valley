@@ -109,16 +109,16 @@ Shawna is a proud alumna of Accenture Kellogg Executive Education ***Leading wit
 * Google Cloud Digital Leader (Certificate), Google Training in Generative Artificial Intelligence [(Training)](https://cloud.google.com/blog/topics/training-certifications/12-days-of-no-cost-generative-ai-training), Google Cloud Certificates in Generative Artificial Intelligence [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-cloud-generative-ai/), Google Certificates in Advanced Data Analytics [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-advanced-data-analytics-professional-certificate), Google Certificates in Data Analytics [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-data-analytics-professional-certificate), Google Certificates in Business Intelligence [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-business-intelligence-professional-certificate), Google Certificates in Project Management [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-project-management-professional-certificate)
 
 #### GOOGLE TECHNOLOGY STACK
-* Google Colab Notebooks, Google Cloud Platform, PLX, Dremel, Google Data Studio, Android, Google Sheets 
+* Google Colab Notebooks, Google Cloud Platform, PLX, Dremel, Google Data Studio, Android, Google Sheets, Google Slides 
 
 #### MICROSOFT EDUCATION
 * Microsoft Azure AI Partner Council | Azure AI Search, Microsoft Azure Data and AI - Microsoft Partner Sales Strategy Training
 
 #### MICROSOFT TECHNOLOGY STACK
-* Azure, Azure Cosmos DB, Azure DevOps, Azure AI Document Intelligence, Azure Active Directory, Azure Pipelines, Visual Studio, Microsoft SQL Server, Microsoft Azure SQL Database, Kubernetes, Microsoft Power BI, Microsoft Excel
+* Azure, Azure Cosmos DB, Azure DevOps, Azure AI Document Intelligence, Azure Active Directory, Azure Pipelines, Visual Studio, Microsoft SQL Server, Microsoft Azure SQL Database, Kubernetes, Microsoft Power BI, Microsoft Excel, Microsoft PowerPoint
 
 #### AMAZON TECHNOLOGY STACK
-* Amazon SageMaker, AWS, Lambdas, CDK Pipelines 
+* Jupyter Notebooks on AWS, Amazon SageMaker, AWS, Lambdas, CDK Pipelines 
 
 #### AVANADE EDUCATION
 * Leadership Accelerator, Generative AI Learning Path
