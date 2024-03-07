@@ -5,7 +5,7 @@ Shawna has played a key role in building Avanade's Artificial Intelligence Pract
 Shawna is a proud alumna of Accenture Kellogg Executive Education ***Leading with Analytics & Artificial Intelligence***, University of California, Irvine Donald Bren School of Information & Computer Sciences ***Data Science***, and Stanford University ***Girl Code***. She is affiliated with University of California, Irvine Paul Merage School of Business ***Investment Management***, CFA Society Orange County, and Alpha Kappa Psi Professional Business Fraternity | Pi Psi.   
 
 #### SILICON VALLEY BIG TECH AI & DS + IM LEADERSHIP & PUBLIC SPEAKING (2024-2014)
-* 💞 Recruited to Citadel New York (2x)
+* 🩵 Recruited to Citadel New York (2x)
 * 🌟 Incoming Avanade Mountain View Strategy & Consulting AI & Advanced Analytics Manager [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics-4/tree/main)
 * 🎯 Incoming Generative AI & Data Science Lead at Google Mountain View (Repo)
 * 🗿 Avanade Leadership Accelerator - chosen to inspire greatness and excel in people leadership responsibilities
