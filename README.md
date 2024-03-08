@@ -124,7 +124,7 @@ Shawna is a proud alumna of Accenture Kellogg Executive Education ***Leading wit
 * Leadership Accelerator, Generative AI Learning Path
 
 #### ACCENTURE EDUCATION 
-* Accenture Master Data Architect Certificate
+* Accenture Kellogg Executive Education in Leading with Analytics and Artificial Intelligence, Accenture Master Data Architect Certificate
 
 #### CERTIFICATES
 * The Wharton School - Introduction to Marketing [(Certificate)](https://www.coursera.org/account/accomplishments/certificate/NMFXW69JVDJX), University of California, Davis - SQL for Data Science [(Certificate)](https://www.coursera.org/account/accomplishments/certificate/TG58RPJKTBB9), Bloomberg Market Concepts (BMC), Kathak North Indian Classical Dance
