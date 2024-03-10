@@ -8,8 +8,8 @@ Shawna is a proud alumna of Accenture Kellogg Executive Education ***Leading wit
 * 🌟 Incoming Avanade Mountain View Strategy & Consulting AI & Advanced Analytics Manager [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics-4/tree/main)
 * 🎯 Incoming Generative AI & Data Science Lead at Google Mountain View (Repo)
 * 🗿 Avanade Leadership Accelerator - chosen to inspire greatness and excel in people leadership responsibilities
-* 🌹 Accenture Mountain View International Women's Day 
 * 💘 Google Bay Area International Women's Day - recruited to Google (Article)
+* 🌹 Accenture Mountain View International Women's Day 
 * ❣️ Google Cloud Launchpad for Women
 * 🆕 Accenture V360 Awards in Innovation nominee for using LLMs to reform call centers in California [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-call-centers-genai-and-predictive-analytics) (Student Repo)
 * 🌉 Accenture Mountain View Data Science for Social Good (DSSG) Lead with United Way Bay Area and led three consultants
@@ -131,6 +131,9 @@ Shawna is a proud alumna of Accenture Kellogg Executive Education ***Leading wit
 
 #### TEST SCORE
 * GMAT - Waived
+
+#### BUSINESS INTELLIGENCE
+* Tableau
 
 #### PROGRAMMING LANGUAGES
 * Python, R, SQL, C++, Java, Swift, JavaScript, HTML, CSS, x86 Assembly, Bash, Go, TypeScript
