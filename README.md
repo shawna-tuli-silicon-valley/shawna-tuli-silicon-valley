@@ -11,7 +11,7 @@ Shawna is a proud alumna of Accenture Kellogg Executive Education ***Leading wit
 * 🗿 Avanade Leadership Accelerator - chosen to inspire greatness and excel in people leadership responsibilities
 * 🌹 Accenture Mountain View International Women's Day 
 * ❣️ Google Cloud Launchpad for Women
-* 🆕 Accenture V360 Awards in Innovation nominee for using LLMs to reform call centers in California [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-call-centers-genai-and-predictive-analytics) (Student Repo)
+* 🆕 Accenture V360 Awards in Innovation nominee for using LLMs to reform call centers in California [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-call-centers-genai-and-predictive-analytics) [(Student Repo)](https://github.com/data-sci-capstone)
 * 🌉 Accenture Mountain View Data Science for Social Good (DSSG) Lead with United Way Bay Area and led three consultants
 * 📓 Accenture AI & Data Science Expert at Knowledge Exchange 
 * 📧 Presenter at Amazon Mountain View Mailbox Core All-hands 
