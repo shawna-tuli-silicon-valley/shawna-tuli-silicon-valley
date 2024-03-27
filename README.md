@@ -5,7 +5,7 @@ Shawna has played a key role in building Avanade's Artificial Intelligence Pract
 Shawna is a proud alumna of Accenture Kellogg Executive Education ***Leading with Analytics & Artificial Intelligence***, University of California, Irvine Donald Bren School of Information & Computer Sciences ***Data Science 
 (Computer Science & Statistics)***, and Stanford University School of Engineering ***Girl Code***. She is affiliated with University of California, Irvine Paul Merage School of Business ***Investment Management***, CFA Society Orange County, and Alpha Kappa Psi Professional Business Fraternity | Pi Psi.   
 
-#### SILICON VALLEY BIG TECH AI & DS + IM LEADERSHIP & PUBLIC SPEAKING (2024-2014)
+#### SILICON VALLEY BIG TECH AI & DS + IM LEADERSHIP & PUBLIC SPEAKING (2014-Present)
 * 🌟 Incoming Avanade Mountain View Strategy & Consulting AI & Advanced Analytics Manager [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics-4/tree/main)
 * 🎯 Incoming Generative AI & Data Science Lead at Google Mountain View (Repo)
 * 💘 Google Bay Area International Women's Day - recruited to Google [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-bay-area-international-womens-day/tree/main)
@@ -14,20 +14,20 @@ Shawna is a proud alumna of Accenture Kellogg Executive Education ***Leading wit
 * 🌹 Accenture Mountain View International Women's Day 
 * ❣️ Google Cloud Launchpad for Women
 * 🆕 Accenture V360 Awards in Innovation nominee for using LLMs to reform call centers nationally [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-call-centers-genai-and-predictive-analytics) [(Student Repo)](https://github.com/data-sci-capstone)
-* 🌉 Accenture Mountain View Data Science for Social Good (DSSG) Lead with United Way Bay Area and led three consultants
+* 🌉 Accenture Mountain View Data Science for Social Good (DSSG) Lead with United Way Bay Area and led 3 Consultants
 * 📓 Accenture AI & Data Science Expert at Knowledge Exchange 
 * 📧 Presenter at Amazon Mountain View Mailbox Core All-hands 
 * 🗃️ Avanade West Region Champion for North America Data & AI Solution Architect Community Council
 * 🌌 Avanade Create the Future Super Hero Award
 * 💖 Google Bay Area AI for everyone - recruited to Google Gemini AI & Data Science [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-bay-area-ai-for-everyone/tree/main)
 * 🌁 Accenture San Francisco Generative AI Studio Member [(Article)](https://newsroom.accenture.com/news/2023/accenture-to-launch-network-of-generative-ai-studios-to-help-clients-accelerate-use-of-data-and-ai-technologies)
-* 🌄 Avanade AI Practice San Francisco Lead - arranging and running events monthly for five employees in San Francisco
+* 🌄 Avanade AI Practice San Francisco Lead - arranging and running events monthly for 5 Employees in San Francisco
 * 📦 AI & Data Science Lead at Amazon Mountain View - analyzing and foretelling on PB of migrated mailboxes [(Repo)](https://github.com/shawna-tuli-silicon-valley/amazon-mountain-view-ai-and-data-science/tree/main) [(Article)](https://www.pcmag.com/news/amazon-to-spend-over-1-billion-on-microsoft-365-licenses)
 * ❤️ Google I/O Conference (4x) [(Keynote '23)](https://io.google/2023/program/396cd2d5-9fe1-4725-a3dc-c01bb2e2f38a/) [(Keynote '22)](https://io.google/2022/program/8e80903f-955f-4a5b-9118-b0ce4acdb0e6/) [(Keynote '21)](https://io.google/2021/session/88b34a4e-6170-4f18-a321-4260fb559e60?lng=en) [(Keynote '19)](https://www.youtube.com/watch?v=lyRPyRKHO8M) [(Keynote '18)](https://www.youtube.com/watch?v=ogfYd705cRs)
 * 💟 Microsoft Envision Conference (4x) [(Stories)](https://news.microsoft.com/tag/microsoft-envision/)
 * ⚡ Generative AI, AI, Data Science, Advanced Analytics, and Data Visualization Expert at LI Collaborative Articles [(LinkedIn)](https://www.linkedin.com/in/shawna-tuli-silicon-valley)
 * 👾 Avanade Mountain View Strategy & Consulting AI & Advanced Analytics Associate Manager [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics-3)
-* 🦾 AI Lead at Viking River Cruises and led two advanced analytics senior consultants
+* 🦾 AI Lead at Viking River Cruises and led 2 Advanced Analytics Senior Consultants
 * 🧠 AI & Data Science Advisor at Harvard Business Review [(Repo)](https://github.com/shawna-tuli-silicon-valley/harvard-business-review-advisory-council) [(Magazine)](https://hbr.org/)
 * 🦄 Accenture Ventures & Open Innovation West Ambassador 
 * 🗂️ Presenter at Accenture CIO Data Science Guild (4x)
@@ -39,20 +39,20 @@ Shawna is a proud alumna of Accenture Kellogg Executive Education ***Leading wit
 * 🤍 Google Cloud Next Conference (4x) [(Next '23)](https://blog.google/products/google-cloud/cloud-next-2023-sundar-pichai-keynote/)
 * 💛 Databricks Data + AI Summit San Francisco [(Article)](https://www.databricks.com/blog/2022/06/24/know-before-you-go-data-ai-summit-2022.html)
 * ⚙️ Avanade San Francisco Strategy & Consulting AI & Advanced Analytics Associate Manager [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics-2)
-* 🔮 National Science Foundation paper + poster for predicting energy consumption with AI in California and led nine [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-california-energy-and-ai-predictive-analytics-2)
+* 🔮 National Science Foundation paper + poster for predicting energy consumption with AI in California and led 9 [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-california-energy-and-ai-predictive-analytics-2)
 * 📉 Accenture V360 Awards in Innovation nominee for forecasting energy usage with AI in California [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-california-energy-ai-and-predictive-analytics) [(Student Repo)](https://github.com/shawna-tuli-silicon-valley/EnergyPredictionCA)
-* ☁️ AI & Data Science Lead at Google Cloud and led a data engineer [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-sunnyvale-ai-and-data-science-3) [(Article)](https://www.cnbc.com/2023/04/25/googles-cloud-business-turns-profitable-for-the-first-time-on-record.html)
+* ☁️ AI & Data Science Lead at Google Cloud and led a Data Engineer [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-sunnyvale-ai-and-data-science-3) [(Article)](https://www.cnbc.com/2023/04/25/googles-cloud-business-turns-profitable-for-the-first-time-on-record.html)
 * ▶️ Software Engineer at Google Play Mountain View [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-mountain-view-devops-advanced-analytics-4)
 * 1️⃣ Software Engineer at Google One [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-mountain-view-product-analytics-data-science-2)
 * 🔎 Accenture V360 Awards in Innovation nominee for foreseeing risk of T2 diabetes with AI in California [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-california-type-2-diabetes-ai-and-predictive-analytics) [(Student Repo)](https://github.com/shawna-tuli-silicon-valley/STATS170_Project-1)
 * 💗 Avanade San Francisco Strategy & Consulting AI & Advanced Analytics Consultant [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics)
 * 🧩 Presenter at Avanade Advanced Analytics Community
 * 💎 Avanade We Believe Everyone Counts Super Hero Award
-* 🧾 Software Engineer at H&R Block and led a software engineer
-* 🖤 Software Engineering Lead at Bill & Melinda Gates Foundation and led four software engineers 
-* 💜 AI & Data Science Lead at Accenture CIO and led a data scientist
+* 🧾 Software Engineer at H&R Block and led a Software Engineer
+* 🖤 Software Engineering Lead at Bill & Melinda Gates Foundation and led 4 Software Engineers 
+* 💜 AI & Data Science Lead at Accenture CIO and led a Data Scientist
 * ☕ Software Engineer at Starbucks Coffee
-* 💾 Advanced Analytics Lead at Applied Materials and led two analysts
+* 💾 Advanced Analytics Lead at Applied Materials and led 2 Analysts
 * 🎉 Avanade NorCal Social Committee Member - organizing and hosting events monthly for 50+ employees in South Bay Area
 * ✔️ Avanade We Deliver with Excellence Super Hero Award
 * 📶 Avanade Advanced Analytics All-hands
@@ -64,14 +64,14 @@ Shawna is a proud alumna of Accenture Kellogg Executive Education ***Leading wit
 * 🎊 Avanade Go Team! Award (4x)
 * 🏛️ Accenture San Francisco Quarterly TownHalls
 * 📅 Avanade San Francisco Quarterly TownHalls
-* 📊 12 Penn Medicine Radiation Oncology publications and led 30+ surgeons, doctors, and students [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-penn-medicine-global-radiation-oncology-analytics) [(Google Scholar)](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en)
+* 📊 12 Penn Medicine Radiation Oncology publications and led 30+ Surgeons, Doctors, and Students [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-penn-medicine-global-radiation-oncology-analytics) [(Google Scholar)](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en)
 * 💬 Grace Hopper Celebration of Women in Computing Conference Orlando [(Repo)](https://github.com/shawna-tuli-silicon-valley/grace-hopper-celebration-of-women-in-engineering/tree/main)
 * 🖼️ Avanade Top 5 in Innovation Award - created an Azure AI product via computer vision and an one-shot GAN [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-irvine-ai-product)
 * 💼 Avanade FUEL Leadership Conference Pomona [(Article)](https://www.avanade.com/en/blogs/inside-avanade/corporate-citizenship/fuel-conference-2019)
 * 💞 Google Venice International Women's Day - recruited to Google [(Article)](https://msmagazine.com/2019/03/07/place-tech-inside-googles-international-womens-day-celebration/)
 * 💕 Google exploreCSR Southern California Workshop - financed as one of the 47 Computer Science university women [(Article)](https://www.csulb.edu/college-of-engineering/article/google-sponsors-explorecsr-research-workshop-for-women)
 * 🥇 Olympics Games Bayesian Data Analysis - estimated U.S. athletes' chances of winning a gold medal in the Olympics [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-olympic-games-bayesian-data-analysis)
-* 💡 Forbes Under 30 Scholar in Innovation Award - selected as one of the 1,000 university students nationally [(Repo)](https://github.com/shawna-tuli-silicon-valley/forbes-under-30-scholar-innovation) [(Article)](https://www.forbes.com/sites/forbesvideo/article/under-30-summit-2019/?sh=433d5b643cdc)
+* 💡 Forbes Under 30 Scholar in Innovation Award - selected as 1 of the 1,000 university students nationally [(Repo)](https://github.com/shawna-tuli-silicon-valley/forbes-under-30-scholar-innovation) [(Article)](https://www.forbes.com/sites/forbesvideo/article/under-30-summit-2019/?sh=433d5b643cdc)
 * 📸 Presenter at Google Photos Mountain View All-hands [(Article)](https://blog.google/products/photos/go-google-photos-tips-2018/)
 * 🖱️ Google Mountain View Computer History Museum Visit 
 * ✨ Google Mountain View Women in Engineering Conference [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-women-in-engineering/tree/main)
@@ -80,7 +80,7 @@ Shawna is a proud alumna of Accenture Kellogg Executive Education ***Leading wit
 * 🚀 Data Scientist at UCI Beall Applied Innovation - examined long-term trends of $14.5B+ early-stage startups in OC [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-beall-applied-innovation-product-analytics-data-science)
 * 💚 MongoDB.local Southern California Conference 
 * 💰 UCI Alpha Kappa Psi Professional Chair and led 50+ professionals - achieved Most Likely to be a Billionaire Award [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-alpha-kappa-psi-professional-business-fraternity)
-* 🏆 UptoUCI Co-Founder & Marketing Director and led UCI - won two Up to Us National Honor Badges [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-merage-national-debt-marketing-analytics) [(Credly)](https://www.credly.com/users/shawna-tuli/badges) [(Article)](https://wfuogb.com/5022/news/up-to-us-movement-raises-awareness-about-national-debt/)
+* 🏆 UptoUCI Co-Founder & Marketing Director and led UCI - won 2 Up to Us National Honor Badges [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-merage-national-debt-marketing-analytics) [(Credly)](https://www.credly.com/users/shawna-tuli/badges) [(Article)](https://wfuogb.com/5022/news/up-to-us-movement-raises-awareness-about-national-debt/)
 * 📈 EVP and led 35+ UCI analysts - returned 12.11% YTD on an $100,000 fund; recruited to BlackRock and Bridgewater [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-merage-investment-management)
 * 🏦 CFA Society Orange County Research Challenge on Opus Bank [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-merage-cfa-institute-research-challenge)
 * 💌 Kys iOS App - built in 24 hours at the USC Viterbi School of Engineering AthenaHacks Hackathon [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-kys-ios-app) [(Devpost)](https://devpost.com/software/kys-0s456d?fbclid=IwAR1zk_PqUaJkhv4SuBtjU898owq_guS0EFm7R68mAZgG_F7k3dZijiDOcT4#updates)
@@ -92,7 +92,7 @@ Shawna is a proud alumna of Accenture Kellogg Executive Education ***Leading wit
 * 📲 Yaksee Interactive Broadcasting App - mentioned in SiliconValley.com for airing Steve Wozniack's speech [(Repo)](https://github.com/shawna-tuli-silicon-valley/lghs-yaksee-interactive-broadcasting-app) [(Article)](https://www.siliconvalley.com/2016/03/23/los-gatos-startup-debuts-interactive-broadcasting-app/)
 * 💓 Los Gatos High School Google, Netflix, and Intel Visits [(Repo)](https://github.com/shawna-tuli-silicon-valley/big-tech-visits/tree/main)
 * ✉️ Stanford University Yahoo! Visit 
-* 🌲 Stanford University Girl Code - sponsored as one of 12 top Math & Computer Science high school students [(Repo)](https://github.com/shawna-tuli-silicon-valley/stanford-engineering-computer-science) [(Article)](https://cs.stanford.edu/sites/default/files/Girl%20Code.pdf)
+* 🌲 Stanford University Girl Code - sponsored as one of 12 top Math & Computer Science High School Students [(Repo)](https://github.com/shawna-tuli-silicon-valley/stanford-engineering-computer-science) [(Article)](https://cs.stanford.edu/sites/default/files/Girl%20Code.pdf)
 * 💸 HSHacks Hackathon at PayPal San Jose [(Article)](https://venturebeat.com/dev/teenagers-take-over-paypal-hold-their-own-hackathon/)
 * 📚 Stanford Splash [(Article)](https://stanforddaily.com/2016/04/13/behind-the-scenes-of-stanford-splash/)
 
