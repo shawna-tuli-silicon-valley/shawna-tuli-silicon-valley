@@ -70,13 +70,13 @@ Shawna is a proud alumna of Accenture Kellogg Executive Education ***Leading wit
 * 💼 Avanade FUEL Leadership Conference Pomona [(Article)](https://www.avanade.com/en/blogs/inside-avanade/corporate-citizenship/fuel-conference-2019)
 * 💞 Google Venice International Women's Day - recruited to Google [(Article)](https://msmagazine.com/2019/03/07/place-tech-inside-googles-international-womens-day-celebration/)
 * 💕 Google exploreCSR Southern California Workshop - financed as one of the 47 Computer Science University Women [(Article)](https://www.csulb.edu/college-of-engineering/article/google-sponsors-explorecsr-research-workshop-for-women)
-* 🥇 Olympics Games Bayesian Data Analysis - estimated U.S. athletes' chances of winning a gold medal in the Olympics [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-olympic-games-bayesian-data-analysis)
+* 🥇 Olympics Games Bayesian Data Analysis - estimated U.S. Athletes' chances of winning a gold medal in the Olympics [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-olympic-games-bayesian-data-analysis)
 * 💡 Forbes Under 30 Scholar in Innovation Award - selected as 1 of the 1,000 University Students nationally [(Repo)](https://github.com/shawna-tuli-silicon-valley/forbes-under-30-scholar-innovation) [(Article)](https://www.forbes.com/sites/forbesvideo/article/under-30-summit-2019/?sh=433d5b643cdc)
 * 📸 Presenter at Google Photos Mountain View All-hands [(Article)](https://blog.google/products/photos/go-google-photos-tips-2018/)
 * 🖱️ Google Mountain View Computer History Museum Visit 
 * ✨ Google Mountain View Women in Engineering Conference [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-women-in-engineering/tree/main)
 * 💝 Google Mountain View tgif Conferences [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-tgif/tree/main) [(Article)](https://www.cnbc.com/2019/11/15/google-cancels-tgif-weekly-all-hands-meetings.html)
-* 📷 Technical Business Analyst Intern at Google Photos Mountain View - analyzed 1B+ users' 2.5B photos daily [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-mountain-view-product-analytics-data-science-1) [(Article)](https://9to5google.com/2018/12/28/google-photos-news-2018-recap/)
+* 📷 Technical Business Analyst Intern at Google Photos Mountain View - analyzed 1B+ Users' 2.5B photos daily [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-mountain-view-product-analytics-data-science-1) [(Article)](https://9to5google.com/2018/12/28/google-photos-news-2018-recap/)
 * 🚀 Data Scientist at UCI Beall Applied Innovation - examined long-term trends of $14.5B+ early-stage startups in OC [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-beall-applied-innovation-product-analytics-data-science)
 * 💚 MongoDB.local Southern California Conference 
 * 💰 UCI Alpha Kappa Psi Professional Chair and led 50+ professionals - achieved Most Likely to be a Billionaire Award [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-alpha-kappa-psi-professional-business-fraternity)
