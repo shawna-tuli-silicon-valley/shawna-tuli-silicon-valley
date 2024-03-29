@@ -92,7 +92,7 @@ Shawna is a proud alumna of Accenture Kellogg Executive Education ***Leading wit
 * 📲 Yaksee Interactive Broadcasting App - mentioned in SiliconValley.com for airing Steve Wozniack's speech [(Repo)](https://github.com/shawna-tuli-silicon-valley/lghs-yaksee-interactive-broadcasting-app) [(Article)](https://www.siliconvalley.com/2016/03/23/los-gatos-startup-debuts-interactive-broadcasting-app/)
 * 💓 Los Gatos High School Google, Netflix, and Intel Visits [(Repo)](https://github.com/shawna-tuli-silicon-valley/big-tech-visits/tree/main)
 * ✉️ Stanford University Yahoo! Visit 
-* 🌲 Stanford University Girl Code - sponsored as one of 12 top Math & Computer Science High School Students [(Repo)](https://github.com/shawna-tuli-silicon-valley/stanford-engineering-computer-science) [(Article)](https://cs.stanford.edu/sites/default/files/Girl%20Code.pdf)
+* 🌲 Stanford University Girl Code - sponsored as 1 of 12 top Math & Computer Science High School Students [(Repo)](https://github.com/shawna-tuli-silicon-valley/stanford-engineering-computer-science) [(Article)](https://cs.stanford.edu/sites/default/files/Girl%20Code.pdf)
 * 💸 HSHacks Hackathon at PayPal San Jose [(Article)](https://venturebeat.com/dev/teenagers-take-over-paypal-hold-their-own-hackathon/)
 * 📚 Stanford Splash [(Article)](https://stanforddaily.com/2016/04/13/behind-the-scenes-of-stanford-splash/)
 
