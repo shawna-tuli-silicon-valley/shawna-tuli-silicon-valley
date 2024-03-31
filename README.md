@@ -158,8 +158,10 @@ OOO, I am working out in my gym, [dancing](https://github.com/shawna-tuli-silico
 * Crystal Cove State Beach, Newport Beach
 * Laguna Beach
 * Thousand Steps Beach, Laguna Beach
+* Huntington Beach
 * Playa Del Rey Beach, Marina Del Rey
 * Malibu Beach, Malibu
+* Venice Beach
 
 #### PUNJABI, BOLLYWOOD, EDM, POP, AND RAP CONCERTS, MUSIC FESTIVALS, AND RAVES
 * ABBA Voyage, London
