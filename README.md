@@ -147,17 +147,19 @@ Shawna is a proud alumna of Accenture Kellogg Executive Education ***Leading wit
 OOO, I am working out in my gym, [dancing](https://github.com/shawna-tuli-silicon-valley/dance), healthy cooking, [reading](https://github.com/shawna-tuli-silicon-valley/strategy-and-management-books), studying, shopping, and [oil painting](https://github.com/shawna-tuli-silicon-valley/oil-painting). I enjoy playing tennis and badminton, watching shows and movies on Netflix and Prime, and going to beaches, concerts, festivals, and raves. 
 
 #### BEACHES
-* Ocean Beach
-* Half Moon Bay State Beach
-* Twin Lakes State Beach
-* Santa Cruz Beach
-* Capitola Beach 
-* Carmel Beach
+* Ocean Beach, San Francisco
+* Half Moon Bay State Beach, Half Moon Bay
+* Twin Lakes State Beach, Santa Cruz
+* Santa Cruz Beach, Santa Cruz
+* Capitola Beach, Capitola
+* Carmel Beach, Carmel-by-the-Sea
 * Newport Beach
-* Thousand Steps Beach
-* Playa Del Rey Beach
-* Malibu Beach
+* Balboa Beach, Newport Beach
+* Crystal Cove State Beach, Newport Beach
 * Laguna Beach
+* Thousand Steps Beach, Laguna Beach
+* Playa Del Rey Beach, Marina Del Rey
+* Malibu Beach, Malibu
 
 #### PUNJABI, BOLLYWOOD, EDM, POP, AND RAP CONCERTS, MUSIC FESTIVALS, AND RAVES
 * ABBA Voyage, London
