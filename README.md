@@ -152,8 +152,12 @@ OOO, I am working out in my gym, [dancing](https://github.com/shawna-tuli-silico
 * Emerald Bay Beach, South Lake Tahoe
 * Mammoth Lakes
 * Half Moon Bay State Beach, Half Moon Bay
+* Panther Beach, Santa Cruz
+* Natural Bridges States Beach, Santa Cruz
+* Lighthouse Field State Beach, Santa Cruz 
 * Twin Lakes State Beach, Santa Cruz
 * Santa Cruz Beach, Santa Cruz
+* Davenport Beach, Davenport
 * Capitola Beach, Capitola
 * Carmel Beach, Carmel-by-the-Sea
 * Newport Beach
