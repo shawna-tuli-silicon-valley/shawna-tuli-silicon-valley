@@ -149,8 +149,8 @@ OOO, I am working out in my gym, [dancing](https://github.com/shawna-tuli-silico
 #### BEACHES AND LAKES
 * Ocean Beach, San Francisco
 * Lake Tahoe
-* Mammoth Lakes
 * Emerald Bay Beach, South Lake Tahoe
+* Mammoth Lakes
 * Half Moon Bay State Beach, Half Moon Bay
 * Twin Lakes State Beach, Santa Cruz
 * Santa Cruz Beach, Santa Cruz
