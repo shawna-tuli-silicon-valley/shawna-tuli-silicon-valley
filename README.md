@@ -160,6 +160,7 @@ OOO, I am working out in my gym, [dancing](https://github.com/shawna-tuli-silico
 * Davenport Beach, Davenport
 * Capitola Beach, Capitola
 * Carmel Beach, Carmel-by-the-Sea
+* Pebble Beach
 * Newport Beach
 * Balboa Beach, Newport Beach
 * Crystal Cove State Beach, Newport Beach
