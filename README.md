@@ -148,6 +148,7 @@ OOO, I am working out in my gym, [dancing](https://github.com/shawna-tuli-silico
 
 #### BEACHES
 * Ocean Beach, San Francisco
+* Emerald Bay Beach, South Lake Tahoe
 * Half Moon Bay State Beach, Half Moon Bay
 * Twin Lakes State Beach, Santa Cruz
 * Santa Cruz Beach, Santa Cruz
