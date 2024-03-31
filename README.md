@@ -144,10 +144,12 @@ Shawna is a proud alumna of Accenture Kellogg Executive Education ***Leading wit
 * English, Hindi, Punjabi, Spanish
 
 #### INTERESTS
-OOO, I am working out in my gym, [dancing](https://github.com/shawna-tuli-silicon-valley/dance), healthy cooking, [reading](https://github.com/shawna-tuli-silicon-valley/strategy-and-management-books), studying, shopping, and [oil painting](https://github.com/shawna-tuli-silicon-valley/oil-painting). I enjoy playing tennis and badminton, watching shows and movies on Netflix and Prime, and going to beaches, concerts, festivals, and raves. 
+OOO, I am working out in my gym, [dancing](https://github.com/shawna-tuli-silicon-valley/dance), healthy cooking, [reading](https://github.com/shawna-tuli-silicon-valley/strategy-and-management-books), studying, shopping, and [oil painting](https://github.com/shawna-tuli-silicon-valley/oil-painting). I enjoy playing tennis and badminton, watching shows and movies on Netflix and Prime, and going to beaches and lakes, concerts, festivals, and raves. 
 
-#### BEACHES
+#### BEACHES AND LAKES
 * Ocean Beach, San Francisco
+* Lake Tahoe
+* Mammoth Lakes
 * Emerald Bay Beach, South Lake Tahoe
 * Half Moon Bay State Beach, Half Moon Bay
 * Twin Lakes State Beach, Santa Cruz
