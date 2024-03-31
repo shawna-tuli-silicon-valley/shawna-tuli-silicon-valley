@@ -161,7 +161,7 @@ OOO, I am working out in my gym, [dancing](https://github.com/shawna-tuli-silico
 * Huntington Beach
 * Playa Del Rey Beach, Marina Del Rey
 * Malibu Beach, Malibu
-* Venice Beach
+* Venice Beach, Venice
 
 #### PUNJABI, BOLLYWOOD, EDM, POP, AND RAP CONCERTS, MUSIC FESTIVALS, AND RAVES
 * ABBA Voyage, London
