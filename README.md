@@ -144,32 +144,7 @@ Shawna is a proud alumna of Accenture Kellogg Executive Education ***Leading wit
 * English, Hindi, Punjabi, Spanish
 
 #### INTERESTS
-OOO, I am working out in my gym, [dancing](https://github.com/shawna-tuli-silicon-valley/dance), healthy cooking, [reading](https://github.com/shawna-tuli-silicon-valley/strategy-and-management-books), studying, shopping, and [oil painting](https://github.com/shawna-tuli-silicon-valley/oil-painting). I enjoy playing tennis and badminton, watching shows and movies on Netflix and Prime, and going to beaches, lakes, concerts, festivals, and raves. 
-
-#### BEACHES AND LAKES
-* Ocean Beach, San Francisco
-* Lake Tahoe
-* Emerald Bay Beach, South Lake Tahoe
-* Mammoth Lakes
-* Half Moon Bay State Beach, Half Moon Bay
-* Panther Beach, Santa Cruz
-* Natural Bridges States Beach, Santa Cruz
-* Lighthouse Field State Beach, Santa Cruz 
-* Twin Lakes State Beach, Santa Cruz
-* Santa Cruz Beach, Santa Cruz
-* Davenport Beach, Davenport
-* Capitola Beach, Capitola
-* Carmel Beach, Carmel-by-the-Sea
-* Pebble Beach
-* Newport Beach
-* Balboa Beach, Newport Beach
-* Crystal Cove State Beach, Newport Beach
-* Laguna Beach
-* Thousand Steps Beach, Laguna Beach
-* Huntington Beach
-* Playa Del Rey Beach, Marina Del Rey
-* Malibu Beach, Malibu
-* Venice Beach, Venice
+OOO, I am working out in my gym, [dancing](https://github.com/shawna-tuli-silicon-valley/dance), healthy cooking, [reading](https://github.com/shawna-tuli-silicon-valley/strategy-and-management-books), studying, shopping, and [oil painting](https://github.com/shawna-tuli-silicon-valley/oil-painting). I enjoy playing tennis and badminton, watching shows and movies on Netflix and Prime, and going to [beaches, lakes,](https://github.com/shawna-tuli-silicon-valley/beaches-and-lakes/tree/main) concerts, festivals, and raves. 
 
 #### PUNJABI, BOLLYWOOD, EDM, POP, AND RAP CONCERTS, MUSIC FESTIVALS, AND RAVES
 * ABBA Voyage, London
