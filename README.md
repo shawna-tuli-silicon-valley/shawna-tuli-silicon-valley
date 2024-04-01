@@ -144,37 +144,7 @@ Shawna is a proud alumna of Accenture Kellogg Executive Education ***Leading wit
 * English, Hindi, Punjabi, Spanish
 
 #### INTERESTS
-OOO, I am working out in my gym, [dancing](https://github.com/shawna-tuli-silicon-valley/dance), healthy cooking, [reading](https://github.com/shawna-tuli-silicon-valley/strategy-and-management-books), studying, shopping, and [oil painting](https://github.com/shawna-tuli-silicon-valley/oil-painting). I enjoy playing tennis and badminton, watching shows and movies on Netflix and Prime, and going to [beaches, lakes,](https://github.com/shawna-tuli-silicon-valley/beaches-and-lakes/tree/main) concerts, festivals, and raves. 
-
-#### PUNJABI, BOLLYWOOD, EDM, POP, AND RAP CONCERTS, MUSIC FESTIVALS, AND RAVES
-* ABBA Voyage, London
-* Sam Smith: GLORIA the Tour, Inglewood
-* Illenium, Las Vegas
-* Dillon Francis, Las Vegas
-* The Chainsmokers, Las Vegas
-* Bollywood SLAM! The Tour, San Jose
-* Summerlands, UCI
-* Shocktober, UCI
-* TroyBoi, Costa Mesa
-* Aldrich Park After Dark, UCI
-* LED Anniversary, San Diego
-* Summerlands, UCI
-* The Chainsmokers, San Francisco
-* Escape Halloween, San Bernardino
-* Shocktober, UCI
-* Aldrich Park After Dark, UCI
-* Audiotistic Bay Area Festival, Mountain View
-* Summerlands, UCI
-* Shocktober, UCI
-* Aldrich Park After Dark, UCI
-* Air + Style Music Festival, Los Angeles
-* Summerlands, UCI
-* Kanye West Saint Pablo Tour, Anaheim (Canceled)
-* Shocktober, UCI
-* Aldrich Park After Dark, UCI
-* BTS Wings Tour, Anaheim
-* Rock of Ages, Las Vegas
-* Hannah Montana, Charlotte
+OOO, I am working out in my gym, [dancing](https://github.com/shawna-tuli-silicon-valley/dance), healthy cooking, [reading](https://github.com/shawna-tuli-silicon-valley/strategy-and-management-books), studying, shopping, and [oil painting](https://github.com/shawna-tuli-silicon-valley/oil-painting). I enjoy playing tennis and badminton, watching shows and movies on Netflix and Prime, and going to [beaches, lakes,](https://github.com/shawna-tuli-silicon-valley/beaches-and-lakes/tree/main) [concerts, festivals, and raves](https://github.com/shawna-tuli-silicon-valley/concerts-festivals-and-raves). 
 
 <!--
 **shawna-tuli-silicon-valley/shawna-tuli-silicon-valley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
