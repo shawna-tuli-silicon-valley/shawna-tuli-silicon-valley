@@ -144,7 +144,7 @@ Shawna is a proud alumna of Accenture Kellogg Executive Education ***Leading wit
 * English, Hindi, Punjabi, Spanish
 
 #### INTERESTS
-OOO, I am working out in my gym, [dancing](https://github.com/shawna-tuli-silicon-valley/dance), healthy cooking, [reading](https://github.com/shawna-tuli-silicon-valley/strategy-and-management-books), studying, shopping, and [oil painting](https://github.com/shawna-tuli-silicon-valley/oil-painting). I enjoy playing tennis and badminton, watching shows and movies on Netflix and Prime, and going to [beaches, lakes,](https://github.com/shawna-tuli-silicon-valley/beaches-and-lakes/tree/main) [concerts, festivals, and raves](https://github.com/shawna-tuli-silicon-valley/concerts-festivals-and-raves). 
+OOO, I am working out in my gym, dancing, healthy cooking, reading, studying, shopping, and oil painting. I enjoy playing tennis and badminton, watching shows and movies on Netflix and Prime, and going to beaches, lakes, concerts, festivals, and raves. 
 
 <!--
 **shawna-tuli-silicon-valley/shawna-tuli-silicon-valley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
