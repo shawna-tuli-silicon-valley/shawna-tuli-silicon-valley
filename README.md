@@ -136,7 +136,7 @@ Shawna is a proud alumna of Accenture Kellogg Executive Education ***Leading wit
 * GMAT - Waived
 
 #### BUSINESS INTELLIGENCE
-* Tableau
+* PLX, Google Data Studio, Microsoft Power BI, Amazon QuickSight, Tableau
 
 #### PROGRAMMING LANGUAGES
 * Python, R, SQL, C++, Java, Swift, JavaScript, HTML, CSS, x86 Assembly, Bash, Go, TypeScript
