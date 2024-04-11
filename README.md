@@ -112,7 +112,7 @@ Shawna is a proud alumna of Accenture Kellogg Executive Education ***Leading wit
 * Google Cloud Digital Leader (Certificate), Google Training in Generative Artificial Intelligence [(Training)](https://cloud.google.com/blog/topics/training-certifications/12-days-of-no-cost-generative-ai-training), Google Cloud Certificates in Generative Artificial Intelligence [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-cloud-generative-ai/), Google Certificates in Advanced Data Analytics [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-advanced-data-analytics-professional-certificate), Google Certificates in Data Analytics [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-data-analytics-professional-certificate), Google Certificates in Business Intelligence [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-business-intelligence-professional-certificate), Google Certificates in Project Management [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-project-management-professional-certificate)
 
 #### GOOGLE TECHNOLOGY STACK
-* Google Colab Notebooks, Google Cloud Platform, PLX, Dremel, Google Data Studio, Android, Google Sheets, Google Slides 
+* Google Colab Notebooks, Google Cloud Platform, Google PLX, Dremel, Google Data Studio, Android, Google Sheets, Google Slides 
 
 #### MICROSOFT EDUCATION
 * Microsoft Azure AI Partner Council | Azure AI Search, Microsoft Azure Data and AI - Microsoft Partner Sales Strategy Training
@@ -136,7 +136,7 @@ Shawna is a proud alumna of Accenture Kellogg Executive Education ***Leading wit
 * GMAT - Waived
 
 #### BUSINESS INTELLIGENCE
-* PLX, Google Data Studio, Microsoft Power BI, Amazon QuickSight, Tableau
+* Google PLX, Google Data Studio, Microsoft Power BI, Amazon QuickSight, Tableau
 
 #### PROGRAMMING LANGUAGES
 * Python, R, SQL, C++, Java, Swift, JavaScript, HTML, CSS, x86 Assembly, Bash, Go, TypeScript
