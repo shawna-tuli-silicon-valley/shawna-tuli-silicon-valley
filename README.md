@@ -37,7 +37,7 @@ Shawna is a proud alumna of Accenture Kellogg Executive Education ***Leading wit
 * 🎓 Data Science Panelist at The Reach Foundation (2x) [(Article)](https://www.thereachfoundation.net/blog/j1ijbu5v5tz66u214ut8bsu9izojb9)
 * 📢 Software Engineer at The NPD Group
 * ✅ AI Data Scientist at Avanade
-* 🤍 Google Cloud Next Conference (4x) [(Next '24)](https://cloud.withgoogle.com/next/session-library?filters=vod-video-available#all)[(Next '23)](https://blog.google/products/google-cloud/cloud-next-2023-sundar-pichai-keynote/)
+* 🤍 Google Cloud Next Conference (4x) [(Next '24)](https://cloud.withgoogle.com/next/session-library?filters=vod-video-available#all) [(Next '23)](https://blog.google/products/google-cloud/cloud-next-2023-sundar-pichai-keynote/)
 * 💛 Databricks Data + AI Summit San Francisco [(Article)](https://www.databricks.com/blog/2022/06/24/know-before-you-go-data-ai-summit-2022.html)
 * ⚙️ Avanade San Francisco Strategy & Consulting AI & Advanced Analytics Associate Manager [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics-2)
 * 🔮 National Science Foundation paper + poster for predicting energy consumption with AI in California and led 5 [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-california-energy-and-ai-predictive-analytics-2)
