@@ -144,7 +144,7 @@ Shawna is a proud alumna of Accenture Kellogg Executive Education ***Leading wit
 #### LANGUAGES
 * English, Hindi, Punjabi, Spanish
 
-#### BOOKS & Podcasts
+#### BOOKS & PODCASTS
 
 * Principles by Ray Dalio, Strategy & Management [(Repo)](https://github.com/shawna-tuli-silicon-valley/strategy-and-management-books), Venture Capital [(Repo)](https://github.com/shawna-tuli-silicon-valley/venture-capital-books), NPR, People I (Mostly) Admire, Freakonomics 
 
