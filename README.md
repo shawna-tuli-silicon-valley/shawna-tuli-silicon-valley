@@ -54,7 +54,7 @@ Shawna is a proud alumna of Accenture Kellogg Executive Education ***Leading wit
 * 💜 AI & Data Science Lead at Accenture CIO and led a Data Scientist
 * ☕ Software Engineer at Starbucks Coffee
 * 💾 Advanced Analytics Lead at Applied Materials and led 2 Analysts
-* 🎉 Avanade Northern California Social Committee Member - organizing and hosting events monthly for 50+ Employees in South Bay Area
+* 🎉 Avanade Northern California Social Committee Member - organizing and hosting events monthly for 50+ Employees
 * ✔️ Avanade We Deliver with Excellence Super Hero Award
 * 📶 Avanade Advanced Analytics All-hands
 * 📖 STEM Mentor at Avanade STEM Scholars 
