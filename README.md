@@ -1,6 +1,6 @@
 Shawna Tuli is a seasoned Artificial Intelligence & Data Science and Investment Management Leader, Innovator, Artificial Intelligence Engineer, Data Scientist, Xoogler, and Bay Area native in Silicon Valley, with close to four years of experience as an Artificial Intelligence & Advanced Analytics Associate Manager at **Accenture** and **Avanade**, the Accenture **Microsoft** Business Group. She has a strong background in ***strategy & consulting***, particularly in ***generative artificial intelligence***, ***artificial intelligence***, ***data science***, ***advanced analytics***, ***software engineering***, and ***CFO & enterprise value***. 
 
-Shawna has played a key role in building Avanade's Artificial Intelligence & Automation Practice and Artificial Intelligence Studio from the ground up in collaboration with David Gormley, serving as the Northern California Lead and Forecasting Champion. She has made significant contributions to major ***tech*** companies, including **Amazon** and **Google**, working on ***products*** such as Photos, Cloud, Play, and One. Shawna advises for **Harvard Business Review**. Her strengths are Activator, Achiever, Futuristic, Competition, and Significance.
+Shawna has played a key role in building Avanade's Artificial Intelligence & Automation Practice and Artificial Intelligence Studio from the ground up in collaboration with David Gormley, serving as the Northern California Lead and Forecasting Champion. She has made significant contributions to major ***tech*** companies, including **Amazon**, migrating to Microsoft products, and **Google**, working on ***products*** such as Photos, Cloud, Play, and One. Shawna advises for **Harvard Business Review**. Her strengths are Activator, Achiever, Futuristic, Competition, and Significance.
 
 Shawna is a proud alumna of Accenture Kellogg Executive Education ***Leading with Analytics & Artificial Intelligence***, University of California, Irvine Donald Bren School of Information & Computer Sciences ***Data Science 
 (Computer Science & Statistics)***, and Stanford University School of Engineering ***Girl Code***. She is affiliated with University of California, Irvine Paul Merage School of Business ***Investment Management***, CFA Society Orange County, and Alpha Kappa Psi Professional Business Fraternity | Pi Psi.   
@@ -18,7 +18,7 @@ Shawna is a proud alumna of Accenture Kellogg Executive Education ***Leading wit
 * 🌉 Accenture Mountain View Data Science for Social Good (DSSG) Lead with United Way Bay Area and led 3 Consultants
 * 📓 Accenture AI & Data Science Expert at Knowledge Exchange 
 * 📧 Presenter at Amazon Mountain View Mailbox Core All-hands 
-* 🗃️ Avanade West Champion for North America Data & AI Solution Architect Community Council
+* 🗃️ Avanade North America Data & AI Solution Architects West Champion
 * 🌌 Avanade Create the Future Super Hero Award
 * 💖 Google Bay Area AI for everyone - recruited to Google Gemini AI & Data Science [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-bay-area-ai-for-everyone/tree/main)
 * 🌁 Accenture San Francisco Generative AI Studio Member [(Article)](https://newsroom.accenture.com/news/2023/accenture-to-launch-network-of-generative-ai-studios-to-help-clients-accelerate-use-of-data-and-ai-technologies)
@@ -54,7 +54,7 @@ Shawna is a proud alumna of Accenture Kellogg Executive Education ***Leading wit
 * 💜 AI & Data Science Lead at Accenture CIO and led a Data Scientist
 * ☕ Software Engineer at Starbucks Coffee
 * 💾 Advanced Analytics Lead at Applied Materials and led 2 Analysts
-* 🎉 Avanade NorCal Social Committee Member - organizing and hosting events monthly for 50+ Employees in South Bay Area
+* 🎉 Avanade Northern California Social Committee Member - organizing and hosting events monthly for 50+ Employees in South Bay Area
 * ✔️ Avanade We Deliver with Excellence Super Hero Award
 * 📶 Avanade Advanced Analytics All-hands
 * 📖 STEM Mentor at Avanade STEM Scholars 
