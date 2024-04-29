@@ -8,6 +8,7 @@ Shawna is a proud alumna of Accenture Kellogg Executive Education ***Leading wit
 #### SILICON VALLEY BIG TECH AI & DATA SCIENCE + IM LEADERSHIP & PUBLIC SPEAKING (2014-Present)
 * 🌟 Incoming Avanade Mountain View Strategy & Consulting AI & Advanced Analytics Manager [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics-4/tree/main)
 * 🎯 Incoming Generative AI & Data Science Lead at Google Mountain View (Repo)
+* 🔦 Avanade AI & Automation Praction Project Spotlight
 * 💫 Wells Fargo Diversity in Technology & Digital Networking Event San Francisco - recruited to Wells Fargo
 * 💘 Google Bay Area International Women's Day - recruited to Google [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-bay-area-international-womens-day/tree/main)
 * 🗿 Avanade Mountain View Leadership Accelerator - chosen to inspire greatness and excel in People Leadership
