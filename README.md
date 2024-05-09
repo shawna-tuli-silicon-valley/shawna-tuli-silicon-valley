@@ -123,7 +123,10 @@ Shawna is a proud alumna of Accenture Kellogg Executive Education ***Leading wit
 * Azure, Azure Cosmos DB, Azure DevOps, Azure AI Document Intelligence, Azure Active Directory, Azure Pipelines, Visual Studio, Microsoft SQL Server, Microsoft Azure SQL Database, Kubernetes, Microsoft Power BI, Microsoft Excel, Microsoft PowerPoint
 
 #### AMAZON TECHNOLOGY STACK
-* Jupyter Notebooks on AWS, Amazon SageMaker, Amazon S3, AWS, AWS Glue, AWS Lambdas, AWS CDK Pipelines, Amazon QuickSight, OpenSearch 
+* Jupyter Notebooks on AWS, Amazon SageMaker, Amazon S3, AWS, AWS Glue, AWS Lambdas, AWS CDK Pipelines, Amazon QuickSight, OpenSearch
+
+#### APPLE TECHNOLOGY STACK
+* iOS
 
 #### AVANADE EDUCATION
 * Leadership Accelerator, Generative AI Learning Path
