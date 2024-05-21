@@ -144,7 +144,7 @@ Shawna is a proud alumna of Accenture Kellogg Executive Education ***Leading wit
 * Google PLX, Google Data Studio, Microsoft Power BI, Amazon QuickSight, Tableau
 
 #### PROGRAMMING LANGUAGES
-* Python, R, SQL, C++, Java, Swift, JavaScript, HTML, CSS, x86 Assembly, Bash, Go, TypeScript
+* Python, R, SQL, C++, Java, Swift, JavaScript, HTML, CSS, x86 Assembly, Bash, Go, TypeScript, Query DSL
 
 #### LANGUAGES
 * English, Hindi, Punjabi, Spanish
