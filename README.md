@@ -62,7 +62,7 @@ Shawna is a proud alumna of Accenture Kellogg Executive Education ***Leading wit
 * 📖 STEM Mentor at Avanade STEM Scholars 
 * 💭 Avanade San Francisco Strategy & Consulting AI & Senior Advanced Analytics Analyst [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics)
 * 💻 Accenture San Francisco Applied Intelligence Member
-* 👥 UCI Alumni Speaker at Accenture + UCI Donald Bren School of ICS & Merage School of Business Recruitment (3x) [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-university-of-california-irvine-recruitment)
+* 👥 UCI Alumni Speaker at Accenture + UCI Donald Bren School of ICS & Merage School of Business Recruitment (4x) [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-university-of-california-irvine-recruitment)
 * 💙 Accenture Applied Intelligence Summer Conference San Francisco
 * 🎊 Avanade Go Team! Award (4x)
 * 🏛️ Accenture San Francisco Quarterly TownHalls
@@ -141,7 +141,7 @@ Shawna is a proud alumna of Accenture Kellogg Executive Education ***Leading wit
 * GMAT - Waived
 
 #### BUSINESS INTELLIGENCE
-* Google PLX, Google Data Studio, Microsoft Power BI, Amazon QuickSight, Tableau
+* Google PLX, Google Data Studio, Microsoft Excel, Microsoft Power BI, Amazon QuickSight, Tableau
 
 #### PROGRAMMING LANGUAGES
 * Python, R, SQL, C++, Java, Swift, JavaScript, HTML, CSS, x86 Assembly, Bash, Go, TypeScript, Query DSL
