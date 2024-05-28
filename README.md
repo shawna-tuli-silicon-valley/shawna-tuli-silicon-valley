@@ -6,8 +6,8 @@ Shawna is a proud alumna of Accenture Kellogg Executive Education ***Leading wit
 (Computer Science & Statistics)***, and Stanford University School of Engineering ***Girl Code***. She is affiliated with University of California, Irvine Paul Merage School of Business ***Investment Management***, CFA Society Orange County, and Alpha Kappa Psi Professional Business Fraternity | Pi Psi.   
 
 #### SILICON VALLEY BIG TECH AI & DATA SCIENCE AND STRATEGY LEADERSHIP AND PUBLIC SPEAKING (2014-Present)
+* 🎯 Incoming at Google 
 * 🌟 Incoming Avanade Mountain View Strategy & Consulting AI & Advanced Analytics Manager [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics-4/tree/main)
-* 🎯 Incoming Generative AI & Data Science Lead at Google Mountain View (Repo)
 * 🎙 Emcee at Avanade North America Data & AI Community Call 
 * 🔦 Presenter at Avanade AI & Automation Practice Mountain View Amazon Migration to Microsoft Spotlight 
 * 💫 Wells Fargo Diversity in Technology & Digital Networking Event San Francisco - recruited to Wells Fargo [(Repo)](https://github.com/shawna-tuli-silicon-valley/wells-fargo-san-francisco-ai)
