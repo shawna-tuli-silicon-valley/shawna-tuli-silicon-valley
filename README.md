@@ -142,10 +142,10 @@ Shawna is a proud alumna of Accenture Kellogg Executive Education ***Leading wit
 * GMAT - Waived
 
 #### GENERATIVE AI
-* GitHub CoPilot
+* GitHub CoPilot, Hugging Face, ChatGPT, Gemini
 
 #### DATA SCIENCE
-Jupyter Notebook, Pandas, Apache Spark, SAS, MySQL, TensorFlow, Keras, Matplotlib, NumPy, Seaborn, Scikit-learn, Microsoft Excel
+* Jupyter Notebook, Pandas, Apache Spark, SAS, MySQL, TensorFlow, Keras, Matplotlib, NumPy, Seaborn, Scikit-learn, Microsoft Excel
 
 #### BUSINESS INTELLIGENCE
 * Google PLX, Google Data Studio, Microsoft Excel, Microsoft Power BI, Amazon QuickSight, Tableau
