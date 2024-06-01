@@ -7,7 +7,7 @@ Shawna is a proud alumna of Accenture Kellogg Executive Education ***Leading wit
 
 #### SILICON VALLEY BIG TECH AI & DATA SCIENCE AND STRATEGY LEADERSHIP AND PUBLIC SPEAKING (2014-Present)
 * 🎯 Incoming AI & Data Science Manager at Google Mountain View
-* 🚚 Incoming AI & Data Science Manager at Amazon Mountain View II - analyzing PB of mailboxes and leading 6 Cloud Engineers 
+* 🚚 Incoming AI & Data Science Manager at Amazon Mountain View II - analyzing PB and leading 6 Cloud Engineers 
 * 🌟 Incoming Avanade Mountain View Strategy & Consulting AI & Advanced Analytics Manager [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics-4/tree/main)
 * 🎙 Emcee at Avanade North America Data & AI Community Call 
 * 🔦 Presenter at Avanade AI & Automation Practice Mountain View Amazon Migration to Microsoft Spotlight 
