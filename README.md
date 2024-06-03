@@ -151,7 +151,10 @@ Shawna is a proud alumna of Accenture Kellogg Executive Education ***Leading wit
 * Google PLX, Google Data Studio, Microsoft Excel, Microsoft Power BI, Amazon QuickSight, Tableau
 
 #### DATA ENGINEERING
-* MongoDB, PostgreSQL, BigQuery, Amazon Redshift, Microsoft Power BI
+* MongoDB, PostgreSQL, BigQuery, Amazon Redshift, Microsoft Power BI, Databricks
+
+#### SOFTWARE ENGINEERING
+* GitHub, Docker, Eclipse, Visual Studio, Jira, IntelliJ IDEA, Microsoft Azure
 
 #### PROGRAMMING LANGUAGES
 * Python, R, SQL, C++, Java, Swift, JavaScript, HTML, CSS, x86 Assembly, Bash, Go, TypeScript, Query DSL
