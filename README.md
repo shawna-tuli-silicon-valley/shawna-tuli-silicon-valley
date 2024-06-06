@@ -141,11 +141,11 @@ Shawna is a proud alumna of Accenture Kellogg Executive Education ***Leading wit
 #### TEST SCORE
 * GMAT - Waived
 
-#### GENERATIVE AI SKILLS
+#### GENERATIVE ARTIFICIAL INTELLIGENCE SKILLS
 * Large Language Models (LLMs), GitHub CoPilot, Hugging Face, ChatGPT, Gemini, Heroku
 
-#### AI SKILLS
-* Algorithms, Computer Vision, Natural Language Processing (NLP), AI Ethics, Creativity, Machine Learning, Deep Learning
+#### ARTIFICIAL INTELLIGENCE SKILLS
+* AI, Algorithms, Computer Vision, Natural Language Processing (NLP), AI Ethics, Creativity, Machine Learning, Deep Learning
 
 #### DATA SCIENCE SKILLS
 * Jupyter Notebook, Pandas, Apache Spark, SAS, MySQL, TensorFlow, Keras, Matplotlib, NumPy, Seaborn, Scikit-learn
