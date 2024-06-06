@@ -138,9 +138,6 @@ Shawna is a proud alumna of Accenture Kellogg Executive Education ***Leading wit
 #### CERTIFICATES
 * The Wharton School - Introduction to Marketing [(Certificate)](https://www.coursera.org/account/accomplishments/certificate/NMFXW69JVDJX), University of California, Davis - SQL for Data Science [(Certificate)](https://www.coursera.org/account/accomplishments/certificate/TG58RPJKTBB9), Bloomberg Market Concepts (BMC), Kathak North Indian Classical Dance
 
-#### TEST SCORE
-* GMAT - Waived
-
 #### GENERATIVE ARTIFICIAL INTELLIGENCE SKILLS
 * Large Language Models (LLMs), GitHub CoPilot, Hugging Face, ChatGPT, Gemini, Heroku
 
@@ -167,7 +164,10 @@ Shawna is a proud alumna of Accenture Kellogg Executive Education ***Leading wit
 
 #### BOOKS & PODCASTS
 
-* Principles by Ray Dalio, Strategy & Management [(Repo)](https://github.com/shawna-tuli-silicon-valley/strategy-and-management-books), Venture Capital [(Repo)](https://github.com/shawna-tuli-silicon-valley/venture-capital-books), NPR, People I (Mostly) Admire, Freakonomics 
+* Principles by Ray Dalio, Strategy & Management [(Repo)](https://github.com/shawna-tuli-silicon-valley/strategy-and-management-books), Venture Capital [(Repo)](https://github.com/shawna-tuli-silicon-valley/venture-capital-books), NPR, People I (Mostly) Admire, Freakonomics
+
+#### TEST SCORE
+* GMAT - Waived
 
 #### INTERESTS
 OOO, I am working out in my gym, dancing, healthy cooking, reading, studying, shopping, and oil painting. I enjoy playing tennis and badminton, watching shows and movies on Netflix and Prime, and going to beaches, lakes, restaurants, and concerts. 
