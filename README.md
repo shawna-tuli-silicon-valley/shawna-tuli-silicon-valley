@@ -115,16 +115,16 @@ Shawna is a proud alumna of Accenture Kellogg Executive Education ***Leading wit
 * Introduction to Large Language Models (Badge), Google Cloud Digital Leader, Google Training in Generative Artificial Intelligence [(Training)](https://cloud.google.com/blog/topics/training-certifications/12-days-of-no-cost-generative-ai-training), Google Cloud Certificates in Generative Artificial Intelligence [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-cloud-generative-ai/), Google Certificates in Advanced Data Analytics [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-advanced-data-analytics-professional-certificate), Google Certificates in Data Analytics [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-data-analytics-professional-certificate), Google Certificates in Business Intelligence [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-business-intelligence-professional-certificate), Google Certificates in Project Management [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-project-management-professional-certificate)
 
 #### GOOGLE TECHNOLOGY STACK
-* Google Colab Notebooks, Google Cloud Platform, Google PLX, Dremel, Google Data Studio, Android, Google Sheets, Google Slides 
+* Google Colab Notebooks, Google Cloud Platform, Google PLX, Google Dremel, Google Data Studio, Android, Google Sheets, Google Slides 
 
 #### MICROSOFT EDUCATION
 * Fine-tune a foundation model with Azure Machine Learning (Badge), Microsoft Azure AI Partner Council | Azure AI Search, Microsoft Azure Data and AI - Microsoft Partner Sales Strategy Training
 
 #### MICROSOFT TECHNOLOGY STACK
-* Azure, Azure Cosmos DB, Azure DevOps, Azure AI Document Intelligence, Azure Active Directory, Azure Pipelines, Visual Studio, Microsoft SQL Server, Microsoft Azure SQL Database, Kubernetes, Microsoft Power BI, Microsoft Excel, Microsoft PowerPoint
+* Microsoft Azure, Azure Cosmos DB, Microsoft Azure DevOps, Microsoft Azure AI Document Intelligence, Microsoft Azure Active Directory, Microsoft Azure Pipelines, Visual Studio, Microsoft SQL Server, Microsoft Azure SQL Database, Kubernetes, Microsoft Power BI, Microsoft Excel, Microsoft PowerPoint
 
 #### AMAZON TECHNOLOGY STACK
-* Jupyter Notebooks on AWS, Amazon SageMaker, Amazon S3, AWS, AWS Glue, AWS Lambdas, AWS CDK Pipelines, Amazon QuickSight, OpenSearch, Amazon Redshift
+* AWS (Amazon Web Services), Jupyter Notebooks on AWS, Amazon SageMaker, Amazon S3, AWS Glue, AWS Lambdas, AWS CDK Pipelines, Amazon QuickSight, OpenSearch, Amazon Redshift
 
 #### APPLE TECHNOLOGY STACK
 * iOS
