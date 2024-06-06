@@ -121,10 +121,10 @@ Shawna is a proud alumna of Accenture Kellogg Executive Education ***Leading wit
 * Fine-tune a foundation model with Azure Machine Learning (Badge), Microsoft Azure AI Partner Council | Azure AI Search, Microsoft Azure Data and AI - Microsoft Partner Sales Strategy Training
 
 #### MICROSOFT TECHNOLOGY STACK
-* Microsoft Azure, Azure Cosmos DB, Microsoft Azure DevOps, Microsoft Azure AI Document Intelligence, Microsoft Azure Active Directory, Microsoft Azure Pipelines, Visual Studio, Microsoft SQL Server, Microsoft Azure SQL Database, Kubernetes, Microsoft Power BI, Microsoft Excel, Microsoft PowerPoint
+* Microsoft Azure, Microsoft Azure Cosmos DB, Microsoft Azure DevOps, Microsoft Azure AI Document Intelligence, Microsoft Azure Active Directory, Microsoft Azure Pipelines, Microsoft Visual Studio, Microsoft SQL Server, Microsoft Azure SQL Database, Kubernetes, Microsoft Power BI, Microsoft Excel, Microsoft PowerPoint
 
 #### AMAZON TECHNOLOGY STACK
-* AWS (Amazon Web Services), Jupyter Notebooks on AWS, Amazon SageMaker, Amazon S3, AWS Glue, AWS Lambdas, AWS CDK Pipelines, Amazon QuickSight, OpenSearch, Amazon Redshift
+* Amazon Web Services (AWS), Jupyter Notebooks on Amazon Web Services (AWS), Amazon SageMaker, Amazon S3, Amazon Web Services (AWS) Glue, Amazon Web Services (AWS) Lambdas, Amazon Web Services (AWS) CDK Pipelines, Amazon QuickSight, OpenSearch, Amazon Redshift
 
 #### APPLE TECHNOLOGY STACK
 * iOS
