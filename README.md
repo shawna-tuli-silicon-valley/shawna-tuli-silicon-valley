@@ -144,8 +144,11 @@ Shawna is a proud alumna of Accenture Kellogg Executive Education ***Leading wit
 #### GENERATIVE AI SKILLS
 * Large Language Models (LLMs), GitHub CoPilot, Hugging Face, ChatGPT, Gemini, Heroku
 
+#### AI SKILLS
+* Algorithms, Computer Vision, AI Ethics, Creativity, Machine Learning, Deep Learning 
+
 #### DATA SCIENCE SKILLS
-* Jupyter Notebook, Pandas, Apache Spark, SAS, MySQL, TensorFlow, Keras, Matplotlib, NumPy, Seaborn, Scikit-learn, Microsoft Excel
+* Jupyter Notebook, Pandas, Apache Spark, SAS, MySQL, TensorFlow, Keras, Matplotlib, NumPy, Seaborn, Scikit-learn, Natural Language Processing (NLP), Microsoft Excel
 
 #### BUSINESS INTELLIGENCE SKILLS
 * Google PLX, Google Data Studio, Microsoft Excel, Microsoft Power BI, Amazon QuickSight, Tableau
