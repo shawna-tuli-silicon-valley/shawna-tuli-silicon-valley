@@ -2,7 +2,7 @@ Shawna Tuli is a seasoned ***Artificial Intelligence & Data Science*** and ***St
 
 Shawna has played a key role in building Avanade's Artificial Intelligence & Automation Practice, Intelligent Data Platform Practice, and Artificial Intelligence Studio from the ground up in collaboration with David Gormley, serving as the Northern California Lead and Forecasting Champion. She has made significant contributions to major ***technology*** companies, including **Google**, working on ***Google products*** such as Photos, Cloud, Play, and One, and **Amazon**, migrating to ***Microsoft products*** such as Exchange. Shawna advises for **Harvard Business Review**. Her strengths are Activator, Achiever, Futuristic, Competition, and Significance.   
 
-#### SILICON VALLEY BIG TECH AI & DATA SCIENCE AND STRATEGY LEADERSHIP AND PUBLIC SPEAKING (2014-Present)
+#### SILICON VALLEY BIG TECH ARTIFICIAL INTELLIGENCE & DATA SCIENCE AND STRATEGY LEADERSHIP AND PUBLIC SPEAKING (2014-Present)
 * 🎯 Incoming AI & Data Science Manager at Google Mountain View
 * 🚚 Incoming AI & Data Science Manager at Amazon Mountain View - analyzing PB of mailboxes and leading 6 Cloud Engineers 
 * 🌟 Incoming Avanade Mountain View Strategy & Consulting AI & Advanced Analytics Manager [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics-4/tree/main)
