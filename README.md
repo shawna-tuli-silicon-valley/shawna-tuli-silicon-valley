@@ -136,25 +136,25 @@ Shawna has played a key role in building Avanade's Artificial Intelligence & Aut
 * The Wharton School - Introduction to Marketing [(Certificate)](https://www.coursera.org/account/accomplishments/certificate/NMFXW69JVDJX), University of California, Davis - SQL for Data Science [(Certificate)](https://www.coursera.org/account/accomplishments/certificate/TG58RPJKTBB9), Bloomberg Market Concepts, Kathak North Indian Classical Dance
 
 #### GENERATIVE ARTIFICIAL INTELLIGENCE SKILLS
-* Generative Artificial Intelligence, Large Language Models, GitHub CoPilot, Hugging Face, ChatGPT, Gemini, Heroku
+* Generative Artificial Intelligence, Large Language Models, GitHub CoPilot, Hugging Face, ChatGPT, Gemini, Heroku, AI Ethics
 
 #### ARTIFICIAL INTELLIGENCE SKILLS
-* Artificial Intelligence, Algorithms, Computer Vision, Natural Language Processing, AI Ethics, Creativity, Machine Learning, Deep Learning
+* Artificial Intelligence, Algorithms, Computer Vision, Natural Language Processing, Creativity, Machine Learning, Deep Learning
 
 #### DATA SCIENCE SKILLS
-* Jupyter Notebook, Pandas, Apache Spark, SAS, MySQL, TensorFlow, Keras, Matplotlib, NumPy, Seaborn, Scikit-learn
+* Data Science, Jupyter Notebook, Pandas, Apache Spark, SAS, MySQL, TensorFlow, Keras, Matplotlib, NumPy, Seaborn, Scikit-learn
 
 #### ANALYTICS SKILLS
-* Leadership, Strategy, Communication, Critical Thinking, Research, Product Analytics, Marketing, Data Mining, Data Visualization
+* Analytics, Leadership, Strategy, Communication, Critical Thinking, Research, Product, Marketing, Data Mining, Data Visualization
 
 #### BUSINESS INTELLIGENCE SKILLS
-* Google PLX, Google Data Studio, Microsoft Excel, Microsoft Power BI, Amazon QuickSight, Tableau
+* Business Intelligence, Google PLX, Google Data Studio, Microsoft Excel, Microsoft Power BI, Amazon QuickSight, Tableau
 
 #### DATA ENGINEERING SKILLS
-* MongoDB, PostgreSQL, BigQuery, Amazon Redshift, Databricks
+* Data Engineering, MongoDB, PostgreSQL, BigQuery, Amazon Redshift, Databricks
 
 #### SOFTWARE ENGINEERING SKILLS
-* Object-Oriented Programming, APIs, GitHub, Docker, Eclipse, Visual Studio, Jira, IntelliJ IDEA, Microsoft Azure
+* Software Engineering, Object-Oriented Programming, APIs, GitHub, Docker, Eclipse, Visual Studio, Jira, IntelliJ IDEA, Microsoft Azure
 
 #### PROGRAMMING LANGUAGES
 * Python, R, SQL, C++, Java, Swift, JavaScript, HTML, CSS, x86 Assembly, Bash, Go, TypeScript, Query DSL
