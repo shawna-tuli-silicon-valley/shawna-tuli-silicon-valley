@@ -144,8 +144,11 @@ Shawna has played a key role in building Avanade's Artificial Intelligence & Aut
 #### DATA SCIENCE SKILLS
 * Jupyter Notebook, Pandas, Apache Spark, SAS, MySQL, TensorFlow, Keras, Matplotlib, NumPy, Seaborn, Scikit-learn
 
+#### ANALYTICS SKILLS
+* Leadership, Strategy, Product Analytics, Marketing, Data Mining, Data Visualization
+
 #### BUSINESS INTELLIGENCE SKILLS
-* Analytics, Marketing, Google PLX, Google Data Studio, Microsoft Excel, Microsoft Power BI, Amazon QuickSight, Tableau
+* Google PLX, Google Data Studio, Microsoft Excel, Microsoft Power BI, Amazon QuickSight, Tableau
 
 #### DATA ENGINEERING SKILLS
 * MongoDB, PostgreSQL, BigQuery, Amazon Redshift, Databricks
