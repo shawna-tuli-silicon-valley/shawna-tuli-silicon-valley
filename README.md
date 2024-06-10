@@ -121,7 +121,7 @@ Shawna has played a key role in building Avanade's Artificial Intelligence & Aut
 * Microsoft Azure, Microsoft Azure Cosmos DB, Microsoft Azure DevOps, Microsoft Azure AI Document Intelligence, Microsoft Azure Active Directory, Microsoft Azure Pipelines, Microsoft Visual Studio, Microsoft SQL Server, Microsoft Azure SQL Database, Kubernetes, Microsoft Power BI, Microsoft Excel, Microsoft PowerPoint
 
 #### AMAZON TECHNOLOGY STACK
-* Amazon Web Services (AWS), Jupyter Notebooks on Amazon Web Services (AWS), Amazon SageMaker, Amazon S3, Amazon Web Services (AWS) Glue, Amazon Web Services (AWS) Lambdas, Amazon Web Services (AWS) CDK Pipelines, Amazon QuickSight, OpenSearch, Amazon Redshift
+* Amazon Web Services, Jupyter Notebooks on Amazon Web Services, Amazon SageMaker, Amazon S3, Amazon Web Services Glue, Amazon Web Services Lambdas, Amazon Web Services CDK Pipelines, Amazon QuickSight, OpenSearch, Amazon Redshift
 
 #### APPLE TECHNOLOGY STACK
 * iOS
@@ -133,13 +133,13 @@ Shawna has played a key role in building Avanade's Artificial Intelligence & Aut
 * Accenture Master Data Architect Certificate
 
 #### CERTIFICATES
-* The Wharton School - Introduction to Marketing [(Certificate)](https://www.coursera.org/account/accomplishments/certificate/NMFXW69JVDJX), University of California, Davis - SQL for Data Science [(Certificate)](https://www.coursera.org/account/accomplishments/certificate/TG58RPJKTBB9), Bloomberg Market Concepts (BMC), Kathak North Indian Classical Dance
+* The Wharton School - Introduction to Marketing [(Certificate)](https://www.coursera.org/account/accomplishments/certificate/NMFXW69JVDJX), University of California, Davis - SQL for Data Science [(Certificate)](https://www.coursera.org/account/accomplishments/certificate/TG58RPJKTBB9), Bloomberg Market Concepts, Kathak North Indian Classical Dance
 
 #### GENERATIVE ARTIFICIAL INTELLIGENCE SKILLS
-* Generative Artificial Intelligence, Large Language Models (LLMs), GitHub CoPilot, Hugging Face, ChatGPT, Gemini, Heroku
+* Generative Artificial Intelligence, Large Language Models, GitHub CoPilot, Hugging Face, ChatGPT, Gemini, Heroku
 
 #### ARTIFICIAL INTELLIGENCE SKILLS
-* AI, Algorithms, Computer Vision, Natural Language Processing (NLP), AI Ethics, Creativity, Machine Learning, Deep Learning
+* Artificial Intelligence, Algorithms, Computer Vision, Natural Language Processing, AI Ethics, Creativity, Machine Learning, Deep Learning
 
 #### DATA SCIENCE SKILLS
 * Jupyter Notebook, Pandas, Apache Spark, SAS, MySQL, TensorFlow, Keras, Matplotlib, NumPy, Seaborn, Scikit-learn
