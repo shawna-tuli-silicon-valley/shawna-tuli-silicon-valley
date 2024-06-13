@@ -136,12 +136,11 @@ Shawna has played a key role in building Avanade's Artificial Intelligence & Aut
 * The Wharton School - Introduction to Marketing [(Certificate)](https://www.coursera.org/account/accomplishments/certificate/NMFXW69JVDJX), University of California, Davis - SQL for Data Science [(Certificate)](https://www.coursera.org/account/accomplishments/certificate/TG58RPJKTBB9), Bloomberg Market Concepts, Kathak North Indian Classical Dance
 
 #### GENERATIVE ARTIFICIAL INTELLIGENCE SKILLS
-* Generative Artificial Intelligence, Large Language Models, GitHub CoPilot, Hugging Face, Gemini, Heroku, AI Ethics
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+* Generative Artificial Intelligence, Large Language Models, GitHub CoPilot, Hugging Face, Gemini, AI Ethics
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
 #### ARTIFICIAL INTELLIGENCE SKILLS
 * Artificial Intelligence, Algorithms, Natural Language Processing, Creativity, Machine Learning, Deep Learning
-
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
 #### DATA SCIENCE SKILLS
