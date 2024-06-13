@@ -97,7 +97,6 @@ Shawna has played a key role in building Avanade's Artificial Intelligence & Aut
 * 💸 HSHacks Hackathon at PayPal San Jose [(Article)](https://venturebeat.com/dev/teenagers-take-over-paypal-hold-their-own-hackathon/)
 * 📚 Stanford Splash [(Article)](https://stanforddaily.com/2016/04/13/behind-the-scenes-of-stanford-splash/)
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=shawna-tuli-silicon-valley)](https://github.com/shawna-tuli-silicon-valley)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shawna-tuli-silicon-valley&layout=compact) 
 
 #### EDUCATION
