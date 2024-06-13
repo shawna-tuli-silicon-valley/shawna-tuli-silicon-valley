@@ -160,7 +160,7 @@ Shawna has played a key role in building Avanade's Artificial Intelligence & Aut
 * Data Engineering, MongoDB, PostgreSQL, BigQuery, Amazon Redshift, Databricks
 
 #### SOFTWARE ENGINEERING SKILLS
-* Software Engineering, Object-Oriented Programming, APIs, GitHub, Docker, Visual Studio, Jira, Microsoft Azure ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+* Software Engineering, Object-Oriented Programming, APIs, GitHub, Visual Studio, Jira, Microsoft Azure ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 #### PROGRAMMING LANGUAGES
 * Python, R, SQL, C++, Java, Swift, JavaScript, HTML, CSS, x86 Assembly, Bash, Go, TypeScript, Query DSL
