@@ -118,7 +118,8 @@ Shawna has played a key role in building Avanade's Artificial Intelligence & Aut
 * Fine-tune a foundation model with Azure Machine Learning (Badge), Microsoft Azure AI Partner Council | Azure AI Search, Microsoft Azure Data and AI - Microsoft Partner Sales Strategy Training
 
 #### MICROSOFT TECHNOLOGY STACK
-* Microsoft Azure, Microsoft Azure Cosmos DB, Microsoft Azure DevOps, Microsoft Azure AI Document Intelligence, Microsoft Azure Active Directory, Microsoft Azure Pipelines, Microsoft Visual Studio, Microsoft SQL Server, Microsoft Azure SQL Database, Kubernetes, Microsoft Power BI, Microsoft Excel, Microsoft PowerPoint ![OneDrive](https://img.shields.io/badge/OneDrive-white?style=for-the-badge&logo=Microsoft%20OneDrive&logoColor=0078D4)
+* Microsoft Azure, Microsoft Azure Cosmos DB, Microsoft Azure DevOps, Microsoft Azure AI Document Intelligence, Microsoft Azure Active Directory, Microsoft Azure Pipelines, Microsoft Visual Studio, Microsoft SQL Server, Microsoft Azure SQL Database, Kubernetes, Microsoft Power BI, Microsoft Excel, Microsoft PowerPoint
+![OneDrive](https://img.shields.io/badge/OneDrive-white?style=for-the-badge&logo=Microsoft%20OneDrive&logoColor=0078D4)
 
 #### AMAZON TECHNOLOGY STACK
 * Amazon Web Services, Jupyter Notebooks on Amazon Web Services, Amazon SageMaker, Amazon S3, Amazon Web Services Glue, Amazon Web Services Lambdas, Amazon Web Services CDK Pipelines, Amazon QuickSight, OpenSearch, Amazon Redshift
