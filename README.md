@@ -124,7 +124,7 @@ Shawna has played a key role in building Avanade's Artificial Intelligence & Aut
 ![OneDrive](https://img.shields.io/badge/OneDrive-white?style=for-the-badge&logo=Microsoft%20OneDrive&logoColor=0078D4) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 #### AMAZON TECHNOLOGY STACK
-*	![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) Jupyter Notebooks on Amazon Web Services, Amazon SageMaker, Amazon S3, Amazon Web Services Glue, Amazon Web Services Lambdas, Amazon Web Services CDK Pipelines, Amazon QuickSight, OpenSearch, Amazon Redshift
+*	Jupyter Notebooks on Amazon Web Services, Amazon SageMaker, Amazon S3, Amazon Web Services Glue, Amazon Web Services Lambdas, Amazon Web Services CDK Pipelines, Amazon QuickSight, OpenSearch, Amazon Redshift ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 
 #### APPLE TECHNOLOGY STACK
 * iOS
