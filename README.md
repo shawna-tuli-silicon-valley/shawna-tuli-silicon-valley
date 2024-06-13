@@ -140,10 +140,12 @@ Shawna has played a key role in building Avanade's Artificial Intelligence & Aut
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 #### ARTIFICIAL INTELLIGENCE SKILLS
-* Artificial Intelligence, Algorithms, Computer Vision, Natural Language Processing, Creativity, Machine Learning, Deep Learning
+* Artificial Intelligence, Algorithms, Natural Language Processing, Creativity, Machine Learning, Deep Learning
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
 #### DATA SCIENCE SKILLS
-* Data Science, Jupyter Notebook, Pandas, Apache Spark, SAS, MySQL, TensorFlow, Keras, Matplotlib, NumPy, Seaborn, Scikit-learn
+* Data Science, Jupyter Notebook, Pandas, SAS, MySQL, TensorFlow, Keras, Matplotlib, NumPy, Seaborn, Scikit-learn
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)
 
 #### ANALYTICS SKILLS
 * Analytics, Leadership, Strategy, Communication, Critical Thinking, Research, Product, Marketing, Data Mining, Data Visualization
