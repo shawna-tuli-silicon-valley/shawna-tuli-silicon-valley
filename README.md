@@ -154,7 +154,7 @@ Shawna has played a key role in building Avanade's Artificial Intelligence & Aut
 * Analytics, Leadership, Strategy, Communication, Critical Thinking, Research, Product, Marketing, Data Mining, Data Visualization
 
 #### BUSINESS INTELLIGENCE SKILLS
-* Business Intelligence, Google PLX, Google Data Studio, Microsoft Excel, Microsoft Power BI, Amazon QuickSight ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+* Business Intelligence, Google PLX, Google Data Studio, Microsoft Power BI, Amazon QuickSight ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 #### DATA ENGINEERING SKILLS
 * Data Engineering, BigQuery, Amazon Redshift ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![DataBricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)
