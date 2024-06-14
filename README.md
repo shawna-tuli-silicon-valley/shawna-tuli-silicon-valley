@@ -9,6 +9,7 @@ Shawna has played a key role in building Avanade's Artificial Intelligence & Aut
 * 🎯 Incoming AI & Data Science Manager at Google Mountain View
 * 🚚 Incoming AI & Data Science Manager at Amazon Mountain View - analyzing PB of mailboxes and leading 6 Cloud Engineers 
 * 🌟 Incoming Avanade Mountain View Strategy & Consulting AI & Advanced Analytics Manager [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics-4/tree/main)
+* 🗽 Accenture New York Innovation Hub Visit 
 * 🎙 Emcee at Avanade North America Data & AI Community Call 
 * 🔦 Presenter at Avanade AI & Automation Practice Mountain View Amazon Migration to Microsoft Spotlight 
 * 💫 Wells Fargo Diversity in Technology & Digital Networking Event San Francisco - recruited to Wells Fargo [(Repo)](https://github.com/shawna-tuli-silicon-valley/wells-fargo-san-francisco-ai)
@@ -70,7 +71,7 @@ Shawna has played a key role in building Avanade's Artificial Intelligence & Aut
 * 📅 Avanade San Francisco Quarterly TownHalls
 * 📊 12 Penn Medicine Radiation Oncology publications and led 30+ Surgeons, Doctors, and Students [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-penn-medicine-global-radiation-oncology-analytics) [(Google Scholar)](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en)
 * 💬 Grace Hopper Celebration of Women in Computing Conference Orlando [(Repo)](https://github.com/shawna-tuli-silicon-valley/grace-hopper-celebration-of-women-in-engineering/tree/main)
-* 🖼️ Avanade Top 5 in Innovation Award - created an Azure AI product via computer vision and an one-shot GAN [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-irvine-ai-product)
+* 🖼️ Avanade Irvine Top 5 in Innovation Award - created an Azure AI product via computer vision and an one-shot GAN [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-irvine-ai-product)
 * 💼 Avanade FUEL: Innovation, Leadership and Technology Conference Pomona [(Article)](https://www.avanade.com/en/blogs/inside-avanade/corporate-citizenship/fuel-conference-2019)
 * 💞 Google Venice International Women's Day - recruited to Google [(Article)](https://msmagazine.com/2019/03/07/place-tech-inside-googles-international-womens-day-celebration/)
 * 💕 Google exploreCSR Southern California Workshop - financed as 1 of 47 Computer Science University Women [(Article)](https://www.csulb.edu/college-of-engineering/article/google-sponsors-explorecsr-research-workshop-for-women)
