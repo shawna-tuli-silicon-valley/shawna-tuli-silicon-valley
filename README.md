@@ -132,7 +132,7 @@ Shawna has played a key role in building Avanade's Artificial Intelligence & Aut
 #### AVANADE EDUCATION
 * Leadership Accelerator, Generative AI Learning Path
 
-#### ACCENTURE EDUCATION 
+#### ![ACCENTURE](https://img.shields.io/badge/Accenture-A100FF.svg?style=for-the-badge&logo=Accenture&logoColor=white) EDUCATION 
 * Accenture Master Data Architect Certificate
 
 #### CERTIFICATES
