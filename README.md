@@ -30,7 +30,7 @@ Shawna has played a key role in building Avanade's Artificial Intelligence & Aut
 * 📦 AI & Data Science Lead at Amazon Mountain View - analyzed PB of mailboxes and led 4 Cloud Engineers [(Repo)](https://github.com/shawna-tuli-silicon-valley/amazon-mountain-view-ai-and-data-science/tree/main) [(Article)](https://www.pcmag.com/news/amazon-to-spend-over-1-billion-on-microsoft-365-licenses)
 * ❤️ Google I/O Conference (6x) [(Keynote '24)](https://io.google/2024/) [(Keynote '23)](https://io.google/2023/program/396cd2d5-9fe1-4725-a3dc-c01bb2e2f38a/) [(Keynote '22)](https://io.google/2022/program/8e80903f-955f-4a5b-9118-b0ce4acdb0e6/) [(Keynote '21)](https://io.google/2021/session/88b34a4e-6170-4f18-a321-4260fb559e60?lng=en) [(Keynote '19)](https://www.youtube.com/watch?v=lyRPyRKHO8M) [(Keynote '18)](https://www.youtube.com/watch?v=ogfYd705cRs)
 * 💟 Microsoft Envision Conference (4x) [(Stories)](https://news.microsoft.com/tag/microsoft-envision/)
-* ⚡ Generative AI, AI, Data Science, Advanced Analytics, and Data Visualization Expert at LI Collaborative Articles [(LinkedIn)](https://www.linkedin.com/in/shawna-tuli-silicon-valley)
+* ⚡ Generative AI, AI, Data Science, Advanced Analytics, and Data Visualization Expert at LinkedIn Collaborative Articles
 * 👾 Avanade Mountain View Strategy & Consulting AI & Advanced Analytics Associate Manager [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics-3)
 * 🦾 AI Lead at Viking River Cruises and led 2 Senior Advanced Analytics Consultants
 * 🧠 AI & Data Science Advisor at Harvard Business Review [(Repo)](https://github.com/shawna-tuli-silicon-valley/harvard-business-review-advisory-council) [(Magazine)](https://hbr.org/)
