@@ -25,7 +25,7 @@ Shawna has played a key role in building Avanade's Artificial Intelligence & Aut
 * 🗃️ Avanade North America Data & AI Solution Architects West Champion
 * 🌌 Avanade Create the Future Super Hero Award
 * 💖 Google Bay Area AI for everyone - recruited to Google Gemini AI & Data Science [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-bay-area-ai-for-everyone/tree/main)
-* 🌁 Accenture San Francisco Generative AI Studio Member [(Article)](https://newsroom.accenture.com/news/2023/accenture-to-launch-network-of-generative-ai-studios-to-help-clients-accelerate-use-of-data-and-ai-technologies)
+* 🌁 Accenture San Francisco Innovation Hub Generative AI Studio Member [(Article)](https://newsroom.accenture.com/news/2023/accenture-to-launch-network-of-generative-ai-studios-to-help-clients-accelerate-use-of-data-and-ai-technologies)
 * 🌄 Avanade AI & Automation Practice and Intelligent Data Platform Practice Northern California Lead - arranging events for 8
 * 📦 AI & Data Science Lead at Amazon Mountain View - analyzed PB of mailboxes and led 4 Cloud Engineers [(Repo)](https://github.com/shawna-tuli-silicon-valley/amazon-mountain-view-ai-and-data-science/tree/main) [(Article)](https://www.pcmag.com/news/amazon-to-spend-over-1-billion-on-microsoft-365-licenses)
 * ❤️ Google I/O Conference (6x) [(Keynote '24)](https://io.google/2024/) [(Keynote '23)](https://io.google/2023/program/396cd2d5-9fe1-4725-a3dc-c01bb2e2f38a/) [(Keynote '22)](https://io.google/2022/program/8e80903f-955f-4a5b-9118-b0ce4acdb0e6/) [(Keynote '21)](https://io.google/2021/session/88b34a4e-6170-4f18-a321-4260fb559e60?lng=en) [(Keynote '19)](https://www.youtube.com/watch?v=lyRPyRKHO8M) [(Keynote '18)](https://www.youtube.com/watch?v=ogfYd705cRs)
@@ -43,7 +43,7 @@ Shawna has played a key role in building Avanade's Artificial Intelligence & Aut
 * ✅ AI Data Scientist at Avanade
 * 🤍 Google Cloud Next Conference (4x) [(Next '24)](https://cloud.withgoogle.com/next/session-library?filters=vod-video-available#all) [(Next '23)](https://blog.google/products/google-cloud/cloud-next-2023-sundar-pichai-keynote/)
 * 💛 Databricks Data + AI Summit San Francisco [(Article)](https://www.databricks.com/blog/2022/06/24/know-before-you-go-data-ai-summit-2022.html)
-* ⚙️ Avanade San Francisco Strategy & Consulting AI & Advanced Analytics Associate Manager [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics-2)
+* ⚙️ Avanade San Francisco Innovation Hub Strategy & Consulting AI & Advanced Analytics Associate Manager [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics-2)
 * 🔮 National Science Foundation paper and poster for predicting energy consumption with AI in California and led 5 [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-california-energy-and-ai-predictive-analytics-2)
 * 📉 Accenture V360 Awards in Innovation Nominee for forecasting energy with AI in California and led 4 [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-california-energy-ai-and-predictive-analytics) [(Student Repo)](https://github.com/shawna-tuli-silicon-valley/EnergyPredictionCA)
 * ☁️ AI & Data Science Lead at Google Cloud and led a Data Engineer [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-sunnyvale-ai-and-data-science-3) [(Article)](https://www.cnbc.com/2023/04/25/googles-cloud-business-turns-profitable-for-the-first-time-on-record.html)
@@ -62,13 +62,13 @@ Shawna has played a key role in building Avanade's Artificial Intelligence & Aut
 * ✔️ Avanade We Deliver with Excellence Super Hero Award
 * 📶 Avanade Advanced Analytics All-hands
 * 📖 STEM Mentor at Avanade STEM Scholars 
-* 💭 Avanade San Francisco Strategy & Consulting AI & Senior Advanced Analytics Analyst [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics)
+* 💭 Avanade San Francisco Innovation Hub Strategy & Consulting AI & Senior Advanced Analytics Analyst [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics)
 * 💻 Accenture San Francisco Applied Intelligence Member
 * 👥 UCI Alumni Speaker at Accenture + UCI Donald Bren School of ICS & Merage School of Business Recruitment (4x) [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-university-of-california-irvine-recruitment)
 * 💙 Accenture Applied Intelligence Summer Conference San Francisco
 * 🎊 Avanade Go Team! Award (4x)
-* 🏛️ Accenture San Francisco Quarterly TownHalls
-* 📅 Avanade San Francisco Quarterly TownHalls
+* 🏛️ Accenture San Francisco Innovation Hub Quarterly TownHalls
+* 📅 Avanade San Francisco Innovation Hub Quarterly TownHalls
 * 📊 12 Penn Medicine Radiation Oncology publications and led 30+ Surgeons, Doctors, and Students [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-penn-medicine-global-radiation-oncology-analytics) [(Google Scholar)](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en)
 * 💬 Grace Hopper Celebration of Women in Computing Conference Orlando [(Repo)](https://github.com/shawna-tuli-silicon-valley/grace-hopper-celebration-of-women-in-engineering/tree/main)
 * 🖼️ Avanade Irvine Top 5 in Innovation Award - created an Azure AI product via computer vision and an one-shot GAN [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-irvine-ai-product)
