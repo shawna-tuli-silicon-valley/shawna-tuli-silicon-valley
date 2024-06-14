@@ -129,11 +129,8 @@ Shawna has played a key role in building Avanade's Artificial Intelligence & Aut
 #### ![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white) TECHNOLOGY STACK
 * ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white) ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
-#### AVANADE EDUCATION
-* Leadership Accelerator, Generative AI Learning Path
-
 #### ![ACCENTURE](https://img.shields.io/badge/Accenture-A100FF.svg?style=for-the-badge&logo=Accenture&logoColor=white) EDUCATION 
-* Accenture Master Data Architect Certificate
+* Accenture Master Data Architect Certificate, Avanade Leadership Accelerator, Avanade Generative AI Learning Path
 
 #### CERTIFICATES
 * The Wharton School - Introduction to Marketing [(Certificate)](https://www.coursera.org/account/accomplishments/certificate/NMFXW69JVDJX), University of California, Davis - SQL for Data Science [(Certificate)](https://www.coursera.org/account/accomplishments/certificate/TG58RPJKTBB9), Bloomberg Market Concepts, Kathak North Indian Classical Dance
