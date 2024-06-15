@@ -13,7 +13,7 @@ Shawna has played a key role in building Avanade's Artificial Intelligence & Aut
 * 🎙 Emcee at Avanade North America Data & AI Community Call 
 * 🔦 Presenter at Avanade AI & Automation Practice Mountain View Amazon Migration to Microsoft Spotlight 
 * 💫 Wells Fargo Diversity in Technology & Digital Networking Event San Francisco - recruited to Wells Fargo SDI [(Repo)](https://github.com/shawna-tuli-silicon-valley/wells-fargo-san-francisco-ai)
-* 💘 Google Bay Area International Women's Day - recruited to Google AI & Data Science [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-bay-area-international-womens-day/tree/main)
+* 💘 Google Bay Area International Women's Day - recruited to Google Mountain View AI & Data Science [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-bay-area-international-womens-day/tree/main)
 * 🗿 Avanade Mountain View Leadership Accelerator - chosen to inspire greatness and excel in People Leadership
 * 🌅 Avanade AI Studio Forecasting Champion
 * 🌹 Accenture Mountain View International Women's Day 
@@ -24,7 +24,7 @@ Shawna has played a key role in building Avanade's Artificial Intelligence & Aut
 * 📧 Presenter at Amazon Mountain View Mailbox Core All-hands 
 * 🗃️ Avanade North America Data & AI Solution Architects West Champion
 * 🌌 Avanade Create the Future Super Hero Award
-* 💖 Google Bay Area AI for everyone - recruited to Google Gemini AI & Data Science [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-bay-area-ai-for-everyone/tree/main)
+* 💖 Google Bay Area AI for everyone - recruited to Google Mountain View Gemini AI & Data Science [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-bay-area-ai-for-everyone/tree/main)
 * 🌁 Accenture San Francisco Innovation Hub Generative AI Studio Member [(Article)](https://newsroom.accenture.com/news/2023/accenture-to-launch-network-of-generative-ai-studios-to-help-clients-accelerate-use-of-data-and-ai-technologies)
 * 🌄 Avanade AI & Automation Practice and Intelligent Data Platform Practice Northern California Lead - arranging events for 8
 * 📦 AI & Data Science Lead at Amazon Mountain View - analyzed PB of mailboxes and led 4 Cloud Engineers [(Repo)](https://github.com/shawna-tuli-silicon-valley/amazon-mountain-view-ai-and-data-science/tree/main) [(Article)](https://www.pcmag.com/news/amazon-to-spend-over-1-billion-on-microsoft-365-licenses)
