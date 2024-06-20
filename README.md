@@ -81,7 +81,7 @@ Shawna has played a key role in building Avanade's Artificial Intelligence & Aut
 * 🖱️ Google Mountain View Computer History Museum Visit 
 * ✨ Google Mountain View Women in Engineering Conference [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-women-in-engineering/tree/main)
 * 💝 Google Mountain View tgif Conferences [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-tgif/tree/main) [(Article)](https://www.cnbc.com/2019/11/15/google-cancels-tgif-weekly-all-hands-meetings.html)
-* 📷 Technical Business Analyst Intern at Google Photos Mountain View - scanned 1B+ Users' 2.5B photos/day [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-mountain-view-product-analytics-data-science-1) [(Article)](https://9to5google.com/2018/12/28/google-photos-news-2018-recap/)
+* 📷 Technical Business Analyst Intern at Google Photos Mountain View - analyzed 1B+'s 2.5B photos daily [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-mountain-view-product-analytics-data-science-1) [(Article)](https://9to5google.com/2018/12/28/google-photos-news-2018-recap/)
 * 🚀 Data Scientist at UCI Beall Applied Innovation - examined long-term trends of $14.5B+ UCI early-stage startups [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-beall-applied-innovation-product-analytics-data-science)
 * 💚 MongoDB.local Southern California Conference 
 * 💰 UCI Alpha Kappa Psi Professional Chair and led 50+ Professionals - achieved "Most Likely to be a Billionaire" [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-alpha-kappa-psi-professional-business-fraternity)
