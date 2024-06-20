@@ -69,7 +69,7 @@ Shawna has played a key role in building Avanade's Artificial Intelligence & Aut
 * 🎊 Avanade Go Team! Award (4x)
 * 🏛️ Accenture San Francisco Innovation Hub Quarterly TownHalls
 * 📅 Avanade San Francisco Innovation Hub Quarterly TownHalls
-* 📊 12 Penn Medicine Radiation Oncology publications and led 30+ Surgeons, Doctors, and Students [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-penn-medicine-global-radiation-oncology-analytics) [(Google Scholar)](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en)
+* 📊 12 Penn Medicine Radiation Oncology articles and led 30+ Surgeons, Doctors, and Students [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-penn-medicine-global-radiation-oncology-analytics) [(Google Scholar)](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en)
 * 💬 Grace Hopper Celebration of Women in Computing Conference Orlando [(Repo)](https://github.com/shawna-tuli-silicon-valley/grace-hopper-celebration-of-women-in-engineering/tree/main)
 * 🖼️ Avanade Irvine Top 5 in Innovation Award - created an Azure AI product via computer vision and an one-shot GAN [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-irvine-ai-product)
 * 💼 Avanade FUEL: Innovation, Leadership and Technology Conference Pomona [(Article)](https://www.avanade.com/en/blogs/inside-avanade/corporate-citizenship/fuel-conference-2019)
@@ -98,7 +98,7 @@ Shawna has played a key role in building Avanade's Artificial Intelligence & Aut
 * 📲 Yaksee Interactive Broadcasting App - mentioned in SiliconValley.com for airing Steve Wozniack's speech [(Repo)](https://github.com/shawna-tuli-silicon-valley/lghs-yaksee-interactive-broadcasting-app) [(Article)](https://www.siliconvalley.com/2016/03/23/los-gatos-startup-debuts-interactive-broadcasting-app/)
 * 💓 Los Gatos High School Google, Netflix, and Intel Visits [(Repo)](https://github.com/shawna-tuli-silicon-valley/big-tech-visits/tree/main)
 * ✉️ Stanford University Yahoo! Visit 
-* 🌲 Stanford University Girl Code - sponsored as 1 of 12 Top Math & Computer Science High School Students [(Repo)](https://github.com/shawna-tuli-silicon-valley/stanford-engineering-computer-science) [(Article)](https://cs.stanford.edu/sites/default/files/Girl%20Code.pdf)
+* 🌲 Stanford University Girl Code - sponsored as 1 of 12 Top Math & Computer Science High School Juniors [(Repo)](https://github.com/shawna-tuli-silicon-valley/stanford-engineering-computer-science) [(Article)](https://cs.stanford.edu/sites/default/files/Girl%20Code.pdf)
 * 💸 HSHacks Hackathon at PayPal San Jose [(Article)](https://venturebeat.com/dev/teenagers-take-over-paypal-hold-their-own-hackathon/)
 * 📚 Stanford Splash [(Article)](https://stanforddaily.com/2016/04/13/behind-the-scenes-of-stanford-splash/)
 
