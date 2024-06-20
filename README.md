@@ -94,7 +94,7 @@ Shawna has played a key role in building Avanade's Artificial Intelligence & Aut
 * 🔢 STEM Mentor at UCI Math Community Educational Outreach (CEO)
 * 🌐 STEM (Science, Technology, Engineering, and Math) Panelist at Girls Inc. of Orange County [(Report)](https://issuu.com/dwilliams11/docs/gioc_2017annualreport)
 * 💳 Eidebtic Vault Web App - made in 24 hours at the Capital One Santa Monica Hackathon [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-merage-ics-eidebtic-vault-web-app) [(Article)](https://medium.com/capital-one-tech/what-hosting-hackathons-taught-us-about-our-apis-b48d8304b74d) [(Article)](https://medium.com/capital-one-tech/5-things-we-learned-from-hosting-hackathons-1781b9728fde)
-* 🛍️ Data Scientist Intern at eBay San Jose in the Office of the CIO - developed ML models which contextualized big data [(Repo)](https://github.com/shawna-tuli-silicon-valley/ebay-san-jose-product-analytics-data-science) 
+* 🛍️ Data Scientist Intern at eBay San Jose in the Office of the CIO - developed ML models to contextualize big data [(Repo)](https://github.com/shawna-tuli-silicon-valley/ebay-san-jose-product-analytics-data-science) 
 * 📲 Yaksee Interactive Broadcasting App - mentioned in SiliconValley.com for airing Steve Wozniack's talk [(Repo)](https://github.com/shawna-tuli-silicon-valley/lghs-yaksee-interactive-broadcasting-app) [(Article)](https://www.siliconvalley.com/2016/03/23/los-gatos-startup-debuts-interactive-broadcasting-app/)
 * 💓 Los Gatos High School Google, Netflix, and Intel Visits [(Repo)](https://github.com/shawna-tuli-silicon-valley/big-tech-visits/tree/main)
 * ✉️ Stanford University Yahoo! Visit 
