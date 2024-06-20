@@ -170,13 +170,13 @@ Shawna has played a key role in building Avanade's Artificial Intelligence & Aut
 
 #### BOOKS & PODCASTS
 
-* Principles by Ray Dalio, Strategy & Management [(Repo)](https://github.com/shawna-tuli-silicon-valley/strategy-and-management-books), Venture Capital [(Repo)](https://github.com/shawna-tuli-silicon-valley/venture-capital-books), NPR, People I (Mostly) Admire, Freakonomics
+* Principles by Ray Dalio, Strategy & Management [(Repo)](https://github.com/shawna-tuli-silicon-valley/strategy-and-management-books), Venture Capital [(Repo)](https://github.com/shawna-tuli-silicon-valley/venture-capital-books), NPR, People I (Mostly) Admire
 
 #### TEST SCORE
 * GMAT - Waived
 
 #### INTERESTS
-OOO, I am working out in my gym, dancing, healthy cooking, reading, studying, shopping, and oil painting. I enjoy playing tennis and badminton, watching shows and movies on Netflix and Prime, and going to beaches, lakes, restaurants, and concerts. 
+OOO, I am working out in my gym, dancing, healthy cooking, reading, studying, shopping, and oil painting. I enjoy playing tennis and badminton, watching shows on Netflix and Prime, and going to beaches, lakes, restaurants, and concerts. 
 
 <!--
 **shawna-tuli-silicon-valley/shawna-tuli-silicon-valley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
