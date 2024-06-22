@@ -7,6 +7,7 @@ Shawna has played a key role in building Avanade's Artificial Intelligence & Aut
 ![GOOGLE](https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=fff&style=for-the-badge) ![MICROSOFT](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white) ![AMAZON](https://img.shields.io/badge/Amazon-FF9900.svg?style=for-the-badge&logo=Amazon&logoColor=white) ![ACCENTURE](https://img.shields.io/badge/Accenture-A100FF.svg?style=for-the-badge&logo=Accenture&logoColor=white)
 #### SILICON VALLEY BIG TECH ARTIFICIAL INTELLIGENCE & DATA SCIENCE + STRATEGY LEADERSHIP & PUBLIC SPEAKING (2014-Present) 
 * 🎯 Incoming AI & Data Science Manager at Google Mountain View
+* 🔍 Incoming Accenture V360 in Innovation Nominee
 * 🚚 Incoming AI & Data Science Manager at Amazon - analyzing PB of mailboxes and leading 6 Cloud Engineers 
 * 🌟 Incoming Avanade Mountain View Strategy & Consulting AI & Advanced Analytics Manager [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics-4/tree/main)
 * 🌇 Accenture New York Innovation Hub Generative AI Studio Visit 
@@ -19,7 +20,7 @@ Shawna has played a key role in building Avanade's Artificial Intelligence & Aut
 * 🌅 Avanade AI Studio Forecasting Champion
 * 🌹 Accenture Mountain View International Women's Day 
 * ❣️ Google Cloud Launchpad for Women
-* 🆕 Accenture V360 Awards in Innovation Nominee for using LLMs to reform call centers nationally [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-call-centers-genai-and-predictive-analytics) [(Student Repo)](https://github.com/data-sci-capstone)
+* 🆕 Accenture V360 in Innovation Nominee for using LLMs to reform call centers nationally [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-call-centers-genai-and-predictive-analytics) [(Student Repo)](https://github.com/data-sci-capstone)
 * 🌉 Accenture Mountain View Data Science for Social Good (DSSG) Lead with United Way Bay Area and led 3 Consultants
 * 📓 Accenture AI & Data Science Expert at Knowledge Exchange 
 * 📧 Presenter at Amazon Mailbox Core All-hands 
