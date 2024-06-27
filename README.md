@@ -26,7 +26,7 @@ Shawna has played a key role in building Avanade's Artificial Intelligence & Aut
 * 📓 Accenture AI & Data Science Expert at Knowledge Exchange 
 * 📧 Presenter at Amazon Mailbox Core All-hands 
 * 🗃️ Avanade North America Data & AI Solution Architects West Champion
-* 🌌 Avanade Create the Future Super Hero Award
+* 🌌 Avanade Create the Future Super Hero Award (2x)
 * 💖 Google Bay Area AI for everyone - recruited to Google Mountain View Gemini AI & Data Science [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-bay-area-ai-for-everyone/tree/main)
 * 🌁 Accenture San Francisco Innovation Hub Generative AI Studio Member [(Article)](https://newsroom.accenture.com/news/2023/accenture-to-launch-network-of-generative-ai-studios-to-help-clients-accelerate-use-of-data-and-ai-technologies)
 * 🌄 Avanade AI & Automation and Intelligent Data Platform Practices Northern California Lead - arranging events for 8
