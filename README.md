@@ -157,7 +157,7 @@ Shawna has played a key role in building Avanade's Artificial Intelligence & Aut
 * Analytics, Leadership, Strategy, Communication, Critical Thinking, Research, Product, Marketing, Data Mining, Data Visualization ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
 
 #### MARKETING SKILLS
-* Social Media Marketing, Canva, Mailchimp, Salesforce, Looker, Adobe
+* Listening, Writing, Design, CRM, SEO, Data Collection, Collaboration, Social Media Marketing, Canva, Mailchimp, Salesforce, Looker, Adobe
 
 #### INVESTMENT MANAGEMENT SKILLS
 * Confidence, Curiousity, Math, Portfolio Management, Risk Management, Asset Management, Due Diligence, Fixed Income Analysis
