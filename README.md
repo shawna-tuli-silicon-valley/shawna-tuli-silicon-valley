@@ -156,6 +156,9 @@ Shawna has played a key role in building Avanade's Artificial Intelligence & Aut
 #### ANALYTICS SKILLS
 * Analytics, Leadership, Strategy, Communication, Critical Thinking, Research, Product, Marketing, Data Mining, Data Visualization ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
 
+#### MARKETING SKILLS
+* Social Media Marketing, Canva, Mailchimp, Salesforce, Looker, Adobe
+
 #### BUSINESS INTELLIGENCE SKILLS
 * Business Intelligence, Google PLX, Amazon QuickSight ![Google Data Studio](https://img.shields.io/badge/Google%20Data%20Studio-669DF6.svg?style=for-the-badge&logo=Google-Data-Studio&logoColor=white) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
