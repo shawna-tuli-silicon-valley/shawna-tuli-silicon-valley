@@ -116,6 +116,12 @@ Shawna has played a key role in building Avanade's Artificial Intelligence & Aut
 * Los Gatos High School High School Diploma - Los Gatos-Saratoga Union High School District Scholar, Advanced Placement Scholar with Distinction, Christine Guenther Brienzo Merit Scholarship, Stanford University School of Engineering Girl Code, Stanford Splash, LIVEbeyond Foundation California President, Future Business Leaders of America Treasurer and Bay Section Top 10 in Securities & Investments, California Council on Economic Education Personal Finance Challenge, Science Olympiad Santa Clara County Top 3 (2x), Link Crew Leader, Women in Computer Science, Tennis, and Badminton [(Repo)](https://github.com/shawna-tuli-silicon-valley/lghs-advanced-placement)
 * Marvin Ridge High School - Valedictorian*, International Baccalaureate, National Speech & Debate Association Degree of Excellence, Future Business Leaders of America, North Carolina Council on Economic Education Economics Challenge, Science Olympiad Union County Top 3 (2x), National Honor Society, Kathak North Indian Classical Dance, and Tennis [(Repo)](https://github.com/shawna-tuli-silicon-valley/mrhs-international-baccalaureate) [(Repo)](https://github.com/shawna-tuli-silicon-valley/mrhs-north-carolina-forensic-league-state-championship)
 
+#### VENTURE CAPITAL SKILLS
+* Networking
+
+#### INVESTMENT MANAGEMENT SKILLS
+* Confidence, Curiousity, Negotiation, Emotional Intelligence, Problem Solving, Math, Portfolio Management, Risk Management, Asset Management, Due Diligence, Fixed Income Analysis
+
 #### ![GOOGLE](https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=fff&style=for-the-badge) EDUCATION
 * Introduction to Large Language Models (Badge), Google Cloud Digital Leader, Google Training in Generative Artificial Intelligence [(Training)](https://cloud.google.com/blog/topics/training-certifications/12-days-of-no-cost-generative-ai-training), Google Cloud Certificates in Generative Artificial Intelligence [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-cloud-generative-ai/), Google Certificates in Advanced Data Analytics [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-advanced-data-analytics-professional-certificate), Google Certificates in Data Analytics [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-data-analytics-professional-certificate), Google Certificates in Business Intelligence [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-business-intelligence-professional-certificate), Google Certificates in Project Management [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-project-management-professional-certificate)
 
@@ -158,9 +164,6 @@ Shawna has played a key role in building Avanade's Artificial Intelligence & Aut
 
 #### MARKETING SKILLS
 * Listening, Writing, Design, CRM, SEO, Data Collection, Collaboration, Social Media Marketing ![Adobe](https://img.shields.io/badge/Adobe-FF0000.svg?style=for-the-badge&logo=Adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Mailchimp](https://img.shields.io/badge/MailChimp-FFE01B.svg?style=for-the-badge&logo=MailChimp&logoColor=black) ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0.svg?style=for-the-badge&logo=Salesforce&logoColor=white) ![Looker](https://img.shields.io/badge/Looker-4285F4.svg?style=for-the-badge&logo=Looker&logoColor=white)
-
-#### INVESTMENT MANAGEMENT SKILLS
-* Confidence, Curiousity, Negotiation, Emotional Intelligence, Problem Solving, Math, Portfolio Management, Risk Management, Asset Management, Due Diligence, Fixed Income Analysis
 
 #### BUSINESS INTELLIGENCE SKILLS
 * Business Intelligence, Google PLX, Amazon QuickSight ![Google Data Studio](https://img.shields.io/badge/Google%20Data%20Studio-669DF6.svg?style=for-the-badge&logo=Google-Data-Studio&logoColor=white) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
