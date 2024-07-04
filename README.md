@@ -119,7 +119,7 @@ Shawna has played a key role in building Avanade's Artificial Intelligence & Aut
 * University of California, Davis - SQL for Data Science [(Certificate)](https://www.coursera.org/account/accomplishments/certificate/TG58RPJKTBB9)
 
 #### VENTURE CAPITAL SKILLS
-* Networking
+* Networking, Industry Knowledge
 
 #### INVESTMENT MANAGEMENT SKILLS
 * Confidence, Curiousity, Negotiation, Emotional Intelligence, Problem Solving, Math, Portfolio Management, Risk Management, Asset Management, Due Diligence, Fixed Income Analysis, Bloomberg Terminal
