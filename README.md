@@ -116,6 +116,9 @@ Shawna has played a key role in building Avanade's Artificial Intelligence & Aut
 * Los Gatos High School High School Diploma - Los Gatos-Saratoga Union High School District Scholar, Advanced Placement Scholar with Distinction, Christine Guenther Brienzo Merit Scholarship, Stanford University School of Engineering Girl Code, Stanford Splash, LIVEbeyond Foundation California President, Future Business Leaders of America Treasurer and Bay Section Top 10 in Securities & Investments, California Council on Economic Education Personal Finance Challenge, Science Olympiad Santa Clara County Top 3 (2x), Link Crew Leader, Women in Computer Science, Tennis, and Badminton [(Repo)](https://github.com/shawna-tuli-silicon-valley/lghs-advanced-placement)
 * Marvin Ridge High School - Valedictorian*, International Baccalaureate, National Speech & Debate Association Degree of Excellence, Future Business Leaders of America, North Carolina Council on Economic Education Economics Challenge, Science Olympiad Union County Top 3 (2x), National Honor Society, Kathak North Indian Classical Dance, and Tennis [(Repo)](https://github.com/shawna-tuli-silicon-valley/mrhs-international-baccalaureate) [(Repo)](https://github.com/shawna-tuli-silicon-valley/mrhs-north-carolina-forensic-league-state-championship)
 
+#### CERTIFICATES
+* The Wharton School - Introduction to Marketing [(Certificate)](https://www.coursera.org/account/accomplishments/certificate/NMFXW69JVDJX), University of California, Davis - SQL for Data Science [(Certificate)](https://www.coursera.org/account/accomplishments/certificate/TG58RPJKTBB9), Bloomberg Market Concepts, Kathak North Indian Classical Dance
+
 #### VENTURE CAPITAL SKILLS
 * Networking
 
@@ -143,9 +146,6 @@ Shawna has played a key role in building Avanade's Artificial Intelligence & Aut
 
 #### ![ACCENTURE](https://img.shields.io/badge/Accenture-A100FF.svg?style=for-the-badge&logo=Accenture&logoColor=white) EDUCATION 
 * Accenture Master Data Architect Certificate, Avanade Leadership Accelerator, Avanade Generative AI Learning Path
-
-#### CERTIFICATES
-* The Wharton School - Introduction to Marketing [(Certificate)](https://www.coursera.org/account/accomplishments/certificate/NMFXW69JVDJX), University of California, Davis - SQL for Data Science [(Certificate)](https://www.coursera.org/account/accomplishments/certificate/TG58RPJKTBB9), Bloomberg Market Concepts, Kathak North Indian Classical Dance
 
 #### GENERATIVE ARTIFICIAL INTELLIGENCE SKILLS
 * Generative Artificial Intelligence, Large Language Models, AI Ethics
