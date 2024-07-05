@@ -57,7 +57,7 @@ Shawna has played a key role in building Avanade's Artificial Intelligence & Aut
 * 1️⃣ Software Engineer at Google One Mountain View [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-mountain-view-product-analytics-data-science-2)
 * 🔎 Accenture V360 Awards in Innovation - foreseeing T2D with AI in California and led 4 [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-california-type-2-diabetes-ai-and-predictive-analytics) [(Student Repo)](https://github.com/shawna-tuli-silicon-valley/STATS170_Project-1)
 * 💗 Avanade San Francisco Innovation Hub Strategy & Consulting AI & Advanced Analytics Consultant [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics)
-* 🧩 Presenter at Avanade Advanced Analytics Community
+* 🧩 Presenter at Avanade Advanced Analytics Community Call
 * 💎 Avanade We Believe Everyone Counts Super Hero Award
 * 🧾 Software Engineer at H&R Block and led a Software Engineer
 * 🖤 Software Engineering Lead at Bill & Melinda Gates Foundation and led 4 Software Engineers 
