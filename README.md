@@ -13,7 +13,7 @@ Shawna has played a key role in building Avanade's Artificial Intelligence & Aut
 * 🍀 Incoming Accenture V360 Awards in Innovation Fall with UCI ICS STATS 170B
 * ⭐ Google Visitor Experience Visit [(Article)](https://blog.google/inside-google/company-announcements/google-office-tour/)
 * 📱 Apple Park Visitor Center Visit
-* 🔊 Accenture Mountain View Data Science for Social Good (DSSG) with United Way Bay Area Orator (3x)
+* 🔊 Orator at Accenture Mountain View Data Science for Social Good (DSSG) with United Way Bay Area Presentation (3x)
 * 🌇 Accenture New York Innovation Hub Generative AI Studio Visit 
 * 🗽 Accenture New York Innovation Hub Visit 
 * 🎙 Emcee at Avanade North America Data & AI Community Call 
