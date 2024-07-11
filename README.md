@@ -192,7 +192,7 @@ Shawna has played a key role in building Avanade's Artificial Intelligence & Aut
 * GMAT - Waived
 
 #### INTERESTS
-OOO, I am working out in my gym, dancing, healthy cooking, reading, studying, shopping, and oil painting. I enjoy playing tennis and badminton, watching shows on Netflix and Prime, and going to beaches, lakes, restaurants, and concerts. 
+OOO, I am strength training, dancing, healthy cooking, reading, studying, shopping, and oil painting. I enjoy playing tennis and badminton, watching shows on Netflix and Prime, and going to beaches, lakes, restaurants, and concerts. 
 
 <!--
 **shawna-tuli-silicon-valley/shawna-tuli-silicon-valley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
