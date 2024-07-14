@@ -4,7 +4,7 @@ Shawna has played a key role in building Avanade's Artificial Intelligence & Aut
 
 [[in]](https://linkedin.com/in/shawna-tuli-silicon-valley) [(Accenture California Data & AI, Applied Intelligence Google Scholar)](https://scholar.google.com/citations?hl=en&user=7F6YV8MAAAAJ) [(UCI ICS DS Google Scholar)](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en) [(UCI Merage Credly)](https://www.credly.com/users/shawna-tuli/badges)
 
-![GOOGLE](https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=fff&style=for-the-badge) ![MICROSOFT](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white) ![AMAZON](https://img.shields.io/badge/Amazon-FF9900.svg?style=for-the-badge&logo=Amazon&logoColor=white) ![ACCENTURE](https://img.shields.io/badge/Accenture-A100FF.svg?style=for-the-badge&logo=Accenture&logoColor=white)
+![ACCENTURE](https://img.shields.io/badge/Accenture-A100FF.svg?style=for-the-badge&logo=Accenture&logoColor=white) ![GOOGLE](https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=fff&style=for-the-badge) ![MICROSOFT](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white) ![AMAZON](https://img.shields.io/badge/Amazon-FF9900.svg?style=for-the-badge&logo=Amazon&logoColor=white)
 
 #### SILICON VALLEY BIG TECH AI & DATA SCIENCE + ANALYTICS LEADERSHIP & PUBLIC SPEAKING EXPERIENCE (2014-Present) 
 * 🎯 Incoming AI & Data Science Manager at Google Mountain View
