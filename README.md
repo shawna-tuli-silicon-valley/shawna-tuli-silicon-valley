@@ -8,10 +8,9 @@ Shawna has played a key role in building Avanade's Artificial Intelligence & Aut
 
 #### SILICON VALLEY BIG TECH AI & DATA SCIENCE + ANALYTICS LEADERSHIP & PUBLIC SPEAKING EXPERIENCE (2014-Present) 
 * 🎯 Incoming AI & Data Science Manager at Google Mountain View
-* 🔍 Incoming Accenture V360 Awards in Innovation Spring with UCI ICS DS 297P
+* 🔍 Incoming Accenture V360 Awards in Innovation Spring with UCI ICS STATS 170B
 * 🚚 Incoming AI & Data Science Manager at Amazon Mountain View - analyzing PB of mailboxes and leading 6 Cloud Engineers 
 * 🌟 Incoming Avanade Mountain View Strategy & Consulting AI & Advanced Analytics Manager [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics-4/tree/main)
-* 🍀 Incoming Accenture V360 Awards in Innovation Fall with UCI ICS STATS 170B
 * 🖥️ Mountain View Technology Showcase [(Article)](https://chambermv.org/technology-showcase)
 * ⭐ Google Visitor Experience Visit [(Article)](https://blog.google/inside-google/company-announcements/google-office-tour/)
 * 📱 Apple Park Visitor Center Visit
