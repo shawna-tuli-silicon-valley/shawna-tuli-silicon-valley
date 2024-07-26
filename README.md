@@ -26,7 +26,7 @@ Shawna has played a key role in building Avanade's Artificial Intelligence & Aut
 * 🌅 Avanade AI Studio Forecasting Champion
 * 🌹 Accenture Mountain View International Women's Day 
 * ❣️ Google Cloud Launchpad for Women
-* 🆕 Accenture V360 Awards in Innovation - using LLMs to reform call centers nationally [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-call-centers-genai-and-predictive-analytics) [(Student Repo)](https://github.com/data-sci-capstone)
+* 🆕 Accenture V360 Awards in Innovation - led 4 to use LLMs to reform call centers nationally [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-call-centers-genai-and-predictive-analytics) [(Student Repo)](https://github.com/data-sci-capstone)
 * 🌉 Accenture Mountain View Data Science for Social Good (DSSG) Lead with United Way Bay Area and led 3 Consultants
 * 📓 Accenture AI & Data Science Expert at Knowledge Exchange 
 * 📧 Presenter at Amazon Mountain View Mailbox Core All-hands 
