@@ -113,7 +113,6 @@ Shawna has played a key role in building Avanade's Artificial Intelligence & Aut
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shawna-tuli-silicon-valley&layout=compact) 
 
 #### EDUCATION
-* Columbia Business School Executive Education Venture Capital Private Equity Program
 * Accenture Kellogg Education Education in Leading with Analytics & Artificial Intelligence [(Certificate)](https://execedcertificate.kellogg.northwestern.edu/308a9e71-d504-4194-9c74-22667c48e450#gs.utv39r)
 * Stanford University School of Engineering Certificates in Machine Learning & Computer Science [(Certificate)](https://www.coursera.org/account/accomplishments/certificate/47XPJRBC4F5C) [(Repo)](https://github.com/shawna-tuli-silicon-valley/stanford-engineering-computer-science)
 * University of California, Irvine Donald Bren School of Information & Computer Sciences Bachelor of Science Data Science (Computer Science & Statistics) - Dean's Honor List, Penn Medicine Radiation Oncology Data Science Capstone and Seventeen Articles, Butterworth Product Development Competition (Software) Finalist, Research Assistant for Professor Gloria Mark, Women in Information & Computer Sciences, Freshmen Edge, and Dance [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-data-science)
