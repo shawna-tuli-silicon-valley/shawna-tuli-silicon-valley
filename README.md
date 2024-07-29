@@ -9,7 +9,7 @@ Shawna has played a key role in building Avanade's Artificial Intelligence & Aut
 #### SILICON VALLEY BIG TECH AI & DATA SCIENCE + ANALYTICS LEADERSHIP & PUBLIC SPEAKING EXPERIENCE (2014-Present) 
 * 🎯 Incoming AI & Data Science Manager at Google Mountain View
 * 🔍 Incoming Accenture V360 Awards in Innovation Spring with UCI ICS STATS 170B
-* 🚚 Incoming AI & Data Science Manager at Amazon Mountain View - analyzing PB of mailboxes and leading 6 Cloud Engineers 
+* 🚚 Incoming AI & Data Science Manager at Amazon Mountain View - analyzing PB mailboxes and leading 6 Cloud Engineers 
 * 🌟 Incoming Avanade Mountain View Strategy & Consulting AI & Advanced Analytics Manager [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics-4/tree/main)
 * 🖥️ Mountain View Technology Showcase [(Article)](https://chambermv.org/technology-showcase)
 * 🎲 Accenture San Francisco Strategy & Consulting Day
@@ -35,7 +35,7 @@ Shawna has played a key role in building Avanade's Artificial Intelligence & Aut
 * 💖 Google Bay Area AI for everyone - recruited to Google Mountain View Gemini AI & Data Science [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-bay-area-ai-for-everyone/tree/main)
 * 🌁 Accenture San Francisco Innovation Hub Generative AI Studio Member [(Article)](https://newsroom.accenture.com/news/2023/accenture-to-launch-network-of-generative-ai-studios-to-help-clients-accelerate-use-of-data-and-ai-technologies)
 * 🌄 Avanade AI & Automation and Intelligent Data Platform Practices Northern California Lead - arranging events for 8
-* 📦 AI & Data Science Lead at Amazon Mountain View - analyzed PB of mailboxes and led 4 Cloud Engineers [(Repo)](https://github.com/shawna-tuli-silicon-valley/amazon-mountain-view-ai-and-data-science/tree/main) [(Article)](https://www.pcmag.com/news/amazon-to-spend-over-1-billion-on-microsoft-365-licenses)
+* 📦 AI & Data Science Lead at Amazon Mountain View - analyzed PB mailboxes and led 4 Cloud Engineers [(Repo)](https://github.com/shawna-tuli-silicon-valley/amazon-mountain-view-ai-and-data-science/tree/main) [(Article)](https://www.pcmag.com/news/amazon-to-spend-over-1-billion-on-microsoft-365-licenses)
 * ❤️ Google I/O Conference (6x) [(Keynote '24)](https://io.google/2024/) [(Keynote '23)](https://io.google/2023/program/396cd2d5-9fe1-4725-a3dc-c01bb2e2f38a/) [(Keynote '22)](https://io.google/2022/program/8e80903f-955f-4a5b-9118-b0ce4acdb0e6/) [(Keynote '21)](https://io.google/2021/session/88b34a4e-6170-4f18-a321-4260fb559e60?lng=en) [(Keynote '19)](https://www.youtube.com/watch?v=lyRPyRKHO8M) [(Keynote '18)](https://www.youtube.com/watch?v=ogfYd705cRs)
 * 💟 Microsoft Envision Conference (4x) [(Stories)](https://news.microsoft.com/tag/microsoft-envision/)
 * ⚡ Generative AI, AI, Data Science, Advanced Analytics, and Data Visualization Expert at LinkedIn Collaborative Articles
