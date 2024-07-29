@@ -15,7 +15,7 @@ Shawna has played a key role in building Avanade's Artificial Intelligence & Aut
 * 🎲 Accenture San Francisco Strategy & Consulting Day
 * ⭐ Google Visitor Experience Visit [(Article)](https://blog.google/inside-google/company-announcements/google-office-tour/)
 * 📱 Apple Park Visitor Center Visit
-* 🔊 Orator at Accenture Mountain View Data Science for Social Good (DSSG) with United Way Bay Area Presentation (3x)
+* 🔊 Orator at Accenture Mountain View Data Science for Social Good (DSSG) at United Way Bay Area Presentation (3x)
 * 🌇 Accenture New York Innovation Hub Generative AI Studio Visit 
 * 🗽 Accenture New York Innovation Hub Visit 
 * 🎙 Emcee at Avanade North America Data & AI Community Call 
@@ -27,7 +27,7 @@ Shawna has played a key role in building Avanade's Artificial Intelligence & Aut
 * 🌹 Accenture Mountain View International Women's Day 
 * ❣️ Google Cloud Launchpad for Women
 * 🆕 Accenture V360 Awards in Innovation - using LLMs to reform call centers nationally and led 4 [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-call-centers-genai-and-predictive-analytics) [(Student Repo)](https://github.com/data-sci-capstone)
-* 🌉 Accenture Mountain View Data Science for Social Good (DSSG) Lead with United Way Bay Area and led 3 Consultants
+* 🌉 Accenture Mountain View Data Science for Social Good (DSSG) Lead at United Way Bay Area and led 3 Consultants [(Repo)]
 * 📓 Accenture AI & Data Science Expert at Knowledge Exchange 
 * 📧 Presenter at Amazon Mountain View Mailbox Core All-hands 
 * 🗃️ Avanade North America Data & AI Solution Architects West Champion
