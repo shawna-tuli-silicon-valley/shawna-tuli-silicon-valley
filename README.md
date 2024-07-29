@@ -15,7 +15,7 @@ Shawna has played a key role in building Avanade's Artificial Intelligence & Aut
 * 🎲 Accenture San Francisco Strategy & Consulting Day
 * ⭐ Google Visitor Experience Visit [(Article)](https://blog.google/inside-google/company-announcements/google-office-tour/)
 * 📱 Apple Park Visitor Center Visit
-* 🔊 Orator at Accenture Mountain View DSSG at United Way Bay Area Presentation (4x)
+* 🔊 Orator at Accenture Mountain View DSSG at UWBA Presentation (4x)
 * 🌇 Accenture New York Innovation Hub Generative AI Studio Visit 
 * 🗽 Accenture New York Innovation Hub Visit 
 * 🎙 Emcee at Avanade North America Data & AI Community Call 
@@ -27,7 +27,7 @@ Shawna has played a key role in building Avanade's Artificial Intelligence & Aut
 * 🌹 Accenture Mountain View International Women's Day 
 * ❣️ Google Cloud Launchpad for Women
 * 🆕 Accenture V360 Awards in Innovation - using LLMs to reform call centers nationally and led 4 [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-call-centers-genai-and-predictive-analytics) [(Student Repo)](https://github.com/data-sci-capstone)
-* 🌉 Accenture Mountain View Data Science for Social Good (DSSG) Lead at United Way Bay Area and led 3 Consultants [(Repo)]
+* 🌉 Accenture Mountain View Data Science for Social Good (DSSG) Lead at UWBA and led 3 Consultants [(Repo)]
 * 📓 Accenture AI & Data Science Expert at Knowledge Exchange 
 * 📧 Presenter at Amazon Mountain View Mailbox Core All-hands 
 * 🗃️ Avanade North America Data & AI Solution Architects West Champion
@@ -41,7 +41,7 @@ Shawna has played a key role in building Avanade's Artificial Intelligence & Aut
 * ⚡ Generative AI, AI, Data Science, Advanced Analytics, and Data Visualization Expert at LinkedIn Collaborative Articles
 * 👾 Avanade Mountain View Strategy & Consulting AI & Advanced Analytics Associate Manager [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics-3)
 * 🦾 AI Lead at Viking River Cruises and led 2 Senior Advanced Analytics Consultants
-* 🧠 AI & Data Science Advisor at Harvard Business Review [(Repo)](https://github.com/shawna-tuli-silicon-valley/harvard-business-review-advisory-council) [(Magazine)](https://hbr.org/)
+* 🧠 AI & Data Science Advisor at HBR [(Repo)](https://github.com/shawna-tuli-silicon-valley/harvard-business-review-advisory-council) [(Magazine)](https://hbr.org/)
 * 🦄 Accenture Ventures & Open Innovation West Ambassador 
 * 🗂️ Presenter at Accenture CIO Data Science Guild (4x)
 * 📋 Accenture AI & Data Science Panelist at UCI Merage Machine Learning for Analytics Graduate Class
