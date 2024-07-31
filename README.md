@@ -11,6 +11,7 @@ Shawna has played a key role in building Avanade's Artificial Intelligence & Aut
 * 🔍 Incoming Accenture V360 Awards in Innovation Spring with UCI ICS STATS 170B
 * 🚚 Incoming AI & Data Science Manager at Amazon Mountain View - analyzing PB mailboxes and leading 6 Cloud Engineers 
 * 🌟 Incoming Avanade Mountain View Strategy & Consulting AI & Advanced Analytics Manager [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics-4/tree/main)
+* 🎶 Tik Tok San Jose - recruited to Applied AI
 * 🖥️ Mountain View Technology Showcase [(Article)](https://chambermv.org/technology-showcase)
 * 🎲 Accenture San Francisco Strategy & Consulting Day
 * ⭐ Google Visitor Experience Visit [(Article)](https://blog.google/inside-google/company-announcements/google-office-tour/)
