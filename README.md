@@ -10,7 +10,7 @@ Shawna has played a key role in building Avanade's Artificial Intelligence & Aut
 * 🎶 Tik Tok San Jose - recruited to Tik Tok AAI as a Data Science Manager
 * 🎯 Incoming AI & Data Science Manager at Google Mountain View
 * 🔍 Incoming Accenture V360 Awards in Innovation Spring with UCI ICS STATS 170B
-* 🚚 Incoming AI & Data Science Manager at Amazon Mountain View - analyzing PB mailboxes and leading 6 Cloud Engineers 
+* 🚚 Incoming AI & Data Science Manager at Amazon Mountain View - analyzing PB mailboxes + leading 6 Cloud Engineers 
 * 🌟 Incoming Avanade Mountain View Strategy & Consulting AI & Advanced Analytics Manager [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics-4/tree/main)
 * 🖥️ Mountain View Technology Showcase [(Article)](https://chambermv.org/technology-showcase)
 * 🎲 Accenture San Francisco Strategy & Consulting Day
