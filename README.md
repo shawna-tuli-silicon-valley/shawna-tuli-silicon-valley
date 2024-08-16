@@ -159,10 +159,10 @@ Shawna has played a key role in building Avanade's Artificial Intelligence & Aut
 * ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white) ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0) ![Zsh](https://img.shields.io/badge/Zsh-F15A24.svg?style=for-the-badge&logo=Zsh&logoColor=white)
 
 #### ![ACCENTURE](https://img.shields.io/badge/Accenture-A100FF.svg?style=for-the-badge&logo=Accenture&logoColor=white) EDUCATION 
-* Accenture Master Data Architect Certificate, Avanade Leadership Accelerator, Avanade Generative AI Learning Path
+* Avanade Leadership Accelerator, Avanade Generative AI Learning Path
 
 #### GENERATIVE ARTIFICIAL INTELLIGENCE SKILLS
-* Generative Artificial Intelligence, Large Language Models, AI Ethics
+* Generative Artificial Intelligence, Large Language Models, AI Ethics, Generative Artificial Intelligence with Databricks
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E.svg?style=for-the-badge&logo=Hugging-Face&logoColor=black) ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2.svg?style=for-the-badge&logo=Google-Gemini&logoColor=white) ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000.svg?style=for-the-badge&logo=GitHub-Copilot&logoColor=white)
 
 #### ARTIFICIAL INTELLIGENCE SKILLS
