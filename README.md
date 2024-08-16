@@ -7,6 +7,7 @@ Shawna has played a key role in building Avanade's Artificial Intelligence & Aut
 ![ACCENTURE](https://img.shields.io/badge/Accenture-A100FF.svg?style=for-the-badge&logo=Accenture&logoColor=white) ![MICROSOFT](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white) ![GOOGLE](https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=fff&style=for-the-badge) ![AMAZON](https://img.shields.io/badge/Amazon-FF9900.svg?style=for-the-badge&logo=Amazon&logoColor=white)
 
 #### SILICON VALLEY BIG TECH AI & DATA SCIENCE + ANALYTICS LEADERSHIP & PUBLIC SPEAKING EXPERIENCE (2014-Present) 
+* 🏆 Accenture - honored as Forbes' #1 Management Consulting Firm
 * 🎶 Tik Tok San Jose - recruited to Tik Tok AAI as a Data Science Manager
 * 🎯 Incoming AI & Data Science Manager at Google Mountain View
 * 🔍 Incoming Accenture V360 Awards in Innovation Spring with UCI ICS STATS 170B
@@ -94,7 +95,7 @@ Shawna has played a key role in building Avanade's Artificial Intelligence & Aut
 * 🚀 Data Scientist at UCI Beall Applied Innovation - examined long-term trends of $14.5B+ UCI early-stage startups [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-beall-applied-innovation-product-analytics-data-science)
 * 💚 MongoDB.local Southern California Conference 
 * 💰 UCI Alpha Kappa Psi Professional Chair and led 50+ Professionals - achieved "Most Likely to be a Billionaire" [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-alpha-kappa-psi-professional-business-fraternity)
-* 🏆 UptoUCI Co-Founder & Marketing Director and led UCI - won Up to Us "Top Pledge Earner" [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-merage-national-debt-marketing-analytics) [(Credly)](https://www.credly.com/users/shawna-tuli/badges) [(Article)](https://wfuogb.com/5022/news/up-to-us-movement-raises-awareness-about-national-debt/)
+* 🇺🇸 UptoUCI Co-Founder & Marketing Director and led UCI - won Up to Us "Top Pledge Earner" [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-merage-national-debt-marketing-analytics) [(Credly)](https://www.credly.com/users/shawna-tuli/badges) [(Article)](https://wfuogb.com/5022/news/up-to-us-movement-raises-awareness-about-national-debt/)
 * 📈 EVP and led 35+ UCI Analysts - returned 12.11% on an $100,000 fund; recruited to BlackRock and Bridgewater [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-merage-investment-management)
 * 🏦 CFA Society Orange County Research Challenge on Opus Bank [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-merage-cfa-institute-research-challenge)
 * 💌 Kys iOS App - built in 24 hours at the USC Viterbi School of Engineering AthenaHacks Hackathon [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-kys-ios-app) [(Devpost)](https://devpost.com/software/kys-0s456d?fbclid=IwAR1zk_PqUaJkhv4SuBtjU898owq_guS0EFm7R68mAZgG_F7k3dZijiDOcT4#updates)
