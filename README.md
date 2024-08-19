@@ -71,7 +71,7 @@ Shawna has played a key role in building Avanade's Artificial Intelligence & Aut
 * 🎉 Avanade Northern California Social Committee Member - organizing and hosting events monthly for 50+ Employees
 * ✔️ Avanade We Deliver with Excellence Super Hero Award
 * 📶 Avanade Advanced Analytics All-hands
-* 📖 STEM Mentor at Avanade STEM Scholars 
+* 📖 STEM Mentor at Avanade STEM Scholars - mentored a Woman Cybersecurity Intern who converted to a FTE
 * 💭 Avanade San Francisco Innovation Hub Strategy & Consulting Senior AI & Advanced Analytics Analyst [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics)
 * 💻 Accenture San Francisco Innovation Hub Applied Intelligence Member
 * 👥 Accenture UCI Alumni Speaker at UCI Recruitment (4x) [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-university-of-california-irvine-recruitment)
