@@ -7,6 +7,7 @@ Shawna has played a key role in building Avanade's Artificial Intelligence & Aut
 ![ACCENTURE](https://img.shields.io/badge/Accenture-A100FF.svg?style=for-the-badge&logo=Accenture&logoColor=white) ![MICROSOFT](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white) ![GOOGLE](https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=fff&style=for-the-badge) ![AMAZON](https://img.shields.io/badge/Amazon-FF9900.svg?style=for-the-badge&logo=Amazon&logoColor=white)
 
 #### SILICON VALLEY BIG TECH AI & DATA SCIENCE + ANALYTICS LEADERSHIP & PUBLIC SPEAKING EXPERIENCE (2014-Present) 
+* 🧁 Avanade Mountain View Chair - arranging events for FTEs
 * 🏆 Accenture - honored as Forbes #1 Management Consulting Firm
 * 🎶 Tik Tok San Jose - recruited to Tik Tok AAI as a Data Science Manager
 * 🎯 Incoming AI & Data Science Manager at Google Mountain View
