@@ -8,7 +8,7 @@ Shawna has played a key role in building Avanade's Artificial Intelligence & Aut
 
 #### SILICON VALLEY BIG TECH AI & DATA SCIENCE + ANALYTICS LEADERSHIP & PUBLIC SPEAKING EXPERIENCE (2014-Present) 
 * 🎁 Avanade Mountain View AI & Automation Practice Career Advisor - advising a Data Scientist
-* 🧿 Accenture Mountain View Wellness Committee Ambassador - planning events for FTEs
+* 🧿 Accenture Mountain View Wellness Committee Ambassador - running events for FTEs
 * 🧁 Avanade Mountain View Chair - arranging events for FTEs
 * 🏆 Accenture - honored as Forbes #1 Management Consulting Firm
 * 🎶 Tik Tok San Jose - recruited to Tik Tok AAI as a Data Science Manager
