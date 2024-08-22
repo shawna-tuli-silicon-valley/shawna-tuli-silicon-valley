@@ -2,6 +2,8 @@ Shawna Tuli is a seasoned Silicon Valley ***Artificial Intelligence & Data Scien
 
 Shawna has played a key role in building Avanade's Artificial Intelligence & Automation Practice, Intelligent Data Platform Practice, and Artificial Intelligence Studio from the ground up in collaboration with David Gormley, serving as the Northern California Lead and Forecasting Champion. She has made significant contributions to major ***technology*** companies, including **Google**, working on ***Google products*** such as Photos, Cloud, Play, and One, and **Amazon**, migrating to ***Microsoft products*** such as Exchange. Shawna advises for **Harvard Business Review**. Her strengths are Activator, Achiever, Futuristic, Competition, and Significance.   
 
+Shawna is on the Executive and Board Members path. 
+
 [[in]](https://linkedin.com/in/shawna-tuli-silicon-valley) [(Accenture California Data & AI, Applied Intelligence Google Scholar)](https://scholar.google.com/citations?hl=en&user=7F6YV8MAAAAJ) [(UCI ICS DS Google Scholar)](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en) [(UCI Merage Credly)](https://www.credly.com/users/shawna-tuli/badges)
 
 ![ACCENTURE](https://img.shields.io/badge/Accenture-A100FF.svg?style=for-the-badge&logo=Accenture&logoColor=white) ![MICROSOFT](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white) ![GOOGLE](https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=fff&style=for-the-badge) ![AMAZON](https://img.shields.io/badge/Amazon-FF9900.svg?style=for-the-badge&logo=Amazon&logoColor=white)
