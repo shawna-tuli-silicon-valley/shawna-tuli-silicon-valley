@@ -30,7 +30,7 @@ Shawna has bettered Accenture into Forbes #1 Management Consulting Firm. She has
 * 💫 Wells Fargo Diversity in Technology & Digital Networking Event San Francisco - recruited to Wells Fargo SDI [(Repo)](https://github.com/shawna-tuli-silicon-valley/wells-fargo-san-francisco-ai)
 * 💘 Google Bay Area International Women's Day - recruited to Google Mountain View AI & Data Science [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-bay-area-international-womens-day/tree/main)
 * 🗿 Avanade Mountain View Leadership Accelerator - chosen to inspire greatness and excel in People Leadership
-* 🌅 Avanade AI Studio Forecasting Champion
+* 🌅 Avanade Mountain View AI Studio Forecasting Champion
 * 🌹 Accenture Mountain View International Women's Day 
 * ❣️ Google Cloud Launchpad for Women
 * 🆕 Accenture V360 Awards in Innovation - used LLMs to reform call centers nationally and led 4 [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-call-centers-genai-and-predictive-analytics) [(Student Repo)](https://github.com/data-sci-capstone)
