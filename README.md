@@ -8,7 +8,7 @@ Shawna has bettered Accenture into Forbes #1 Management Consulting Firm. She has
 
 #### SILICON VALLEY BIG TECH AI & DATA SCIENCE + ANALYTICS LEADERSHIP & PUBLIC SPEAKING EXPERIENCE (2014-Present) 
 * 🎖️ Avanade Mountain View AI & Data Science Subject Matter Expert at Microsoft AI Labs 
-* 𓊍 Microsoft Avanade Northern California Climb to the Top
+* 𓊍 Microsoft Avanade Northern California Climb to the Top: San Francisco
 * 📷 Google Visitor Experience Pixel Photo Walk
 * 🎁 Avanade Mountain View AI & Automation Practice Career Advisor - advising a Data Scientist
 * 🧿 Accenture Mountain View Wellness Committee Ambassador - running events
