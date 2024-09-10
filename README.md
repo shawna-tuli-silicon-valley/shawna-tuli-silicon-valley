@@ -10,7 +10,7 @@ Shawna has bettered Accenture into Forbes #1 Management Consulting Firm. She has
 * 🔥 Microsoft Ignite (2x) [(Episodes '24)](https://ignite.microsoft.com/en-US/home)
 * ☀️ Avanade Mountain View AI & Automation Practice Solution Architect - solutioning AI projects
 * 🎖️ Avanade Mountain View AI & Data Science Subject Matter Expert at Microsoft AI Labs 
-* 𓊍 Microsoft Avanade Northern California Climb to the Top: San Francisco 2024 [(Repo)](https://events.nationalmssociety.org/index.cfm?fuseaction=donorDrive.event&eventID=1967)
+* 𓊍 Microsoft Avanade Northern California Climb to the Top: San Francisco 2024 [(Event)](https://events.nationalmssociety.org/index.cfm?fuseaction=donorDrive.event&eventID=1967)
 * 📷 Google Visitor Experience Pixel Photo Walk
 * 🎁 Avanade Mountain View AI & Automation Practice Career Advisor - advising a Data Scientist
 * 🧿 Accenture Mountain View Wellness Committee Ambassador - running events
