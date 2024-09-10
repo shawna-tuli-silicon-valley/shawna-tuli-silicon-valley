@@ -26,8 +26,8 @@ Shawna has bettered Accenture into Forbes #1 Management Consulting Firm. She has
 * ⭐ Google Visitor Experience Visit [(Article)](https://blog.google/inside-google/company-announcements/google-office-tour/)
 * 📱 Apple Park Visitor Center Visit
 * 🔊 Orator at Accenture Mountain View DSSG at UWBA Presentation (4x)
-* 🌇 Accenture New York Innovation Hub Generative AI Studio Visit 
-* 🗽 Accenture New York Innovation Hub Visit 
+* 🌇 Accenture New York Innovation Hub Generative AI Studio Visit (2x)
+* 🗽 Accenture New York Innovation Hub Visit (2x)
 * 🎙 Emcee at Avanade North America Data & AI Community Call 
 * 🔦 Presenter at Avanade AI & Automation Practice Mountain View Amazon Migration
 * 💫 Wells Fargo Diversity in Technology & Digital Networking Event San Francisco - recruited to Wells Fargo SDI [(Repo)](https://github.com/shawna-tuli-silicon-valley/wells-fargo-san-francisco-ai)
