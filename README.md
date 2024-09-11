@@ -2,7 +2,7 @@ Shawna Tuli is a seasoned Silicon Valley ***Artificial Intelligence & Data Scien
 
 Shawna has bettered Accenture into Forbes #1 Management Consulting Firm. She has played a key role in building Avanade's Artificial Intelligence & Automation Practice, Intelligent Data Platform Practice, and Artificial Intelligence Studio from the ground up in collaboration with David Gormley, serving as the Northern California Lead and Forecasting Champion. Shawna has made significant contributions to major ***technology*** companies, including **Google**, working on ***Google products*** such as Photos, Cloud, Play, and One, and **Amazon**, migrating to ***products***. She advises for **Harvard Business Review**. Shawna's strengths are Activator, Achiever, Futuristic, Competition, and Significance.   
 
-* [Accenture AI](https://www.accenture.com/us-en/services/data-ai), [Avanade AI](https://www.avanade.com/en-us/services/artificial-intelligence), [Google AI](https://ai.google/), [Microsoft AI](https://news.microsoft.com/ai/), [Amazon AI](https://www.aboutamazon.com/artificial-intelligence-ai-news) 
+* [Accenture AI](https://www.accenture.com/us-en/services/data-ai), [Avanade AI](https://www.avanade.com/en-us/services/artificial-intelligence), [Microsoft AI](https://news.microsoft.com/ai/), [Google AI](https://ai.google/), [Amazon AI](https://www.aboutamazon.com/artificial-intelligence-ai-news) 
 
 * [Accenture California Data & AI, Applied Intelligence Google Scholar](https://scholar.google.com/citations?hl=en&user=7F6YV8MAAAAJ), [UCI ICS DS Google Scholar](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en)
 
