@@ -4,9 +4,9 @@ Shawna has bettered Accenture into Forbes #1 Management Consulting Firm. She has
 
 Highlights:
 * [Accenture AI](https://www.accenture.com/us-en/services/data-ai), [Avanade AI](https://www.avanade.com/en-us/services/artificial-intelligence), [Microsoft AI](https://news.microsoft.com/ai/), [Google AI](https://ai.google/), [Amazon AI](https://www.aboutamazon.com/artificial-intelligence-ai-news) 
-* [Accenture California Data & AI, Applied Intelligence Google Scholar](https://scholar.google.com/citations?hl=en&user=7F6YV8MAAAAJ)
-* [UCI ICS Data Science Google Scholar](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en)
-* [UCI Merage Marketing Advanced Analytics Credly](https://www.credly.com/users/shawna-tuli/badges)
+* [Accenture California Data & AI, Applied Intelligence Leadership Google Scholar](https://scholar.google.com/citations?hl=en&user=7F6YV8MAAAAJ)
+* [UCI ICS Data Science Leadership Google Scholar](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en)
+* [UCI Merage Marketing Data Science Leadership Credly](https://www.credly.com/users/shawna-tuli/badges)
 * [The Brown Boy: An Endless Cycle](https://www.thepasupu.blog/post/the-brown-boy-an-endless-cycle) 
 
 ![ACCENTURE](https://img.shields.io/badge/Accenture-A100FF.svg?style=for-the-badge&logo=Accenture&logoColor=white) ![MICROSOFT](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white) ![GOOGLE](https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=fff&style=for-the-badge) ![AMAZON](https://img.shields.io/badge/Amazon-FF9900.svg?style=for-the-badge&logo=Amazon&logoColor=white)
