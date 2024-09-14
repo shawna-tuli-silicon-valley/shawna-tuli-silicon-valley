@@ -42,7 +42,7 @@ Highlights:
 * 🌅 Avanade Mountain View AI Studio Forecasting Champion
 * 🌹 Accenture Mountain View International Women's Day 
 * ❣️ Google Cloud Launchpad for Women
-* 🆕 Accenture V360 Awards in Innovation - used LLMs to reform call centers nationally and led 4 [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-call-centers-genai-and-predictive-analytics) [(Student Repo)](https://github.com/data-sci-capstone)
+* 🆕 Accenture V360 Awards in Innovation - used LLMs to reform call centers nationally and led 4 [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-call-centers-genai-and-predictive-analytics) [(Student Repo)](https://github.com/data-sci-capstone/copilot)
 * 🌉 Accenture Mountain View Data Science for Social Good (DSSG) Lead at UWBA and led 3 Consultants [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-uwba-data-science)
 * 📓 Accenture AI & Data Science Expert at Knowledge Exchange 
 * 📧 Presenter at Amazon Mountain View Mailbox Core All-hands 
