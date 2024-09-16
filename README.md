@@ -5,7 +5,7 @@ Shawna has bettered Accenture into Forbes #1 Management Consulting Firm. She has
 Leadership Highlights:
 * AI - [Accenture](https://www.accenture.com/us-en/services/data-ai), [Avanade](https://www.avanade.com/en-us/services/artificial-intelligence), [Microsoft](https://news.microsoft.com/ai/), [Google](https://ai.google/), [Amazon](https://www.aboutamazon.com/artificial-intelligence-ai-news)
 * Product Strategy - Google Photos, Google Cloud, Google Play, Google One, Amazon Mailbox Core
-* California Data Science - [Accenture California Data & AI, Applied Intelligence Google Scholar](https://scholar.google.com/citations?hl=en&user=7F6YV8MAAAAJ)
+* California AI & Data Science - [Accenture California Data & AI, Applied Intelligence Google Scholar](https://scholar.google.com/citations?hl=en&user=7F6YV8MAAAAJ)
 * Global Radiation Oncology Data Science - [UCI ICS Google Scholar](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en)
 * National Debt Marketing Data Science - [UCI Merage Credly](https://www.credly.com/users/shawna-tuli/badges)
 * Indian-American Community - [The Brown Boy: An Endless Cycle](https://www.thepasupu.blog/post/the-brown-boy-an-endless-cycle) 
