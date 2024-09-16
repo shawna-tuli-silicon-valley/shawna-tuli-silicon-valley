@@ -2,13 +2,13 @@ Shawna Tuli is a seasoned Mountain View ***Artificial Intelligence & Data Scienc
 
 Shawna has bettered Accenture into Forbes #1 Management Consulting Firm. She has played a key role in building Avanade's Artificial Intelligence & Automation Practice, Intelligent Data Platform Practice, and Artificial Intelligence Studio from the ground up in collaboration with David Gormley, serving as the Northern California Lead and Forecasting Champion. Shawna has made significant contributions to major ***technology*** companies, including **Google**, working on ***Google products*** such as Photos, Cloud, Play, and One, and **Amazon**, migrating to ***products***. She advises for **Harvard Business Review**. Shawna's strengths are Activator, Achiever, Futuristic, Competition, and Significance.   
 
-Highlights:
+Leadership Highlights:
 * AI - [Accenture](https://www.accenture.com/us-en/services/data-ai), [Avanade](https://www.avanade.com/en-us/services/artificial-intelligence), [Microsoft](https://news.microsoft.com/ai/), [Google](https://ai.google/), [Amazon](https://www.aboutamazon.com/artificial-intelligence-ai-news)
 * Product Strategy - Google Photos, Google Cloud, Google Play, Google One
-* [Accenture California Data & AI, Applied Intelligence Leadership Google Scholar](https://scholar.google.com/citations?hl=en&user=7F6YV8MAAAAJ)
-* [UCI ICS Data Science Leadership Google Scholar](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en)
-* [UCI Merage Marketing Data Science Leadership Credly](https://www.credly.com/users/shawna-tuli/badges)
-* [The Brown Boy: An Endless Cycle](https://www.thepasupu.blog/post/the-brown-boy-an-endless-cycle) 
+* California Data Science [Accenture California Data & AI, Applied Intelligence Google Scholar](https://scholar.google.com/citations?hl=en&user=7F6YV8MAAAAJ)
+* Radiation Oncology Data Science [UCI ICS Google Scholar](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en)
+* Marketing Data Science - [UCI Merage Credly](https://www.credly.com/users/shawna-tuli/badges)
+* Indian-American Community - [The Brown Boy: An Endless Cycle](https://www.thepasupu.blog/post/the-brown-boy-an-endless-cycle) 
 
 ![ACCENTURE](https://img.shields.io/badge/Accenture-A100FF.svg?style=for-the-badge&logo=Accenture&logoColor=white) ![MICROSOFT](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white) ![GOOGLE](https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=fff&style=for-the-badge) ![AMAZON](https://img.shields.io/badge/Amazon-FF9900.svg?style=for-the-badge&logo=Amazon&logoColor=white)
 
