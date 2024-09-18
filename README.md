@@ -13,6 +13,7 @@ Leadership highlights:
 ![ACCENTURE](https://img.shields.io/badge/Accenture-A100FF.svg?style=for-the-badge&logo=Accenture&logoColor=white) ![MICROSOFT](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white) ![GOOGLE](https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=fff&style=for-the-badge) ![AMAZON](https://img.shields.io/badge/Amazon-FF9900.svg?style=for-the-badge&logo=Amazon&logoColor=white)
 
 #### SILICON VALLEY BIG TECH AI & DATA SCIENCE, ADVANCED ANALYTICS, AND STRATEGY LEADERSHIP & PUBLIC SPEAKING EXPERIENCE (2014-Present) 
+* 🌈 Accenture Mountain View Data Science for Social Good (DSSG) Lead at UWBA Phase 3 and led 2 Consultants
 * 🏖️ Google Cloud Launchpad for Women: Edition 3 
 * 🔥 Microsoft Ignite (2x) [(Episodes '24)](https://ignite.microsoft.com/en-US/home)
 * ☀️ Avanade Mountain View AI & Automation Practice Solution Architect - solutioning AI projects
@@ -32,7 +33,7 @@ Leadership highlights:
 * 🎲 Accenture San Francisco Strategy & Consulting Day
 * ⭐ Google Visitor Experience Visit [(Article)](https://blog.google/inside-google/company-announcements/google-office-tour/)
 * 📱 Apple Park Visitor Center Visit
-* 🔊 Orator at Accenture Mountain View DSSG at UWBA Presentation (4x)
+* 🔊 Orator at Accenture Mountain View DSSG at UWBA Phase 2 Presentation (4x)
 * 🌇 Accenture New York Innovation Hub Generative AI Studio Visit (2x)
 * 🗽 Accenture New York Innovation Hub Visit (2x)
 * 🎙 Emcee at Avanade North America Data & AI Community Call 
@@ -44,7 +45,7 @@ Leadership highlights:
 * 🌹 Accenture Mountain View International Women's Day 
 * ❣️ Google Cloud Launchpad for Women
 * 🆕 Accenture V360 Awards in Innovation - used LLMs to reform call centers nationally and led 4 [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-call-centers-genai-and-predictive-analytics) [(Student Repo)](https://github.com/data-sci-capstone/copilot)
-* 🌉 Accenture Mountain View Data Science for Social Good (DSSG) Lead at UWBA and led 3 Consultants [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-uwba-data-science)
+* 🌉 Accenture Mountain View Data Science for Social Good (DSSG) Lead at UWBA Phase 2 and led 3 Consultants [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-uwba-data-science)
 * 📓 Accenture AI & Data Science Expert at Knowledge Exchange 
 * 📧 Presenter at Amazon Mountain View Mailbox Core All-hands 
 * 🗃️ Avanade North America Data & AI Solution Architects West Champion
