@@ -13,7 +13,7 @@ Leadership highlights:
 ![ACCENTURE](https://img.shields.io/badge/Accenture-A100FF.svg?style=for-the-badge&logo=Accenture&logoColor=white) ![MICROSOFT](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white) ![GOOGLE](https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=fff&style=for-the-badge) ![AMAZON](https://img.shields.io/badge/Amazon-FF9900.svg?style=for-the-badge&logo=Amazon&logoColor=white)
 
 #### SILICON VALLEY BIG TECH AI & DATA SCIENCE, ADVANCED ANALYTICS, AND STRATEGY LEADERSHIP & PUBLIC SPEAKING EXPERIENCE (2014-Present) 
-* 🌈 Accenture Mountain View Data Science for Social Good (DSSG) Lead at UWBA Phase 3 and led 2 Consultants
+* 🌈 Accenture Mountain View DSSG Lead at UWBA Phase 3 and led 2 Consultants
 * 🏖️ Google Cloud Launchpad for Women: Edition 3 
 * 🔥 Microsoft Ignite (2x) [(Episodes '24)](https://ignite.microsoft.com/en-US/home)
 * ☀️ Avanade Mountain View AI & Automation Practice Solution Architect - solutioning AI projects
