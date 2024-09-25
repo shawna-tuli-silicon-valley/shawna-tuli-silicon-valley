@@ -177,7 +177,7 @@ Leadership highlights:
 * ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white) ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0) ![Zsh](https://img.shields.io/badge/Zsh-F15A24.svg?style=for-the-badge&logo=Zsh&logoColor=white)
 
 #### ![ACCENTURE](https://img.shields.io/badge/Accenture-A100FF.svg?style=for-the-badge&logo=Accenture&logoColor=white) EDUCATION 
-* Avanade Leadership Accelerator, Avanade Generative AI Learning Path, Avanade Growth Mindset Training, Avanade License to Hire Certification
+* Avanade License to Hire Recertification, Avanade Leadership Accelerator, Avanade Generative AI Learning Path, Avanade Growth Mindset Training, Avanade License to Hire Certification
 
 #### GENERATIVE ARTIFICIAL INTELLIGENCE SKILLS
 * Generative Artificial Intelligence, Large Language Models, AI Ethics, Generative Artificial Intelligence with Databricks
