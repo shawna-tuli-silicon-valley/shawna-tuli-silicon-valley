@@ -212,7 +212,7 @@ Leadership highlights:
 * GMAT - Waived
 
 #### INTERESTS
-I am strength training,  dancing, healthy cooking, reading, and studying daily. I enjoy playing tennis, badminton, and golf, shopping, oil painting, watching Netflix and Prime, and going to beaches, lakes, restaurants, and concerts. 
+I am strength training,  dancing, healthy cooking, reading, and studying daily. I enjoy playing tennis, badminton, and golf, shopping, oil painting, watching movies and shows, and going to beaches, lakes, restaurants, and concerts. 
 
 <!--
 **shawna-tuli-silicon-valley/shawna-tuli-silicon-valley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
