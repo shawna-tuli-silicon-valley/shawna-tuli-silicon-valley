@@ -13,7 +13,7 @@ Leadership highlights:
 ![ACCENTURE](https://img.shields.io/badge/Accenture-A100FF.svg?style=for-the-badge&logo=Accenture&logoColor=white) ![MICROSOFT](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white) ![GOOGLE](https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=fff&style=for-the-badge) ![AMAZON](https://img.shields.io/badge/Amazon-FF9900.svg?style=for-the-badge&logo=Amazon&logoColor=white)
 
 #### SILICON VALLEY BIG TECH AI & DATA SCIENCE, ADVANCED ANALYTICS, AND STRATEGY LEADERSHIP & PUBLIC SPEAKING EXPERIENCE (2014-Present) 
-* 🗳️ UWBA Brunch & Ballots 
+* 🗳️ Accenture Mountain View Lead at UWBA Brunch & Ballots 
 * 📞 Microsoft The Silicon Valley Customer Experience Center Visit
 * 📖 Accenture Mountain View Amazon Account Learn & Grow Mentor - teaching AI
 * 🌈 Accenture Mountain View DSSG Lead at UWBA Phase 3 and leading 2 Consultants
@@ -67,7 +67,7 @@ Leadership highlights:
 * 🗂️ Presenter at Accenture CIO Data Science Guild (4x)
 * 📋 Accenture AI & Data Science Panelist at UCI Merage Machine Learning for Analytics Graduate Class
 * 🧡 AI Data Scientist at Avanade - gained Best Baker Award on the West Region Chargeability Percent Team
-* 🎓 Data Science Panelist at The Reach Foundation (2x) [(Article)](https://www.thereachfoundation.net/blog/j1ijbu5v5tz66u214ut8bsu9izojb9)
+* 🎓 Google Data Science Panelist at The Reach Foundation (2x) [(Article)](https://www.thereachfoundation.net/blog/j1ijbu5v5tz66u214ut8bsu9izojb9)
 * 📢 Software Engineer at The NPD Group
 * ✅ AI Data Scientist at Avanade
 * 🤍 Google Cloud Next Conference (4x) [(Next '24)](https://cloud.withgoogle.com/next/session-library?filters=vod-video-available#all) [(Next '23)](https://blog.google/products/google-cloud/cloud-next-2023-sundar-pichai-keynote/)
