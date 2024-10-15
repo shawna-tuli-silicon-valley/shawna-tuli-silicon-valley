@@ -13,6 +13,10 @@ Leadership highlights:
 ![ACCENTURE](https://img.shields.io/badge/Accenture-A100FF.svg?style=for-the-badge&logo=Accenture&logoColor=white) ![MICROSOFT](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white) ![GOOGLE](https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=fff&style=for-the-badge) ![AMAZON](https://img.shields.io/badge/Amazon-FF9900.svg?style=for-the-badge&logo=Amazon&logoColor=white)
 
 #### SILICON VALLEY BIG TECH AI & DATA SCIENCE, ADVANCED ANALYTICS, AND STRATEGY LEADERSHIP & PUBLIC SPEAKING EXPERIENCE (2014-Present) 
+* 🎯 Incoming AI & Data Science Manager at Google Mountain View
+* 🌟 Incoming Avanade Mountain View Strategy & Consulting AI & Advanced Analytics Manager [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics-4/tree/main)
+* 🔍 Accenture V360 Awards in Innovation Spring with UCI ICS STATS 170B
+* 🚚 AI & Data Science Manager at Amazon Mountain View II - leading 6 Cloud Engineers on PB mailboxes
 * 🗳️ Accenture Mountain View DSSG Lead at UWBA Brunch & Ballots 
 * 📞 Microsoft The Silicon Valley Customer Experience Center Visit
 * 📖 Accenture Mountain View Amazon Account Learn & Grow Mentor - teaching AI
@@ -28,10 +32,6 @@ Leadership highlights:
 * 🧁 Avanade Mountain View Chair - arranging events
 * 🏆 Accenture - honored as Forbes #1 Management Consulting Firm
 * 🎶 Tik Tok San Jose - recruited to Tik Tok AAI as a Data Science Manager
-* 🎯 Incoming AI & Data Science Manager at Google Mountain View
-* 🔍 Incoming Accenture V360 Awards in Innovation Spring with UCI ICS STATS 170B
-* 🚚 Incoming AI & Data Science Manager at Amazon Mountain View - leading 6 Cloud Engineers on PB mailboxes
-* 🌟 Incoming Avanade Mountain View Strategy & Consulting AI & Advanced Analytics Manager [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics-4/tree/main)
 * 🖥️ Mountain View Technology Showcase [(Article)](https://chambermv.org/technology-showcase)
 * 🎲 Accenture San Francisco Strategy & Consulting Day
 * ⭐ Google Visitor Experience Visit [(Article)](https://blog.google/inside-google/company-announcements/google-office-tour/)
@@ -56,7 +56,7 @@ Leadership highlights:
 * 💖 Google Bay Area AI for everyone - recruited to Google Mountain View Gemini AI & Data Science [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-bay-area-ai-for-everyone/tree/main)
 * 🌁 Accenture San Francisco Innovation Hub Generative AI Studio Member [(Article)](https://newsroom.accenture.com/news/2023/accenture-to-launch-network-of-generative-ai-studios-to-help-clients-accelerate-use-of-data-and-ai-technologies)
 * 🌄 Avanade AI & Automation + Intelligent Data Platform Practices Northern California Lead - arranging events for 7
-* 📦 AI & Data Science Lead at Amazon Mountain View - analyzed PB mailboxes and led 4 Cloud Engineers [(Repo)](https://github.com/shawna-tuli-silicon-valley/amazon-mountain-view-ai-and-data-science/tree/main) [(Article)](https://www.pcmag.com/news/amazon-to-spend-over-1-billion-on-microsoft-365-licenses)
+* 📦 AI & Data Science Manager at Amazon Mountain View I - analyzed PB mailboxes and led 4 Cloud Engineers [(Repo)](https://github.com/shawna-tuli-silicon-valley/amazon-mountain-view-ai-and-data-science/tree/main) [(Article)](https://www.pcmag.com/news/amazon-to-spend-over-1-billion-on-microsoft-365-licenses)
 * ❤️ Google I/O Conference (6x) [(Keynote '24)](https://io.google/2024/) [(Keynote '23)](https://io.google/2023/program/396cd2d5-9fe1-4725-a3dc-c01bb2e2f38a/) [(Keynote '22)](https://io.google/2022/program/8e80903f-955f-4a5b-9118-b0ce4acdb0e6/) [(Keynote '21)](https://io.google/2021/session/88b34a4e-6170-4f18-a321-4260fb559e60?lng=en) [(Keynote '19)](https://www.youtube.com/watch?v=lyRPyRKHO8M) [(Keynote '18)](https://www.youtube.com/watch?v=ogfYd705cRs)
 * 💟 Microsoft Envision Conference (4x) [(Stories)](https://news.microsoft.com/tag/microsoft-envision/)
 * ⚡ Generative AI, AI, Data Science, Advanced Analytics, and Data Visualization Expert at LinkedIn Collaborative Articles
