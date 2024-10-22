@@ -18,7 +18,7 @@ Leadership highlights:
 * 🌟 Incoming Avanade Mountain View Strategy & Consulting AI & Advanced Analytics Manager [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics-4/tree/main)
 * 🔍 Accenture V360 Awards in Innovation Spring with UCI ICS STATS 170B
 * 🚚 AI & Data Science Manager at Amazon Mountain View - leading 6 Cloud Engineers on PB mailboxes
-* 🗳️ Accenture Mountain View DSSG Lead at UWBA Brunch & Ballots 
+* 🗳️ Accenture Mountain View DSSG Lead at UWBA Brunch & Ballots [(Repo)](https://github.com/shawna-tuli-silicon-valley/uwba-ai-and-data-science/tree/main)
 * 📞 Microsoft The Silicon Valley Customer Experience Center Visit
 * 📖 Accenture Mountain View Amazon Account Learn & Grow Mentor - teaching AI
 * 🌈 Accenture Mountain View DSSG Lead at UWBA Phase 3 and leading 2 Consultants
