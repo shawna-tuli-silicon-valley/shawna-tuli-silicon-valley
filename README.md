@@ -5,7 +5,7 @@ Shawna has bettered Accenture into Forbes #1 Management Consulting Firm. She has
 Leadership highlights:
 * Mountain View Big Tech AI & Data Science - [Accenture](https://www.accenture.com/us-en/services/data-ai), [Avanade](https://www.avanade.com/en-us/services/artificial-intelligence), [Microsoft](https://news.microsoft.com/ai/), [Google](https://ai.google/), [Amazon](https://www.aboutamazon.com/artificial-intelligence-ai-news)
 * Mountain View Big Tech Product Strategy - [Google Photos](https://www.google.com/photos/about/), [Google Cloud](https://cloud.google.com/), [Google Play](https://play.google.com/store/games?hl=en_US), [Google One](https://one.google.com/about/), Amazon Mailbox Core
-* Bay Area AI & Data Science - [United Way Bay Area](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwi2kuaT35qJAxXAH60GHTbTLKMYABAAGgJwdg&co=1&ase=2&gclid=EAIaIQobChMItpLmk9-aiQMVwB-tBh020yyjEAAYASAAEgLP3_D_BwE&ei=Bs4TZ7STNOSy0PEP3qOi0AM&ohost=www.google.com&cid=CAASJORoz0jsz-0b_2_WouEtF0dZoZNDigVNEHeuPnAqTBiWCCeNHQ&sig=AOD64_2bO5JYfz-x9mLVRio6_4V_FvXJ_A&q&sqi=2&nis=4&adurl&ved=2ahUKEwi0ruCT35qJAxVkGTQIHd6RCDoQ0Qx6BAgIEAE)
+* Bay Area AI & Data Science - [United Way Bay Area](https://uwba.org/)
 * California AI & Data Science - [Accenture California Data & AI, Applied Intelligence Google Scholar](https://scholar.google.com/citations?hl=en&user=7F6YV8MAAAAJ)
 * Global Radiation Oncology Data Science - [UCI ICS Google Scholar](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en)
 * National Debt Marketing Data Science - [UCI Merage Credly](https://www.credly.com/users/shawna-tuli/badges)
