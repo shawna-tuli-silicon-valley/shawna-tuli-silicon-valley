@@ -9,7 +9,7 @@ Leadership highlights:
 * California AI & Data Science - [Accenture California Data & AI, Applied Intelligence Google Scholar](https://scholar.google.com/citations?hl=en&user=7F6YV8MAAAAJ)
 * Global Radiation Oncology Data Science - [UCI ICS Google Scholar](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en)
 * National Debt Marketing Data Science - [UCI Merage Credly](https://www.credly.com/users/shawna-tuli/badges)
-* Charlotte Indian-American Community - [The Brown Boy: An Endless Cycle](https://www.thepasupu.blog/post/the-brown-boy-an-endless-cycle) 
+* Coastal Indian-American Community - [The Brown Boy: An Endless Cycle](https://www.thepasupu.blog/post/the-brown-boy-an-endless-cycle) 
 
 ![ACCENTURE](https://img.shields.io/badge/Accenture-A100FF.svg?style=for-the-badge&logo=Accenture&logoColor=white) ![MICROSOFT](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white) ![GOOGLE](https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=fff&style=for-the-badge) ![AMAZON](https://img.shields.io/badge/Amazon-FF9900.svg?style=for-the-badge&logo=Amazon&logoColor=white)
 
