@@ -93,9 +93,9 @@ Leadership highlights:
 * 📶 Avanade Advanced Analytics All-hands
 * 📖 STEM Mentor at Avanade STEM Scholars - mentored a Woman Cybersecurity Intern who converted
 * 💭 Avanade San Francisco Innovation Hub Strategy & Consulting Senior AI & Advanced Analytics Analyst [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics)
-* 💻 Accenture San Francisco Innovation Hub Applied Intelligence Member
+* 💻 Accenture San Francisco Innovation Hub Applied Intelligence Strategy Member
 * 👥 Accenture UCI Alumni Speaker at UCI Recruitment (4x) [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-university-of-california-irvine-recruitment)
-* 💙 Accenture Applied Intelligence Summer Conference San Francisco
+* 💙 Accenture Applied Intelligence Strategy Summer Conference San Francisco
 * 🎊 Avanade Go Team! Award (4x)
 * 🏛️ Accenture San Francisco Innovation Hub Quarterly TownHalls
 * 📅 Avanade San Francisco Innovation Hub Quarterly TownHalls
