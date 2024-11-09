@@ -5,7 +5,7 @@ Shawna has bettered Accenture into Forbes #1 Management Consulting Firm. She has
 Leadership highlights:
 * San Francisco & Mountain View Big Tech AI & Data Science - [Accenture](https://www.accenture.com/us-en/services/data-ai), [Avanade](https://www.avanade.com/en-us/services/artificial-intelligence), [Microsoft](https://news.microsoft.com/ai/), [Google](https://ai.google/), [Amazon](https://www.aboutamazon.com/artificial-intelligence-ai-news)
 * San Francisco & Mountain View Big Tech Product Strategy - [Google Photos](https://www.google.com/photos/about/), [Google Cloud](https://cloud.google.com/), [Google Play](https://play.google.com/store/games?hl=en_US), [Google One](https://one.google.com/about/), Amazon Mailbox Core
-* UCI ICS AI & Data Science Recruitment - [B.S. Data Science](https://catalogue.uci.edu/donaldbrenschoolofinformationandcomputersciences/departmentofstatistics/datascience_bs/)
+* AI & Data Science Recruitment - [UCI ICS DS](https://catalogue.uci.edu/donaldbrenschoolofinformationandcomputersciences/departmentofstatistics/datascience_bs/)
 * Bay Area Poverty Alleviation AI & Data Science - [United Way Bay Area](https://uwba.org/)
 * California AI & Data Science - [Accenture California Data & AI Google Scholar](https://scholar.google.com/citations?hl=en&user=7F6YV8MAAAAJ)
 * Global Radiation Oncology Data Science - [UCI ICS Google Scholar](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en)
