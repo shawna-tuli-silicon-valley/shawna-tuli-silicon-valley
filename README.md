@@ -10,12 +10,12 @@ Leadership highlights:
 * AI & Data Science Hiring - [Accenture](https://www.accenture.com/us-en/services/data-ai) and [Avanade](https://www.avanade.com/en-us/services/artificial-intelligence)
 * San Francisco & Mountain View Microsoft AI & Data Science - [Microsoft Learn](https://learn.microsoft.com/en-us/users/shawnatuli-1762/?redeem=RN4ZKZ&WT.mc_id=ilt_partner_webpage_wwl&ocid=3103897&DCS=DEPR2550058&source=docs)
 * Mountain View & Sunnyvale Google AI & Data Science and Product Strategy - [Google](https://ai.google/) (14 weeks at [Google Photos](https://www.google.com/photos/about/), 1 year at [Google Cloud](https://cloud.google.com/), [Google Play](https://play.google.com/store/games?hl=en_US), and [Google One](https://one.google.com/about/))
-* San Francisco & Mountain View Amazon AI & Data Science - [Amazon](https://www.aboutamazon.com/artificial-intelligence-ai-news) (2 years at Amazon Mailbox Core)
-* Bay Area Poverty Alleviation AI & Data Science - [United Way Bay Area](https://uwba.org/)
+* San Francisco & Mountain View Amazon AI & Data Science - [Amazon](https://www.aboutamazon.com/artificial-intelligence-ai-news) (1 year at Amazon Mailbox Core)
+* Bay Area Poverty Alleviation AI & Data Science - [United Way Bay Area](https://uwba.org/) (9 months)
 * California AI & Data Science - [Accenture California Data & AI Google Scholar](https://scholar.google.com/citations?hl=en&user=7F6YV8MAAAAJ)
-* Global Radiation Oncology Data Science - [UCI ICS Google Scholar](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en)
-* National Debt Marketing Data Science - [UCI Merage Credly](https://www.credly.com/users/shawna-tuli/badges)
-* Bicoastal Indian American Community - [The Brown Boy: An Endless Cycle](https://www.thepasupu.blog/post/the-brown-boy-an-endless-cycle) 
+* Global Radiation Oncology Data Science - [UCI ICS Google Scholar](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en) (4.5 years)
+* National Debt Marketing Data Science - [UCI Merage Credly](https://www.credly.com/users/shawna-tuli/badges) (6 months)
+* Bicoastal Indian American Community - [The Brown Boy: An Endless Cycle](https://www.thepasupu.blog/post/the-brown-boy-an-endless-cycle) (Life)
 
 #### SILICON VALLEY BIG TECH AI & DATA SCIENCE, ADVANCED ANALYTICS, AND STRATEGY LEADERSHIP & PUBLIC SPEAKING EXPERIENCE (2014-Present) 
 * 🎯 Incoming AI & Data Science Manager at Google San Francisco & Mountain View
