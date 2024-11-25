@@ -5,8 +5,10 @@ Shawna Tuli is a seasoned San Francisco & Mountain View ***Artificial Intelligen
 Shawna has bettered Accenture into Forbes #1 Management Consulting Firm. She has played a key role in building Avanade's Artificial Intelligence & Automation Practice, Intelligent Data Platform Practice, and Artificial Intelligence Studio from the ground up in collaboration with David Gormley, serving as the Northern California Lead and Forecasting Champion. Shawna has made significant contributions, by leading teams, to major ***big technology*** companies, including **Google**, working on ***Google products*** such as Photos, Cloud, Play, and One, and **Amazon**, migrating to ***products***. She advises for **Harvard Business Review**. Shawna's strengths are Activator, Achiever, Futuristic, Competition, and Significance.   
 
 Leadership highlights:
+* Mountain View & Sunnyvale Google AI - [Google](https://ai.google/)
 * San Francisco & Mountain View Microsoft AI - [Microsoft Learn](https://learn.microsoft.com/en-us/users/shawnatuli-1762/?redeem=RN4ZKZ&WT.mc_id=ilt_partner_webpage_wwl&ocid=3103897&DCS=DEPR2550058&source=docs)
-* San Francisco & Mountain View Big Tech AI & Data Science - [Accenture](https://www.accenture.com/us-en/services/data-ai), [Avanade](https://www.avanade.com/en-us/services/artificial-intelligence), [Microsoft](https://news.microsoft.com/ai/), [Google](https://ai.google/), [Amazon](https://www.aboutamazon.com/artificial-intelligence-ai-news)
+* Mountain View Amazon AI - [Amazon](https://www.aboutamazon.com/artificial-intelligence-ai-news)
+* San Francisco & Mountain View Big Tech AI & Data Science - [Accenture](https://www.accenture.com/us-en/services/data-ai), [Avanade](https://www.avanade.com/en-us/services/artificial-intelligence), [Microsoft](https://news.microsoft.com/ai/)
 * San Francisco & Mountain View Big Tech Product Strategy - [Google Photos](https://www.google.com/photos/about/), [Google Cloud](https://cloud.google.com/), [Google Play](https://play.google.com/store/games?hl=en_US), [Google One](https://one.google.com/about/), Amazon Mailbox Core
 * AI & Data Science Hiring - [Accenture](https://www.accenture.com/us-en/services/data-ai), [Avanade](https://www.avanade.com/en-us/services/artificial-intelligence)
 * Bay Area Poverty Alleviation AI & Data Science - [United Way Bay Area](https://uwba.org/)
