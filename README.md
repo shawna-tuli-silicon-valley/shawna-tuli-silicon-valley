@@ -12,7 +12,7 @@ Leadership highlights:
 * Mountain View & Sunnyvale Google AI & Data Science and Product Strategy - [Google](https://ai.google/) (14 weeks at [Google Photos](https://www.google.com/photos/about/), 1 year at [Google Cloud](https://cloud.google.com/), [Google Play](https://play.google.com/store/games?hl=en_US), and [Google One](https://one.google.com/about/))
 * San Francisco & Mountain View Amazon AI & Data Science - [Amazon](https://www.aboutamazon.com/artificial-intelligence-ai-news) (1 year at Amazon Mailbox Core)
 * Bay Area Poverty Alleviation AI & Data Science - [United Way Bay Area](https://uwba.org/) (9 months)
-* California AI & Data Science - [Accenture California Data & AI Google Scholar](https://scholar.google.com/citations?hl=en&user=7F6YV8MAAAAJ)
+* California AI & Data Science - [Accenture California Data & AI Google Scholar](https://scholar.google.com/citations?hl=en&user=7F6YV8MAAAAJ) (4.5 years)
 * Global Radiation Oncology Data Science - [UCI ICS Google Scholar](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en) (4.5 years)
 * National Debt Marketing Data Science - [UCI Merage Credly](https://www.credly.com/users/shawna-tuli/badges) (6 months)
 * Bicoastal Indian American Community - [The Brown Boy: An Endless Cycle](https://www.thepasupu.blog/post/the-brown-boy-an-endless-cycle) (Life)
