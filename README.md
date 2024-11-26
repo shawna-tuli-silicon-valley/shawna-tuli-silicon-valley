@@ -31,7 +31,7 @@ Leadership highlights:
 * 🔥 Microsoft Ignite (2x) [(Episodes '24)](https://ignite.microsoft.com/en-US/home)
 * ☀️ Avanade San Francisco & Mountain View AI & Automation Practice Solution Architect - solutioning AI projects
 * 🎖️ Avanade Mountain View AI & Data Science Subject Matter Expert at Microsoft AI Labs 
-* 𓊍 Microsoft Avanade Northern California Climb to the Top: San Francisco 2024 [(Article)](https://events.nationalmssociety.org/index.cfm?fuseaction=donorDrive.event&eventID=1967)
+* 𓊍 Microsoft Avanade Northern California Climb to the Top: San Francisco 2024 [(Article)](https://events.nationalmssociety.org/index.cfm?fuseaction=donorDrive.participant&participantID=571802)
 * 📷 Google Visitor Experience Pixel Photo Walk
 * 🎁 Avanade San Francisco & Mountain View AI & Automation Practice Career Advisor - advising a Data Scientist
 * 🧿 Accenture Mountain View Wellness Committee Ambassador - running events
