@@ -122,7 +122,7 @@ Leadership highlights:
 * 💰 UCI Alpha Kappa Psi Professional Chair and led 50+ Professionals - achieved "Most Likely to be a Billionaire" [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-alpha-kappa-psi-professional-business-fraternity)
 * 🇺🇸 UptoUCI Co-Founder & Marketing Director and led UCI - won Up to Us "Top Pledge Earner" [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-merage-national-debt-marketing-analytics) [(Credly)](https://www.credly.com/users/shawna-tuli/badges) [(Article)](https://wfuogb.com/5022/news/up-to-us-movement-raises-awareness-about-national-debt/)
 * 📈 EVP and led 35+ UCI Analysts - returned 12.11% on an $100,000 fund; recruited to BlackRock and Bridgewater [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-merage-investment-management)
-* 🏦 Chartered Financial Analyst Society Orange County Research Challenge on Opus Bank [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-merage-Chartered Financial Analyst-institute-research-challenge)
+* 🏦 Chartered Financial Analyst Society Orange County Research Challenge on Opus Bank [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-merage-cfa-institute-research-challenge)
 * 💌 Kys iOS App - built in 24 hours at the USC Viterbi School of Engineering AthenaHacks Hackathon [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-kys-ios-app) [(Devpost)](https://devpost.com/software/kys-0s456d?fbclid=IwAR1zk_PqUaJkhv4SuBtjU898owq_guS0EFm7R68mAZgG_F7k3dZijiDOcT4#updates)
 * 👩🏽‍💻 UCLA LA Hacks Hackathon
 * 💯 Exceed Android App - attained UCI ICS Butterworth Product Development Competition (Software) Finalist [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-exceed-android-app)
@@ -213,7 +213,7 @@ Leadership highlights:
 
 #### BOOKS & PODCASTS
 
-* Principles by Ray Dalio, Strategy & Management [(Repo)](https://github.com/shawna-tuli-silicon-valley/strategy-and-management-books), Venture Capital [(Repo)](https://github.com/shawna-tuli-silicon-valley/venture-capital-books), NPR, People I (Mostly) Admire
+* Principles by Ray Dalio, Strategy & Management [(Repo)](https://github.com/shawna-tuli-silicon-valley/strategy-and-management-books), Venture Capital [(Repo)](https://github.com/shawna-tuli-silicon-valley/venture-capital-books), National Public Radio, People I (Mostly) Admire
 
 #### TEST SCORE
 * GMAT - Waived
