@@ -35,7 +35,7 @@ Leadership highlights:
 * 𓊍 Microsoft Avanade Northern California Climb to the Top: San Francisco 2024 [(Article)](https://events.nationalmssociety.org/index.cfm?fuseaction=donorDrive.participant&participantID=571802)
 * 📷 Google Visitor Experience Pixel Photo Walk
 * 🎁 Avanade San Francisco & Mountain View AI & Automation Practice Career Advisor - advising a Data Scientist
-* 🧿 Accenture Mountain View Wellness Committee Ambassador - running events
+* 🧿 Accenture Mountain View Wellness Committee Ambassador - running events [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness)
 * 🧁 Avanade Mountain View Chair - arranging events
 * 🏆 Accenture - honored as Forbes #1 Management Consulting Firm
 * 🎶 Tik Tok San Jose - recruited to Tik Tok AAI as a Data Science Manager
