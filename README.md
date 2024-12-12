@@ -213,7 +213,7 @@ Leadership highlights:
 
 #### BOOKS & PODCASTS
 
-* Principles by Ray Dalio, Strategy & Management [(Repo)](https://github.com/shawna-tuli-silicon-valley/strategy-and-management-books), Venture Capital [(Repo)](https://github.com/shawna-tuli-silicon-valley/venture-capital-books), National Public Radio, People I (Mostly) Admire
+* Principles by Ray Dalio, Think Fast, Talk Smart: The Podcast, Strategy & Management [(Repo)](https://github.com/shawna-tuli-silicon-valley/strategy-and-management-books), Venture Capital [(Repo)](https://github.com/shawna-tuli-silicon-valley/venture-capital-books), National Public Radio, People I (Mostly) Admire
 
 #### TEST SCORE
 * GMAT - Waived
