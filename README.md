@@ -14,9 +14,9 @@ Leadership highlights:
 * Bay Area Poverty Alleviation AI & Data Science - [United Way Bay Area](https://uwba.org/) (1 year)
 * California AI & Data Science - [Accenture California Data & AI Google Scholar](https://scholar.google.com/citations?hl=en&user=7F6YV8MAAAAJ) (4.5 years)
 * Global Radiation Oncology Data Science - [UCI ICS Google Scholar](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en) (4.5 years at [Penn Medicine Radiation Oncology](https://www.med.upenn.edu/globalhealth/surbhi-grover-md-mph.html))
+* University of California, Irvine Recruitment (4.5 years)
 * National Debt Marketing Data Science - [UCI Merage Credly](https://www.credly.com/users/shawna-tuli/badges) (6 months)
 * Bicoastal Indian American Community - [The Brown Boy: An Endless Cycle](https://www.thepasupu.blog/post/the-brown-boy-an-endless-cycle) (Life)
-* University of California, Irvine Recruitment (4.5 years)
 
 #### SILICON VALLEY BIG TECH AI & DATA SCIENCE, ADVANCED ANALYTICS, AND STRATEGY LEADERSHIP & PUBLIC SPEAKING EXPERIENCE (2014-Present) 
 * 🎯 Incoming AI & Data Science Manager at Google San Francisco & Mountain View
