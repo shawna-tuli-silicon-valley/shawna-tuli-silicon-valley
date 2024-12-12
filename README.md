@@ -39,7 +39,6 @@ Leadership highlights:
 * 🧿 Accenture Mountain View Wellness Committee Ambassador - running events [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness)
 * 🧁 Avanade Mountain View Chair - arranging events
 * 🏆 Accenture - honored as Forbes #1 Management Consulting Firm
-* 🎶 Tik Tok San Jose - recruited to Tik Tok AAI as a Data Science Manager
 * 🖥️ Mountain View Technology Showcase [(Article)](https://chambermv.org/technology-showcase)
 * 🎲 Accenture San Francisco Strategy & Consulting Day
 * ⭐ Google Visitor Experience Visit [(Article)](https://blog.google/inside-google/company-announcements/google-office-tour/)
@@ -49,7 +48,6 @@ Leadership highlights:
 * 🗽 Accenture New York Innovation Hub Visit (2x)
 * 🎙 Emcee at Avanade North America Data & AI Community Call 
 * 🔦 Presenter at Avanade AI & Automation Practice Mountain View Amazon Migration
-* 💫 Wells Fargo Diversity in Technology & Digital Networking Event San Francisco - recruited to Wells Fargo SDI [(Repo)](https://github.com/shawna-tuli-silicon-valley/wells-fargo-san-francisco-ai)
 * 💘 Google Bay Area International Women's Day - recruited to Google Mountain View AI & Data Science [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-bay-area-international-womens-day/tree/main)
 * 🗿 Avanade Mountain View Leadership Accelerator - chosen to inspire greatness and excel in People Leadership
 * 🌅 Avanade Mountain View AI Studio Forecasting Champion
