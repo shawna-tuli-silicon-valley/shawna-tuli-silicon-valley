@@ -25,7 +25,7 @@ Leadership highlights:
 * 🔍 4) Accenture V360 Awards in Innovation - solutioning AI for utility rate case management, leading 4 [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture/tree/main) (Student Repo)
 * 🚚 AI & Data Science Manager at Amazon San Francisco & Mountain View - leading 4 Cloud Engineers on PB mailboxes [(Article)](https://www.pcmag.com/news/amazon-to-spend-over-1-billion-on-microsoft-365-licenses)
 * 🌈 Accenture San Francisco & Mountain View DSSG Lead at UWBA Phase 3 and leading 3 Consultants
-* 🎊 Accenture San Francisco Innovation Hub Holiday Party (4x)
+* 🎊 Accenture San Francisco Innovation Hub Holidays Party (4x)
 * 🗳️ Accenture San Francisco & Mountain View DSSG Lead at UWBA Brunch & Ballots [(Repo)](https://github.com/shawna-tuli-silicon-valley/uwba-ai-and-data-science/tree/main)
 * 📞 Microsoft The Silicon Valley Customer Experience Center Visit
 * 📖 Accenture San Francisco & Mountain View Amazon Account Learn & Grow Mentor - teaching AI
