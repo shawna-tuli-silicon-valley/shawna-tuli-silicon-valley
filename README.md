@@ -135,6 +135,7 @@ Leadership highlights:
 * 💓 Los Gatos High School Google, Netflix, and Intel Visits [(Repo)](https://github.com/shawna-tuli-silicon-valley/big-tech-visits/tree/main)
 * ✉️ Stanford University Yahoo! Visit 
 * 🌲 Stanford University Girl Code - sponsored as 1 of 12 Top Math & Computer Science Juniors [(Repo)](https://github.com/shawna-tuli-silicon-valley/stanford-engineering-computer-science) [(Article)](https://cs.stanford.edu/sites/default/files/Girl%20Code.pdf)
+* 💽 Gates Computer Science Building Visit
 * 💸 HSHacks Hackathon at PayPal San Jose [(Article)](https://venturebeat.com/dev/teenagers-take-over-paypal-hold-their-own-hackathon/)
 * 📚 Stanford Splash [(Article)](https://stanforddaily.com/2016/04/13/behind-the-scenes-of-stanford-splash/)
 
