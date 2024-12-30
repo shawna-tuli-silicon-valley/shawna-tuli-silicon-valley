@@ -60,7 +60,7 @@ Leadership highlights:
 * 🌌 Avanade Create the Future Super Hero Award (2x)
 * 💖 Google Bay Area AI for everyone - recruited to Google Mountain View Gemini AI & Data Science [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-bay-area-ai-for-everyone/tree/main)
 * 🌁 Accenture San Francisco Innovation Hub Generative AI Studio Member [(Article)](https://newsroom.accenture.com/news/2023/accenture-to-launch-network-of-generative-ai-studios-to-help-clients-accelerate-use-of-data-and-ai-technologies)
-* 🌄 Avanade AI & Automation + Intelligent Data Platform Practices Northern California Lead - arranged events for 8
+* 🌄 Avanade AI & Automation and Intelligent Data Platform Practices Northern California Lead - arranged events for 8
 * 📦 AI & Data Science Manager at Amazon Mountain View - analyzed PB mailboxes and led 4 Cloud Engineers [(Repo)](https://github.com/shawna-tuli-silicon-valley/amazon-mountain-view-ai-and-data-science/tree/main)
 * ❤️ Google I/O Conference (6x) [(Keynote)](https://io.google/2024/)
 * 💟 Microsoft Envision Conference (4x) [(Stories)](https://news.microsoft.com/tag/microsoft-envision/)
