@@ -216,7 +216,7 @@ Leadership highlights:
 
 #### BOOKS & PODCASTS
 
-* Principles by Ray Dalio, Think Fast, Talk Smart: The Podcast, Think Fast Talk Smart: Communication Techniques, Strategy & Management [(Repo)](https://github.com/shawna-tuli-silicon-valley/strategy-and-management-books), Venture Capital [(Repo)](https://github.com/shawna-tuli-silicon-valley/venture-capital-books), National Public Radio, People I (Mostly) Admire, Likeable Badass: How Women Get the Success They Deserve, Stanford Business Magazine, TED Talks, Harvard Business Review
+* Principles by Ray Dalio, Think Fast, Talk Smart: The Podcast, Think Fast Talk Smart: Communication Techniques, Strategy & Management [(Repo)](https://github.com/shawna-tuli-silicon-valley/strategy-and-management-books), Venture Capital [(Repo)](https://github.com/shawna-tuli-silicon-valley/venture-capital-books), National Public Radio, People I (Mostly) Admire, Likeable Badass: How Women Get the Success They Deserve, Stanford Business Magazine, TED Talks, Harvard Business Review, Freakonomics
 
 #### TEST SCORE
 * GMAT - Waived
