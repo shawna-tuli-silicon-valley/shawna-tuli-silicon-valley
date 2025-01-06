@@ -33,7 +33,7 @@ Leadership highlights:
 * 📞 Microsoft The Silicon Valley Customer Experience Center Visit
 * 📖 Accenture San Francisco & Mountain View Amazon Account Learn & Grow Mentor - teaching AI
 * 🏖️ Google Cloud Launchpad for Women: Edition 3 
-* 🔥 Microsoft Ignite (2x) [(Episodes)](https://ignite.microsoft.com/en-US/home)
+* 🔥 Microsoft Ignite (5x) [(Episodes)](https://ignite.microsoft.com/en-US/home)
 * ☀️ Avanade San Francisco & Mountain View AI & Automation Practice Solution Architect - solutioning AI projects
 * 𓊍 Microsoft Avanade Northern California Climb to the Top: San Francisco 2024 [(Article)](https://events.nationalmssociety.org/index.cfm?fuseaction=donorDrive.participant&participantID=571802)
 * 📷 Google Visitor Experience Pixel Photo Walk
@@ -66,7 +66,7 @@ Leadership highlights:
 * 🌄 Avanade AI & Automation and Intelligent Data Platform Practices Northern California Lead - arranged events for 8
 * 📦 AI & Data Science Manager at Amazon Mountain View - analyzed PB mailboxes and led 4 Cloud Engineers [(Repo)](https://github.com/shawna-tuli-silicon-valley/amazon-mountain-view-ai-and-data-science/tree/main)
 * ❤️ Google I/O Conference (6x) [(Keynote)](https://io.google/2024/)
-* 💟 Microsoft Envision Conference (4x) [(Stories)](https://news.microsoft.com/tag/microsoft-envision/)
+* 💟 Microsoft Envision Conference (5x) [(Stories)](https://news.microsoft.com/tag/microsoft-envision/)
 * ⚡ Generative AI, AI, Data Science, Advanced Analytics, and Data Visualization Expert at LinkedIn Collaborative Articles
 * 👾 Avanade Mountain View Data & AI AI & Advanced Analytics Associate Manager [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics-3)
 * 🦾 AI Lead at Viking River Cruises and led 2 Senior Advanced Analytics Consultants
