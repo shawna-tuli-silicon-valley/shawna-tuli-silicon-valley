@@ -66,7 +66,6 @@ Leadership highlights:
 * 🌄 Avanade AI & Automation and Intelligent Data Platform Practices Northern California Lead - arranged events for 8
 * 📦 AI & Data Science Manager at Amazon Mountain View - analyzed PB mailboxes and led 4 Cloud Engineers [(Repo)](https://github.com/shawna-tuli-silicon-valley/amazon-mountain-view-ai-and-data-science/tree/main)
 * ❤️ Google I/O Conference (6x) [(Keynote)](https://io.google/2024/)
-* 💟 Microsoft Envision Conference (5x) [(Stories)](https://news.microsoft.com/tag/microsoft-envision/)
 * ⚡ Generative AI, AI, Data Science, Advanced Analytics, and Data Visualization Expert at LinkedIn Collaborative Articles
 * 👾 Avanade Mountain View Data & AI AI & Advanced Analytics Associate Manager [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics-3)
 * 🦾 AI Lead at Viking River Cruises and led 2 Senior Advanced Analytics Consultants
