@@ -31,7 +31,6 @@ Leadership highlights:
 * 🚚 AI & Data Science Manager at Amazon San Francisco & Mountain View - leading 4 Cloud Engineers on PB mailboxes
 * 🌈 Accenture San Francisco & Mountain View DSSG Lead at UWBA Phase 3 and leading 4 Consultants [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-uwba-ai-and-data-science-2/tree/main)
 * 🗳️ Accenture San Francisco & Mountain View DSSG Lead at UWBA Brunch & Ballots [(Repo)](https://github.com/shawna-tuli-silicon-valley/uwba-ai-and-data-science/tree/main)
-* 📞 Microsoft The Silicon Valley Customer Experience Center Visit
 * 📖 Accenture San Francisco & Mountain View Amazon Account Learn & Grow Mentor - teaching AI
 * 🏖️ Google Cloud Launchpad for Women: Edition 3 
 * 🔥 Microsoft Ignite (5x) [(Episodes)](https://ignite.microsoft.com/en-US/home)
