@@ -21,7 +21,7 @@ Leadership highlights:
 * 🎯 Incoming AI & Data Science Manager at Google San Francisco & Mountain View
 * 🌟 Incoming Avanade San Francisco & Mountain View Data & AI AI & Advanced Analytics Manager [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics-4/tree/main)
 * 🛢️ CES
-* 🐜 AI & Data Science Advisor at Data @ UCI
+* 🐜 AI & Data Science Advisor at Data @ UCI [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-bi-and-data-science/tree/main) (Student Repo)
 * 🍏 Freakonomics Radio Live with Stephen Dubner and special guests San Francisco
 * ❄️ Accenture San Francisco Innovation Hub AI Holiday Party
 * 🎄 Accenture San Francisco Innovation Hub Holidays Party (4x)
