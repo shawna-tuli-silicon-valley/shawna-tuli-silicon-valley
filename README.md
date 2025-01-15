@@ -36,7 +36,7 @@ Leadership highlights:
 * 🔥 Microsoft Ignite (5x) [(Episodes)](https://ignite.microsoft.com/en-US/home)
 * ☀️ Avanade San Francisco & Mountain View AI & Automation Practice Solution Architect - solutioning AI projects
 * 𓊍 Microsoft Avanade Northern California Climb to the Top: San Francisco 2024 [(Article)](https://events.nationalmssociety.org/index.cfm?fuseaction=donorDrive.participant&participantID=571802)
-* 🎁 Avanade San Francisco & Mountain View AI & Automation Practice Career Advisor - advising a Data Scientist
+* 🎁 Avanade San Francisco & Mountain View AI & Automation Practice Career Advisor - advising 2
 * 🧿 Accenture Mountain View Wellness Committee Ambassador - running events [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness)
 * 🧁 Avanade Mountain View Chair - arranging events
 * 🏅 Avanade - honored as AI Breakthrough Awards Best AI Consulting Service Provider
