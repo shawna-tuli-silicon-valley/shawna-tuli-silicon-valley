@@ -72,7 +72,7 @@ Leadership highlights:
 * 🦾 AI Lead at Viking River Cruises San Francisco
 * 🧠 AI & Data Science Advisor at Harvard Business Review [(Repo)](https://github.com/shawna-tuli-silicon-valley/harvard-business-review-advisory-council) [(Magazine)](https://hbr.org/)
 * 🦄 Accenture Ventures & Open Innovation West Ambassador 
-* 🗂️ Presenter at Accenture CIO Data Science Guild San Francisco (4x)
+* 🗂️ Presenter at Accenture CIO San Francisco Data Science Guild (4x)
 * 📋 Accenture AI & Data Science Panelist at UCI Merage Machine Learning for Analytics Graduate Class
 * 🧡 AI Data Scientist at Avanade - gained Best Baker Award on the West Region Chargeability Percent Team
 * 🎓 Google Data Science Panelist at The Reach Foundation Mountain View (2x) [(Article)](https://www.thereachfoundation.net/blog/j1ijbu5v5tz66u214ut8bsu9izojb9)
@@ -92,7 +92,7 @@ Leadership highlights:
 * 💎 Avanade We Believe Everyone Counts Super Hero Award
 * 🧾 Software Engineer at H&R Block San Francisco and led a Software Engineer
 * 🖤 Software Engineering Lead at Bill & Melinda Gates Foundation San Francisco and led 4 Software Engineers
-* 💜 AI & Data Science Lead at Accenture CIO and led a Data Engineer
+* 💜 AI & Data Science Lead at Accenture CIO San Francisco and led a Data Engineer
 * ☕ Software Engineer at Starbucks Coffee San Francisco
 * 💾 Advanced Analytics Lead at Applied Materials San Francisco and led 2 Analysts
 * 🎉 Avanade Northern California Social Committee Member - organizing and hosting events monthly for 50+
