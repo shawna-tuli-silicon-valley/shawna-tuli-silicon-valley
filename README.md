@@ -19,7 +19,7 @@ Leadership highlights:
 #### SILICON VALLEY BIG TECH AI & DATA SCIENCE, ADVANCED ANALYTICS, AND STRATEGY LEADERSHIP & PUBLIC SPEAKING EXPERIENCE (2014-Present) 
 * 🎯 Incoming AI & Data Science Manager at Google San Francisco & Mountain View
 * 🌟 Incoming Avanade San Francisco & Mountain View Data & AI AI & Advanced Analytics Manager [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics-4/tree/main)
-* 📫 3. Incoming AI & Data Science Manager at Amazon San Francisco & Mountain View - leading 4 Cloud Engineers on PB mailboxes
+* 📫 3. Incoming AI & Data Science Manager at Amazon San Francisco & Mountain View
 * 🗣️ Accenture San Francisco FY25 APAERG Leadership Summit
 * 🛢️ CES [(Videos)](https://videos.ces.tech/)
 * 🚗 5) Accenture AI & Data Science Advisor - business modeling Uber and leading 4 Data Scientists [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-bi-and-data-science/tree/main) [(Student Repo)](https://github.com/jiangyue-amber/uber-analysis) 
