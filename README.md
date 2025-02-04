@@ -16,6 +16,12 @@ Leadership highlights:
 * Irvine Up to Us National Debt Marketing Data Science and Strategy - [UCI Merage Credly](https://www.credly.com/users/shawna-tuli/badges) (6 months)
 * Bicoastal Indian American Community - [The Brown Boy: An Endless Cycle](https://www.thepasupu.blog/post/the-brown-boy-an-endless-cycle) (Life)
 
+Awards:
+* Accenture Forbes #1 Management Consulting Firm
+* Avanade AI Breakthrough Awards Best AI Consulting Service Provider
+* Google AI for everyone | Bay Area for significant contributions to AI
+* Accenture V360 Awards in Innovation Nominee (4x)
+
 #### SILICON VALLEY BIG TECH AI & DATA SCIENCE, ADVANCED ANALYTICS, AND STRATEGY LEADERSHIP & PUBLIC SPEAKING EXPERIENCE (2014-Present) 
 * 🎯 Incoming AI & Data Science Manager at Google San Francisco & Mountain View
 * 🌟 Incoming Avanade San Francisco & Mountain View Data & AI AI & Advanced Analytics Manager
