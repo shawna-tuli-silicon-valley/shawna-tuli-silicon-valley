@@ -22,6 +22,7 @@ Award highlights:
 * Avanade AI Breakthrough Awards Best AI Consulting Service Provider
 * Google AI for everyone | Bay Area for significant contributions to AI
 * Accenture V360 Awards in Innovation Nominee (4x)
+____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 #### SILICON VALLEY BIG TECH AI & DATA SCIENCE, ADVANCED ANALYTICS, AND STRATEGY LEADERSHIP & PUBLIC SPEAKING EXPERIENCE (2014-Present) 
 * 🎯 Incoming AI & Data Science Manager at Google San Francisco & Mountain View
@@ -149,7 +150,7 @@ Award highlights:
 * 📚 Stanford Splash [(Article)](https://stanforddaily.com/2016/04/13/behind-the-scenes-of-stanford-splash/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shawna-tuli-silicon-valley&layout=compact) 
-
+___________________________________________________________________________________________________________________________________________________________________________________________________________________________
 #### EDUCATION
 * Accenture Kellogg Education Education in Leading with Analytics & Artificial Intelligence [(Certificate)](https://execedcertificate.kellogg.northwestern.edu/308a9e71-d504-4194-9c74-22667c48e450#gs.utv39r)
 * Stanford University School of Engineering Certificates in Machine Learning & Computer Science [(Certificate)](https://www.coursera.org/account/accomplishments/certificate/47XPJRBC4F5C) [(Repo)](https://github.com/shawna-tuli-silicon-valley/stanford-engineering-computer-science)
@@ -228,7 +229,7 @@ Award highlights:
 
 #### TEST SCORE
 * GMAT - Waived
-
+____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 #### INTERESTS
 I am strength training,  dancing, healthy cooking, reading, and studying daily. I enjoy playing tennis and badminton, walking, shopping, oil painting, watching movies and shows, and going to beaches, lakes, restaurants, and concerts. 
 
