@@ -16,7 +16,7 @@ Leadership highlights:
 * Irvine Up to Us National Debt Marketing Data Science and Strategy - [UCI Merage Credly](https://www.credly.com/users/shawna-tuli/badges) (6 months)
 * Bicoastal Indian American Community - [The Brown Boy: An Endless Cycle](https://www.thepasupu.blog/post/the-brown-boy-an-endless-cycle) (Life)
 
-Awards:
+Award highlights:
 * Accenture Forbes #1 Management Consulting Firm
 * Avanade AI Breakthrough Awards Best AI Consulting Service Provider
 * Google AI for everyone | Bay Area for significant contributions to AI
