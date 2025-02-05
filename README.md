@@ -19,7 +19,7 @@ Leadership highlights:
 
 Award highlights:
 * Accenture Fortune World's Most Admired Companies, #1 in IT Services (6x)
-* Accenture Brand Finance's Most Valuable Brands (6x)
+* Accenture Brand Finance's Most Valuable Brands, #1 in IT Services (6x)
 * Accenture The Wall Street Journal Best-Managed Companies (6x)
 * Accenture Brand Finance US 500 (6x)
 * Accenture Forbes #1 Management Consulting Firm
