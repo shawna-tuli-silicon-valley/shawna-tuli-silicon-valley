@@ -6,28 +6,28 @@ Shawna has bettered Accenture into Forbes #1 Management Consulting Firm and Avan
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 Leadership highlights:
-* San Francisco & Mountain View Accenture & Avanade AI & Data Science and Strategy - [Accenture](https://www.accenture.com/us-en/services/data-ai) & [Avanade](https://www.avanade.com/en-us/services/artificial-intelligence) (4.5+ years)
-* San Francisco & Mountain View Accenture & Avanade AI & Data Science and Strategy Hiring - [Accenture](https://www.accenture.com/us-en/services/data-ai) & [Avanade](https://www.avanade.com/en-us/services/artificial-intelligence) (4.5+ years)
-* San Francisco & Mountain View Microsoft AI & Data Science - [Microsoft Learn](https://learn.microsoft.com/en-us/users/shawnatuli-1762/?redeem=RN4ZKZ&WT.mc_id=ilt_partner_webpage_wwl&ocid=3103897&DCS=DEPR2550058&source=docs) (4.5+ years)
-* Mountain View & Sunnyvale Google AI & Data Science and Product Strategy - [Google](https://ai.google) (14 weeks at [Google Photos](https://www.google.com/photos/about/); 1 year at [Google Cloud](https://cloud.google.com/), [Google Play](https://play.google.com/store/games?hl=en_US), and [Google One](https://one.google.com/about/))
-* San Francisco & Mountain View Amazon AI & Data Science and Product Strategy - [Amazon](https://www.aboutamazon.com/artificial-intelligence-ai-news) (1+ years at Amazon Mailbox Core)
-* Bay Area Accenture Poverty Alleviation AI & Data Science and Strategy - [United Way Bay Area](https://uwba.org/) (1+ years)
-* California Accenture AI & Data Science and Strategy - [Accenture California Data & AI Google Scholar](https://scholar.google.com/citations?hl=en&user=7F6YV8MAAAAJ) (4.5+ years)
-* San Francisco Penn Medicine Radiation Oncology Global Radiation Oncology Data Science - [UCI ICS Google Scholar](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en) (4.5 years)
-* Irvine Up to Us National Debt Marketing Data Science and Strategy - [UCI Merage Credly](https://www.credly.com/users/shawna-tuli/badges) (6 months)
-* Bicoastal Indian American Community - [The Brown Boy: An Endless Cycle](https://www.thepasupu.blog/post/the-brown-boy-an-endless-cycle) (Life)
+1. San Francisco & Mountain View Accenture & Avanade AI & Data Science and Strategy - [Accenture](https://www.accenture.com/us-en/services/data-ai) & [Avanade](https://www.avanade.com/en-us/services/artificial-intelligence) (4.5+ years)
+2. San Francisco & Mountain View Accenture & Avanade AI & Data Science and Strategy Hiring - [Accenture](https://www.accenture.com/us-en/services/data-ai) & [Avanade](https://www.avanade.com/en-us/services/artificial-intelligence) (4.5+ years)
+3. San Francisco & Mountain View Microsoft AI & Data Science - [Microsoft Learn](https://learn.microsoft.com/en-us/users/shawnatuli-1762/?redeem=RN4ZKZ&WT.mc_id=ilt_partner_webpage_wwl&ocid=3103897&DCS=DEPR2550058&source=docs) (4.5+ years)
+4. Mountain View & Sunnyvale Google AI & Data Science and Product Strategy - [Google](https://ai.google) (14 weeks at [Google Photos](https://www.google.com/photos/about/); 1 year at [Google Cloud](https://cloud.google.com/), [Google Play](https://play.google.com/store/games?hl=en_US), and [Google One](https://one.google.com/about/))
+5. San Francisco & Mountain View Amazon AI & Data Science and Product Strategy - [Amazon](https://www.aboutamazon.com/artificial-intelligence-ai-news) (1+ years at Amazon Mailbox Core)
+6. Bay Area Accenture Poverty Alleviation AI & Data Science and Strategy - [United Way Bay Area](https://uwba.org/) (1+ years)
+7. California Accenture AI & Data Science and Strategy - [Accenture California Data & AI Google Scholar](https://scholar.google.com/citations?hl=en&user=7F6YV8MAAAAJ) (4.5+ years)
+8. San Francisco Penn Medicine Radiation Oncology Global Radiation Oncology Data Science - [UCI ICS Google Scholar](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en) (4.5 years)
+9. Irvine Up to Us National Debt Marketing Data Science and Strategy - [UCI Merage Credly](https://www.credly.com/users/shawna-tuli/badges) (6 months)
+10. Bicoastal Indian American Community - [The Brown Boy: An Endless Cycle](https://www.thepasupu.blog/post/the-brown-boy-an-endless-cycle) (Life)
 
 Award highlights:
-* Accenture Fortune World's Most Admired Companies, #1 in IT Services (6x)
-* Accenture Brand Finance's Most Valuable Brands, #1 in IT Services (6x)
-* Accenture The Wall Street Journal Best-Managed Companies (6x)
-* Accenture Brand Finance US 500 (6x)
-* Accenture Forbes #1 Management Consulting Firm
-* Avanade AI Breakthrough Awards Best AI Consulting Service Provider
-* Google AI for everyone | Bay Area for significant contributions to AI
-* Google’s cloud business turns profitable for the first time on record
-* Accenture V360 Awards in Innovation Nominee (4x)
-* Avanade Top 5 in Innovation
+1. Accenture Fortune World's Most Admired Companies, #1 in IT Services (6x)
+2. Accenture Brand Finance's Most Valuable Brands, #1 in IT Services (6x)
+3. Accenture The Wall Street Journal Best-Managed Companies (6x)
+4. Accenture Brand Finance US 500 (6x)
+5. Accenture Forbes #1 Management Consulting Firm
+6. Avanade AI Breakthrough Awards Best AI Consulting Service Provider
+7. Google AI for everyone | Bay Area for significant contributions to AI
+8. Google’s cloud business turns profitable for the first time on record
+9. Accenture V360 Awards in Innovation Nominee (4x)
+10. Accenture Fortune 100 Best Companies to Work For in the US (6x), Top 10 (3x)
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 #### SILICON VALLEY BIG TECH AI & DATA SCIENCE, ADVANCED ANALYTICS, AND STRATEGY LEADERSHIP & PUBLIC SPEAKING EXPERIENCE (2014-Present) 
