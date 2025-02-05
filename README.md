@@ -25,6 +25,7 @@ Award highlights:
 * Accenture Forbes #1 Management Consulting Firm
 * Avanade AI Breakthrough Awards Best AI Consulting Service Provider
 * Google AI for everyone | Bay Area for significant contributions to AI
+* Google’s cloud business turns profitable for the first time on record
 * Accenture V360 Awards in Innovation Nominee (4x)
 * Avanade Top 5 in Innovation
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________
