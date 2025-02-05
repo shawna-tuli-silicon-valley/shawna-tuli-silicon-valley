@@ -18,6 +18,7 @@ Leadership highlights:
 * Bicoastal Indian American Community - [The Brown Boy: An Endless Cycle](https://www.thepasupu.blog/post/the-brown-boy-an-endless-cycle) (Life)
 
 Award highlights:
+* Accenture Fortune World's Most Admired Companies (6x)
 * Accenture Forbes #1 Management Consulting Firm
 * Avanade AI Breakthrough Awards Best AI Consulting Service Provider
 * Google AI for everyone | Bay Area for significant contributions to AI
