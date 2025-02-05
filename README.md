@@ -19,6 +19,7 @@ Leadership highlights:
 
 Award highlights:
 * Accenture Fortune World's Most Admired Companies (6x)
+* Accenture Brand Finance's Most Valuable Brands (6x)
 * Accenture Forbes #1 Management Consulting Firm
 * Avanade AI Breakthrough Awards Best AI Consulting Service Provider
 * Google AI for everyone | Bay Area for significant contributions to AI
