@@ -18,7 +18,7 @@ Leadership highlights:
 * Bicoastal Indian American Community - [The Brown Boy: An Endless Cycle](https://www.thepasupu.blog/post/the-brown-boy-an-endless-cycle) (Life)
 
 Award highlights:
-* Accenture Fortune World's Most Admired Companies (6x)
+* Accenture Fortune World's Most Admired Companies - #1 in IT Services (6x)
 * Accenture Brand Finance's Most Valuable Brands (6x)
 * Accenture The Wall Street Journal Best-Managed Companies (6x)
 * Accenture Brand Finance US 500 (6x)
