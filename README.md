@@ -18,18 +18,21 @@ Leadership highlights:
 10. Bicoastal Indian American Community - [The Brown Boy: An Endless Cycle](https://www.thepasupu.blog/post/the-brown-boy-an-endless-cycle) (Life)
 
 Award highlights:
-1. Accenture Fortune World's Most Admired Companies, #1 in IT Services (6x)
-2. Accenture Brand Finance's Most Valuable Brands, #1 in IT Services (6x)
-3. Accenture The Wall Street Journal Best-Managed Companies (6x)
-4. Accenture Brand Finance US 500 (6x)
-5. Accenture Forbes #1 Management Consulting Firm
-6. Avanade AI Breakthrough Awards Best AI Consulting Service Provider
-7. Google AI for everyone | Bay Area for significant contributions to AI
-8. Google’s cloud business turns profitable for the first time on record
-9. Accenture V360 Awards in Innovation Nominee (4x)
-10. Accenture Fortune 100 Best Companies to Work For in the US (6x), Top 10 (3x)
-11. Accenture Everest Group Artificial Intelligence (AI) and Generative AI Services PEAK Matrix Assessment #1 
-12. Avanade Top 5 in Innovation
+1. Accenture Everest Group Artificial Intelligence (AI) and Generative AI Services PEAK Matrix Assessment #1 
+2. Accenture Fortune World's Most Admired Companies, #1 in IT Services (6x)
+3. Accenture Brand Finance's Most Valuable Brands, #1 in IT Services (6x)
+4. Accenture The Wall Street Journal Best-Managed Companies (6x)
+5. Accenture Brand Finance US 500 (6x)
+6. Accenture Forbes #1 Management Consulting Firm
+7. Avanade AI Breakthrough Awards Best AI Consulting Service Provider
+8. Google AI for everyone | Bay Area for significant contributions to AI
+9. Google’s cloud business turns profitable for the first time on record
+10. Accenture V360 Awards in Innovation Nominee (4x)
+11. Accenture Fortune 100 Best Companies to Work For in the US (6x), Top 10 (3x)
+12. Avanade Best Baker 
+13. Avanade We Believe Everyone Counts Super Hero Award
+14. Avanade We Deliver with Excellence Super Hero Award
+15. Avanade Top 5 in Innovation
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 #### SILICON VALLEY BIG TECH AI & DATA SCIENCE, ADVANCED ANALYTICS, AND STRATEGY LEADERSHIP & PUBLIC SPEAKING EXPERIENCE (2014-Present) 
