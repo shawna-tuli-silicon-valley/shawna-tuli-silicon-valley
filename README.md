@@ -28,6 +28,8 @@ Award highlights:
 8. Google’s cloud business turns profitable for the first time on record
 9. Accenture V360 Awards in Innovation Nominee (4x)
 10. Accenture Fortune 100 Best Companies to Work For in the US (6x), Top 10 (3x)
+11. Accenture Everest Group Artificial Intelligence (AI) and Generative AI Services PEAK Matrix Assessment #1 
+12. Avanade Top 5 in Innovation
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 #### SILICON VALLEY BIG TECH AI & DATA SCIENCE, ADVANCED ANALYTICS, AND STRATEGY LEADERSHIP & PUBLIC SPEAKING EXPERIENCE (2014-Present) 
