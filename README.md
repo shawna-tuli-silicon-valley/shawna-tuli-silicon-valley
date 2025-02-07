@@ -30,8 +30,8 @@ Award highlights:
 10. Accenture V360 Awards in Innovation Nominee (4x)
 11. Accenture Fortune 100 Best Companies to Work For in the US (6x), Top 10 (3x)
 12. Avanade Best Baker 
-13. Avanade We Believe Everyone Counts Super Hero Award
-14. Avanade We Deliver with Excellence Super Hero Award
+13. Avanade We Believe Everyone Counts Super Hero
+14. Avanade We Deliver with Excellence Super Hero
 15. Avanade Top 5 in Innovation
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
