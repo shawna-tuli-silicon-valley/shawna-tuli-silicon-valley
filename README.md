@@ -32,7 +32,7 @@ Award highlights:
 12. Avanade Best Baker 
 13. Avanade We Believe Everyone Counts Super Hero
 14. Avanade We Deliver with Excellence Super Hero
-15. Avanade Top 5 in Innovation
+15. Avanade Create the Future (2x)
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 #### SILICON VALLEY BIG TECH AI & DATA SCIENCE, ADVANCED ANALYTICS, AND STRATEGY LEADERSHIP & PUBLIC SPEAKING EXPERIENCE (2014-Present) 
