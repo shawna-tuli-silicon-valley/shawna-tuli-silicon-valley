@@ -39,6 +39,7 @@ ________________________________________________________________________________
 * 🎯 Incoming AI & Data Science Manager at Google San Francisco & Mountain View
 * 🌟 Incoming Avanade San Francisco & Mountain View Data & AI AI & Advanced Analytics Manager
 * 📫 3. Incoming AI & Data Science Manager at Amazon Mountain View
+* 🤍 Google Cloud Next Conference
 * 🗣️ Accenture San Francisco FY25 APAERG Leadership Summit
 * 🛢️ CES [(Videos)](https://videos.ces.tech/)
 * 🚗 5) Accenture AI & Data Science Advisor - business modeling Uber and leading 5 Data Scientists [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-bi-and-data-science/tree/main) [(Student Repo)](https://github.com/jiangyue-amber/uber-analysis) 
