@@ -39,7 +39,6 @@ ________________________________________________________________________________
 * 🎯 Incoming AI & Data Science Manager at Google San Francisco & Mountain View
 * 🌟 Incoming Avanade San Francisco & Mountain View Data & AI AI & Advanced Analytics Manager
 * 📫 3. Incoming AI & Data Science Manager at Amazon Mountain View
-* 🤍 Google Cloud Next Conference
 * 🗣️ Accenture San Francisco FY25 APAERG Leadership Summit
 * 🛢️ CES [(Videos)](https://videos.ces.tech/)
 * 🚗 5) Accenture AI & Data Science Advisor - business modeling Uber and leading 5 Data Scientists [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-bi-and-data-science/tree/main) [(Student Repo)](https://github.com/jiangyue-amber/uber-analysis) 
@@ -98,7 +97,7 @@ ________________________________________________________________________________
 * 🎓 Google Data Science Panelist at The Reach Foundation Mountain View (2x) [(Article)](https://www.thereachfoundation.net/blog/j1ijbu5v5tz66u214ut8bsu9izojb9)
 * 📢 Software Engineer at The NPD Group San Francisco
 * ✅ AI Data Scientist at Avanade San Francisco
-* 🤍 Google Cloud Next Conference (4x) [(Next)](https://cloud.withgoogle.com/next/session-library?filters=vod-video-available#all)
+* 🤍 Google Cloud Next Conference (5x) [(Next)](https://cloud.withgoogle.com/next/25)
 * 💛 Databricks Data + AI Summit San Francisco [(Article)](https://www.databricks.com/blog/2022/06/24/know-before-you-go-data-ai-summit-2022.html)
 * ⚙️ Avanade San Francisco Innovation Hub Data & AI AI & Advanced Analytics Associate Manager [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics-2)
 * 🔮 2 National Science Foundation articles - predicted energy consumption with AI in California and led 5 Data Scientists [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-california-energy-and-ai-predictive-analytics-2)
