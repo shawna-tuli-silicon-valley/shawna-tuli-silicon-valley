@@ -36,6 +36,7 @@ Award highlights:
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 #### SILICON VALLEY BIG TECH AI & DATA SCIENCE, ADVANCED ANALYTICS, AND STRATEGY LEADERSHIP & PUBLIC SPEAKING EXPERIENCE (2014-Present) 
+* 🎯 AI & Data Science Manager at Google Mountain View
 * 📫 3. Incoming AI & Data Science Manager at Amazon San Francisco & Mountain View
 * 🗣️ Accenture San Francisco FY25 APAERG Leadership Summit
 * 🛢️ CES [(Videos)](https://videos.ces.tech/)
