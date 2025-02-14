@@ -37,8 +37,9 @@ ________________________________________________________________________________
 
 #### SILICON VALLEY BIG TECH AI & DATA SCIENCE, ADVANCED ANALYTICS, AND STRATEGY LEADERSHIP & PUBLIC SPEAKING EXPERIENCE (2014-Present) 
 * 🎯 Goal 2: AI & Data Science Manager at Google Mountain View
-* 🌟 Goal 1: AI & Data Science Manager at Avanade San Francisco & Mountain View
+* 🌟 Goal 1: AI & Data Science Manager at Avanade San Francisco Innovation Hub & Mountain View
 * 📫 3. Incoming AI & Data Science Manager at Amazon San Francisco & Mountain View
+* 🚋 Accenture San Francisco Innovation Hub University of Washington Recruitment 
 * 🗣️ Accenture San Francisco FY25 APAERG Leadership Summit
 * 🛢️ CES [(Videos)](https://videos.ces.tech/)
 * 🚗 5) Accenture AI & Data Science Advisor - business modeling Uber and leading 5 Data Scientists [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-bi-and-data-science/tree/main) [(Student Repo)](https://github.com/jiangyue-amber/uber-analysis) 
@@ -49,14 +50,14 @@ ________________________________________________________________________________
 * 🌎 Google AI for everyone Global Virtual Summit [(Videos)](https://careersonair.withgoogle.com/events/aiforeveryone24)
 * 🔍 4) Accenture V360 Awards - solutioning AI for utility rate case management, leading 7 Data Scientists [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture/tree/main) [(Student Repo)](https://github.com/bsteier/GRCResponder)
 * 🚚 2. AI & Data Science Manager at Amazon San Francisco & Mountain View - leading 4 Cloud Engineers on PB mailboxes
-* 🌈 Accenture San Francisco & Mountain View DSSG Lead at UWBA Phase 3 and leading 4 Data Scientists [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-uwba-ai-and-data-science-2/tree/main)
-* 🗳️ Accenture San Francisco & Mountain View DSSG Lead at UWBA Brunch & Ballots [(Repo)](https://github.com/shawna-tuli-silicon-valley/uwba-ai-and-data-science/tree/main)
-* 📖 Accenture San Francisco & Mountain View Amazon Account Learn & Grow Mentor - teaching AI
+* 🌈 Accenture San Francisco Innovation Hub & Mountain View DSSG Lead at UWBA Phase 3 and leading 4 Data Scientists [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-uwba-ai-and-data-science-2/tree/main)
+* 🗳️ Accenture San Francisco Innovation Hub & Mountain View DSSG Lead at UWBA Brunch & Ballots [(Repo)](https://github.com/shawna-tuli-silicon-valley/uwba-ai-and-data-science/tree/main)
+* 📖 Accenture San Francisco Innovation Hub & Mountain View Amazon Account Learn & Grow Mentor - teaching AI
 * 🏖️ Google Cloud Launchpad for Women: Edition 3 
 * 🔥 Microsoft Ignite (5x) [(Episodes)](https://ignite.microsoft.com/en-US/home)
-* ☀️ Avanade San Francisco & Mountain View AI & Automation Practice Solution Architect - solutioning AI projects
+* ☀️ Avanade San Francisco Innovation Hub & Mountain View AI & Automation Practice Solution Architect - solutioning AI projects
 * 𓊍 Microsoft Avanade Northern California Climb to the Top: San Francisco 2024 [(Article)](https://events.nationalmssociety.org/index.cfm?fuseaction=donorDrive.participant&participantID=571802)
-* 🎁 Avanade San Francisco & Mountain View AI & Automation Practice Career Advisor - advising 2 Data Scientists
+* 🎁 Avanade San Francisco Innovation Hub & Mountain View AI & Automation Practice Career Advisor - advising 2 Data Scientists
 * 🧿 Accenture Mountain View Wellness Committee Ambassador - running events [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness)
 * 🧁 Avanade Mountain View Chair - arranging events
 * 🏅 Avanade - honored as AI Breakthrough Awards Best AI Consulting Service Provider
@@ -96,7 +97,7 @@ ________________________________________________________________________________
 * 🧡 AI Data Scientist at Avanade - gained Best Baker Award on the West Region Chargeability Percent Team
 * 🎓 Google Data Science Panelist at The Reach Foundation Mountain View (2x) [(Article)](https://www.thereachfoundation.net/blog/j1ijbu5v5tz66u214ut8bsu9izojb9)
 * 📢 Software Engineer at The NPD Group San Francisco
-* ✅ AI Data Scientist at Avanade San Francisco
+* ✅ AI Data Scientist at Avanade San Francisco Innovation Hub
 * 🤍 Google Cloud Next Conference (6x) [(Next)](https://cloud.withgoogle.com/next/25)
 * 💛 Databricks Data + AI Summit San Francisco [(Article)](https://www.databricks.com/blog/2022/06/24/know-before-you-go-data-ai-summit-2022.html)
 * ⚙️ Avanade San Francisco Innovation Hub Data & AI AI & Advanced Analytics Associate Manager [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics-2)
