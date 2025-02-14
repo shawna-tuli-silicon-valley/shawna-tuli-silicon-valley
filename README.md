@@ -55,7 +55,7 @@ ________________________________________________________________________________
 * 📖 Accenture San Francisco Innovation Hub & Mountain View Amazon Account Learn & Grow Mentor - teaching AI
 * 🏖️ Google Cloud Launchpad for Women: Edition 3 
 * 🔥 Microsoft Ignite (5x) [(Episodes)](https://ignite.microsoft.com/en-US/home)
-* ☀️ Avanade San Francisco Innovation Hub & Mountain View AI & Automation Practice Solution Architect - solutioning AI projects
+* ☀️ Avanade San Francisco Innovation Hub & Mountain View AI & Automation Practice Solution Architect - solutioning AI
 * 𓊍 Microsoft Avanade Northern California Climb to the Top: San Francisco 2024 [(Article)](https://events.nationalmssociety.org/index.cfm?fuseaction=donorDrive.participant&participantID=571802)
 * 🎁 Avanade San Francisco Innovation Hub & Mountain View AI & Automation Practice Career Advisor - advising 2 Data Scientists
 * 🧿 Accenture Mountain View Wellness Committee Ambassador - running events [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness)
