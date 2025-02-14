@@ -89,14 +89,14 @@ ________________________________________________________________________________
 * ❤️ Google I/O Conference (6x) [(Keynote)](https://io.google/2024/)
 * ⚡ Generative AI, AI, Data Science, Advanced Analytics, and Data Visualization Expert at LinkedIn Collaborative Articles
 * 👾 Avanade Mountain View Data & AI AI & Advanced Analytics Associate Manager [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics-3)
-* 🦾 AI Lead at Viking River Cruises San Francisco
+* 🦾 AI Lead at Fortune 500 Company San Francisco
 * 🧠 AI & Data Science Advisor at Harvard Business Review [(Repo)](https://github.com/shawna-tuli-silicon-valley/harvard-business-review-advisory-council) [(Magazine)](https://hbr.org/)
 * 🦄 Accenture Ventures & Open Innovation West Ambassador 
 * 🗂️ Presenter at Accenture CIO San Francisco Data Science Guild (4x)
 * 📋 Accenture AI & Data Science Panelist at UCI Merage Machine Learning for Analytics Graduate Class
 * 🧡 AI Data Scientist at Avanade - gained Best Baker Award on the West Region Chargeability Percent Team
 * 🎓 Google Data Science Panelist at The Reach Foundation Mountain View (2x) [(Article)](https://www.thereachfoundation.net/blog/j1ijbu5v5tz66u214ut8bsu9izojb9)
-* 📢 Software Engineer at The NPD Group San Francisco
+* 📢 Software Engineer at Fortune 500 Company San Francisco
 * ✅ AI Data Scientist at Avanade San Francisco Innovation Hub
 * 🤍 Google Cloud Next Conference (6x) [(Next)](https://cloud.withgoogle.com/next/25)
 * 💛 Databricks Data + AI Summit San Francisco [(Article)](https://www.databricks.com/blog/2022/06/24/know-before-you-go-data-ai-summit-2022.html)
@@ -110,11 +110,11 @@ ________________________________________________________________________________
 * 💗 Avanade San Francisco Innovation Hub Data & AI AI & Advanced Analytics Consultant [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics)
 * 🧩 Presenter at Avanade Advanced Analytics Community Call
 * 💎 Avanade We Believe Everyone Counts Super Hero Award
-* 🧾 Software Engineer at H&R Block San Francisco and led a Software Engineer
-* 🖤 Software Engineering Lead at Bill & Melinda Gates Foundation San Francisco and led 4 Software Engineers
-* 💜 AI & Data Science Lead at Accenture CIO San Francisco and led a Data Engineer
-* ☕ Software Engineer at Starbucks Coffee San Francisco
-* 💾 Advanced Analytics Lead at Applied Materials San Francisco and led 2 Analysts
+* 🧾 Software Engineer at Fortune 500 Company San Francisco and led a Software Engineer
+* 🖤 Software Engineering Lead at Fortune 500 Company San Francisco and led 4 Software Engineers
+* 💜 AI & Data Science Lead at Fortune 500 Company San Francisco and led a Data Engineer
+* ☕ Software Engineer at Fortune 500 Company San Francisco
+* 💾 Advanced Analytics Lead at Fortune 500 Company San Francisco and led 2 Analysts
 * 🎉 Avanade Northern California Social Committee Member - organizing and hosting events monthly for 50+
 * ✔️ Avanade We Deliver with Excellence Super Hero Award
 * 📶 Avanade Advanced Analytics All-hands
@@ -124,8 +124,8 @@ ________________________________________________________________________________
 * 👥 Accenture UCI Alumni Speaker at UCI Recruitment (4x) [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-university-of-california-irvine-recruitment)
 * 💙 Accenture Applied Intelligence Strategy Summer Conference San Francisco
 * 🎊 Avanade Go Team! Award (4x)
-* 🏛️ Accenture San Francisco Innovation Hub Quarterly TownHalls (17x)
-* 📅 Avanade San Francisco Innovation Hub Quarterly TownHalls (17x)
+* 🏛️ Accenture San Francisco Innovation Hub Quarterly TownHalls (18x)
+* 📅 Avanade San Francisco Innovation Hub Quarterly TownHalls (18x)
 * 📊 18 Penn Medicine Radiation Oncology articles and led 30+ Surgeons, Doctors, and Students [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-penn-medicine-global-radiation-oncology-analytics) [(Google Scholar)](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en)
 * 💬 Grace Hopper Celebration of Women in Computing Conference Orlando [(Repo)](https://github.com/shawna-tuli-silicon-valley/grace-hopper-celebration-of-women-in-engineering/tree/main)
 * 🖼️ Avanade Irvine Top 5 in Innovation - created an Azure AI product via computer vision and an one-shot GAN [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-irvine-ai-product)
