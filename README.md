@@ -38,7 +38,7 @@ ________________________________________________________________________________
 #### SILICON VALLEY BIG TECH AI & DATA SCIENCE, ADVANCED ANALYTICS, AND STRATEGY LEADERSHIP & PUBLIC SPEAKING EXPERIENCE (2014-Present) 
 * 🎯 Goal 2: AI & Data Science Manager at Google Mountain View
 * 🌟 Goal 1: AI & Data Science Manager at Avanade San Francisco Innovation Hub & Mountain View
-* 🪷 Accenture Mountain View Wellness Fair 
+* 🌸 Accenture Mountain View Wellness Fair 
 * 📫 3. Incoming AI & Data Science Manager at Amazon San Francisco & Mountain View
 * 🚋 Accenture San Francisco Innovation Hub University of Washington Recruitment 
 * 🗣️ Accenture San Francisco Innovation Hub FY25 APAERG Leadership Summit
