@@ -38,9 +38,9 @@ ________________________________________________________________________________
 #### SILICON VALLEY BIG TECH AI & DATA SCIENCE, ADVANCED ANALYTICS, AND STRATEGY LEADERSHIP & PUBLIC SPEAKING EXPERIENCE (2014-Present) 
 * 🎯 Goal 2: AI & Data Science Manager at Google Mountain View
 * 🌟 Goal 1: AI & Data Science Manager at Avanade San Francisco Innovation Hub & Mountain View
-* 🌸 Accenture Mountain View Wellness Fair 
+* 🌸 Volunteer at Accenture Mountain View Wellness Fair 
 * 📫 3. Incoming AI & Data Science Manager at Amazon San Francisco & Mountain View
-* 🚋 Accenture San Francisco Innovation Hub University of Washington Recruitment 
+* 🚋 Speaker at Accenture San Francisco Innovation Hub University of Washington Recruitment 
 * 🗣️ Accenture San Francisco Innovation Hub FY25 APAERG Leadership Summit
 * 🛢️ CES [(Videos)](https://videos.ces.tech/)
 * 🚗 5) Accenture AI & Data Science Advisor - business modeling Uber and leading 5 Data Scientists [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-bi-and-data-science/tree/main) [(Student Repo)](https://github.com/jiangyue-amber/uber-analysis) 
