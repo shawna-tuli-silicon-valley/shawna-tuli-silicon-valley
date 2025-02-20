@@ -235,7 +235,7 @@ ________________________________________________________________________________
 * Networking, Industry Knowledge
 
 #### Investment Management
-* Confidence, Curiousity, Negotiation, Emotional Intelligence, Problem Solving, Math, Portfolio Management, Risk Management, Asset Management, Due Diligence, Fixed Income Analysis, Bloomberg Terminal
+* Confidence, Curiousity, Emotional Intelligence, Problem Solving, Math, Portfolio Management, Risk Management, Asset Management, Due Diligence, Fixed Income Analysis, Bloomberg Terminal
 
 #### Analytics
 * Analytics, Leadership, Strategy, Communication, Critical Thinking, Research, Product, Data Mining, Data Visualization ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
