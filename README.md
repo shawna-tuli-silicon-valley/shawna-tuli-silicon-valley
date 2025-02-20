@@ -175,24 +175,6 @@ ________________________________________________________________________________
 * University of California, Davis - SQL for Data Science [(Certificate)](https://www.coursera.org/account/accomplishments/certificate/TG58RPJKTBB9)
 * Harvard Univerity Artificial Intelligence [(Repo)](https://github.com/shawna-tuli-silicon-valley/harvard-ai)
 
-#### SOLUTION ARCHITECTING SKILLS
-* Long-term Vision, Innovation, Presentation, Negotiation, Stakeholder Management, Scalability, Integration, Financial Awareness
-  
-#### VENTURE CAPITAL SKILLS
-* Networking, Industry Knowledge
-
-#### INVESTMENT MANAGEMENT SKILLS
-* Confidence, Curiousity, Negotiation, Emotional Intelligence, Problem Solving, Math, Portfolio Management, Risk Management, Asset Management, Due Diligence, Fixed Income Analysis, Bloomberg Terminal
-
-#### ANALYTICS SKILLS
-* Analytics, Leadership, Strategy, Communication, Critical Thinking, Research, Product, Data Mining, Data Visualization ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
-
-#### MARKETING SKILLS
-* Listening, Writing, Design, CRM, SEO, Data Collection, Collaboration, Social Media Marketing ![Adobe](https://img.shields.io/badge/Adobe-FF0000.svg?style=for-the-badge&logo=Adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Mailchimp](https://img.shields.io/badge/MailChimp-FFE01B.svg?style=for-the-badge&logo=MailChimp&logoColor=black) ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0.svg?style=for-the-badge&logo=Salesforce&logoColor=white) ![Looker](https://img.shields.io/badge/Looker-4285F4.svg?style=for-the-badge&logo=Looker&logoColor=white)
-
-#### BUSINESS INTELLIGENCE SKILLS
-* Business Intelligence, Google PLX, Amazon QuickSight ![Google Data Studio](https://img.shields.io/badge/Google%20Data%20Studio-669DF6.svg?style=for-the-badge&logo=Google-Data-Studio&logoColor=white) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
 #### ![GOOGLE](https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=fff&style=for-the-badge) EDUCATION
 * Introduction to Large Language Models (Badge), Google Cloud Digital Leader, Google Training in Generative Artificial Intelligence [(Training)](https://cloud.google.com/blog/topics/training-certifications/12-days-of-no-cost-generative-ai-training), Google Cloud Certificates in Generative Artificial Intelligence [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-cloud-generative-ai/), Google Certificates in Advanced Data Analytics [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-advanced-data-analytics-professional-certificate), Google Certificates in Data Analytics [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-data-analytics-professional-certificate), Google Certificates in Business Intelligence [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-business-intelligence-professional-certificate), Google Certificates in Project Management [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-project-management-professional-certificate)
 
@@ -215,6 +197,8 @@ ________________________________________________________________________________
 #### ![ACCENTURE](https://img.shields.io/badge/Accenture-A100FF.svg?style=for-the-badge&logo=Accenture&logoColor=white) EDUCATION 
 * Avanade License to Hire Recertification, Avanade Leadership Accelerator, Avanade Generative AI Learning Path, Avanade Growth Mindset Training, Avanade License to Hire Certification
 
+
+__________________________________________________________________________________________________________________________________________________________________________
 #### GENERATIVE ARTIFICIAL INTELLIGENCE SKILLS
 * Generative Artificial Intelligence, Large Language Models, AI Ethics, Generative Artificial Intelligence with Databricks
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E.svg?style=for-the-badge&logo=Hugging-Face&logoColor=black) ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2.svg?style=for-the-badge&logo=Google-Gemini&logoColor=white) ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000.svg?style=for-the-badge&logo=GitHub-Copilot&logoColor=white)
@@ -227,8 +211,26 @@ ________________________________________________________________________________
 * Data Science, Seaborn
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C.svg?style=for-the-badge&logo=Apache-Spark&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
+#### SOLUTION ARCHITECTING SKILLS
+* Long-term Vision, Innovation, Presentation, Negotiation, Stakeholder Management, Scalability, Integration, Financial Awareness
+
 #### DATA ENGINEERING SKILLS
 * Data Engineering ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![DataBricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white) ![Google BigQuery](https://img.shields.io/badge/Google%20BigQuery-669DF6.svg?style=for-the-badge&logo=Google-BigQuery&logoColor=white) ![Amazon RedShift](https://img.shields.io/badge/Amazon%20Redshift-8C4FFF.svg?style=for-the-badge&logo=Amazon-Redshift&logoColor=white)
+__________________________________________________________________________________________________________________________________________________________________________  
+#### VENTURE CAPITAL SKILLS
+* Networking, Industry Knowledge
+
+#### INVESTMENT MANAGEMENT SKILLS
+* Confidence, Curiousity, Negotiation, Emotional Intelligence, Problem Solving, Math, Portfolio Management, Risk Management, Asset Management, Due Diligence, Fixed Income Analysis, Bloomberg Terminal
+
+#### ANALYTICS SKILLS
+* Analytics, Leadership, Strategy, Communication, Critical Thinking, Research, Product, Data Mining, Data Visualization ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
+
+#### MARKETING SKILLS
+* Listening, Writing, Design, CRM, SEO, Data Collection, Collaboration, Social Media Marketing ![Adobe](https://img.shields.io/badge/Adobe-FF0000.svg?style=for-the-badge&logo=Adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Mailchimp](https://img.shields.io/badge/MailChimp-FFE01B.svg?style=for-the-badge&logo=MailChimp&logoColor=black) ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0.svg?style=for-the-badge&logo=Salesforce&logoColor=white) ![Looker](https://img.shields.io/badge/Looker-4285F4.svg?style=for-the-badge&logo=Looker&logoColor=white)
+
+#### BUSINESS INTELLIGENCE SKILLS
+* Business Intelligence, Google PLX, Amazon QuickSight ![Google Data Studio](https://img.shields.io/badge/Google%20Data%20Studio-669DF6.svg?style=for-the-badge&logo=Google-Data-Studio&logoColor=white) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 #### SOFTWARE ENGINEERING SKILLS
 * Software Engineering, Object-Oriented Programming, APIs ![Microsoft Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white) ![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black) ![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white) ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white) ![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46.svg?style=for-the-badge&logo=GeeksforGeeks&logoColor=white) ![Goland](https://img.shields.io/badge/GoLand-000000.svg?style=for-the-badge&logo=GoLand&logoColor=white) ![HomeBrew](https://img.shields.io/badge/Homebrew-FBB040.svg?style=for-the-badge&logo=Homebrew&logoColor=black)
