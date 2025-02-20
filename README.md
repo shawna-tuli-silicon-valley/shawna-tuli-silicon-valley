@@ -175,6 +175,9 @@ ________________________________________________________________________________
 * University of California, Davis - SQL for Data Science [(Certificate)](https://www.coursera.org/account/accomplishments/certificate/TG58RPJKTBB9)
 * Harvard Univerity Artificial Intelligence [(Repo)](https://github.com/shawna-tuli-silicon-valley/harvard-ai)
 
+#### SOLUTION ARCHITECTING SKILLS
+* Long-term Vision, Innovation, Presentation, Negotiation, Stakeholder Management, Scalability, Integration, Financial Awareness
+  
 #### VENTURE CAPITAL SKILLS
 * Networking, Industry Knowledge
 
