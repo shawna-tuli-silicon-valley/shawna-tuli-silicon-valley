@@ -5,7 +5,7 @@ Shawna Tuli is a seasoned San Francisco & Mountain View ***Artificial Intelligen
 Shawna has bettered Accenture into Forbes #1 Management Consulting Firm and Avanade into AI Breakthrough Awards Best AI Consulting Service Provider. She is the Avanade Northern California Social & Networking Champion. Shawna has played a key role in building Avanade's Artificial Intelligence & Automation Practice, Intelligent Data Platform Practice, and Artificial Intelligence Studio from the ground up in collaboration with David Gormley, serving as the Northern California Lead and Forecasting Champion. She has made significant contributions, by leading teams, to major big technology companies, including **Microsoft**, delivering AI & Data Science solutions at Fortune 500 clients, **Google**, working on ***Google products*** such as Photos, Cloud, Play, and One, and **Amazon**, migrating to ***products***. Shawna advises for **Harvard Business Review**. Her strengths are Activator, Achiever, Futuristic, Competition, and Significance.   
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-Leadership highlights:
+#### LEADERSHIP HIGHLIGHTS
 1. San Francisco & Mountain View Accenture & Avanade AI & Data Science and Strategy - [Accenture](https://www.accenture.com/us-en/services/data-ai) & [Avanade](https://www.avanade.com/en-us/services/artificial-intelligence) (4.5+ years)
 2. San Francisco & Mountain View Accenture & Avanade AI & Data Science and Strategy Hiring - [Accenture](https://www.accenture.com/us-en/services/data-ai) & [Avanade](https://www.avanade.com/en-us/services/artificial-intelligence) (4.5+ years)
 3. San Francisco & Mountain View Microsoft AI & Data Science - [Microsoft Learn](https://learn.microsoft.com/en-us/users/shawnatuli-1762/?redeem=RN4ZKZ&WT.mc_id=ilt_partner_webpage_wwl&ocid=3103897&DCS=DEPR2550058&source=docs) (4.5+ years)
@@ -16,8 +16,8 @@ Leadership highlights:
 8. San Francisco Penn Medicine Radiation Oncology Global Radiation Oncology Data Science - [UCI ICS Google Scholar](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en) (4.5 years)
 9. Irvine Up to Us National Debt Marketing Data Science and Strategy - [UCI Merage Credly](https://www.credly.com/users/shawna-tuli/badges) (6 months)
 10. Bicoastal Indian American Community - [The Brown Boy: An Endless Cycle](https://www.thepasupu.blog/post/the-brown-boy-an-endless-cycle) (Life)
-
-Award highlights:
+__________________________________________________________________________________________________________________________________________________________________________
+#### AWARD HIGHLIGHTS
 1. Accenture Everest Group Artificial Intelligence (AI) and Generative AI Services PEAK Matrix Assessment #1 
 2. Accenture Fortune World's Most Admired Companies, #1 in IT Services (6x)
 3. Accenture Brand Finance's Most Valuable Brands, #1 in IT Services (6x)
