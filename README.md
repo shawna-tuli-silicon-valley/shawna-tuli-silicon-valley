@@ -176,14 +176,16 @@ ________________________________________________________________________________
 * Harvard Univerity Artificial Intelligence [(Repo)](https://github.com/shawna-tuli-silicon-valley/harvard-ai)
 _________________________________________________________________________________________________________________________________________________________________________
 #### INDUSTRY EDUCATION
+#### ![ACCENTURE](https://img.shields.io/badge/Accenture-A100FF.svg?style=for-the-badge&logo=Accenture&logoColor=white)
+* Avanade License to Hire Recertification, Avanade Leadership Accelerator, Avanade Generative AI Learning Path, Avanade Growth Mindset Training, Avanade License to Hire Certification
+
 #### ![GOOGLE](https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=fff&style=for-the-badge)
 * Introduction to Large Language Models (Badge), Google Cloud Digital Leader, Google Training in Generative Artificial Intelligence [(Training)](https://cloud.google.com/blog/topics/training-certifications/12-days-of-no-cost-generative-ai-training), Google Cloud Certificates in Generative Artificial Intelligence [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-cloud-generative-ai/), Google Certificates in Advanced Data Analytics [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-advanced-data-analytics-professional-certificate), Google Certificates in Data Analytics [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-data-analytics-professional-certificate), Google Certificates in Business Intelligence [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-business-intelligence-professional-certificate), Google Certificates in Project Management [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-project-management-professional-certificate)
 
 #### ![MICROSOFT](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)
 * M365 CoPilot Prompting Masterclass, M365 CoPilot License, The Copilot Experience Essentials, AI-102 Microsoft Designing and Implementing a MS Azure AI Solution, Microsoft Azure AI Partner Council | Azure AI Search, Microsoft Azure Data and AI - Microsoft Partner Sales Strategy Training
 
-#### ![ACCENTURE](https://img.shields.io/badge/Accenture-A100FF.svg?style=for-the-badge&logo=Accenture&logoColor=white)
-* Avanade License to Hire Recertification, Avanade Leadership Accelerator, Avanade Generative AI Learning Path, Avanade Growth Mindset Training, Avanade License to Hire Certification
+#### ![AMAZON](https://img.shields.io/badge/Amazon-FF9900.svg?style=for-the-badge&logo=Amazon&logoColor=white)
 ___________________________________________________________________________________________________________________________________________________________________________
 #### BOOKS & PODCASTS
 
