@@ -53,7 +53,7 @@ ________________________________________________________________________________
 * 🚚 2. AI & Data Science Manager at Amazon San Francisco & Mountain View - leading 4 Cloud Engineers on PB mailboxes
 * 🌈 Accenture San Francisco Innovation Hub & Mountain View DSSG Lead at UWBA Phase 3, leading 4 Data Scientists [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-uwba-ai-and-data-science-2/tree/main)
 * 🗳️ Accenture San Francisco Innovation Hub & Mountain View DSSG Lead at UWBA Brunch & Ballots [(Repo)](https://github.com/shawna-tuli-silicon-valley/uwba-ai-and-data-science/tree/main)
-* 📖 Accenture San Francisco Innovation Hub & Mountain View Amazon Account Learn & Grow Mentor - teaching AI
+* 📘 Accenture San Francisco Innovation Hub & Mountain View Amazon Account Learn & Grow Mentor - teaching AI
 * 🏖️ Google Cloud Launchpad for Women: Edition 3 
 * 🔥 Microsoft Ignite (5x) [(Episodes)](https://ignite.microsoft.com/en-US/home)
 * ☀️ Avanade San Francisco Innovation Hub & Mountain View AI & Automation Practice Solution Architect - solutioning AI
@@ -195,6 +195,9 @@ ________________________________________________________________________________
 
 #### ![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
 * ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white) ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0) ![Zsh](https://img.shields.io/badge/Zsh-F15A24.svg?style=for-the-badge&logo=Zsh&logoColor=white)
+
+#### Agentic Artificial Intelligence
+* Prompt Engineering, Responsible AI
 
 #### Generative Artificial Intelligence
 * Generative Artificial Intelligence, Large Language Models, AI Ethics, Generative Artificial Intelligence with Databricks
