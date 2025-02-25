@@ -39,6 +39,7 @@ ________________________________________________________________________________
 * 🎯 Goal 2: AI & Data Science Manager at Google Mountain View
 * 🌟 Goal 1: AI & Data Science Manager at Avanade San Francisco Innovation Hub & Mountain View [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics-4/tree/main)
 * 📫 3. Incoming AI & Data Science Manager at Amazon San Francisco & Mountain View
+* 📒 Microsoft's Better Together: Innovate, Inspire, Impact - The Future of Leadership Mountain View 
 * 🌸 Instructor at Accenture Mountain View Wellness Fair 
 * 🚋 Educator at Accenture San Francisco Innovation Hub University of Washington Recruitment 
 * 🗣️ Accenture San Francisco Innovation Hub FY25 APAERG Leadership Summit
@@ -128,7 +129,7 @@ ________________________________________________________________________________
 * 🪩 Accenture San Francisco Innovation Hub Happy Hours (18x)
 * 🏛️ Accenture San Francisco Innovation Hub Quarterly TownHalls (18x)
 * 📅 Avanade San Francisco Innovation Hub Quarterly TownHalls (18x)
-* 📊 18 Penn Medicine Radiation Oncology articles and led 30+ Surgeons, Doctors, and Students [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-penn-medicine-global-radiation-oncology-analytics) [(Google Scholar)](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en)
+* 📊 19 Penn Medicine Radiation Oncology articles and led 30+ Surgeons, Doctors, and Students [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-penn-medicine-global-radiation-oncology-analytics) [(Google Scholar)](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en)
 * 💬 Grace Hopper Celebration of Women in Computing Conference Orlando [(Repo)](https://github.com/shawna-tuli-silicon-valley/grace-hopper-celebration-of-women-in-engineering/tree/main)
 * 🖼️ Avanade Irvine Top 5 in Innovation - created an Azure AI product via computer vision and an one-shot GAN [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-irvine-ai-product)
 * 💼 Avanade FUEL: Innovation, Leadership and Technology Conference Pomona
