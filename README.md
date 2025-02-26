@@ -44,7 +44,7 @@ ________________________________________________________________________________
 * 🚋 Educator at Accenture San Francisco Innovation Hub University of Washington Recruitment 
 * 🗣️ Accenture San Francisco Innovation Hub FY25 APAERG Leadership Summit
 * 🛢️ CES [(Videos)](https://videos.ces.tech/)
-* 🚗 5) Accenture AI & Data Science Advisor - business modeling Uber and leading 5 Data Scientists [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-bi-and-data-science/tree/main) [(Student Repo)](https://github.com/jiangyue-amber/uber-analysis) 
+* 🚗 5) Accenture AI & Data Science Advisor - business modeling Uber and led 5 Data Scientists [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-bi-and-data-science/tree/main) [(Student Repo)](https://github.com/jiangyue-amber/uber-analysis) 
 * 🍏 Freakonomics Radio Live with Stephen Dubner and special guests San Francisco
 * ❄️ Accenture San Francisco Innovation Hub AI Holiday Party
 * 🎄 Accenture San Francisco Innovation Hub Holidays Party (4x)
