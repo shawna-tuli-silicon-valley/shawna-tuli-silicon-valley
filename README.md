@@ -37,9 +37,9 @@ ________________________________________________________________________________
 
 #### SILICON VALLEY BIG TECH AI & DATA SCIENCE, ADVANCED ANALYTICS, AND STRATEGY LEADERSHIP & PUBLIC SPEAKING EXPERIENCE (2014-Present) 
 * 🎯 Goal: AI & Data Science Manager at Google Mountain View
-* 🌟 AI & Data Science Manager at Avanade San Francisco Innovation Hub & Mountain View [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics-4/tree/main)
-* 🎤 Presenter of Powering Your Network at Accenture Mountain View
 * 📫 3. Incoming AI & Data Science Manager at Amazon San Francisco & Mountain View
+* 🌟 Incoming AI & Data Science Manager at Avanade San Francisco Innovation Hub & Mountain View [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics-4/tree/main)
+* 🎤 Presenter of Powering Your Network at Accenture Mountain View
 * 📒 Microsoft's Better Together: Innovate, Inspire, Impact - The Future of Leadership Mountain View 
 * 🌸 Instructor at Accenture Mountain View Wellness Fair 
 * 🚋 Educator at Accenture San Francisco Innovation Hub University of Washington Recruitment 
