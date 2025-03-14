@@ -23,16 +23,17 @@ ________________________________________________________________________________
 3. Accenture Brand Finance's Most Valuable Brands, #1 in IT Services (6x)
 4. Accenture The Wall Street Journal Best-Managed Companies (6x)
 5. Accenture Brand Finance US 500 (6x)
-6. Accenture Forbes #1 Management Consulting Firm
-7. Avanade AI Breakthrough Awards Best AI Consulting Service Provider
-8. Google AI for everyone | Bay Area for significant contributions to AI
-9. Google’s cloud business turns profitable for the first time on record
-10. Accenture V360 Awards in Innovation Nominee (4x)
-11. Accenture Fortune 100 Best Companies to Work For in the US (6x), Top 10 (3x)
-12. Avanade Best Baker 
-13. Avanade We Believe Everyone Counts Super Hero
-14. Avanade We Deliver with Excellence Super Hero
-15. Avanade Create the Future Super Hero (2x)
+6. Accenture Ethisphere World’s Most Ethical Companies (6x)
+7. Accenture Forbes #1 Management Consulting Firm
+8. Avanade AI Breakthrough Awards Best AI Consulting Service Provider
+9. Google AI for everyone | Bay Area for significant contributions to AI
+10. Google’s cloud business turns profitable for the first time on record
+11. Accenture V360 Awards in Innovation Nominee (4x)
+12. Accenture Fortune 100 Best Companies to Work For in the US (6x), Top 10 (3x)
+13. Avanade Best Baker 
+14. Avanade We Believe Everyone Counts Super Hero
+15. Avanade We Deliver with Excellence Super Hero
+16. Avanade Create the Future Super Hero (2x)
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 #### SILICON VALLEY BIG TECH AI & DATA SCIENCE, ADVANCED ANALYTICS, AND STRATEGY LEADERSHIP & PUBLIC SPEAKING EXPERIENCE (2014-Present) 
