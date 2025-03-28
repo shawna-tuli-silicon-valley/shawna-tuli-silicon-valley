@@ -246,7 +246,7 @@ ________________________________________________________________________________
 * Listening, Writing, Design, CRM, SEO, Data Collection, Collaboration, Social Media Marketing ![Adobe](https://img.shields.io/badge/Adobe-FF0000.svg?style=for-the-badge&logo=Adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Mailchimp](https://img.shields.io/badge/MailChimp-FFE01B.svg?style=for-the-badge&logo=MailChimp&logoColor=black) ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0.svg?style=for-the-badge&logo=Salesforce&logoColor=white) ![Looker](https://img.shields.io/badge/Looker-4285F4.svg?style=for-the-badge&logo=Looker&logoColor=white)
 
 #### Sales
-* Active Listening, Relationship Building, Adaptibility, Resilience, Persistence, Customer Service, Business Acumen, Sales Demoning, Product Knowledge, Conflict Management, Customer Engagement
+* Active Listening, Relationship Building, Adaptibility, Resilience, Persistence, Customer Service, Business Acumen, Sales Demoning, Product Knowledge, Time Management, Conflict Management, Customer Engagement
 ___________________________________________________________________________________________________________________________________________________________________________
 #### LANGUAGES
 * English, Hindi, Punjabi, Spanish
