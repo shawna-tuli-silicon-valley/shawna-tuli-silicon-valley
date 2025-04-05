@@ -250,7 +250,7 @@ ________________________________________________________________________________
 * Active Listening, Relationship Building, Adaptibility, Resilience, Persistence, Customer Service, Business Acumen, Sales Demoning, Product Knowledge, Time Management, Conflict Management, Customer Engagement
 ___________________________________________________________________________________________________________________________________________________________________________
 #### LANGUAGES
-* English, Hindi, Punjabi, Spanish
+* English (Native), Hindi (Bilingual), Spanish (Professional), Punjabi (Limited)
 ___________________________________________________________________________________________________________________________________________________________________________
 #### TEST SCORE
 * GMAT - Waived
