@@ -11,7 +11,7 @@ ________________________________________________________________________________
 3. Mountain View & Sunnyvale Google AI & Data Science, Product Strategy, and Business Intelligence - [Google](https://ai.google) (14 weeks at [Google Photos](https://www.google.com/photos/about/); 1 year at [Google Cloud](https://cloud.google.com/), [Google Play](https://play.google.com/store/games?hl=en_US), and [Google One](https://one.google.com/about/))
 4. San Francisco & Mountain View Microsoft AI & Data Science - [Microsoft Learn](https://learn.microsoft.com/en-us/users/shawnatuli-1762/?redeem=RN4ZKZ&WT.mc_id=ilt_partner_webpage_wwl&ocid=3103897&DCS=DEPR2550058&source=docs) (~5 years)
 5. San Francisco & Mountain View Amazon AI & Data Science and Product Strategy - [Amazon](https://www.aboutamazon.com/artificial-intelligence-ai-news) (~2 years at Amazon Mailbox Core)
-6. Bay Area Accenture Poverty Alleviation AI & Data Science and Strategy - [United Way Bay Area](https://uwba.org/) (~2 years)
+6. Bay Area Accenture Poverty Alleviation AI & Data Science, Strategy, and Business Intelligence - [United Way Bay Area](https://uwba.org/) (~2 years)
 7. California Accenture AI & Data Science and Strategy - [Accenture California Data & AI Google Scholar](https://scholar.google.com/citations?hl=en&user=7F6YV8MAAAAJ) (~5 years)
 8. San Francisco Penn Medicine Radiation Oncology Global Radiation Oncology Data Science - [UCI ICS Google Scholar](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en) (4.5 years)
 9. Irvine Up to Us National Debt Marketing Data Science and Strategy - [UCI Merage Credly](https://www.credly.com/users/shawna-tuli/badges) (6 months)
