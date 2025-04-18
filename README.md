@@ -42,6 +42,7 @@ ________________________________________________________________________________
 * 🎯 Goal 1: AI & Data Science Manager at Google Mountain View
 * 📫 3. Incoming AI & Data Science Manager at Amazon San Francisco & Mountain View
 * 🌟 Incoming AI & Data Science Manager at Avanade San Francisco Innovation Hub & Mountain View [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics-4/tree/main)
+* 💆🏽‍♀️ Accenture Mountain View Wellness Committee Member - orchestrating events
 * 🍽️ Accenture San Francisco Innovation Hub Third Thursdays (57x)
 * 👩🏻‍💻 Accenture Mountain View Computer History Museum Visit
 * 🎂 Avanade's 25th Anniversary San Francisco Happy Hour 
@@ -68,7 +69,7 @@ ________________________________________________________________________________
 * ☀️ Avanade San Francisco Innovation Hub & Mountain View AI & Automation Practice Solution Architect - solutioning AI
 * 𓊍 Microsoft Avanade Northern California Climb to the Top: San Francisco 2024 [(Article)](https://events.nationalmssociety.org/index.cfm?fuseaction=donorDrive.participant&participantID=571802)
 * 🎁 Avanade San Francisco Innovation Hub & Mountain View AI & Automation Practice CA - advising 2 Data Scientists
-* 🧿 Accenture Mountain View Wellness Committee Ambassador - running events [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness)
+* 🧿 Accenture Mountain View Wellness Committee Ambassador - ran events [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness)
 * 🧁 Avanade Mountain View Chair - arranging events
 * 🏅 Avanade - honored as AI Breakthrough Awards Best AI Consulting Service Provider
 * 🏆 Accenture - honored as Forbes #1 Management Consulting Firm
