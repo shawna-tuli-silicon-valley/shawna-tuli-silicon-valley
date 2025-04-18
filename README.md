@@ -49,7 +49,7 @@ ________________________________________________________________________________
 * 🎤 Presenter of Powering Your Network at Accenture Mountain View
 * 📒 Microsoft's Better Together: Innovate, Inspire, Impact - The Future of Leadership Mountain View 
 * 🌸 Instructor at Accenture Mountain View Wellness Fair 
-* 🚋 Educator at Accenture San Francisco Innovation Hub University of Washington Recruitment 
+* 🚋 AI & Data Science Educator at Accenture San Francisco Innovation Hub University of Washington Recruitment 
 * 🗣️ Accenture San Francisco Innovation Hub FY25 APAERG Leadership Summit
 * 🛢️ CES [(Videos)](https://videos.ces.tech/)
 * 🚗 5) Accenture AI & Data Science Advisor - business modeled Uber and led 5 Data Scientists [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-bi-and-data-science/tree/main) [(Student Repo)](https://github.com/jiangyue-amber/uber-analysis) 
