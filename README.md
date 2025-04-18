@@ -46,7 +46,7 @@ ________________________________________________________________________________
 * 🍽️ Accenture San Francisco Innovation Hub Third Thursdays (57x)
 * 👩🏻‍💻 Accenture Mountain View Computer History Museum Visit
 * 🎂 Avanade's 25th Anniversary San Francisco Happy Hour 
-* 🙏 Host of Start Your Gratitude Journal to Improve Your Health Event at Accenture Mountain View 
+* 🙏 Host of Start Your Gratitude Journal to Improve Your Health Event at Accenture Mountain View - 100% booked.
 * 🎤 Presenter of Powering Your Network at Accenture Mountain View
 * 📒 Microsoft's Better Together: Innovate, Inspire, Impact - The Future of Leadership Mountain View 
 * 🌸 Instructor at Accenture Mountain View Wellness Fair 
