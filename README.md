@@ -42,6 +42,8 @@ ________________________________________________________________________________
 * 🎯 Goal 1: AI & Data Science Manager at Google Mountain View
 * 📫 3. Incoming AI & Data Science Manager at Amazon San Francisco & Mountain View
 * 🌟 Incoming AI & Data Science Manager at Avanade San Francisco Innovation Hub & Mountain View [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics-4/tree/main)
+* 🎙️Accenture Mountain View Elocutionist Speaker Event: Career Panel - Data Science in Industry
+* 📰 Accenture Mountain View Spokesperson at Explore ICS: UCI Research Showcase
 * 💆🏽‍♀️ Accenture Mountain View Wellness Committee Member - orchestrating events
 * 🍽️ Accenture San Francisco Innovation Hub Third Thursdays (57x)
 * 모 Accenture Mountain View Computer History Museum Visit
