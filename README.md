@@ -44,9 +44,9 @@ ________________________________________________________________________________
 * 🌟 Incoming AI & Data Science Manager at Avanade San Francisco Innovation Hub & Mountain View [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics-4/tree/main)
 * 💆🏽‍♀️ Accenture Mountain View Wellness Committee Member - orchestrating events
 * 🍽️ Accenture San Francisco Innovation Hub Third Thursdays (57x)
-* 📅 Accenture Mountain View Computer History Museum Visit
+* 모 Accenture Mountain View Computer History Museum Visit
 * 🎂 Avanade's 25th Anniversary San Francisco Happy Hour 
-* 🙏 Host of Start Your Gratitude Journal to Improve Your Health Event at Accenture Mountain View - 100% booked.
+* 🙏🏽 Host of Start Your Gratitude Journal to Improve Your Health Event at Accenture Mountain View - 100% booked.
 * 🎤 Presenter of Powering Your Network at Accenture Mountain View
 * 📒 Microsoft's Better Together: Innovate, Inspire, Impact - The Future of Leadership Mountain View 
 * 🌸 Instructor at Accenture Mountain View Wellness Fair 
