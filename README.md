@@ -18,16 +18,16 @@ ________________________________________________________________________________
 10. Bicoastal Indian American Community (Life)
 __________________________________________________________________________________________________________________________________________________________________________
 #### AWARD HIGHLIGHTS
-1. Accenture Everest Group Artificial Intelligence (AI) and Generative AI Services PEAK Matrix Assessment #1 
-2. Accenture Fortune World's Most Admired Companies, #1 in IT Services (6x)
-3. Accenture Brand Finance's Most Valuable Brands, #1 in IT Services (6x)
-4. Accenture The Wall Street Journal Best-Managed Companies (6x)
-5. Accenture Brand Finance US 500 (6x)
-6. Accenture Ethisphere World’s Most Ethical Companies (6x)
-7. Accenture Forbes #1 Management Consulting Firm
-8. Avanade AI Breakthrough Awards Best AI Consulting Service Provider
-9. Google AI for everyone | Bay Area for significant contributions to AI
-10. Google’s cloud business turns profitable for the first time on record
+1. Google AI for everyone | Bay Area for significant contributions to AI
+2. Google’s cloud business turns profitable for the first time on record
+3. Accenture Everest Group Artificial Intelligence (AI) and Generative AI Services PEAK Matrix Assessment #1 
+4. Accenture Fortune World's Most Admired Companies, #1 in IT Services (6x)
+5. Accenture Brand Finance's Most Valuable Brands, #1 in IT Services (6x)
+6. Accenture The Wall Street Journal Best-Managed Companies (6x)
+7. Accenture Brand Finance US 500 (6x)
+8. Accenture Ethisphere World’s Most Ethical Companies (6x)
+9. Accenture Forbes #1 Management Consulting Firm
+10. Avanade AI Breakthrough Awards Best AI Consulting Service Provider
 11. Accenture V360 Awards in Innovation Nominee (4x)
 12. Accenture Fortune 100 Best Companies to Work For in the US (6x), Top 10 (3x)
 13. Avanade Best Baker 
