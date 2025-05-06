@@ -262,48 +262,48 @@ ________________________________________________________________________________
 * GMAT - Waived
 ___________________________________________________________________________________________________________________________________________________________________________
 #### PUBLISHED PAPERS AND POSTERS
-● “Comprehensive forecasting of California's energy consumption: a multi-source and sectoral analysis using ARIMA and
+* “Comprehensive forecasting of California's energy consumption: a multi-source and sectoral analysis using ARIMA and
 ARIMAX models” in World Journal of Advanced Research and Reviews.
-● “Comprehensive Forecasting of California's Energy Consumption: A Multi-Source and Sectoral Analysis Using ARIMA and
+* “Comprehensive Forecasting of California's Energy Consumption: A Multi-Source and Sectoral Analysis Using ARIMA and
 ARIMAX Models” in Stanford Libraries, arxiv.org/pdf/2402.04432, Avanade AI Studio, and Accenture Knowledge Exchange.
-● “Call Center CoPilot: Enhancing Customer Service with Large Language Models” in University of California, Irvine
+* “Call Center CoPilot: Enhancing Customer Service with Large Language Models” in University of California, Irvine
 Undergraduate Research Opportunities Program, Avanade AI Studio, and Accenture Knowledge Exchange.
-● “Accenture Call Center Co-Pilot” in Avanade AI Studio and Accenture Knowledge Exchange.
-● “Predicting Energy Consumption in California” in National Science Foundation, Avanade AI Studio, and Accenture
+* “Accenture Call Center Co-Pilot” in Avanade AI Studio and Accenture Knowledge Exchange.
+* “Predicting Energy Consumption in California” in National Science Foundation, Avanade AI Studio, and Accenture
 Knowledge Exchange.
-● “California Energy Consumption Prediction” in Accenture Knowledge Exchange and Avanade AI Studio.
-● “Predicting risk of Type 2 diabetes with AI in California” in Accenture Knowledge Exchange and Avanade AI Studio.
-● “Five-year overall survival following chemoradiation therapy for locally advanced cervical carcinoma in women living with
+* “California Energy Consumption Prediction” in Accenture Knowledge Exchange and Avanade AI Studio.
+* “Predicting risk of Type 2 diabetes with AI in California” in Accenture Knowledge Exchange and Avanade AI Studio.
+* “Five-year overall survival following chemoradiation therapy for locally advanced cervical carcinoma in women living with
 and without HIV infection in Botswana” in Infectious Agents and Cancer and National Library of Medicine.
-● “Stage and outcomes of invasive cervical cancer patients in Botswana: a prospective cohort study from 2013 to 2020” in
+* “Stage and outcomes of invasive cervical cancer patients in Botswana: a prospective cohort study from 2013 to 2020” in
 International Journal of Radiation Oncology* Biology* Physics, American Society for Radiation Oncology, Gynecologic
 Oncology Reports, Stanford Libraries, and National Library of Medicine.
-● “Delays in cervical cancer treatment initiation for patients living with or without HIV in Botswana: An observational cohort
+* “Delays in cervical cancer treatment initiation for patients living with or without HIV in Botswana: An observational cohort
 analysis (2015-2019)” in International Journal of Radiation Oncology* Biology* Physics, Stanford Libraries, and National
 Library of Medicine.
-● “Longitudinal Patterns of Survivorship Care in Cervical Cancer Patients Living With or Without HIV in Botswana,
+* “Longitudinal Patterns of Survivorship Care in Cervical Cancer Patients Living With or Without HIV in Botswana,
 2015-2023” in American Society for Radiation Oncology.
-● “729P Patterns of survivorship care of cervical cancer patients with or without HIV infection in Botswana 2015-2022” in
+* “729P Patterns of survivorship care of cervical cancer patients with or without HIV infection in Botswana 2015-2022” in
 Annals of Oncology.
-● “Treatment delays of cervical cancer with or without Human Immunodeficiency Virus infection in Botswana 2013-2020”
+* “Treatment delays of cervical cancer with or without Human Immunodeficiency Virus infection in Botswana 2013-2020”
 in Penn Undergraduate Research Mentoring Program.
-● “Stage and outcomes of cervical cancer with or without HIV infection in Botswana 2013-2020” in Penn Undergraduate
+* “Stage and outcomes of cervical cancer with or without HIV infection in Botswana 2013-2020” in Penn Undergraduate
 Research Mentoring Program.
-● “Role for Neoadjuvant chemotherapy and less invasive surgery in management of early stage cervical cancer in
+* “Role for Neoadjuvant chemotherapy and less invasive surgery in management of early stage cervical cancer in
 Botswana” in International Gynecologic Cancer Society.
-● “Treatment toxicities of cervical cancer with or without HIV infection in Botswana 2013-2020” in European Society for
+* “Treatment toxicities of cervical cancer with or without HIV infection in Botswana 2013-2020” in European Society for
 Radiotherapy and Oncology in Radiotherapy and Oncology.
-● “PO-1315 Treatment toxicities of cervical cancer with or without HIV infection in Botswana 2013-2020” in Radiotherapy
+* “PO-1315 Treatment toxicities of cervical cancer with or without HIV infection in Botswana 2013-2020” in Radiotherapy
 and Oncology.
-● “EPV065/# 372 Role for neoadjuvant chemotherapy and less invasive surgery in management of early stage cervical
+* “EPV065/# 372 Role for neoadjuvant chemotherapy and less invasive surgery in management of early stage cervical
 cancer in Botswana” in International Journal of Gynecologic Cancer.
-● “Delays In Cervical Cancer Treatment Initiation For Patients Living With Or Without HIV In Botswana 2015-2019” in
+* “Delays In Cervical Cancer Treatment Initiation For Patients Living With Or Without HIV In Botswana 2015-2019” in
 Institute of Child & Mother Health.
-● “Patterns of Survivorship Care Of Cervical Cancer Patients With Or Without HIV Infection In Botswana 2015-2022” in
+* “Patterns of Survivorship Care Of Cervical Cancer Patients With Or Without HIV Infection In Botswana 2015-2022” in
 Institute of Child & Mother Health.
-● “Patterns of Survivorship Care of Cervical Cancer Patients with or without HIV Infection” in European Society for
+* “Patterns of Survivorship Care of Cervical Cancer Patients with or without HIV Infection” in European Society for
 Medical Oncology.
-● “Patterns of Survivorship Care of Cervical Cancer Patients in Botswana” in JNCI Cancer Spectrum: Special Call for
+* “Patterns of Survivorship Care of Cervical Cancer Patients in Botswana” in JNCI Cancer Spectrum: Special Call for
 Papers.
 ___________________________________________________________________________________________________________________________________________________________________________
 #### EDUCATION
