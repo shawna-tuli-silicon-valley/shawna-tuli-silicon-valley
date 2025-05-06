@@ -141,7 +141,7 @@ ________________________________________________________________________________
 * 🪩 Accenture San Francisco Innovation Hub Happy Hours (19x)
 * 🏛️ Accenture San Francisco Innovation Hub Quarterly TownHalls (19x)
 * 📅 Avanade San Francisco Innovation Hub Quarterly TownHalls (19x)
-* 📊 20 Penn Medicine Radiation Oncology articles and led 30+ Surgeons, Doctors, and Students [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-penn-medicine-global-radiation-oncology-analytics) [(Google Scholar)](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en)
+* 📊 22 Penn Medicine Radiation Oncology articles and led 30+ Surgeons, Doctors, and Students [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-penn-medicine-global-radiation-oncology-analytics) [(Google Scholar)](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en)
 * 🍊 Grace Hopper Celebration of Women in Computing Conference Orlando [(Repo)](https://github.com/shawna-tuli-silicon-valley/grace-hopper-celebration-of-women-in-engineering/tree/main)
 * 🖼️ Avanade Irvine Top 5 in Innovation - created an Azure AI product via computer vision and an one-shot GAN [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-irvine-ai-product)
 * 💼 Avanade FUEL: Innovation, Leadership and Technology Conference Pomona
@@ -245,48 +245,48 @@ ________________________________________________________________________________
 * GMAT - Waived
 ___________________________________________________________________________________________________________________________________________________________________________
 #### PUBLISHED PAPERS AND POSTERS
-* “Comprehensive forecasting of California's energy consumption: a multi-source and sectoral analysis using ARIMA and
+1. “Comprehensive forecasting of California's energy consumption: a multi-source and sectoral analysis using ARIMA and
 ARIMAX models” in World Journal of Advanced Research and Reviews.
-* “Comprehensive Forecasting of California's Energy Consumption: A Multi-Source and Sectoral Analysis Using ARIMA and
+2. “Comprehensive Forecasting of California's Energy Consumption: A Multi-Source and Sectoral Analysis Using ARIMA and
 ARIMAX Models” in Stanford Libraries, arxiv.org/pdf/2402.04432, Avanade AI Studio, and Accenture Knowledge Exchange.
-* “Call Center CoPilot: Enhancing Customer Service with Large Language Models” in University of California, Irvine
+3. “Call Center CoPilot: Enhancing Customer Service with Large Language Models” in University of California, Irvine
 Undergraduate Research Opportunities Program, Avanade AI Studio, and Accenture Knowledge Exchange.
-* “Accenture Call Center Co-Pilot” in Avanade AI Studio and Accenture Knowledge Exchange.
-* “Predicting Energy Consumption in California” in National Science Foundation, Avanade AI Studio, and Accenture
+4. “Accenture Call Center Co-Pilot” in Avanade AI Studio and Accenture Knowledge Exchange.
+5. “Predicting Energy Consumption in California” in National Science Foundation, Avanade AI Studio, and Accenture
 Knowledge Exchange.
-* “California Energy Consumption Prediction” in Accenture Knowledge Exchange and Avanade AI Studio.
-* “Predicting risk of Type 2 diabetes with AI in California” in Accenture Knowledge Exchange and Avanade AI Studio.
-* “Five-year overall survival following chemoradiation therapy for locally advanced cervical carcinoma in women living with
+6. “California Energy Consumption Prediction” in Accenture Knowledge Exchange and Avanade AI Studio.
+7. “Predicting risk of Type 2 diabetes with AI in California” in Accenture Knowledge Exchange and Avanade AI Studio.
+8. “Five-year overall survival following chemoradiation therapy for locally advanced cervical carcinoma in women living with
 and without HIV infection in Botswana” in Infectious Agents and Cancer and National Library of Medicine.
-* “Stage and outcomes of invasive cervical cancer patients in Botswana: a prospective cohort study from 2013 to 2020” in
+9. “Stage and outcomes of invasive cervical cancer patients in Botswana: a prospective cohort study from 2013 to 2020” in
 International Journal of Radiation Oncology* Biology* Physics, American Society for Radiation Oncology, Gynecologic
 Oncology Reports, Stanford Libraries, and National Library of Medicine.
-* “Delays in cervical cancer treatment initiation for patients living with or without HIV in Botswana: An observational cohort
+10. “Delays in cervical cancer treatment initiation for patients living with or without HIV in Botswana: An observational cohort
 analysis (2015-2019)” in International Journal of Radiation Oncology* Biology* Physics, Stanford Libraries, and National
 Library of Medicine.
-* “Longitudinal Patterns of Survivorship Care in Cervical Cancer Patients Living With or Without HIV in Botswana,
+11. “Longitudinal Patterns of Survivorship Care in Cervical Cancer Patients Living With or Without HIV in Botswana,
 2015-2023” in American Society for Radiation Oncology.
-* “729P Patterns of survivorship care of cervical cancer patients with or without HIV infection in Botswana 2015-2022” in
+12. “729P Patterns of survivorship care of cervical cancer patients with or without HIV infection in Botswana 2015-2022” in
 Annals of Oncology.
-* “Treatment delays of cervical cancer with or without Human Immunodeficiency Virus infection in Botswana 2013-2020”
+13. “Treatment delays of cervical cancer with or without Human Immunodeficiency Virus infection in Botswana 2013-2020”
 in Penn Undergraduate Research Mentoring Program.
-* “Stage and outcomes of cervical cancer with or without HIV infection in Botswana 2013-2020” in Penn Undergraduate
+14. “Stage and outcomes of cervical cancer with or without HIV infection in Botswana 2013-2020” in Penn Undergraduate
 Research Mentoring Program.
-* “Role for Neoadjuvant chemotherapy and less invasive surgery in management of early stage cervical cancer in
+15. “Role for Neoadjuvant chemotherapy and less invasive surgery in management of early stage cervical cancer in
 Botswana” in International Gynecologic Cancer Society.
-* “Treatment toxicities of cervical cancer with or without HIV infection in Botswana 2013-2020” in European Society for
+16. “Treatment toxicities of cervical cancer with or without HIV infection in Botswana 2013-2020” in European Society for
 Radiotherapy and Oncology in Radiotherapy and Oncology.
-* “PO-1315 Treatment toxicities of cervical cancer with or without HIV infection in Botswana 2013-2020” in Radiotherapy
+17. “PO-1315 Treatment toxicities of cervical cancer with or without HIV infection in Botswana 2013-2020” in Radiotherapy
 and Oncology.
-* “EPV065/# 372 Role for neoadjuvant chemotherapy and less invasive surgery in management of early stage cervical
+18. “EPV065/# 372 Role for neoadjuvant chemotherapy and less invasive surgery in management of early stage cervical
 cancer in Botswana” in International Journal of Gynecologic Cancer.
-* “Delays In Cervical Cancer Treatment Initiation For Patients Living With Or Without HIV In Botswana 2015-2019” in
+19. “Delays In Cervical Cancer Treatment Initiation For Patients Living With Or Without HIV In Botswana 2015-2019” in
 Institute of Child & Mother Health.
-* “Patterns of Survivorship Care Of Cervical Cancer Patients With Or Without HIV Infection In Botswana 2015-2022” in
+20. “Patterns of Survivorship Care Of Cervical Cancer Patients With Or Without HIV Infection In Botswana 2015-2022” in
 Institute of Child & Mother Health.
-* “Patterns of Survivorship Care of Cervical Cancer Patients with or without HIV Infection” in European Society for
+21. “Patterns of Survivorship Care of Cervical Cancer Patients with or without HIV Infection” in European Society for
 Medical Oncology.
-* “Patterns of Survivorship Care of Cervical Cancer Patients in Botswana” in JNCI Cancer Spectrum: Special Call for
+22. “Patterns of Survivorship Care of Cervical Cancer Patients in Botswana” in JNCI Cancer Spectrum: Special Call for
 Papers.
 ___________________________________________________________________________________________________________________________________________________________________________
 #### INDUSTRY EDUCATION
@@ -308,7 +308,7 @@ ________________________________________________________________________________
 #### EDUCATION
 * Accenture Kellogg Education Education in Leading with Analytics & Artificial Intelligence [(Certificate)](https://execedcertificate.kellogg.northwestern.edu/308a9e71-d504-4194-9c74-22667c48e450#gs.utv39r)
 * Stanford University School of Engineering Certificates in Machine Learning & Computer Science [(Certificate)](https://www.coursera.org/account/accomplishments/certificate/47XPJRBC4F5C) [(Repo)](https://github.com/shawna-tuli-silicon-valley/stanford-engineering-computer-science)
-* University of California, Irvine Donald Bren School of Information & Computer Sciences Bachelor of Science Data Science (Computer Science & Statistics) - Dean's Honor List, Penn Medicine Radiation Oncology Data Science Capstone and Twenty Articles, Butterworth Product Development Competition (Software) Finalist, Research Assistant for Professor Gloria Mark, Women in Information & Computer Sciences, Freshmen Edge, and Dance [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-data-science)
+* University of California, Irvine Donald Bren School of Information & Computer Sciences Bachelor of Science Data Science (Computer Science & Statistics) - Dean's Honor List, Penn Medicine Radiation Oncology Data Science Capstone and Twenty-Two Articles, Butterworth Product Development Competition (Software) Finalist, Research Assistant for Professor Gloria Mark, Women in Information & Computer Sciences, Freshmen Edge, and Dance [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-data-science)
 * University of California, Irvine Paul Merage School of Business - Alpha Kappa Psi Professional Business Fraternity | Pi Psi Professional Chair, Theta Class Treasurer, and Most Likely to be a Billionaire Award, UptoUCI Co-Founder & Marketing Director and Top 20 Team and Top Pledge Earner National Honor Badges, Student Managed Investment Fund Executive Vice President and Chartered Financial Analyst Society Orange County Request for Proposal Second Place, Chartered Financial Analyst Society Orange County Research Challenge, and Chartered Financial Analyst Society Orange County
 * Los Gatos High School High School Diploma - Los Gatos-Saratoga Union High School District Scholar, Advanced Placement Scholar with Distinction, Christine Guenther Brienzo Merit Scholarship, Stanford University School of Engineering Girl Code, Stanford Splash, LIVEbeyond Foundation California President, Future Business Leaders of America Treasurer and Bay Section Top 10 in Securities & Investments, California Council on Economic Education Personal Finance Challenge Top 5, Science Olympiad Santa Clara County Top 3 (2x), Link Crew Leader, Women in Computer Science, Women's Doubles Tennis, and Mixed Doubles Badminton [(Repo)](https://github.com/shawna-tuli-silicon-valley/lghs-advanced-placement)
 * Marvin Ridge High School - Valedictorian*, International Baccalaureate, National Speech & Debate Association Degree of Excellence, Future Business Leaders of America, North Carolina Council on Economic Education Economics Challenge Top 5, Science Olympiad Union County Top 3 (2x), National Honor Society, 700+ Volunteer Hours in Radiation Oncology at Atrium Health Pineville and Novant Health Presbyterian Medical Center, and Kathak North Indian Classical Dance (10 years) [(Repo)](https://github.com/shawna-tuli-silicon-valley/mrhs-international-baccalaureate) [(Repo)](https://github.com/shawna-tuli-silicon-valley/mrhs-north-carolina-forensic-league-state-championship)
