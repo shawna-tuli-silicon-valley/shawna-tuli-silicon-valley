@@ -178,8 +178,6 @@ ________________________________________________________________________________
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shawna-tuli-silicon-valley&layout=compact) 
 __________________________________________________________________________________________________________________________________________________________________________________________________
-
-___________________________________________________________________________________________________________________________________________________________________________
 #### PUBLISHED PAPERS AND POSTERS
 1. “Comprehensive forecasting of California's energy consumption: a multi-source and sectoral analysis using ARIMA and
 ARIMAX models” in World Journal of Advanced Research and Reviews.
