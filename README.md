@@ -177,7 +177,54 @@ ________________________________________________________________________________
 * 📚 Stanford Splash [(Article)](https://stanforddaily.com/2016/04/13/behind-the-scenes-of-stanford-splash/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shawna-tuli-silicon-valley&layout=compact) 
-___________________________________________________________________________________________________________________________________________________________________________________________________________________________
+__________________________________________________________________________________________________________________________________________________________________________________________________
+
+___________________________________________________________________________________________________________________________________________________________________________
+#### PUBLISHED PAPERS AND POSTERS
+1. “Comprehensive forecasting of California's energy consumption: a multi-source and sectoral analysis using ARIMA and
+ARIMAX models” in World Journal of Advanced Research and Reviews.
+2. “Comprehensive Forecasting of California's Energy Consumption: A Multi-Source and Sectoral Analysis Using ARIMA and
+ARIMAX Models” in Stanford Libraries, arxiv.org/pdf/2402.04432, Avanade AI Studio, and Accenture Knowledge Exchange.
+3. “Call Center CoPilot: Enhancing Customer Service with Large Language Models” in University of California, Irvine
+Undergraduate Research Opportunities Program, Avanade AI Studio, and Accenture Knowledge Exchange.
+4. “Accenture Call Center Co-Pilot” in Avanade AI Studio and Accenture Knowledge Exchange.
+5. “Predicting Energy Consumption in California” in National Science Foundation, Avanade AI Studio, and Accenture
+Knowledge Exchange.
+6. “California Energy Consumption Prediction” in Accenture Knowledge Exchange and Avanade AI Studio.
+7. “Predicting risk of Type 2 diabetes with AI in California” in Accenture Knowledge Exchange and Avanade AI Studio.
+8. “Five-year overall survival following chemoradiation therapy for locally advanced cervical carcinoma in women living with
+and without HIV infection in Botswana” in Infectious Agents and Cancer and National Library of Medicine.
+9. “Stage and outcomes of invasive cervical cancer patients in Botswana: a prospective cohort study from 2013 to 2020” in
+International Journal of Radiation Oncology* Biology* Physics, American Society for Radiation Oncology, Gynecologic
+Oncology Reports, Stanford Libraries, and National Library of Medicine.
+10. “Delays in cervical cancer treatment initiation for patients living with or without HIV in Botswana: An observational cohort
+analysis (2015-2019)” in International Journal of Radiation Oncology* Biology* Physics, Stanford Libraries, and National
+Library of Medicine.
+11. “Longitudinal Patterns of Survivorship Care in Cervical Cancer Patients Living With or Without HIV in Botswana,
+2015-2023” in American Society for Radiation Oncology.
+12. “729P Patterns of survivorship care of cervical cancer patients with or without HIV infection in Botswana 2015-2022” in
+Annals of Oncology.
+13. “Treatment delays of cervical cancer with or without Human Immunodeficiency Virus infection in Botswana 2013-2020”
+in Penn Undergraduate Research Mentoring Program.
+14. “Stage and outcomes of cervical cancer with or without HIV infection in Botswana 2013-2020” in Penn Undergraduate
+Research Mentoring Program.
+15. “Role for Neoadjuvant chemotherapy and less invasive surgery in management of early stage cervical cancer in
+Botswana” in International Gynecologic Cancer Society.
+16. “Treatment toxicities of cervical cancer with or without HIV infection in Botswana 2013-2020” in European Society for
+Radiotherapy and Oncology in Radiotherapy and Oncology.
+17. “PO-1315 Treatment toxicities of cervical cancer with or without HIV infection in Botswana 2013-2020” in Radiotherapy
+and Oncology.
+18. “EPV065/# 372 Role for neoadjuvant chemotherapy and less invasive surgery in management of early stage cervical
+cancer in Botswana” in International Journal of Gynecologic Cancer.
+19. “Delays In Cervical Cancer Treatment Initiation For Patients Living With Or Without HIV In Botswana 2015-2019” in
+Institute of Child & Mother Health.
+20. “Patterns of Survivorship Care Of Cervical Cancer Patients With Or Without HIV Infection In Botswana 2015-2022” in
+Institute of Child & Mother Health.
+21. “Patterns of Survivorship Care of Cervical Cancer Patients with or without HIV Infection” in European Society for
+Medical Oncology.
+22. “Patterns of Survivorship Care of Cervical Cancer Patients in Botswana” in JNCI Cancer Spectrum: Special Call for
+Papers.
+_______________________________________________________________________________________________________________________________________________________________________________________________
 #### TECHNICAL SKILLS
 #### ![GOOGLE](https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=fff&style=for-the-badge)
 * Google PLX, Google Dremel ![Google Data Studio](https://img.shields.io/badge/Google%20Data%20Studio-669DF6.svg?style=for-the-badge&logo=Google-Data-Studio&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Colab Notebooks](https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=for-the-badge&logo=Google-Colab&logoColor=white) ![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white) ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white) ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white) ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Chrome OS](https://img.shields.io/badge/chrome%20os-3d89fc?style=for-the-badge&logo=google%20chrome&logoColor=white) ![Google Meet](https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white) ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white) ![Google BigQuery](https://img.shields.io/badge/Google%20BigQuery-669DF6.svg?style=for-the-badge&logo=Google-BigQuery&logoColor=white) ![Google Slides](https://img.shields.io/badge/Google%20Slides-FBBC04.svg?style=for-the-badge&logo=Google-Slides&logoColor=black) ![Goland](https://img.shields.io/badge/GoLand-000000.svg?style=for-the-badge&logo=GoLand&logoColor=white) ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2.svg?style=for-the-badge&logo=Google-Gemini&logoColor=white) ![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4.svg?style=for-the-badge&logo=Google-Scholar&logoColor=white) ![Google Photos](https://img.shields.io/badge/Google%20Photos-4285F4.svg?style=for-the-badge&logo=Google-Photos&logoColor=white) ![Google Play](https://img.shields.io/badge/Google%20Play-414141.svg?style=for-the-badge&logo=Google-Play&logoColor=white) ![Qwiklabs](https://img.shields.io/badge/Qwiklabs-F5CD0E.svg?style=for-the-badge&logo=Qwiklabs&logoColor=black) ![Google Docs](https://img.shields.io/badge/Google%20Docs-4285F4.svg?style=for-the-badge&logo=Google-Docs&logoColor=white) ![Google Cloud Storage](https://img.shields.io/badge/Google%20Cloud%20Storage-AECBFA.svg?style=for-the-badge&logo=Google-Cloud-Storage&logoColor=black) ![Google Meet](https://img.shields.io/badge/Google%20Meet-00897B.svg?style=for-the-badge&logo=Google-Meet&logoColor=white) ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4.svg?style=for-the-badge&logo=Google-Chrome&logoColor=white) ![Google Chat](https://img.shields.io/badge/Google%20Chat-34A853.svg?style=for-the-badge&logo=Google-Chat&logoColor=white)
@@ -243,51 +290,6 @@ ________________________________________________________________________________
 ___________________________________________________________________________________________________________________________________________________________________________
 #### TEST SCORE
 * GMAT - Waived
-___________________________________________________________________________________________________________________________________________________________________________
-#### PUBLISHED PAPERS AND POSTERS
-1. “Comprehensive forecasting of California's energy consumption: a multi-source and sectoral analysis using ARIMA and
-ARIMAX models” in World Journal of Advanced Research and Reviews.
-2. “Comprehensive Forecasting of California's Energy Consumption: A Multi-Source and Sectoral Analysis Using ARIMA and
-ARIMAX Models” in Stanford Libraries, arxiv.org/pdf/2402.04432, Avanade AI Studio, and Accenture Knowledge Exchange.
-3. “Call Center CoPilot: Enhancing Customer Service with Large Language Models” in University of California, Irvine
-Undergraduate Research Opportunities Program, Avanade AI Studio, and Accenture Knowledge Exchange.
-4. “Accenture Call Center Co-Pilot” in Avanade AI Studio and Accenture Knowledge Exchange.
-5. “Predicting Energy Consumption in California” in National Science Foundation, Avanade AI Studio, and Accenture
-Knowledge Exchange.
-6. “California Energy Consumption Prediction” in Accenture Knowledge Exchange and Avanade AI Studio.
-7. “Predicting risk of Type 2 diabetes with AI in California” in Accenture Knowledge Exchange and Avanade AI Studio.
-8. “Five-year overall survival following chemoradiation therapy for locally advanced cervical carcinoma in women living with
-and without HIV infection in Botswana” in Infectious Agents and Cancer and National Library of Medicine.
-9. “Stage and outcomes of invasive cervical cancer patients in Botswana: a prospective cohort study from 2013 to 2020” in
-International Journal of Radiation Oncology* Biology* Physics, American Society for Radiation Oncology, Gynecologic
-Oncology Reports, Stanford Libraries, and National Library of Medicine.
-10. “Delays in cervical cancer treatment initiation for patients living with or without HIV in Botswana: An observational cohort
-analysis (2015-2019)” in International Journal of Radiation Oncology* Biology* Physics, Stanford Libraries, and National
-Library of Medicine.
-11. “Longitudinal Patterns of Survivorship Care in Cervical Cancer Patients Living With or Without HIV in Botswana,
-2015-2023” in American Society for Radiation Oncology.
-12. “729P Patterns of survivorship care of cervical cancer patients with or without HIV infection in Botswana 2015-2022” in
-Annals of Oncology.
-13. “Treatment delays of cervical cancer with or without Human Immunodeficiency Virus infection in Botswana 2013-2020”
-in Penn Undergraduate Research Mentoring Program.
-14. “Stage and outcomes of cervical cancer with or without HIV infection in Botswana 2013-2020” in Penn Undergraduate
-Research Mentoring Program.
-15. “Role for Neoadjuvant chemotherapy and less invasive surgery in management of early stage cervical cancer in
-Botswana” in International Gynecologic Cancer Society.
-16. “Treatment toxicities of cervical cancer with or without HIV infection in Botswana 2013-2020” in European Society for
-Radiotherapy and Oncology in Radiotherapy and Oncology.
-17. “PO-1315 Treatment toxicities of cervical cancer with or without HIV infection in Botswana 2013-2020” in Radiotherapy
-and Oncology.
-18. “EPV065/# 372 Role for neoadjuvant chemotherapy and less invasive surgery in management of early stage cervical
-cancer in Botswana” in International Journal of Gynecologic Cancer.
-19. “Delays In Cervical Cancer Treatment Initiation For Patients Living With Or Without HIV In Botswana 2015-2019” in
-Institute of Child & Mother Health.
-20. “Patterns of Survivorship Care Of Cervical Cancer Patients With Or Without HIV Infection In Botswana 2015-2022” in
-Institute of Child & Mother Health.
-21. “Patterns of Survivorship Care of Cervical Cancer Patients with or without HIV Infection” in European Society for
-Medical Oncology.
-22. “Patterns of Survivorship Care of Cervical Cancer Patients in Botswana” in JNCI Cancer Spectrum: Special Call for
-Papers.
 ___________________________________________________________________________________________________________________________________________________________________________
 #### INDUSTRY EDUCATION
 #### ![ACCENTURE](https://img.shields.io/badge/Accenture-A100FF.svg?style=for-the-badge&logo=Accenture&logoColor=white)
