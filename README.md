@@ -222,6 +222,9 @@ Institute of Child & Mother Health.
 Medical Oncology.
 22. “Patterns of Survivorship Care of Cervical Cancer Patients in Botswana” in JNCI Cancer Spectrum: Special Call for
 Papers.
+23. "Accenture GRC Response Assistant" in Avanade AI Studio and Accenture Knowledge Exchange.
+24. "GRC Response Assistant: AI Solution for Utility Rate Case Management" in University of California, Irvine Undergraduate Research Opportunities Program, Avanade AI Studio, and Accenture Knowledge Exchange. 
+25. "BI Analysis (Partner Business Modeling: Uber)" in University of California, Irvine Undergraduate Research Opportunities Program, Avanade AI Studio, and Accenture Knowledge Exchange. 
 _______________________________________________________________________________________________________________________________________________________________________________________________
 #### TECHNICAL SKILLS
 #### ![GOOGLE](https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=fff&style=for-the-badge)
