@@ -44,7 +44,6 @@ ________________________________________________________________________________
 * 🌟 Incoming AI & Data Science Manager at Avanade San Francisco Innovation Hub & Mountain View [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics-4/tree/main)
 * 💬 Microsoft Me Myself and My Copilot: An Introduction to Microsoft 365 Copilot Chat + Agents
 * 🎙️Accenture Mountain View Elocutionist at UCI ICS Speaker Event: Career Panel - Data Science in Industry
-* 📰 Accenture Mountain View Spokesperson at Explore ICS: UCI Research Showcase
 * 💆🏽‍♀️ Accenture Mountain View Wellness Committee Member - orchestrating events
 * 🍽️ Accenture San Francisco Innovation Hub Third Thursdays (57x)
 * 모 Accenture Mountain View Computer History Museum Visit
