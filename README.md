@@ -319,7 +319,7 @@ ________________________________________________________________________________
 * Harvard Univerity Artificial Intelligence [(Repo)](https://github.com/shawna-tuli-silicon-valley/harvard-ai)
 _____________________________________________________________________________________________________________________________________________________________________________
 #### INTERESTS
-I am strength training, walking, healthy cooking, reading, studying, and watching movies and shows daily. I enjoy dancing, playing tennis, badminton, and golf, shopping, oil painting, traveling, and going to beaches, lakes, restaurants, and concerts. 
+I am strength training, running, healthy cooking, reading, studying, and watching movies and shows daily. I enjoy dancing, playing tennis, badminton, and golf, shopping, oil painting, traveling, and going to beaches, lakes, restaurants, and concerts. 
 
 <!--
 **shawna-tuli-silicon-valley/shawna-tuli-silicon-valley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
