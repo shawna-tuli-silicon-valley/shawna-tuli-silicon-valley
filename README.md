@@ -42,14 +42,14 @@ ________________________________________________________________________________
 * 🎯 Goal 1: AI & Data Science Manager at Google Mountain View
 * 📫 3. Incoming AI & Data Science Manager at Amazon San Francisco & Mountain View
 * 🏺 Presenter of Ceramics Painting Wellness Event at Accenture Mountain View
-* 🍇 Owner of Build your own Charcuterie Board Wellness Event at Accenture Mountain View 
+* 🍇 Owner of Build your own Charcuterie Board Wellness Event at Accenture Mountain View - 100% reserved
 * 💬 Microsoft Me Myself and My Copilot: An Introduction to Microsoft 365 Copilot Chat + Agents
 * 🎙️Accenture Mountain View Elocutionist at UCI ICS Speaker Event: Career Panel - Data Science in Industry
 * 💆🏽‍♀️ Accenture Mountain View Wellness Committee Member - orchestrating events
 * 🍽️ Accenture San Francisco Innovation Hub Third Thursdays (57x)
 * 모 Accenture Mountain View Computer History Museum Visit
 * 🎂 Avanade's 25th Anniversary San Francisco Happy Hour 
-* 🙏🏽 Hostess of Start Your Gratitude Journal to Improve Your Health Wellness Event at Accenture Mountain View - 100% booked.
+* 🙏🏽 Hostess of Start Your Gratitude Journal to Improve Your Health Wellness Event at Accenture Mountain View - 100% booked
 * 🎤 Presenter of Powering Your Network at Accenture Mountain View
 * 📒 Microsoft's Better Together: Innovate, Inspire, Impact - The Future of Leadership Mountain View 
 * 🌸 Instructor at Accenture Mountain View Wellness Fair 
