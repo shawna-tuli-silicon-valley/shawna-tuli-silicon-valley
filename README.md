@@ -189,42 +189,42 @@ Undergraduate Research Opportunities Program, Avanade AI Studio, and Accenture K
 5. “Predicting Energy Consumption in California” in National Science Foundation, Avanade AI Studio, and Accenture
 Knowledge Exchange.
 6. “California Energy Consumption Prediction” in Accenture Knowledge Exchange and Avanade AI Studio.
-7. “Predicting risk of Type 2 diabetes with AI in California” in Accenture Knowledge Exchange and Avanade AI Studio.
-8. “Five-year overall survival following chemoradiation therapy for locally advanced cervical carcinoma in women living with
+7. "Accenture GRC Response Assistant" in Avanade AI Studio and Accenture Knowledge Exchange.
+8. "GRC Response Assistant: AI Solution for Utility Rate Case Management" in University of California, Irvine Undergraduate Research Opportunities Program, Avanade AI Studio, and Accenture Knowledge Exchange. 
+9. "BI Analysis (Partner Business Modeling: Uber)" in University of California, Irvine Undergraduate Research Opportunities Program, Avanade AI Studio, and Accenture Knowledge Exchange. 
+10. “Predicting risk of Type 2 diabetes with AI in California” in Accenture Knowledge Exchange and Avanade AI Studio.
+11. “Five-year overall survival following chemoradiation therapy for locally advanced cervical carcinoma in women living with
 and without HIV infection in Botswana” in Infectious Agents and Cancer and National Library of Medicine.
-9. “Stage and outcomes of invasive cervical cancer patients in Botswana: a prospective cohort study from 2013 to 2020” in
+12. “Stage and outcomes of invasive cervical cancer patients in Botswana: a prospective cohort study from 2013 to 2020” in
 International Journal of Radiation Oncology* Biology* Physics, American Society for Radiation Oncology, Gynecologic
 Oncology Reports, Stanford Libraries, and National Library of Medicine.
-10. “Delays in cervical cancer treatment initiation for patients living with or without HIV in Botswana: An observational cohort
+13. “Delays in cervical cancer treatment initiation for patients living with or without HIV in Botswana: An observational cohort
 analysis (2015-2019)” in International Journal of Radiation Oncology* Biology* Physics, Stanford Libraries, and National
 Library of Medicine.
-11. “Longitudinal Patterns of Survivorship Care in Cervical Cancer Patients Living With or Without HIV in Botswana,
+14. “Longitudinal Patterns of Survivorship Care in Cervical Cancer Patients Living With or Without HIV in Botswana,
 2015-2023” in American Society for Radiation Oncology.
-12. “729P Patterns of survivorship care of cervical cancer patients with or without HIV infection in Botswana 2015-2022” in
+15. “729P Patterns of survivorship care of cervical cancer patients with or without HIV infection in Botswana 2015-2022” in
 Annals of Oncology.
-13. “Treatment delays of cervical cancer with or without Human Immunodeficiency Virus infection in Botswana 2013-2020”
+16. “Treatment delays of cervical cancer with or without Human Immunodeficiency Virus infection in Botswana 2013-2020”
 in Penn Undergraduate Research Mentoring Program.
-14. “Stage and outcomes of cervical cancer with or without HIV infection in Botswana 2013-2020” in Penn Undergraduate
+17. “Stage and outcomes of cervical cancer with or without HIV infection in Botswana 2013-2020” in Penn Undergraduate
 Research Mentoring Program.
-15. “Role for Neoadjuvant chemotherapy and less invasive surgery in management of early stage cervical cancer in
+18. “Role for Neoadjuvant chemotherapy and less invasive surgery in management of early stage cervical cancer in
 Botswana” in International Gynecologic Cancer Society.
-16. “Treatment toxicities of cervical cancer with or without HIV infection in Botswana 2013-2020” in European Society for
+19. “Treatment toxicities of cervical cancer with or without HIV infection in Botswana 2013-2020” in European Society for
 Radiotherapy and Oncology in Radiotherapy and Oncology.
-17. “PO-1315 Treatment toxicities of cervical cancer with or without HIV infection in Botswana 2013-2020” in Radiotherapy
+20. “PO-1315 Treatment toxicities of cervical cancer with or without HIV infection in Botswana 2013-2020” in Radiotherapy
 and Oncology.
-18. “EPV065/# 372 Role for neoadjuvant chemotherapy and less invasive surgery in management of early stage cervical
+21. “EPV065/# 372 Role for neoadjuvant chemotherapy and less invasive surgery in management of early stage cervical
 cancer in Botswana” in International Journal of Gynecologic Cancer.
-19. “Delays In Cervical Cancer Treatment Initiation For Patients Living With Or Without HIV In Botswana 2015-2019” in
+22. “Delays In Cervical Cancer Treatment Initiation For Patients Living With Or Without HIV In Botswana 2015-2019” in
 Institute of Child & Mother Health.
-20. “Patterns of Survivorship Care Of Cervical Cancer Patients With Or Without HIV Infection In Botswana 2015-2022” in
+23. “Patterns of Survivorship Care Of Cervical Cancer Patients With Or Without HIV Infection In Botswana 2015-2022” in
 Institute of Child & Mother Health.
-21. “Patterns of Survivorship Care of Cervical Cancer Patients with or without HIV Infection” in European Society for
+24. “Patterns of Survivorship Care of Cervical Cancer Patients with or without HIV Infection” in European Society for
 Medical Oncology.
-22. “Patterns of Survivorship Care of Cervical Cancer Patients in Botswana” in JNCI Cancer Spectrum: Special Call for
+25. “Patterns of Survivorship Care of Cervical Cancer Patients in Botswana” in JNCI Cancer Spectrum: Special Call for
 Papers.
-23. "Accenture GRC Response Assistant" in Avanade AI Studio and Accenture Knowledge Exchange.
-24. "GRC Response Assistant: AI Solution for Utility Rate Case Management" in University of California, Irvine Undergraduate Research Opportunities Program, Avanade AI Studio, and Accenture Knowledge Exchange. 
-25. "BI Analysis (Partner Business Modeling: Uber)" in University of California, Irvine Undergraduate Research Opportunities Program, Avanade AI Studio, and Accenture Knowledge Exchange. 
 _______________________________________________________________________________________________________________________________________________________________________________________________
 #### TECHNICAL SKILLS
 #### ![GOOGLE](https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=fff&style=for-the-badge)
