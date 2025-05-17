@@ -34,6 +34,7 @@ ________________________________________________________________________________
 14. Avanade We Believe Everyone Counts Super Hero
 15. Avanade We Deliver with Excellence Super Hero
 16. Avanade Create the Future Super Hero (2x)
+17. Forbes 30 Under 30 Scholar
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 #### SILICON VALLEY BIG TECH AI & DATA SCIENCE, ADVANCED ANALYTICS, BUSINESS INTELLIGENCE, AND STRATEGY LEADERSHIP & PUBLIC SPEAKING EXPERIENCE (2014-Present) 
@@ -275,7 +276,7 @@ ________________________________________________________________________________
 * Networking, Industry Knowledge
 
 #### Investment Management
-* Confidence, Curiousity, Emotional Intelligence, Problem Solving, Math, Portfolio Management, Risk Management, Asset Management, Due Diligence, Fixed Income Analysis, Bloomberg Terminal
+* Confidence, Curiosity, Emotional Intelligence, Problem Solving, Math, Portfolio Management, Risk Management, Asset Management, Due Diligence, Fixed Income Analysis, Bloomberg Terminal
 
 #### Analytics
 * Analytics, Leadership, Strategy, Communication, Critical Thinking, Research, Product, Data Mining, Data Visualization ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
