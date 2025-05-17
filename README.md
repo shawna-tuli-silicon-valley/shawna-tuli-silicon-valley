@@ -20,21 +20,25 @@ ________________________________________________________________________________
 #### AWARD HIGHLIGHTS
 1. Google AI for everyone | Bay Area for significant contributions to AI
 2. Google’s cloud business turns profitable for the first time on record
-3. Accenture Everest Group Artificial Intelligence (AI) and Generative AI Services PEAK Matrix Assessment #1 
-4. Accenture Fortune World's Most Admired Companies, #1 in IT Services (6x)
-5. Accenture Brand Finance's Most Valuable Brands, #1 in IT Services (6x)
-6. Accenture The Wall Street Journal Best-Managed Companies (6x)
-7. Accenture Brand Finance US 500 (6x)
-8. Accenture Ethisphere World’s Most Ethical Companies (6x)
-9. Accenture Forbes #1 Management Consulting Firm
-10. Avanade AI Breakthrough Awards Best AI Consulting Service Provider
-11. Accenture V360 Awards in Innovation Nominee (4x)
-12. Accenture Fortune 100 Best Companies to Work For in the US (6x), Top 10 (3x)
-13. Avanade Best Baker 
-14. Avanade We Believe Everyone Counts Super Hero
-15. Avanade We Deliver with Excellence Super Hero
-16. Avanade Create the Future Super Hero (2x)
-17. Forbes 30 Under 30 Scholar
+3. Google International Women's Day (2x)
+4. Google exploreCSR Workshop
+5. Accenture Everest Group Artificial Intelligence (AI) and Generative AI Services PEAK Matrix Assessment #1 
+6. Accenture Fortune World's Most Admired Companies, #1 in IT Services (6x)
+7. Accenture Brand Finance's Most Valuable Brands, #1 in IT Services (6x)
+8. Accenture The Wall Street Journal Best-Managed Companies (6x)
+9. Accenture Brand Finance US 500 (6x)
+10. Accenture Ethisphere World’s Most Ethical Companies (6x)
+11. Accenture Forbes #1 Management Consulting Firm
+13. Accenture V360 Awards in Innovation Nominee (4x)
+14. Accenture Fortune 100 Best Companies to Work For in the US (6x), Top 10 (3x)
+15. Accenture International Women's Day
+16. Avanade AI Breakthrough Awards Best AI Consulting Service Provider
+17. Avanade Best Baker 
+18. Avanade We Believe Everyone Counts Super Hero
+19. Avanade We Deliver with Excellence Super Hero
+20. Avanade Create the Future Super Hero (2x)
+21. Avanade International Women's Day (4x)
+22. Forbes 30 Under 30 Scholar
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 #### SILICON VALLEY BIG TECH AI & DATA SCIENCE, ADVANCED ANALYTICS, BUSINESS INTELLIGENCE, AND STRATEGY LEADERSHIP & PUBLIC SPEAKING EXPERIENCE (2014-Present) 
