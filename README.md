@@ -47,7 +47,7 @@ ________________________________________________________________________________
 * 🎯 Goal 1: AI & Data Science Manager at Google Mountain View
 * 📫 3. Incoming AI & Data Science Manager at Amazon San Francisco & Mountain View
 * 🏺 Presenter of Ceramics Painting Wellness Event at Accenture Mountain View
-* 🍇 Owner of Build Your Own Charcuterie Board Wellness Event at Accenture Mountain View - 100% reserved
+* 🍇 Owner of Build Your Own Charcuterie Board Wellness Event at Accenture Mountain View - 100% reserved [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-3)
 * 💬 Microsoft Me Myself and My Copilot: An Introduction to Microsoft 365 Copilot Chat + Agents
 * 🎙️Accenture Mountain View Elocutionist at UCI ICS Speaker Event: Career Panel - Data Science in Industry
 * 💆🏽‍♀️ Accenture Mountain View Wellness Committee Member - orchestrating events
