@@ -54,7 +54,7 @@ ________________________________________________________________________________
 * 🍽️ Accenture San Francisco Innovation Hub Third Thursdays (57x)
 * 모 Accenture Mountain View Computer History Museum Visit
 * 🎂 Avanade's 25th Anniversary San Francisco Happy Hour 
-* 🙏🏽 Hostess of Start Your Gratitude Journal to Improve Your Health Wellness Event at Accenture Mountain View - 100% booked [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-2)
+* 🙏🏽 Hostess of Start Your Gratitude Journal to Improve Your Health Wellness Event at Accenture Mountain View - 100% full [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-2)
 * 🎤 Presenter of Powering Your Network at Accenture Mountain View
 * 📒 Microsoft's Better Together: Innovate, Inspire, Impact - The Future of Leadership Mountain View 
 * 🌸 Instructor at Accenture Mountain View Wellness Fair 
