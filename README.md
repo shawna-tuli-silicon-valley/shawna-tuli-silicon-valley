@@ -206,8 +206,7 @@ Oncology Reports, Stanford Libraries, and National Library of Medicine.
 13. “Delays in cervical cancer treatment initiation for patients living with or without HIV in Botswana: An observational cohort
 analysis (2015-2019)” in International Journal of Radiation Oncology* Biology* Physics, Stanford Libraries, and National
 Library of Medicine.
-14. “Longitudinal Patterns of Survivorship Care in Cervical Cancer Patients Living With or Without HIV in Botswana,
-2015-2023” in American Society for Radiation Oncology.
+14. “Longitudinal Patterns of Survivorship Care in Cervical Cancer Patients Living With or Without HIV in Botswana” in American Society for Radiation Oncology.
 15. “729P Patterns of survivorship care of cervical cancer patients with or without HIV infection in Botswana 2015-2022” in
 Annals of Oncology.
 16. “Treatment delays of cervical cancer with or without Human Immunodeficiency Virus infection in Botswana 2013-2020”
