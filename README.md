@@ -50,7 +50,7 @@ ________________________________________________________________________________
 * 🍇 Owner of Build Your Own Charcuterie Board Wellness Event at Accenture Mountain View - 100% reserved [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-3)
 * 💬 Microsoft Me Myself and My Copilot: An Introduction to Microsoft 365 Copilot Chat + Agents
 * 💆🏽‍♀️ Accenture Mountain View Wellness Committee Member - orchestrating events
-* 🍽️ Accenture San Francisco Innovation Hub Third Thursdays (58x)
+* 🍽️ Accenture San Francisco Innovation Hub Third Thursdays (57x)
 * 모 Accenture Mountain View Computer History Museum Visit
 * 🎂 Avanade's 25th Anniversary San Francisco Happy Hour 
 * 🙏🏽 Hostess of Start Your Gratitude Journal to Improve Your Health Wellness Event at Accenture Mountain View - 100% full [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-2)
