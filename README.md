@@ -45,7 +45,6 @@ ________________________________________________________________________________
 * ✓ Goal 3: AI & Data Science Manager at Amazon Mountain View 
 * 📌 Goal 2: AI & Data Science Manager at Microsoft Mountain View 
 * 🎯 Goal 1: AI & Data Science Manager at Google Mountain View
-* C
 * 📫 3. Data & AI Manager at Amazon San Francisco & Mountain View
 * 🌏 World Summit AI USA 2025
 * 🏺 Presenter of Ceramics Painting Wellness Event at Accenture Mountain View
