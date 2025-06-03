@@ -36,7 +36,7 @@ ________________________________________________________________________________
 17. Avanade Best Baker 
 18. Avanade We Believe Everyone Counts Super Hero
 19. Avanade We Deliver with Excellence Super Hero
-20. Avanade Create the Future Super Hero (2x)
+20. Avanade Create the Future Super Hero (3x)
 21. Avanade International Women's Day (4x)
 22. Forbes 30 Under 30 Scholar
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________
@@ -45,6 +45,7 @@ ________________________________________________________________________________
 * ✓ Goal 3: AI & Data Science Manager at Amazon Mountain View 
 * 📌 Goal 2: AI & Data Science Manager at Microsoft Mountain View 
 * 🎯 Goal 1: AI & Data Science Manager at Google Mountain View
+* C
 * 📫 3. Data & AI Manager at Amazon San Francisco & Mountain View
 * 🌏 World Summit AI USA 2025
 * 🏺 Presenter of Ceramics Painting Wellness Event at Accenture Mountain View
@@ -100,7 +101,7 @@ ________________________________________________________________________________
 * 📓 Accenture AI & Data Science Expert at Accenture Knowledge Exchange 
 * 📧 Presenter at Amazon Mountain View Mailbox Core All-hands 
 * 🗃️ Avanade North America Data & AI Solution Architects West Champion
-* 🌌 Avanade Create the Future Super Hero Award (2x)
+* 🌌 Avanade Create the Future Super Hero Award (3x)
 * 💖 Google Bay Area AI for everyone - recruited to Google Mountain View Gemini AI & Data Science [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-bay-area-ai-for-everyone/tree/main)
 * 🌁 Accenture San Francisco Innovation Hub Generative AI Studio Member [(Article)](https://newsroom.accenture.com/news/2023/accenture-to-launch-network-of-generative-ai-studios-to-help-clients-accelerate-use-of-data-and-ai-technologies)
 * 🌄 Avanade AI & Automation and Intelligent Data Platform Practices Northern California Lead - arranged events for 8
