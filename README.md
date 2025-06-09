@@ -47,7 +47,7 @@ ________________________________________________________________________________
 * 🎯 Goal 1: AI & Data Science Manager at Google Mountain View
 * 📫 3. Data & AI Manager at Amazon San Francisco & Mountain View - responsible for multimillion-dollar Data & AI at Amazon
 * 🌏 World Summit AI USA 2025
-* 💅🏽 Moderator of Manicure Wellness Event at Accenture Mountain View - 100% taken (Repo)
+* 💅🏽 Moderator of Manicure Wellness Event at Accenture Mountain View - 100% taken [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-5)
 * 🏺 Presenter of Pottery Making and Ceramic Painting Wellness Event at Accenture Mountain View - 100% booked [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-4/tree/main)
 * 🍇 Owner of Build Your Own Charcuterie Board Wellness Event at Accenture Mountain View - 100% reserved [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-3)
 * 💬 Microsoft Me Myself and My Copilot: An Introduction to Microsoft 365 Copilot Chat + Agents
