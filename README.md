@@ -68,7 +68,7 @@ ________________________________________________________________________________
 * 🎄 Accenture San Francisco Innovation Hub Holidays Party (4x)
 * 👠 Avanade Northern California Social & Networking Champion - assembling and holding monthly events for 50+
 * 🌎 Google AI for everyone Global Virtual Summit [(Videos)](https://careersonair.withgoogle.com/events/aiforeveryone24)
-* 🔍 4) Accenture V360 Awards - solutioning AI for utility rate case management, led 7 Data Scientists [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture/tree/main) [(Student Repo)](https://github.com/bsteier/GRCResponder)
+* 🔍 4) Accenture V360 Awards - solutioned AI for utility rate case management, led 7 Data Scientists [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture/tree/main) [(Student Repo)](https://github.com/bsteier/GRCResponder)
 * 🚚 2. AI & Data Science Manager at Amazon San Francisco & Mountain View - led 4 Cloud Engineers on PB mailboxes
 * 🌈 Accenture San Francisco Innovation Hub & Mountain View DSSG Lead at UWBA Phase 3, led 6 Data Scientists [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-uwba-ai-and-data-science-2/tree/main)
 * 🗳️ Accenture San Francisco Innovation Hub & Mountain View DSSG Lead at UWBA Brunch & Ballots [(Repo)](https://github.com/shawna-tuli-silicon-valley/uwba-ai-and-data-science/tree/main)
