@@ -13,7 +13,7 @@ ________________________________________________________________________________
 5. San Francisco & Mountain View Accenture & Avanade AI & Data Science and Strategy Hiring - [Accenture](https://www.accenture.com/us-en/services/data-ai) & [Avanade](https://www.avanade.com/en-us/services/artificial-intelligence) (5 years)
 6. Bay Area Accenture Poverty Alleviation AI & Data Science, Strategy, and Business Intelligence - [United Way Bay Area](https://uwba.org/) (2 years)
 7. California Accenture AI & Data Science and Strategy - [Accenture California Data & AI Google Scholar](https://scholar.google.com/citations?hl=en&user=7F6YV8MAAAAJ) (5 years)
-8. San Francisco Penn Medicine Radiation Oncology Global Radiation Oncology Data Science - [UCI ICS Google Scholar](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en) (4.5 years)
+8. San Francisco Penn Medicine Radiation Oncology Global Radiation Oncology Data Science - [UCI ICS Google Scholar](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en) (5.5 years)
 9. Irvine Up to Us National Debt Marketing Data Science, Strategy, and Business Intelligence - [UCI Merage Credly](https://www.credly.com/users/shawna-tuli/badges) (6 months)
 10. Bicoastal Indian American (Brown) Community (Life)
 __________________________________________________________________________________________________________________________________________________________________________
