@@ -196,7 +196,7 @@ Undergraduate Research Opportunities Program, Avanade AI Studio, and Accenture K
 Knowledge Exchange.
 6. “California Energy Consumption Prediction” in Accenture Knowledge Exchange and Avanade AI Studio.
 7. "Accenture GRC Response Assistant" in Avanade AI Studio and Accenture Knowledge Exchange.
-8. "GRC Response Assistant: AI Solution for Utility Rate Case Management" in University of California, Irvine Undergraduate Research Opportunities Program, Avanade AI Studio, and Accenture Knowledge Exchange. 
+8. "GRCResponder: AI-Driven Optimization of General Rate Cases" in University of California, Irvine Undergraduate Research Opportunities Program, Avanade AI Studio, and Accenture Knowledge Exchange. 
 9. "BI Analysis (Partner Business Modeling: Uber)" in University of California, Irvine Undergraduate Research Opportunities Program, Avanade AI Studio, and Accenture Knowledge Exchange. 
 10. “Predicting risk of Type 2 diabetes with AI in California” in Accenture Knowledge Exchange and Avanade AI Studio.
 11. “Five-year overall survival following chemoradiation therapy for locally advanced cervical carcinoma in women living with
