@@ -19,7 +19,7 @@ ________________________________________________________________________________
 9. Irvine Up to Us National Debt Marketing Data Science, Strategy, and Business Intelligence - [UCI Merage Credly](https://www.credly.com/users/shawna-tuli/badges) (6 months)
 10. Bicoastal Indian American (Brown) Community (Life)
 __________________________________________________________________________________________________________________________________________________________________________
-#### INDUSTRY AWARD HIGHLIGHTS
+#### AWARD HIGHLIGHTS
 1. Google AI for everyone | Bay Area for significant contributions to AI
 2. Google’s cloud business turns profitable for the first time on record
 3. Google exploreCSR Workshop
@@ -32,6 +32,12 @@ ________________________________________________________________________________
 10. Google International Women's Day (2x)
 11. Accenture International Women's Day (4x)
 12. Avanade International Women's Day (4x)
+13. Forbes 30 Under 30 Scholar
+14. Alpha Kappa Psi Most Likely to be a Billionaire
+15. Up to Us Top 20 Team
+16. Up to Us Top Pledge Earner
+17. Chartered Financial Analyst Society Orange County Request for Proposal Second Place
+18. Chartered Financial Analyst Society Orange County Research Challenge 
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 #### SILICON VALLEY BIG TECH AI & DATA SCIENCE, ADVANCED ANALYTICS, BUSINESS INTELLIGENCE, AND STRATEGY LEADERSHIP & PUBLIC SPEAKING EXPERIENCE (2014-Present) 
