@@ -40,7 +40,7 @@ ________________________________________________________________________________
 18. Chartered Financial Analyst Society Orange County Research Challenge 
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-#### SILICON VALLEY BIG TECH AI & DATA SCIENCE, ADVANCED ANALYTICS, BUSINESS INTELLIGENCE, AND STRATEGY LEADERSHIP & PUBLIC SPEAKING EXPERIENCE (2014-Present) 
+#### WORK EXPERIENCE (2014-Present) 
 * ✓ Goal 3: AI & Data Science Manager at Amazon Mountain View 
 * 📌 Goal 2: AI & Data Science Manager at Microsoft Mountain View 
 * 🎯 Goal 1: AI & Data Science Manager at Google Mountain View
