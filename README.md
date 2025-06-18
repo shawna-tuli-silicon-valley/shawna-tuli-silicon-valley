@@ -148,7 +148,7 @@ ________________________________________________________________________________
 * 🪩 Accenture San Francisco Innovation Hub Happy Hours (23x)
 * 🏛️ Accenture San Francisco Innovation Hub Quarterly TownHalls (20x)
 * 📅 Avanade San Francisco Innovation Hub Quarterly TownHalls (20x)
-* 📊 22 Penn Medicine Radiation Oncology articles and led 30+ Surgeons, Doctors, and Students [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-penn-medicine-global-radiation-oncology-analytics) [(Google Scholar)](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en)
+* 📊 23 Penn Medicine Radiation Oncology articles and led 30+ Surgeons, Doctors, and Students [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-penn-medicine-global-radiation-oncology-analytics) [(Google Scholar)](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en)
 * 🍊 Grace Hopper Celebration of Women in Computing Conference Orlando [(Repo)](https://github.com/shawna-tuli-silicon-valley/grace-hopper-celebration-of-women-in-engineering/tree/main)
 * 🖼️ Avanade Irvine Top 5 in Innovation - created an Azure AI product via computer vision and an one-shot GAN [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-irvine-ai-product)
 * 💼 Avanade FUEL: Innovation, Leadership and Technology Conference Pomona
@@ -232,6 +232,7 @@ Institute of Child & Mother Health.
 Medical Oncology.
 25. “Patterns of Survivorship Care of Cervical Cancer Patients in Botswana” in JNCI Cancer Spectrum: Special Call for
 Papers.
+26. "Adherence to Survivorship Care Visits in Patients with Cervical Cancer in Botswana" in JCO Global Oncology.
 _______________________________________________________________________________________________________________________________________________________________________________________________
 #### TECHNICAL SKILLS
 #### ![GOOGLE](https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=fff&style=for-the-badge)
@@ -318,7 +319,7 @@ ________________________________________________________________________________
 #### EDUCATION
 * Accenture Kellogg Education Education in Leading with Analytics & Artificial Intelligence Virtual Program [(Certificate)](https://execedcertificate.kellogg.northwestern.edu/308a9e71-d504-4194-9c74-22667c48e450#gs.utv39r)
 * Stanford University School of Engineering Certificate in Machine Learning [(Certificate)](https://www.coursera.org/account/accomplishments/certificate/47XPJRBC4F5C)
-* University of California, Irvine Donald Bren School of Information & Computer Sciences Bachelor of Science Data Science (Computer Science & Statistics) - Dean's Honor List, Penn Medicine Radiation Oncology Data Science Capstone and Twenty-Two Articles, Butterworth Product Development Competition (Software) Finalist, Research Assistant for Professor Gloria Mark, Women in Information & Computer Sciences, Freshmen Edge, and Dance [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-data-science)
+* University of California, Irvine Donald Bren School of Information & Computer Sciences Bachelor of Science Data Science (Computer Science & Statistics) - Dean's Honor List, Penn Medicine Radiation Oncology Data Science Capstone and Twenty-Three Articles, Butterworth Product Development Competition (Software) Finalist, Research Assistant for Professor Gloria Mark, Women in Information & Computer Sciences, Freshmen Edge, and Dance [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-data-science)
 * University of California, Irvine Paul Merage School of Business - Alpha Kappa Psi Professional Co-ed Business Fraternity | Pi Psi Professional Chair, Theta Class Treasurer, and Most Likely to be a Billionaire Award, UptoUCI Co-Founder & Marketing Director and Top 20 Team and Top Pledge Earner National Honor Badges, Student Managed Investment Fund Executive Vice President and Chartered Financial Analyst Society Orange County Request for Proposal Second Place, Chartered Financial Analyst Society Orange County Research Challenge, and Chartered Financial Analyst Society Orange County
 * Los Gatos High School High School Diploma - Los Gatos-Saratoga Union High School District Scholar, Advanced Placement Scholar with Distinction, Christine Guenther Brienzo Merit Scholarship, Stanford University School of Engineering Girl Code, Stanford Splash, LIVEbeyond Foundation California President, Future Business Leaders of America Treasurer and Bay Section Top 10 in Securities & Investments, California Council on Economic Education Personal Finance Challenge Top 5, Science Olympiad Santa Clara County Top 3 (2x), Link Crew Leader, Women in Computer Science, Women's Doubles Tennis, and Mixed Doubles Badminton [(Repo)](https://github.com/shawna-tuli-silicon-valley/lghs-advanced-placement)
 * Stanford University School of Engineering Certificate in Computer Science [(Repo)](https://github.com/shawna-tuli-silicon-valley/stanford-engineering-computer-science-girl-code)
