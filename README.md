@@ -25,26 +25,28 @@ ________________________________________________________________________________
 3. Google exploreCSR Workshop
 4. Accenture V360 Awards in Innovation Nominee (4x)
 5. Avanade Best Baker 
-6. Avanade We Believe Everyone Counts Super Hero
+6. Avanade We Believe Everyone Counts Super Hero (2x)
 7. Avanade We Deliver with Excellence Super Hero
 8. Avanade Create the Future Super Hero (2x)
-9. Avanade Accelerate Impact Super Hero
-10. Google International Women's Day (2x)
-11. Accenture International Women's Day (4x)
-12. Avanade International Women's Day (4x)
-13. Forbes 30 Under 30 Scholar
-14. Alpha Kappa Psi Professional Co-ed Business Fraternity Most Likely to be a Billionaire
-15. Up to Us Top 20 Team
-16. Up to Us Top Pledge Earner
-17. Chartered Financial Analyst Society Orange County Request for Proposal Second Place
-18. Chartered Financial Analyst Society Orange County Research Challenge 
+9. Avanade Accelerate Impact Super Hero (2x)
+11. Avanade We Act with Integrity and Respect Ambassador (3x)
+12. Google International Women's Day (2x)
+13. Accenture International Women's Day (4x)
+14. Avanade International Women's Day (4x)
+15. Forbes 30 Under 30 Scholar
+16. Alpha Kappa Psi Professional Co-ed Business Fraternity Most Likely to be a Billionaire
+17. Up to Us Top 20 Team
+18. Up to Us Top Pledge Earner
+19. Chartered Financial Analyst Society Orange County Request for Proposal Second Place
+20. Chartered Financial Analyst Society Orange County Research Challenge 
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 #### WORK EXPERIENCE (2014-Present) 
 * ✓ Goal 3: AI & Data Science Manager at Amazon Mountain View 
 * 📌 Goal 2: AI & Data Science Manager at Microsoft Mountain View 
 * 🎯 Goal 1: AI & Data Science Manager at Google Mountain View
-* 💥 Avanade Accelerate Impact Super Hero Award
+* 💥 Avanade Accelerate Impact Super Hero Award (2x)
+* ⚖️ Avanade We Act with Integrity and Respect Ambassador Award (3x) 
 * 🛒 Products Industry Day at Accenture San Francisco 
 * 📫 3. Data & AI Manager at Amazon San Francisco & Mountain View - responsible for multimillion-dollar Data & AI at Amazon
 * 🌏 World Summit AI USA 2025
