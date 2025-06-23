@@ -151,6 +151,7 @@ ________________________________________________________________________________
 * 🪩 Accenture San Francisco Innovation Hub Happy Hours (24x)
 * 🏛️ Accenture San Francisco Innovation Hub Quarterly TownHalls (20x)
 * 📅 Avanade San Francisco Innovation Hub Quarterly TownHalls (20x)
+* 🖌️ SFMOMA Visit
 * 📊 23 Penn Medicine Radiation Oncology articles and led 30+ Surgeons, Doctors, and Students [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-penn-medicine-global-radiation-oncology-analytics) [(Google Scholar)](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en)
 * 🍊 Grace Hopper Celebration of Women in Computing Conference Orlando [(Repo)](https://github.com/shawna-tuli-silicon-valley/grace-hopper-celebration-of-women-in-engineering/tree/main)
 * 🖼️ Avanade Irvine Top 5 in Innovation - created an Azure AI product via computer vision and an one-shot GAN [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-irvine-ai-product)
@@ -174,6 +175,8 @@ ________________________________________________________________________________
 * 🏦 Chartered Financial Analyst Society Orange County Research Challenge on Opus Bank [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-merage-cfa-institute-research-challenge)
 * 💌 Kys iOS App - built in 24 hours at the USC Viterbi School of Engineering AthenaHacks Hackathon [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-kys-ios-app) [(Devpost)](https://devpost.com/software/kys-0s456d?fbclid=IwAR1zk_PqUaJkhv4SuBtjU898owq_guS0EFm7R68mAZgG_F7k3dZijiDOcT4#updates)
 * 👩🏽‍💻 UCLA LA Hacks Hackathon
+* 🎨 The Getty Visit
+* 🖼️ LACMA Visit
 * 💯 Exceed Android App - attained UCI ICS Butterworth Product Development Competition (Software) Finalist [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-exceed-android-app)
 * 🔢 STEM Mentor at UCI Math Community Educational Outreach (CEO)
 * 🌐 STEM (Science, Technology, Engineering, and Math) Panelist at Girls Inc. of Orange County [(Report)](https://issuu.com/dwilliams11/docs/gioc_2017annualreport)
