@@ -148,7 +148,7 @@ ________________________________________________________________________________
 * 👥 UCI Alumni Speaker at Accenture UCI Recruitment (4x) [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-university-of-california-irvine-recruitment)
 * 💙 Accenture Applied Intelligence Strategy Summer Conference San Francisco
 * 🎊 Avanade Go Team! Award (4x)
-* 🪩 Accenture San Francisco Innovation Hub Happy Hours (23x)
+* 🪩 Accenture San Francisco Innovation Hub Happy Hours (24x)
 * 🏛️ Accenture San Francisco Innovation Hub Quarterly TownHalls (20x)
 * 📅 Avanade San Francisco Innovation Hub Quarterly TownHalls (20x)
 * 📊 23 Penn Medicine Radiation Oncology articles and led 30+ Surgeons, Doctors, and Students [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-penn-medicine-global-radiation-oncology-analytics) [(Google Scholar)](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en)
