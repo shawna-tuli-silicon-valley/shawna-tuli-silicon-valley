@@ -7,7 +7,7 @@ Shawna has bettered Accenture into Forbes #1 Management Consulting Firm and Ever
 She has made significant contributions, by leading teams, to major big technology companies, including **Microsoft**, delivering AI & Data Science solutions at Fortune 500 clients, **Google**, working on ***Google products*** such as Photos, Cloud, Play, and One, and **Amazon**, migrating to ***products***. Shawna advises for **Harvard Business Review**. Her strengths are Activator, Achiever, Futuristic, Competition, and Significance.   
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-#### LEADERSHIP HIGHLIGHTS
+#### LEADERSHIP HIGHLIGHTS (2016-Present)
 1. Mountain View & Sunnyvale Google AI & Data Science, Product Strategy, and Business Intelligence - [Google](https://ai.google) (14 weeks at [Google Photos](https://www.google.com/photos/about/); 1 year at [Google Cloud](https://cloud.google.com/), [Google Play](https://play.google.com/store/games?hl=en_US), and [Google One](https://one.google.com/about/))
 2. San Francisco & Mountain View Microsoft AI & Data Science - [Microsoft Learn](https://learn.microsoft.com/en-us/users/shawnatuli-1762/?redeem=RN4ZKZ&WT.mc_id=ilt_partner_webpage_wwl&ocid=3103897&DCS=DEPR2550058&source=docs) (5 years)
 3. San Francisco & Mountain View Amazon AI & Data Science and Product Strategy - [Amazon](https://www.aboutamazon.com/artificial-intelligence-ai-news) (2 years at Amazon Mailbox Core)
