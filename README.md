@@ -19,7 +19,7 @@ ________________________________________________________________________________
 9. Irvine Up to Us National Debt Marketing Data Science, Strategy, and Business Intelligence - [UCI Merage Credly](https://www.credly.com/users/shawna-tuli/badges) (6 months)
 10. Bicoastal Indian American (Brown) Community (Life)
 __________________________________________________________________________________________________________________________________________________________________________
-#### AWARD HIGHLIGHTS
+#### AWARD HIGHLIGHTS (2016-Present)
 1. Google AI for everyone | Bay Area for significant contributions to AI
 2. Google’s cloud business turns profitable for the first time on record
 3. Google exploreCSR Workshop
