@@ -45,6 +45,7 @@ ________________________________________________________________________________
 * ✓ Goal 3: AI & Data Science Manager at Amazon Mountain View 
 * 📌 Goal 2: AI & Data Science Manager at Microsoft Mountain View 
 * 🎯 Goal 1: AI & Data Science Manager at Google Mountain View
+* 🏠 Accenture San Francisco Innovation Hub & Mountain View DSSG Lead at UWBA Phase 4, leading 6 Data Scientists [(Repo)]
 * 🌼 Speaker of Wellness Event at Accenture Mountain View 
 * ⌨️ CMT Industry Day at Accenture Mountain View 
 * 🍴 Accenture Mountain View Happy Hours (18x)
@@ -76,7 +77,7 @@ ________________________________________________________________________________
 * 🌎 Google AI for everyone Global Virtual Summit [(Videos)](https://careersonair.withgoogle.com/events/aiforeveryone24)
 * 🔍 4) Accenture V360 Awards - solutioned AI for utility rate case management, led 7 Data Scientists [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture/tree/main) [(Student Repo)](https://github.com/bsteier/GRCResponder)
 * 🚚 2. AI & Data Science Manager at Amazon San Francisco & Mountain View - led 4 Cloud Engineers on PB mailboxes
-* 🌈 Accenture San Francisco Innovation Hub & Mountain View DSSG Lead at UWBA Phase 3, led 6 Data Scientists [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-uwba-ai-and-data-science-2/tree/main)
+* 🌈 Accenture San Francisco Innovation Hub & Mountain View DSSG Lead at UWBA Phase 3, led 7 Data Scientists [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-uwba-ai-and-data-science-2/tree/main)
 * 🏴󠁧󠁢󠁥󠁮󠁧󠁿 London Natural History Museum Visit 
 * 🗳️ Accenture San Francisco Innovation Hub & Mountain View DSSG Lead at UWBA Brunch & Ballots [(Repo)](https://github.com/shawna-tuli-silicon-valley/uwba-ai-and-data-science/tree/main)
 * 📘 Accenture San Francisco Innovation Hub & Mountain View Amazon Account Learn & Grow Mentor - teaching AI
