@@ -45,7 +45,7 @@ ________________________________________________________________________________
 * ✓ Goal 3: AI & Data Science Manager at Amazon Mountain View 
 * 📌 Goal 2: AI & Data Science Manager at Microsoft Mountain View 
 * 🎯 Goal 1: AI & Data Science Manager at Google Mountain View
-* Speaker of Wellness Event at Accenture Mountain View 
+* 🌼 Speaker of Wellness Event at Accenture Mountain View 
 * ⌨️ CMT Industry Day at Accenture Mountain View 
 * 🍴 Accenture Mountain View Happy Hours (17x)
 * 💥 Avanade Accelerate Impact Super Hero Award (2x)
