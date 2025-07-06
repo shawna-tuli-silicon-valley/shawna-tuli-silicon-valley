@@ -71,7 +71,7 @@ ________________________________________________________________________________
 * 🚗 5) Accenture AI & Data Science Advisor - business modeled Uber and led 5 Data Scientists [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-bi-and-data-science/tree/main) [(Student Repo)](https://github.com/jiangyue-amber/uber-analysis) 
 * 🍏 Freakonomics Radio Live with Stephen Dubner and special guests San Francisco
 * ❄️ Accenture San Francisco Innovation Hub AI Holiday Party
-* 🎄 Accenture San Francisco Innovation Hub Holidays Party (4x)
+* 🎄 Accenture San Francisco Innovation Hub Holidays Party (5x)
 * 👠 Avanade Northern California Social & Networking Champion - assembling and holding monthly events for 50+
 * 🌎 Google AI for everyone Global Virtual Summit [(Videos)](https://careersonair.withgoogle.com/events/aiforeveryone24)
 * 🔍 4) Accenture V360 Awards - solutioned AI for utility rate case management, led 7 Data Scientists [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture/tree/main) [(Student Repo)](https://github.com/bsteier/GRCResponder)
