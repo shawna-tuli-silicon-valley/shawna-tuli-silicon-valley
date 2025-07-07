@@ -338,7 +338,7 @@ ________________________________________________________________________________
 * University of California, Davis - SQL for Data Science [(Certificate)](https://www.coursera.org/account/accomplishments/certificate/TG58RPJKTBB9)
 _____________________________________________________________________________________________________________________________________________________________________________
 #### INTERESTS
-I am strength training, running, walking, healthy cooking, reading, studying, and watching movies and shows daily. I enjoy dancing, playing tennis, badminton, and golf, shopping, oil painting, traveling, and going to beaches, lakes, restaurants, and concerts. 
+I am strength training, running, walking, healthy cooking, reading, studying, and watching movies and shows daily. I enjoy dancing, tennis, badminton, golf, shopping, oil painting, traveling, and beaches, lakes, restaurants, and concerts. 
 
 <!--
 **shawna-tuli-silicon-valley/shawna-tuli-silicon-valley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
