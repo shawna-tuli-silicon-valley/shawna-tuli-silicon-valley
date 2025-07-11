@@ -42,8 +42,8 @@ ________________________________________________________________________________
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 #### WORK EXPERIENCE (2014-Present) 
-* 🎯 **Goal:** AI & Data Science Manager at Google Mountain View, Microsoft Mountain View, or Amazon Mountain View
-* 🩶 Incoming AI & Data Science Manager at Accenture Mountain View 
+* 🎯 **Goal 2:** AI & Data Science Manager at Google Mountain View, Microsoft Mountain View, or Amazon Mountain View
+* 🩶 **Goal 1:** AI & Data Science Manager at Accenture Mountain View 
 * ☕ Owner of Coffee Tasting Wellness Event at Accenture Mountain View [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-6/tree/main)
 * 🏰 San Francisco Palace of Fine Arts Visit 
 * 🏠 Accenture Mountain View DSSG Lead at UWBA Phase 4, leading 6 Data Scientists - 1 article [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-uwba-ai-and-data-science-3)
