@@ -23,7 +23,7 @@ ________________________________________________________________________________
 1. Google AI for everyone | Bay Area for significant contributions to AI
 2. Google’s cloud business turns profitable for the first time on record
 3. Google exploreCSR Workshop
-4. Accenture V360 Awards in Innovation Nominee (4x)
+4. Accenture V360 Awards in Innovation Nominee (5x)
 5. Avanade Best Baker 
 6. Avanade We Believe Everyone Counts Super Hero (2x)
 7. Avanade We Deliver with Excellence Super Hero
@@ -31,8 +31,8 @@ ________________________________________________________________________________
 9. Avanade Accelerate Impact Super Hero (2x)
 11. Avanade We Act with Integrity and Respect Ambassador (3x)
 12. Google International Women's Day (2x)
-13. Accenture International Women's Day (4x)
-14. Avanade International Women's Day (4x)
+13. Accenture International Women's Day (5x)
+14. Avanade International Women's Day (5x)
 15. Forbes 30 Under 30 Scholar
 16. Alpha Kappa Psi Professional Co-ed Business Fraternity Most Likely to be a Billionaire
 17. Up to Us Top 20 Team
