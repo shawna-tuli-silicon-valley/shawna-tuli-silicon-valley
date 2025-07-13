@@ -142,7 +142,7 @@ ________________________________________________________________________________
 * 🧾 Software Engineer at Fortune 500 Company San Francisco and led a Software Engineer
 * 🖤 Software Engineering Lead at Fortune 500 Company San Francisco and led 4 Software Engineers
 * 💜 AI & Data Science Lead at Fortune 500 Company San Francisco and led a Data Engineer
-* ☕ Software Engineer at Fortune 500 Company San Francisco
+* 🍵 Software Engineer at Fortune 500 Company San Francisco
 * 💾 Advanced Analytics Lead at Fortune 500 Company San Francisco and led 2 Analysts
 * 🎉 Avanade Northern California Social Committee Member - organizing and hosting events monthly for 50+
 * ✔️ Avanade We Deliver with Excellence Super Hero Award
