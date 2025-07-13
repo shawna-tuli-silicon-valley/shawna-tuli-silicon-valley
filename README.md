@@ -246,7 +246,7 @@ Medical Oncology (ESMO).
 Papers.
 26. "Adherence to Survivorship Care Visits in Patients with Cervical Cancer in Botswana" in JCO Global Oncology.
 27. UWBA in Academic Journal, Avanade AI Studio, and Accenture Knowledge Exchange.
-28. TBA in in University of California, Irvine Undergraduate Research Opportunities Program (UROP), Avanade AI Studio, and Accenture Knowledge Exchange. 
+28. TBA in University of California, Irvine Undergraduate Research Opportunities Program (UROP), Avanade AI Studio, and Accenture Knowledge Exchange. 
 _______________________________________________________________________________________________________________________________________________________________________________________________
 #### TECHNICAL SKILLS
 #### ![GOOGLE](https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=fff&style=for-the-badge)
