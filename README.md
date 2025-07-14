@@ -206,7 +206,7 @@ ARIMAX Models” in Stanford Libraries, arxiv.org/pdf/2402.04432, Avanade AI Stu
 3. “Call Center CoPilot: Enhancing Customer Service with Large Language Models” in University of California, Irvine
 Undergraduate Research Opportunities Program (UROP), Avanade AI Studio, and Accenture Knowledge Exchange.
 4. “Accenture Call Center Co-Pilot” in Avanade AI Studio and Accenture Knowledge Exchange.
-5. “Predicting Energy Consumption in California” in National Science Foundation, Avanade AI Studio, and Accenture
+5. “Predicting Energy Consumption in California” in National Science Foundation (NSF), Avanade AI Studio, and Accenture
 Knowledge Exchange.
 6. “California Energy Consumption Prediction” in Accenture Knowledge Exchange and Avanade AI Studio.
 7. "Accenture GRC Response Assistant" in Avanade AI Studio and Accenture Knowledge Exchange.
