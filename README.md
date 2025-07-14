@@ -79,6 +79,7 @@ ________________________________________________________________________________
 * 🌎 Google AI for everyone Global Virtual Summit [(Videos)](https://careersonair.withgoogle.com/events/aiforeveryone24)
 * 🔍 4) Accenture V360 Awards - solutioned AI for utility rate case management, led 7 Data Scientists [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture/tree/main) [(Student Repo)](https://github.com/bsteier/GRCResponder)
 * 🚚 2. AI & Data Science Manager at Amazon San Francisco & Mountain View - led 4 Cloud Engineers on PB mailboxes
+* 🔈Orator at Accenture Mountain View DSSG at UWBA Phase 3 Presentation (6x)
 * 🌈 Accenture San Francisco Innovation Hub & Mountain View DSSG Lead at UWBA Phase 3, led 7 Data Scientists [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-uwba-ai-and-data-science-2/tree/main)
 * 🏴󠁧󠁢󠁥󠁮󠁧󠁿 London Natural History Museum Visit 
 * 🗳️ Accenture San Francisco Innovation Hub & Mountain View DSSG Lead at UWBA Brunch & Ballots [(Repo)](https://github.com/shawna-tuli-silicon-valley/uwba-ai-and-data-science/tree/main)
@@ -96,7 +97,7 @@ ________________________________________________________________________________
 * 🎲 Accenture San Francisco Strategy & Consulting Day
 * ⭐ Google Visitor Experience Visit [(Article)](https://blog.google/inside-google/company-announcements/google-office-tour/)
 * 📱 Apple Park Visitor Center Visit
-* 🔊 Orator at Accenture Mountain View DSSG at UWBA Phase 2 Presentation (4x)
+* 🔊 Orator at Accenture Mountain View DSSG at UWBA Phase 2 Presentation (6x)
 * 🌇 Accenture New York Innovation Hub Generative AI Studio Visit (2x)
 * 🗽 Accenture New York Innovation Hub Visit (2x)
 * 🎙 Emcee at Avanade North America Data & AI Community Call 
