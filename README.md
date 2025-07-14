@@ -45,10 +45,10 @@ ________________________________________________________________________________
 * 🎯 **Goal 2:** AI & Data Science Manager at Google Mountain View, Microsoft Mountain View, or Amazon Mountain View
 * 🩶 **Goal 1:** AI & Data Science Manager at Accenture Mountain View
 * 🔢 TBA Accenture Data Science Capstone in 2026 
-* ☕ Owner of Coffee Tasting Wellness Event at Accenture Mountain View [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-6/tree/main)
+* ☕ Owner of Sunset Roasters Coffee Tasting Wellness Event at Accenture Mountain View [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-6/tree/main)
 * 🏰 San Francisco Palace of Fine Arts Visit 
 * 🏠 Accenture Mountain View DSSG Lead at UWBA Phase 4, leading 6 Data Scientists - 1 article [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-uwba-ai-and-data-science-3)
-* 🌼 Speaker of Massage Wellness Event at Accenture Mountain View [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-7/tree/main)
+* 🌼 Speaker of Massage at Work Wellness Event at Accenture Mountain View [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-7/tree/main)
 * ⌨️ CMT Industry Day at Accenture Mountain View 
 * 🍴 Accenture Mountain View Happy Hours (18x)
 * 💥 Avanade Accelerate Impact Super Hero Award (2x)
@@ -56,9 +56,9 @@ ________________________________________________________________________________
 * 🛒 Products Industry Day at Accenture San Francisco 
 * 📫 3. Data & AI Manager at Amazon San Francisco & Mountain View - responsible for $7M+
 * 🌏 World Summit AI USA San Francisco
-* 💅🏽 Moderator of Manicure Wellness Event at Accenture Mountain View - 100% taken [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-5)
-* 🏺 Presenter of Pottery Making and Ceramic Painting Wellness Event at Accenture Mountain View - 100% booked [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-4/tree/main)
-* 🍇 Owner of Build Your Own Charcuterie Board Wellness Event at Accenture Mountain View - 100% reserved [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-3)
+* 💅🏽 Moderator of Elegance Nails and Spa Manicure Wellness Event at Accenture Mountain View - 100% taken [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-5)
+* 🏺 Presenter of Sculpd Pottery Making and Ceramic Painting Wellness Event at Accenture Mountain View - 100% booked [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-4/tree/main)
+* 🍇 Owner of Build Your Own Whole Foods Charcuterie Board Wellness Event at Accenture Mountain View - 100% reserved [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-3)
 * 💬 Microsoft Me Myself and My Copilot: An Introduction to Microsoft 365 Copilot Chat + Agents
 * 💆🏽‍♀️ Accenture Mountain View Wellness Committee Member - orchestrating events
 * 🍽️ Accenture San Francisco Innovation Hub Third Thursdays (58x)
