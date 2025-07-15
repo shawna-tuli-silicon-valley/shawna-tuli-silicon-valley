@@ -44,6 +44,7 @@ ________________________________________________________________________________
 #### WORK EXPERIENCE (2014-Present) 
 * 🎯 **Goal 2:** AI & Data Science Manager at Google Mountain View, Microsoft Mountain View, or Amazon Mountain View
 * 🩶 **Goal 1:** AI & Data Science Manager at Accenture Mountain View
+* 📝 Speaker at Avanade US Data & AI Monthly Town Hall
 * 🔢 TBA Accenture Data Science Capstone in 2026 
 * ☕ Owner of Sunset Roasters Coffee Tasting Wellness Event at Accenture Mountain View [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-6/tree/main)
 * 🏰 San Francisco Palace of Fine Arts Visit 
@@ -156,8 +157,8 @@ ________________________________________________________________________________
 * 💙 Accenture Applied Intelligence Strategy Summer Conference San Francisco
 * 🎊 Avanade Go Team! Award (4x)
 * 🪩 Accenture San Francisco Innovation Hub Happy Hours (24x)
-* 🏛️ Accenture San Francisco Innovation Hub Quarterly TownHalls (20x)
-* 📅 Avanade San Francisco Innovation Hub Quarterly TownHalls (20x)
+* 🏛️ Accenture San Francisco Innovation Hub Quarterly Town Halls (20x)
+* 📅 Avanade San Francisco Innovation Hub Quarterly Town Halls (20x)
 * 🖌️ San Francisco Museum of Modern Art Visit
 * 📊 23 Penn Medicine Radiation Oncology articles and led 30+ Surgeons, Doctors, and Students [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-penn-medicine-global-radiation-oncology-analytics) [(Google Scholar)](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en)
 * 🍊 Grace Hopper Celebration of Women in Computing Conference Orlando [(Repo)](https://github.com/shawna-tuli-silicon-valley/grace-hopper-celebration-of-women-in-engineering/tree/main)
