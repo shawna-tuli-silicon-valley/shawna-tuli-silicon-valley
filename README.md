@@ -44,7 +44,7 @@ ________________________________________________________________________________
 #### WORK EXPERIENCE (2014-Present) 
 * 🎯 **Goal 2:** AI & Data Science Manager at Google Mountain View, Microsoft Mountain View, or Amazon Mountain View
 * 🩶 **Goal 1:** AI & Data Science Manager at Accenture Mountain View
-* 📝 Speaker at Avanade US Data & AI Monthly Town Hall (Repo)
+* 📝 Orator at Avanade US Data & AI Monthly Town Hall (Repo)
 * 🔢 TBA Accenture Data Science Capstone in 2026 
 * ☕ Owner of Sunset Roasters Coffee Tasting Wellness Event at Accenture Mountain View [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-6/tree/main)
 * 🏰 San Francisco Palace of Fine Arts Visit 
