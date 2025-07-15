@@ -28,7 +28,8 @@ ________________________________________________________________________________
 6. Avanade We Believe Everyone Counts Super Hero (2x)
 7. Avanade We Deliver with Excellence Super Hero
 8. Avanade Create the Future Super Hero (2x)
-9. Avanade Accelerate Impact Super Hero (2x)
+9. Avanade Create the Future
+10. Avanade Accelerate Impact Super Hero (2x)
 11. Avanade We Act with Integrity and Respect Ambassador (3x)
 12. Google International Women's Day (2x)
 13. Accenture International Women's Day (5x)
@@ -49,6 +50,7 @@ ________________________________________________________________________________
 * ☕ Owner of Sunset Roasters Coffee Tasting Wellness Event at Accenture Mountain View [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-6/tree/main)
 * 🏰 San Francisco Palace of Fine Arts Visit 
 * 🏠 Accenture Mountain View DSSG Lead at UWBA Phase 4, leading 5 Data Scientists - 1 article [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-uwba-ai-and-data-science-3)
+* 🔜 Avanade Create the Future Award
 * 🌼 Speaker of Massage at Work Wellness Event at Accenture Mountain View [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-7/tree/main)
 * ⌨️ Communications, Media & Technology (CMT) Industry Day at Accenture Mountain View 
 * 🍴 Accenture Mountain View Happy Hours (18x)
