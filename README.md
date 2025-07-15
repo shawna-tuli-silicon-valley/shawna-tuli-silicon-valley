@@ -50,7 +50,7 @@ ________________________________________________________________________________
 * 🏰 San Francisco Palace of Fine Arts Visit 
 * 🏠 Accenture Mountain View DSSG Lead at UWBA Phase 4, leading 5 Data Scientists - 1 article [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-uwba-ai-and-data-science-3)
 * 🌼 Speaker of Massage at Work Wellness Event at Accenture Mountain View [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-7/tree/main)
-* ⌨️ CMT Industry Day at Accenture Mountain View 
+* ⌨️ Communications, Media & Technology (CMT) Industry Day at Accenture Mountain View 
 * 🍴 Accenture Mountain View Happy Hours (18x)
 * 💥 Avanade Accelerate Impact Super Hero Award (2x)
 * ⚖️ Avanade We Act with Integrity and Respect Ambassador Award (3x) 
@@ -70,7 +70,7 @@ ________________________________________________________________________________
 * 📒 Microsoft's Better Together: Innovate, Inspire, Impact - The Future of Leadership Mountain View 
 * 🌸 Instructor at Accenture Mountain View Wellness Fair 
 * 🚋 AI & Data Science Educator at Accenture San Francisco Innovation Hub University of Washington Recruitment 
-* 🗣️ Accenture San Francisco Innovation Hub FY25 APAERG Leadership Summit
+* 🗣️ Accenture San Francisco Innovation Hub FY25 Asian Pacific American Employee Resource Group Leadership Summit
 * 🛢️ CES [(Videos)](https://videos.ces.tech/)
 * 🚗 5) Accenture AI & Data Science Advisor - business modeled Uber and led 5 Data Scientists [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-bi-and-data-science/tree/main) [(Student Repo)](https://github.com/jiangyue-amber/uber-analysis) 
 * 🍏 Freakonomics Radio Live with Stephen Dubner and special guests San Francisco
