@@ -98,7 +98,7 @@ ________________________________________________________________________________
 * 🧁 Avanade Mountain View Chair - arranging events
 * 🏅 Avanade - honored as AI Breakthrough Awards Best AI Consulting Service Provider
 * 🏆 Accenture - honored as Forbes #1 Management Consulting Firm
-* 🖥️ Mountain View Technology Showcase [(Article)](https://chambermv.org/technology-showcase)
+* 🖥️ Mountain View Technology Showcase (2x) [(Article)](https://chambermv.org/technology-showcase)
 * 🎲 Accenture San Francisco Strategy & Consulting Day
 * ⭐ Google Visitor Experience Visit [(Article)](https://blog.google/inside-google/company-announcements/google-office-tour/)
 * 📱 Apple Park Visitor Center Visit
