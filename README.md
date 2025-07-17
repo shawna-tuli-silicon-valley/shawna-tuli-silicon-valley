@@ -46,7 +46,7 @@ ________________________________________________________________________________
 * 🎯 **Goal 2:** AI & Data Science Manager at Google Mountain View, Microsoft Mountain View, or Amazon Mountain View
 * 🩶 **Goal 1:** AI & Data Science Manager at Accenture Mountain View
 * 🍫 Moderator of TinyB Chocolate Making Wellness Event at Accenture Mountain View [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-9)
-* 🎀 Owner of Glamsquad Hair Styling Wellness Event at Accenture Mountain View [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-8)
+* 🎀 Owner of Glamsquad Hair Dry Styling Wellness Event at Accenture Mountain View [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-8)
 * 📝 Orator at Avanade US Data & AI Monthly Town Hall (Repo)
 * 🔢 TBA Accenture Data Science Capstone in 2026 
 * ☕ Owner of Sunset Roasters Coffee Tasting Wellness Event at Accenture Mountain View [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-6/tree/main)
