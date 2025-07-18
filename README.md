@@ -56,7 +56,7 @@ ________________________________________________________________________________
 * 🏠 Accenture Mountain View DSSG Lead at UWBA Phase 4, leading 5 Data Scientists - 1 article [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-uwba-ai-and-data-science-3)
 * 🔜 Avanade Create the Future Award
 * 🌼 Speaker of Massage Wellness Event at Accenture Mountain View [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-7/tree/main)
-* ⌨️ Communications, Media & Technology (CMT) Industry Day at Accenture Mountain View 
+* ⌨️ Communications, Media & Technology Industry Day at Accenture Mountain View 
 * 🍴 Accenture Mountain View Happy Hours (18x)
 * 💥 Avanade Accelerate Impact Super Hero Award (2x)
 * ⚖️ Avanade We Act with Integrity and Respect Ambassador Award (3x) 
@@ -139,7 +139,7 @@ ________________________________________________________________________________
 * 🤍 Google Cloud Next Conference (6x) [(Next)](https://cloud.withgoogle.com/next/25)
 * 💛 Databricks Data + AI Summit San Francisco [(Article)](https://www.databricks.com/blog/2022/06/24/know-before-you-go-data-ai-summit-2022.html)
 * ⚙️ Avanade San Francisco Innovation Hub Data & AI AI & Advanced Analytics Associate Manager [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics-2)
-* 🔮 2 National Science Foundation (NSF) articles - predicted energy consumption with AI in California and led 5 Data Scientists [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-california-energy-and-ai-predictive-analytics-2)
+* 🔮 2 National Science Foundation articles - predicted energy consumption with AI in California and led 5 Data Scientists [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-california-energy-and-ai-predictive-analytics-2)
 * 📉 2) Accenture V360 Awards - forecasted energy with AI in California and led 4 Data Scientists [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-california-energy-ai-and-predictive-analytics) [(Student Repo)](https://github.com/shawna-tuli-silicon-valley/EnergyPredictionCA)
 * ☁️ AI & Data Science Lead at Google Cloud Sunnyvale and led a Data Engineer [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-sunnyvale-ai-and-data-science-3) [(Article)](https://www.cnbc.com/2023/04/25/googles-cloud-business-turns-profitable-for-the-first-time-on-record.html)
 * ▶️ Software Engineer at Google Play Mountain View [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-mountain-view-devops-advanced-analytics-4)
