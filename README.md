@@ -44,7 +44,7 @@ ________________________________________________________________________________
 
 #### WORK EXPERIENCE (2014-Present) 
 * 🎯 **Goal 2:** AI & Data Science Manager at Google Mountain View, Microsoft Mountain View, or Amazon Mountain View
-* 🩶 **Goal 1:** AI & Data Science Manager at Accenture Mountain View
+* 🩶 Incoming AI & Data Science Manager at Accenture Mountain View
 * 💐 Manager of Flower Bouquet Making Wellness Event at Accenture Mountain View [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-11) 
 * 🕯️ Coordinator of Mountain View Candle Company Candle Making Wellness Event at Accenture Mountain View [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-10)
 * 🍫 Moderator of TinyB Chocolate Making Wellness Event at Accenture Mountain View [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-9)
