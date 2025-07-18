@@ -55,7 +55,7 @@ ________________________________________________________________________________
 * 🏰 San Francisco Palace of Fine Arts Visit 
 * 🏠 Accenture Mountain View DSSG Lead at UWBA Phase 4, leading 5 Data Scientists - 1 article [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-uwba-ai-and-data-science-3)
 * 🔜 Avanade Create the Future Award
-* 🌼 Speaker of Massage Wellness Event at Accenture Mountain View [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-7/tree/main)
+* 🌼 Host of Massage Wellness Event at Accenture Mountain View [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-7/tree/main)
 * ⌨️ Communications, Media & Technology Industry Day at Accenture Mountain View 
 * 🍴 Accenture Mountain View Happy Hours (18x)
 * 💥 Avanade Accelerate Impact Super Hero Award (2x)
