@@ -44,7 +44,7 @@ ________________________________________________________________________________
 
 #### WORK EXPERIENCE (2014-Present) 
 * 🎯 **Goal:** AI & Data Science Manager at Google Mountain View, Microsoft Mountain View, or Amazon Mountain View
-* 🩶 Incoming AI & Data Science Manager at Accenture Mountain View
+* 🏢 Incoming AI & Data Science Manager at Accenture Mountain View
 * 👩🏽‍💼 Advisor at University of San Francisco School of Management Women in Leadership Program
 * 💐 Manager of Flower Bouquet Making Wellness Event at Accenture Mountain View [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-11) 
 * 🕯️ Coordinator of Mountain View Candle Company Candle Making Wellness Event at Accenture Mountain View [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-10)
@@ -193,7 +193,7 @@ ________________________________________________________________________________
 * 🎨 The Getty Center Visit
 * 🖼️ Los Angeles County Museum of Art Visit
 * 💯 Exceed Android App - attained UCI ICS Butterworth Product Development Competition (Software) Finalist [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-exceed-android-app)
-* 🔢 STEM Mentor at UCI Math Community Educational Outreach (CEO)
+* ☑️ STEM Mentor at UCI Math Community Educational Outreach (CEO)
 * 🌐 STEM (Science, Technology, Engineering, and Math) Panelist at Girls Inc. of Orange County [(Report)](https://issuu.com/dwilliams11/docs/gioc_2017annualreport)
 * 💳 Eidebtic Vault Web App - made in 24 hours at the Capital One Santa Monica Hackathon [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-merage-ics-eidebtic-vault-web-app) [(Article)](https://medium.com/capital-one-tech/what-hosting-hackathons-taught-us-about-our-apis-b48d8304b74d) [(Article)](https://medium.com/capital-one-tech/5-things-we-learned-from-hosting-hackathons-1781b9728fde)
 * 🛍️ Data Scientist Intern at eBay San Jose in the Office of the CIO - developed ML models to contextualize big data [(Repo)](https://github.com/shawna-tuli-silicon-valley/ebay-san-jose-product-analytics-data-science) 
@@ -204,6 +204,7 @@ ________________________________________________________________________________
 * 💽 Gates Computer Science Building Visit
 * 💸 HSHacks Hackathon at PayPal San Jose [(Article)](https://venturebeat.com/dev/teenagers-take-over-paypal-hold-their-own-hackathon/)
 * 📚 Stanford Splash [(Article)](https://stanforddaily.com/2016/04/13/behind-the-scenes-of-stanford-splash/)
+* 🐪 Rosicrucian Egyptian Museum Visit 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shawna-tuli-silicon-valley&layout=compact) 
 __________________________________________________________________________________________________________________________________________________________________________________________________
