@@ -12,9 +12,9 @@ ________________________________________________________________________________
 2. San Francisco & Mountain View Microsoft AI & Data Science - [Microsoft Learn](https://learn.microsoft.com/en-us/users/shawnatuli-1762/?redeem=RN4ZKZ&WT.mc_id=ilt_partner_webpage_wwl&ocid=3103897&DCS=DEPR2550058&source=docs) (5+ years)
 3. San Francisco & Mountain View Amazon AI & Data Science and Product Strategy - [Amazon](https://www.aboutamazon.com/artificial-intelligence-ai-news) (2+ years at Amazon Mailbox Core)
 4. San Francisco & Mountain View Accenture & Avanade AI & Data Science and Strategy - [Accenture](https://www.accenture.com/us-en/services/data-ai) & [Avanade](https://www.avanade.com/en-us/services/artificial-intelligence) (5+ years)
-5. San Francisco & Mountain View Accenture & Avanade AI & Data Science and Strategy Hiring - [Accenture](https://www.accenture.com/us-en/services/data-ai) & [Avanade](https://www.avanade.com/en-us/services/artificial-intelligence) (5+ years)
-6. Bay Area Accenture Poverty Alleviation AI & Data Science, Strategy, and Business Intelligence - [United Way Bay Area](https://uwba.org/) (2+ years)
-7. California Accenture AI & Data Science and Strategy - [Accenture California Data & AI Google Scholar](https://scholar.google.com/citations?hl=en&user=7F6YV8MAAAAJ) (5+ years)
+5. Bay Area Accenture Poverty Alleviation AI & Data Science, Strategy, and Business Intelligence - [United Way Bay Area](https://uwba.org/) (2+ years)
+6. California Accenture AI & Data Science and Strategy - [Accenture California Data & AI Google Scholar](https://scholar.google.com/citations?hl=en&user=7F6YV8MAAAAJ) (5+ years)
+7. Advisor - Harvard Business Review, University of San Francisco School of Management, and LinkedIn. 
 8. San Francisco Penn Medicine Radiation Oncology Global Radiation Oncology Data Science - [UCI ICS Google Scholar](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en) (5.5+ years)
 9. Irvine Up to Us National Debt Marketing Data Science, Strategy, and Business Intelligence - [UCI Merage Credly](https://www.credly.com/users/shawna-tuli/badges) (6 months)
 10. Bicoastal Indian American (Brown) Community (Life)
