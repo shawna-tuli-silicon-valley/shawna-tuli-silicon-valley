@@ -14,8 +14,8 @@ ________________________________________________________________________________
 4. San Francisco & Mountain View Accenture & Avanade AI & Data Science and Strategy - [Accenture](https://www.accenture.com/us-en/services/data-ai) & [Avanade](https://www.avanade.com/en-us/services/artificial-intelligence) (5+ years)
 5. Bay Area Accenture Poverty Alleviation AI & Data Science, Strategy, and Business Intelligence - [United Way Bay Area](https://uwba.org/) (2+ years)
 6. California Accenture AI & Data Science and Strategy - [Accenture California Data & AI Google Scholar](https://scholar.google.com/citations?hl=en&user=7F6YV8MAAAAJ) (5+ years)
-7. Advisor - Harvard Business Review, University of San Francisco School of Management, and LinkedIn. 
-8. San Francisco Penn Medicine Radiation Oncology Global Radiation Oncology Data Science - [UCI ICS Google Scholar](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en) (5.5+ years)
+7. Mountain View Advisor - Harvard Business Review, University of San Francisco School of Management, and LinkedIn (5+ years)
+8. Mountain View Penn Medicine Radiation Oncology Global Radiation Oncology Data Science - [UCI ICS Google Scholar](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en) (5.5+ years)
 9. Irvine Up to Us National Debt Marketing Data Science, Strategy, and Business Intelligence - [UCI Merage Credly](https://www.credly.com/users/shawna-tuli/badges) (6 months)
 10. Bicoastal Indian American (Brown) Community (Life)
 __________________________________________________________________________________________________________________________________________________________________________
@@ -167,7 +167,7 @@ ________________________________________________________________________________
 * 🏛️ Accenture San Francisco Innovation Hub Quarterly Town Halls (20x)
 * 📅 Avanade San Francisco Innovation Hub Quarterly Town Halls (20x)
 * 🖌️ San Francisco Museum of Modern Art Visit
-* 📊 23 Penn Medicine Radiation Oncology articles and led 30+ Surgeons, Doctors, and Students [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-penn-medicine-global-radiation-oncology-analytics) [(Google Scholar)](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en)
+* 📊 24 Penn Medicine Radiation Oncology articles and led 30+ Surgeons, Doctors, and Students [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-penn-medicine-global-radiation-oncology-analytics) [(Google Scholar)](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en)
 * 🍊 Grace Hopper Celebration of Women in Computing Conference Orlando [(Repo)](https://github.com/shawna-tuli-silicon-valley/grace-hopper-celebration-of-women-in-engineering/tree/main)
 * 🖼️ Avanade Irvine Top 5 in Innovation - created an Azure AI product via computer vision and an one-shot GAN [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-irvine-ai-product)
 * 💼 Avanade FUEL: Innovation, Leadership and Technology Conference Pomona
