@@ -45,6 +45,7 @@ ________________________________________________________________________________
 #### WORK EXPERIENCE (2014-Present) 
 * 🎯 **Goal:** AI & Data Science Manager at Google Mountain View, Microsoft Mountain View, or Amazon Mountain View
 * 🏢 Incoming AI & Data Science Manager at Accenture Mountain View
+* 🏃🏽‍♀️ J.P. Morgan Corporate Challenge San Francisco 
 * 👍🏽 Accenture NorCal Celebration Mountain View Support Team 
 * 👩🏽‍💼 Advisor at University of San Francisco School of Management Women in Leadership Program
 * 💐 Manager of Flower Bouquet Making Wellness Event at Accenture Mountain View [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-11) 
