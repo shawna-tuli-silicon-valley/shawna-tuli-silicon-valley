@@ -165,7 +165,7 @@ ________________________________________________________________________________
 * 👥 UCI Alumni Speaker at Accenture UCI Recruitment (4x) [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-university-of-california-irvine-recruitment)
 * 💙 Accenture Applied Intelligence Strategy Summer Conference San Francisco
 * 🎊 Avanade Go Team! Award (4x)
-* 🫧 Accenture San Francisco First Fridays (59x)
+* 🫧 Accenture San Francisco Innovation Hub First Fridays (59x)
 * 🪩 Accenture San Francisco Innovation Hub Happy Hours (25x)
 * 🏛️ Accenture San Francisco Innovation Hub Quarterly Town Halls (21x)
 * 📅 Avanade San Francisco Innovation Hub Quarterly Town Halls (21x)
