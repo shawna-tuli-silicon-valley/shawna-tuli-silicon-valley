@@ -186,7 +186,7 @@ ________________________________________________________________________________
 * 🏁 Meta Los Altos Hills Party 
 * 📷 Technical Business Analyst Intern at Google Photos Mountain View - analyzed 1B+'s 2.5B photos daily [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-mountain-view-product-analytics-data-science-1) [(Article)](https://9to5google.com/2018/12/28/google-photos-news-2018-recap/)
 * 🚀 Data Scientist at UCI Beall Applied Innovation - examined long-term trends of $14.5B+ UCI early-stage startups [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-beall-applied-innovation-product-analytics-data-science)
-* 💚 MongoDB.local Southern California Conference 
+* 💚 MongoDB.local Southern California Conference Irvine
 * 💰 UCI Alpha Kappa Psi Professional Chair and led 50+ Professionals - achieved "Most Likely to be a Billionaire" [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-alpha-kappa-psi-professional-business-fraternity)
 * 🇺🇸 UptoUCI Co-Founder & Marketing Director and led UCI - won "Top 20 Team" + "Top Pledge Earner" [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-merage-national-debt-marketing-analytics) [(Credly)](https://www.credly.com/users/shawna-tuli/badges) [(Article)](https://wfuogb.com/5022/news/up-to-us-movement-raises-awareness-about-national-debt/)
 * 📈 EVP and led 35+ UCI Analysts - returned 12.11% on an $100,000 fund; recruited to BlackRock and Bridgewater [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-merage-investment-management)
