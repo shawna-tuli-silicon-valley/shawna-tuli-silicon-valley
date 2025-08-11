@@ -108,8 +108,8 @@ ________________________________________________________________________________
 * ⭐ Google Visitor Experience Visit [(Article)](https://blog.google/inside-google/company-announcements/google-office-tour/)
 * 📱 Apple Park Visitor Center Visit
 * 🔊 Orator at Accenture Mountain View DSSG at UWBA Phase 2 Presentation (6x)
-* 🌇 Accenture New York Innovation Hub Generative AI Studio Visit (2x)
-* 🗽 Accenture New York Innovation Hub Visit (2x)
+* 🌇 Accenture New York Innovation Hub Generative AI Studio Visit (3x)
+* 🗽 Accenture New York Innovation Hub Visit (3x)
 * 🎙 Emcee at Avanade North America Data & AI Community Call 
 * 🔦 Presenter at Avanade AI & Automation Practice Mountain View Amazon Migration
 * 💘 Google Bay Area International Women's Day - recruited to Google Mountain View AI & Data Science [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-bay-area-international-womens-day/tree/main)
