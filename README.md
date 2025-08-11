@@ -150,7 +150,7 @@ ________________________________________________________________________________
 * 🔎 1) Accenture V360 Awards - foresaw Type 2 Diabetes with AI in California and led 4 Data Scientists [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-california-type-2-diabetes-ai-and-predictive-analytics) [(Student Repo)](https://github.com/shawna-tuli-silicon-valley/STATS170_Project-1)
 * 💗 Avanade San Francisco Innovation Hub Data & AI AI & Advanced Analytics Consultant [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics)
 * 🧩 Presenter at Avanade Advanced Analytics Community Call
-* 💎 Avanade We Believe Everyone Counts Super Hero Award
+* 💎 Avanade We Believe Everyone Counts Super Hero Award (2x)
 * 🧾 Software Engineer at Fortune 500 Company San Francisco and led a Software Engineer
 * 🖤 Software Engineering Lead at Fortune 500 Company San Francisco and led 4 Software Engineers
 * 💜 AI & Data Science Lead at Fortune 500 Company San Francisco and led a Data Engineer
