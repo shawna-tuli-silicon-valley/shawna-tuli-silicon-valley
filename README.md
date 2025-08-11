@@ -34,7 +34,7 @@ ________________________________________________________________________________
 12. Google International Women's Day (2x)
 13. Accenture International Women's Day (5x)
 14. Avanade International Women's Day (5x)
-15. Forbes 30 Under 30 Scholar
+15. Forbes 30 Under 30 Scholar in Innovation
 16. Alpha Kappa Psi Professional Co-ed Business Fraternity Most Likely to be a Billionaire
 17. Up to Us Top 20 Team
 18. Up to Us Top Pledge Earner
@@ -177,7 +177,7 @@ ________________________________________________________________________________
 * 💞 Google Venice International Women's Day - recruited to Google Venice AI & Data Science [(Article)](https://msmagazine.com/2019/03/07/place-tech-inside-googles-international-womens-day-celebration/)
 * 💕 Google exploreCSR Southern California Workshop - financed as 1 of 47 Computer Science University Women [(Article)](https://www.csulb.edu/college-of-engineering/article/google-sponsors-explorecsr-research-workshop-for-women)
 * 🥇 Olympics Games Bayesian Data Analysis - estimated U.S. Athletes' chances of winning gold in the Olympics [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-olympic-games-bayesian-data-analysis)
-* 💡 Forbes Under 30 Scholar in Innovation Award - selected as 1 of 1,000 National University Students [(Repo)](https://github.com/shawna-tuli-silicon-valley/forbes-under-30-scholar-innovation) [(Article)](https://www.forbes.com/sites/forbesvideo/article/under-30-summit-2019/?sh=433d5b643cdc)
+* 💡 Forbes 30 Under 30 Scholar in Innovation Award - selected as 1 of 1,000 National University Students [(Repo)](https://github.com/shawna-tuli-silicon-valley/forbes-under-30-scholar-innovation) [(Article)](https://www.forbes.com/sites/forbesvideo/article/under-30-summit-2019/?sh=433d5b643cdc)
 * 🚢 Google Mountain View Interns San Francisco Yacht Party
 * 📸 Presenter at Google Photos Mountain View All-hands [(Article)](https://blog.google/products/photos/go-google-photos-tips-2018/)
 * 🖱️ Google Mountain View Computer History Museum Visit 
