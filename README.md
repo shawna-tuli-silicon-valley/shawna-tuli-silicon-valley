@@ -42,7 +42,7 @@ ________________________________________________________________________________
 20. Chartered Financial Analyst Society Orange County Research Challenge 
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-#### AI & DATA SCIENCE WORK EXPERIENCE (2014-Present) 
+#### BIG TECH AI & DATA SCIENCE WORK EXPERIENCE (2014-Present) 
 * 🎯 **Goal:** AI & Data Science Manager at Google Mountain View, Microsoft Mountain View, or Amazon Mountain View
 * 🏢 AI & Data Science Manager at Accenture Mountain View
 * 🏃🏽‍♀️ J.P. Morgan Corporate Challenge San Francisco 
