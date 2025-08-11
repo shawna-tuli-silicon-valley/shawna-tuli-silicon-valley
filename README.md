@@ -172,7 +172,7 @@ ________________________________________________________________________________
 * 🖌️ San Francisco Museum of Modern Art Visit
 * 📊 24 Penn Medicine Radiation Oncology articles and led 30+ Surgeons, Doctors, and Students [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-penn-medicine-global-radiation-oncology-analytics) [(Google Scholar)](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en)
 * 🍊 Grace Hopper Celebration of Women in Computing Conference Orlando [(Repo)](https://github.com/shawna-tuli-silicon-valley/grace-hopper-celebration-of-women-in-engineering/tree/main)
-* 🖼️ Avanade Irvine Top 5 in Innovation - created an Azure AI product via computer vision and an one-shot GAN [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-irvine-ai-product)
+* 🖼️ Avanade Irvine Intern to full-time - created an Azure AI product via computer vision and an one-shot GAN [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-irvine-ai-product)
 * 💼 Avanade FUEL: Innovation, Leadership and Technology Conference Pomona
 * 💞 Google Venice International Women's Day - recruited to Google Venice AI & Data Science [(Article)](https://msmagazine.com/2019/03/07/place-tech-inside-googles-international-womens-day-celebration/)
 * 💕 Google exploreCSR Southern California Workshop - financed as 1 of 47 Computer Science University Women [(Article)](https://www.csulb.edu/college-of-engineering/article/google-sponsors-explorecsr-research-workshop-for-women)
