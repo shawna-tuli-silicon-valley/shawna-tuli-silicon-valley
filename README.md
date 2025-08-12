@@ -71,7 +71,7 @@ ________________________________________________________________________________
 * 🍇 Owner of Build Your Own Whole Foods Charcuterie Board Wellness Event at Accenture Mountain View - 100% reserved [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-3)
 * 💬 Microsoft Me Myself and My Copilot: An Introduction to Microsoft 365 Copilot Chat + Agents
 * 💆🏽‍♀️ Accenture Mountain View Wellness Committee Member - orchestrating events
-* 🍽️ Accenture San Francisco Innovation Hub and Mountain View Third Thursdays (61x)
+* 🍽️ Accenture San Francisco Innovation Hub & Mountain View Third Thursdays (61x)
 * 모 Accenture Mountain View Computer History Museum Visit
 * 🎂 Avanade's 25th Anniversary San Francisco Happy Hour 
 * 🙏🏽 Hostess of Start Your Gratitude Journal to Improve Your Health Wellness Event at Accenture Mountain View - 100% full [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-2)
@@ -88,7 +88,7 @@ ________________________________________________________________________________
 * 👠 Avanade Northern California Social & Networking Champion - assembling and holding monthly events for 50+
 * 🌎 Google AI for everyone Global Virtual Summit [(Videos)](https://careersonair.withgoogle.com/events/aiforeveryone24)
 * 🔍 4) Accenture V360 Awards - solutioned AI for utility rate case management, led 7 Data Scientists [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture/tree/main) [(Student Repo)](https://github.com/bsteier/GRCResponder)
-* 🚚 2. AI & Data Science Manager at Amazon San Francisco & Mountain View - led 4 Cloud Engineers on PB mailboxes
+* 🚚 2. AI & Data Science Manager at Amazon Mountain View - led 4 Cloud Engineers on PB mailboxes
 * 🔈Orator at Accenture Mountain View DSSG at UWBA Phase 3 Presentation (6x)
 * 🌈 Accenture San Francisco Innovation Hub & Mountain View DSSG Lead at UWBA Phase 3, led 7 Data Scientists [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-uwba-ai-and-data-science-2/tree/main)
 * 🏴󠁧󠁢󠁥󠁮󠁧󠁿 London Natural History Museum Visit 
