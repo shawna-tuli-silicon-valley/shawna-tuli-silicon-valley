@@ -44,6 +44,7 @@ ________________________________________________________________________________
 
 #### BIG TECH AI & DATA SCIENCE WORK EXPERIENCE (2014-Present) 
 * 🎯 **Goal:** AI & Data Science Manager at Google Mountain View, Microsoft Mountain View, or Amazon Mountain View
+* 🗄 Microsoft Mountain View Executive Briefing Center Visit 
 * 🏢 AI & Data Science Manager at Accenture Mountain View
 * 🏃🏽‍♀️ J.P. Morgan Corporate Challenge San Francisco 
 * 👍🏽 Accenture NorCal Celebration Mountain View Support Team 
