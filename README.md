@@ -42,7 +42,7 @@ ________________________________________________________________________________
 20. Chartered Financial Analyst Society Orange County Research Challenge 
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-#### BIG TECH AI & DATA SCIENCE WORK EXPERIENCE (2014-Present) 
+#### BIG TECH AI & DATA SCIENCE LEADERSHIP (2014-Present) 
 * 🎯 **Goal:** AI & Data Science Manager at Google Mountain View, Microsoft Mountain View, or Amazon Mountain View
 * 🔗 Microsoft Discovery Hour: Empower Secure Business Transformation and Prepare for AI with Microsoft 365
 * 🗄 Microsoft Mountain View Executive Briefing Center Visit 
