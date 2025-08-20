@@ -50,8 +50,8 @@ ________________________________________________________________________________
 * 🏃🏽‍♀️ J.P. Morgan Corporate Challenge San Francisco 
 * 👍🏽 Accenture NorCal Celebration Mountain View Support Team 
 * 👩🏽‍💼 Advisor at University of San Francisco School of Management Women in Leadership Program
-* 💐 Manager of Flower Bouquet Making Wellness Event at Accenture Mountain View - 100% reserved [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-11) 
-* 🕯️ Coordinator of Mountain View Candle Company Candle Making Wellness Event at Accenture Mountain View - 100% taken [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-10)
+* 💐 Coordinator of Flower Bouquet Making Wellness Event at Accenture Mountain View - 100% reserved [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-11) 
+* 🕯️ Manager of Mountain View Candle Company Candle Making Wellness Event at Accenture Mountain View - 100% taken [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-10)
 * 🍫 Moderator of TinyB Chocolate Making Wellness Event at Accenture Mountain View - 100% reserved [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-9)
 * 🎀 Owner of Glamsquad Hair Dry Styling Wellness Event at Accenture Mountain View - 100% booked [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-8)
 * 📝 Orator at Avanade US Data & AI Monthly Town Hall (Repo)
