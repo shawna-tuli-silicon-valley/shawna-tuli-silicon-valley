@@ -61,7 +61,7 @@ ________________________________________________________________________________
 * 🔜 Avanade Create the Future Award
 * 🌼 Host of Massage Wellness Event at Accenture Mountain View - 100% taken [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-7/tree/main)
 * ⌨️ Communications, Media & Technology Industry Day at Accenture Mountain View 
-* 🍴 Accenture Mountain View Happy Hours (22x)
+* 🍴 Accenture Mountain View Happy Hours (23x)
 * 💥 Avanade Accelerate Impact Super Hero Award (2x)
 * ⚖️ Avanade We Act with Integrity and Respect Ambassador Award (3x) 
 * 🛒 Products Industry Day at Accenture San Francisco 
@@ -72,7 +72,7 @@ ________________________________________________________________________________
 * 🍇 Owner of Build Your Own Whole Foods Charcuterie Board Wellness Event at Accenture Mountain View - 100% reserved [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-3)
 * 💬 Microsoft Me Myself and My Copilot: An Introduction to Microsoft 365 Copilot Chat + Agents
 * 💆🏽‍♀️ Accenture Mountain View Wellness Committee Member - orchestrating events
-* 🍽️ Accenture San Francisco Innovation Hub & Mountain View Third Thursdays (61x)
+* 🍽️ Accenture San Francisco Innovation Hub & Mountain View Third Thursdays (62x)
 * 모 Accenture Mountain View Computer History Museum Visit
 * 🎂 Avanade's 25th Anniversary San Francisco Happy Hour 
 * 🙏🏽 Hostess of Start Your Gratitude Journal to Improve Your Health Wellness Event at Accenture Mountain View - 100% full [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-2)
@@ -167,10 +167,10 @@ ________________________________________________________________________________
 * 👥 UCI Alumni Speaker at Accenture UCI Recruitment (4x) [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-university-of-california-irvine-recruitment)
 * 💙 Accenture Applied Intelligence Strategy Summer Conference San Francisco
 * 🎊 Avanade Go Team! Award (4x)
-* 🫧 Accenture San Francisco Innovation Hub & Mountain View First Fridays (61x)
-* 🪩 Accenture San Francisco Innovation Hub Happy Hours (26x)
-* 🏛️ Accenture San Francisco Innovation Hub & Mountain View Quarterly Town Halls (22x)
-* 📅 Avanade San Francisco Innovation Hub & Mountain View Quarterly Town Halls (22x)
+* 🫧 Accenture San Francisco Innovation Hub & Mountain View First Fridays (62x)
+* 🪩 Accenture San Francisco Innovation Hub Happy Hours (27x)
+* 🏛️ Accenture San Francisco Innovation Hub & Mountain View Quarterly Town Halls (23x)
+* 📅 Avanade San Francisco Innovation Hub & Mountain View Quarterly Town Halls (23x)
 * 🖌️ San Francisco Museum of Modern Art Visit
 * 📊 24 Penn Medicine Radiation Oncology articles and led 30+ Surgeons, Doctors, and Students [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-penn-medicine-global-radiation-oncology-analytics) [(Google Scholar)](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en)
 * 🍊 Grace Hopper Celebration of Women in Computing Conference Orlando [(Repo)](https://github.com/shawna-tuli-silicon-valley/grace-hopper-celebration-of-women-in-engineering/tree/main)
