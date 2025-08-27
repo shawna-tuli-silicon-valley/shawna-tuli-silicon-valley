@@ -44,7 +44,7 @@ ________________________________________________________________________________
 
 #### BIG TECH AI & DATA SCIENCE LEADERSHIP (2014-Present) 
 * 🎯 **Goal:** AI & Data Science Manager at Google Mountain View, Microsoft Mountain View, or Amazon Mountain View
-* 🛒 Accenture San Francisco Innovation Hub Amazon All-People Connect
+* 📫 Accenture San Francisco Innovation Hub Amazon All-People Connect
 * 🪔 KPMG Santa Clara Diwali Party
 * 🦚 Accenture Pleasanton Diwali Party (5x)
 * 🔗 Microsoft Discovery Hour: Empower Secure Business Transformation and Prepare for AI with Microsoft 365
@@ -68,7 +68,7 @@ ________________________________________________________________________________
 * 💥 Avanade Accelerate Impact Super Hero Award (2x)
 * ⚖️ Avanade We Act with Integrity and Respect Ambassador Award (3x) 
 * 🛒 Products Industry Day at Accenture San Francisco 
-* 📫 3. Data & AI Manager at Amazon Mountain View - responsible for $7M+
+* 📪 3. Data & AI Manager at Amazon Mountain View - responsible for $7M+
 * 🌏 World Summit AI USA San Francisco
 * 💅🏽 Moderator of Elegance Nails and Spa Manicure and Pedicure Wellness Event at Accenture Mountain View - 100% taken [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-5)
 * 🏺 Presenter of Sculpd Pottery Making and Ceramic Painting Wellness Event at Accenture Mountain View - 100% booked [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-4/tree/main)
