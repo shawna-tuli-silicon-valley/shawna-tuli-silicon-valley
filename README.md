@@ -44,6 +44,7 @@ ________________________________________________________________________________
 
 #### BIG TECH AI & DATA SCIENCE LEADERSHIP (2014-Present) 
 * 🎯 **Goal:** AI & Data Science Manager at Google Mountain View, Microsoft Mountain View, or Amazon Mountain View
+* 🛒 Accenture San Francisco Innovation Hub Amazon All-People Connect
 * 🪔 KPMG Santa Clara Diwali Party
 * 🦚 Accenture Pleasanton Diwali Party (5x)
 * 🔗 Microsoft Discovery Hour: Empower Secure Business Transformation and Prepare for AI with Microsoft 365
