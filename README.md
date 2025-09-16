@@ -51,7 +51,7 @@ ________________________________________________________________________________
 * 🔗 Microsoft Discovery Hour: Empower Secure Business Transformation and Prepare for AI with Microsoft 365
 * 🗄 Microsoft Mountain View Executive Briefing Center Visit [(Repo)](https://github.com/shawna-tuli-silicon-valley/microsoft-mountain-view-visit/blob/main/README.md)
 * 🏃🏽‍♀️ Accenture San Francisco Innovation Hub & Mountain View J.P. Morgan Corporate Challenge San Francisco 
-* 👍🏽 Accenture NorCal Celebration Mountain View Support Team 
+* 👍🏽 Accenture NorCal Celebration Support Team 
 * 👩🏽‍💼 Advisor at University of San Francisco School of Management Women in Leadership Program
 * 💐 Coordinator of Flower Bouquet Making Wellness Event at Accenture Mountain View - 100% reserved [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-11) 
 * 🕯️ Manager of Mountain View Candle Company Candle Making Wellness Event at Accenture Mountain View - 100% taken [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-10)
