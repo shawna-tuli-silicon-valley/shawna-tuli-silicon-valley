@@ -17,7 +17,7 @@ ________________________________________________________________________________
 7. Mountain View Advisor - [Harvard Business Review](https://hbr.org/), [University of San Francisco School of Management](https://profed.usfca.edu/women-in-leadership.html), and [LinkedIn](https://www.linkedin.com/) (5+ years)
 8. Mountain View Penn Medicine Radiation Oncology Global Radiation Oncology Data Science - [UCI ICS Google Scholar](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en) (5.5+ years)
 9. Irvine Up to Us National Debt Marketing Data Science, Strategy, and Business Intelligence - [UCI Merage Credly](https://www.credly.com/users/shawna-tuli/badges) (6 months)
-10. Bicoastal Indian American (Brown) Community (Life)
+10. Bicoastal Indian and Indian American (Brown) Community (Life)
 __________________________________________________________________________________________________________________________________________________________________________
 #### AWARD HIGHLIGHTS
 1. Google AI for everyone | Bay Area for significant contributions to AI
