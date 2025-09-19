@@ -44,6 +44,7 @@ ________________________________________________________________________________
 
 #### BIG TECH ML & DATA SCIENCE LEADERSHIP (2014-Present) 
 * 🎯 **Goal:** ML & Data Science Manager at Google Mountain View, Microsoft Mountain View, or Amazon Mountain View
+* 📐 Avanade AI Solution Architect 
 * 🔴 Accenture San Francisco Innovation Hub & Mountain View "Off the Clock" September Event: Golden Gate Bridge Walk
 * 📫 Accenture San Francisco Innovation Hub Amazon All-People Connect
 * 🪔 KPMG Santa Clara Diwali Party
