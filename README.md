@@ -365,5 +365,9 @@ ________________________________________________________________________________
 #### INTERESTS
 I am strength training, running, walking, healthy cooking, reading, studying, and watching movies and shows. I enjoy dancing, playing tennis, playing badminton, shopping, oil painting, traveling, and going to beaches, lakes, restaurants, coffee shops, and concerts. 
 
+_____________________________________________________________________________________________________________________________________________________________________________
+#### DANCE
+* Kathak North Indian Classical Dance (10 years)
+* BollyX Instructor
 <!--
 **shawna-tuli-silicon-valley/shawna-tuli-silicon-valley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
