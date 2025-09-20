@@ -365,7 +365,7 @@ ________________________________________________________________________________
 #### INTERESTS
 I am strength training, running, walking, healthy cooking, reading, studying, and watching movies and shows. I enjoy dancing, playing tennis, playing badminton, shopping, oil painting, traveling, and going to beaches, lakes, restaurants, coffee shops, and concerts. 
 
-# Dance
+#### Dance
 * Kathak North Indian Classical Dance (10 years)
 * BollyX Instructor
 <!--
