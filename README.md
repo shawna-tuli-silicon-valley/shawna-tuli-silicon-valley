@@ -45,7 +45,6 @@ ________________________________________________________________________________
 #### BIG TECH ML & DATA SCIENCE LEADERSHIP (2014-Present) 
 * 🎯 **Goal:** ML & Data Science Manager at Google Mountain View, Microsoft Mountain View, or Amazon Mountain View
 * 📐 Accenture San Francisco Innovation Hub & Mountain View AI & Automation Practice AI Solution Architect - solutioning AI
-* 🔴 Accenture San Francisco Innovation Hub & Mountain View "Off the Clock" September Event: Golden Gate Bridge Walk
 * 📫 Accenture San Francisco Innovation Hub Amazon All-People Connect
 * 🪔 KPMG Santa Clara Diwali Party
 * 🦚 Accenture Pleasanton Diwali Party (5x)
@@ -59,7 +58,7 @@ ________________________________________________________________________________
 * 🍫 Moderator of TinyB Chocolate Making Wellness Event at Accenture Mountain View - 100% reserved [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-9)
 * 🎀 Owner of Glamsquad Hair Dry Styling Wellness Event at Accenture Mountain View - 100% booked [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-8)
 * 🔢 TBA Accenture Data Science Capstone in 2026 
-* ☕ Owner of Sunset Roasters Coffee Tasting Wellness Event at Accenture Mountain View - 100% full [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-6/tree/main)
+* ☕ Owner of Coffee Tasting Wellness Event at Accenture Mountain View - 100% full [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-6/tree/main)
 * 🏰 San Francisco Palace of Fine Arts Visit 
 * 🏠 Accenture Mountain View DSSG Lead at UWBA Phase 4, leading 6 Data Scientists - 1 article [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-uwba-ai-and-data-science-3)
 * 🔜 Avanade Create the Future Award
