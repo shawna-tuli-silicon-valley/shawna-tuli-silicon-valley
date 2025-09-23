@@ -134,7 +134,7 @@ ________________________________________________________________________________
 * 📦 1. ML & Data Science Manager at Amazon Mountain View - analyzed PB mailboxes and led 4 Cloud Engineers [(Repo)](https://github.com/shawna-tuli-silicon-valley/amazon-mountain-view-ai-and-data-science/tree/main)
 * ❤️ Google I/O Conference (7x)
 * ⚡ Generative AI, AI, Data Science, Advanced Analytics, and Data Visualization Expert at LinkedIn Collaborative Articles
-* 👾 Avanade Mountain View Data & AI ML & Advanced Analytics Associate Manager [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics-3)
+* 👾 Avanade Mountain View Data & AI Data Science & Advanced Analytics Associate Manager [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics-3)
 * 🦾 AI Lead at Fortune 500 Company San Francisco
 * 🧠 ML & Data Science Advisor at Harvard Business Review [(Repo)](https://github.com/shawna-tuli-silicon-valley/harvard-business-review-advisory-council) [(Magazine)](https://hbr.org/)
 * 🦄 Accenture Ventures & Open Innovation West Ambassador 
@@ -146,14 +146,14 @@ ________________________________________________________________________________
 * ✅ AI Data Scientist at Avanade San Francisco Innovation Hub
 * 🤍 Google Cloud Next Conference (6x) [(Next)](https://cloud.withgoogle.com/next/25)
 * 💛 Databricks Data + AI Summit San Francisco [(Article)](https://www.databricks.com/blog/2022/06/24/know-before-you-go-data-ai-summit-2022.html)
-* ⚙️ Avanade San Francisco Innovation Hub Data & AI ML & Advanced Analytics Associate Manager [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics-2)
+* ⚙️ Avanade San Francisco Innovation Hub Data & AI Data Science & Advanced Analytics Associate Manager [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics-2)
 * 🔮 2 National Science Foundation articles - predicted energy consumption with AI in California and led 5 Data Scientists [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-california-energy-and-ai-predictive-analytics-2)
 * 📉 2) Accenture V360 Awards - forecasted energy with AI in California and led 4 Data Scientists [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-california-energy-ai-and-predictive-analytics) [(Student Repo)](https://github.com/shawna-tuli-silicon-valley/EnergyPredictionCA)
 * ☁️ ML & Data Science Lead at Google Cloud Sunnyvale and led a Data Engineer [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-sunnyvale-ai-and-data-science-3) [(Article)](https://www.cnbc.com/2023/04/25/googles-cloud-business-turns-profitable-for-the-first-time-on-record.html)
 * ▶️ Software Engineer at Google Play Mountain View [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-mountain-view-devops-advanced-analytics-4)
 * 1️⃣ Software Engineer at Google One Mountain View [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-mountain-view-product-analytics-data-science-2)
 * 🔎 1) Accenture V360 Awards - foresaw Type 2 Diabetes with AI in California and led 4 Data Scientists [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-california-type-2-diabetes-ai-and-predictive-analytics) [(Student Repo)](https://github.com/shawna-tuli-silicon-valley/STATS170_Project-1)
-* 💗 Avanade San Francisco Innovation Hub Data & AI ML & Advanced Analytics Consultant [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics)
+* 💗 Avanade San Francisco Innovation Hub Data & AI Data Science & Advanced Analytics Consultant [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics)
 * 🧩 Presenter at Avanade Advanced Analytics Community Call
 * 💎 Avanade We Believe Everyone Counts Super Hero Award (2x)
 * 🧾 Software Engineer at Fortune 500 Company San Francisco and led a Software Engineer
@@ -165,7 +165,7 @@ ________________________________________________________________________________
 * ✔️ Avanade We Deliver with Excellence Super Hero Award
 * 📶 Avanade Advanced Analytics All-hands
 * 📖 STEM Mentor at Avanade STEM Scholars - mentored a Woman Cybersecurity Intern who converted to full-time
-* 💭 Avanade San Francisco Innovation Hub Data & AI Senior ML & Advanced Analytics Analyst [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics)
+* 💭 Avanade San Francisco Innovation Hub Data & AI Senior Data Science & Advanced Analytics Analyst [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics)
 * 💻 Accenture San Francisco Innovation Hub Data & AI Member
 * 👥 UCI Alumni Speaker at Accenture UCI Recruitment (4x) [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-university-of-california-irvine-recruitment)
 * 💙 Accenture Applied Intelligence Strategy Summer Conference San Francisco
