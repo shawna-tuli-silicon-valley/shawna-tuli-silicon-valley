@@ -44,7 +44,7 @@ ________________________________________________________________________________
 
 #### BIG TECH ML & DATA SCIENCE LEADERSHIP (2014-Present) 
 * 🎯 **Goal:** ML & Data Science Manager at Google Mountain View, Microsoft Mountain View, or Amazon Mountain View
-* 👥 Avanade St. Anthony's NorCal Community Event
+* 👥 Avanade St. Anthony's Northern California Community Event
 * 📩 PayPal x Women Impact Tech | Hiring and Networking Event
 * ❗AWS re:Invent Las Vegas
 * 📐 Accenture San Francisco Innovation Hub & Mountain View AI & Automation Practice AI Solution Architect - solutioning AI
@@ -54,7 +54,7 @@ ________________________________________________________________________________
 * 🔗 Microsoft Discovery Hour: Empower Secure Business Transformation and Prepare for AI with Microsoft 365
 * 🗄 Microsoft Mountain View Executive Briefing Center Visit [(Repo)](https://github.com/shawna-tuli-silicon-valley/microsoft-mountain-view-visit/blob/main/README.md)
 * 🏃🏽‍♀️ Accenture San Francisco Innovation Hub & Mountain View J.P. Morgan Corporate Challenge San Francisco 
-* 👍🏽 Accenture Mountain View NorCal Celebration Support Team 
+* 👍🏽 Accenture Mountain View Northern California Celebration Support Team 
 * 👩🏽‍💼 Advisor at University of San Francisco School of Management Women in Leadership Program
 * 💐 Coordinator of Flower Bouquet Making Wellness Event at Accenture Mountain View - 100% reserved [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-11) 
 * 🕯️ Manager of Candle Making Wellness Event at Accenture Mountain View - 100% taken [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-10)
