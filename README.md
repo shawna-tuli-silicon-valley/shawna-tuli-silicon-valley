@@ -44,6 +44,7 @@ ________________________________________________________________________________
 
 #### BIG TECH ML & DATA SCIENCE LEADERSHIP (2014-Present) 
 * 🎯 **Goal:** ML & Data Science Manager at Google Mountain View, Microsoft Mountain View, or Amazon Mountain View
+* 👥 Avanade St. Anthony's NorCal Community Event
 * 📩 PayPal x Women Impact Tech | Hiring and Networking Event
 * ❗AWS re:Invent Las Vegas
 * 📐 Accenture San Francisco Innovation Hub & Mountain View AI & Automation Practice AI Solution Architect - solutioning AI
