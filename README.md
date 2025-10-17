@@ -44,6 +44,7 @@ ________________________________________________________________________________
 
 #### BIG TECH ML & DATA SCIENCE LEADERSHIP (2014-Present) 
 * 🎯 **Goal:** ML & Data Science Manager at Google Mountain View, Microsoft Mountain View, or Amazon Mountain View
+* 🎃 Accenture San Francisco Innovation Hub Annual Oktoberfest Celebration
 * 👥 Avanade St. Anthony's Northern California Community Event
 * 📩 PayPal x Women Impact Tech | Hiring and Networking Event
 * 🇮🇳 Accenture New York Innovation Hub Diwali Party (2x)
