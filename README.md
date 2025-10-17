@@ -46,11 +46,12 @@ ________________________________________________________________________________
 * 🎯 **Goal:** ML & Data Science Manager at Google Mountain View, Microsoft Mountain View, or Amazon Mountain View
 * 👥 Avanade St. Anthony's Northern California Community Event
 * 📩 PayPal x Women Impact Tech | Hiring and Networking Event
+* 🇮🇳 Accenture New York Innovation Hub Diwali Party (2x)
 * ❗AWS re:Invent Las Vegas
 * 📐 Accenture San Francisco Innovation Hub & Mountain View AI & Automation Practice AI Solution Architect - solutioning AI
 * 📫 Accenture San Francisco Innovation Hub Amazon All-People Connect
 * 🪔 KPMG Santa Clara Diwali Party
-* 🦚 Accenture Pleasanton Diwali Party (5x)
+* 🦚 Accenture Pleasanton Diwali Party (3x)
 * 🔗 Microsoft Discovery Hour: Empower Secure Business Transformation and Prepare for AI with Microsoft 365
 * 🗄 Microsoft Mountain View Executive Briefing Center Visit [(Repo)](https://github.com/shawna-tuli-silicon-valley/microsoft-mountain-view-visit/blob/main/README.md)
 * 🏃🏽‍♀️ Accenture San Francisco Innovation Hub & Mountain View J.P. Morgan Corporate Challenge San Francisco 
