@@ -48,7 +48,6 @@ ________________________________________________________________________________
 * 👥 Avanade St. Anthony's Northern California Community Event
 * 📩 PayPal x Women Impact Tech | Hiring and Networking Event
 * 🇮🇳 Accenture New York Innovation Hub Diwali Party (3x)
-* ❗AWS re:Invent Las Vegas
 * 📐 Accenture San Francisco Innovation Hub & Mountain View AI & Automation Practice AI Solution Architect - solutioning AI
 * 📫 Accenture San Francisco Innovation Hub Amazon All-People Connect
 * 🪔 KPMG Santa Clara Diwali Party
