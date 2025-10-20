@@ -369,7 +369,8 @@ ________________________________________________________________________________
 I am strength training, running, walking, healthy cooking, reading, studying, and watching movies and shows. I enjoy dancing, playing tennis, playing badminton, shopping, oil painting, traveling, and going to beaches, lakes, restaurants, coffee shops, and concerts. 
 
 #### Dance
-* Kathak North Indian Classical Dance Certificate (10 years)
+* Cardio Dance
 * BollyX Instructor Certificate
+* Kathak North Indian Classical Dance Certificate (10 years)
 <!--
 **shawna-tuli-silicon-valley/shawna-tuli-silicon-valley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
