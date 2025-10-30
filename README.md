@@ -44,6 +44,7 @@ ________________________________________________________________________________
 
 #### BIG TECH ML & DATA SCIENCE LEADERSHIP (2014-Present) 
 * 🎯 **Goal:** ML & Data Science Manager at Google Mountain View, Microsoft Mountain View, or Amazon Mountain View
+* ⚕️ Data Scientist at Nonprofit Organization Santa Clara
 * 🎃 Accenture San Francisco Innovation Hub Annual Oktoberfest Celebration
 * 👥 Avanade St. Anthony's Northern California Community Event
 * 📩 PayPal x Women Impact Tech | Hiring and Networking Event
@@ -161,7 +162,7 @@ ________________________________________________________________________________
 * 🧩 Presenter at Avanade Advanced Analytics Community Call
 * 💎 Avanade We Believe Everyone Counts Super Hero Award (2x)
 * 🧾 Software Engineer at Fortune 500 Company San Francisco and led a Software Engineer
-* 🖤 Software Engineering Lead at Fortune 500 Company San Francisco and led 4 Software Engineers
+* 🖤 Software Engineering Lead at Nonprofit Organization San Francisco and led 4 Software Engineers
 * 💜 ML & Data Science Lead at Fortune 500 Company San Francisco and led a Data Engineer
 * 🍵 Software Engineer at Fortune 500 Company San Francisco
 * 💾 Advanced Analytics Lead at Fortune 500 Company San Francisco and led 2 Analysts
