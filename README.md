@@ -44,7 +44,7 @@ ________________________________________________________________________________
 
 #### BIG TECH ML & DATA SCIENCE LEADERSHIP (2014-Present) 
 * 🎯 **Goal:** ML & Data Science Manager at Google Mountain View, Microsoft Mountain View, or Amazon Mountain View
-* Ⓜ️ Data Scientist at Meta
+* Ⓜ️ Data Scientist at Meta Menlo Park
 * 🩺 Data Scientist at Nonprofit Organization Santa Clara
 * 🎃 Accenture San Francisco Innovation Hub Annual Oktoberfest Celebration
 * 📩 PayPal x Women Impact Tech | Hiring and Networking Event
