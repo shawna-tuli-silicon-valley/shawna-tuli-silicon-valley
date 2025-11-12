@@ -1,6 +1,6 @@
 ![GOOGLE](https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=fff&style=for-the-badge) ![MICROSOFT](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white) ![AMAZON](https://img.shields.io/badge/Amazon-FF9900.svg?style=for-the-badge&logo=Amazon&logoColor=white) ![ACCENTURE](https://img.shields.io/badge/Accenture-A100FF.svg?style=for-the-badge&logo=Accenture&logoColor=white)
 
-Shawna Tuli is a seasoned **San Francisco & Mountain View** Machine Learning & Data Science, Advanced Analytics, Business Intelligence, and Strategy Leader, Innovator, Advisor, and **San Jose native**, with **five and a half years** of experience as a Data Science & Advanced Analytics Associate Manager at **Accenture**, an Artificial Intelligence Company, and **Avanade**, the Accenture **Microsoft** Business Group. She has a strong background in ***machine learning*** and ***data science***, interlacing ***agentic artificial intelligence, generative artificial intelligence***, ***advanced analytics***, ***software engineering***, ***business intelligence***, ***product strategy***, ***product analytics***, ***predictive modeling***, ***strategy***, and ***CFO & enterprise value***. Shawna is on the Executive and Corporate Board Director path with **eleven and a half consecutive years** of experience in ***big technology*** in **Silicon Valley**.
+Shawna Tuli is a seasoned **Mountain View & San Francisco** Machine Learning & Data Science, Advanced Analytics, Business Intelligence, and Strategy Leader, Innovator, Advisor, and **San Jose native**, with **five and a half years** of experience as a Data Science & Advanced Analytics Associate Manager at **Accenture**, an Artificial Intelligence Company, and **Avanade**, the Accenture **Microsoft** Business Group. She has a strong background in ***machine learning*** and ***data science***, interlacing ***agentic artificial intelligence, generative artificial intelligence***, ***advanced analytics***, ***software engineering***, ***business intelligence***, ***product strategy***, ***product analytics***, ***predictive modeling***, ***strategy***, and ***CFO & enterprise value***. Shawna is on the Executive and Corporate Board Director path with **eleven and a half consecutive years** of experience in ***big technology*** in **Silicon Valley**.
 
 Shawna has bettered Accenture into Forbes #1 Management Consulting Firm and Everest Group #1 Artificial Intelligence (AI) and Generative AI Services PEAK Matrix Assessment, and Avanade into AI Breakthrough Awards Best AI Consulting Service Provider. She is the Accenture Northern California Wellness Lead for Mountain View. Shawna has played a key role in building Avanade's Artificial Intelligence & Automation Practice, Intelligent Data Platform Practice, and Artificial Intelligence Studio from the ground up in collaboration with David Gormley, serving as the Northern California Lead, Forecasting Champion, and Northern California Social & Networking Champion. 
 
@@ -9,9 +9,9 @@ ________________________________________________________________________________
 
 #### LEADERSHIP HIGHLIGHTS
 1. Mountain View & Sunnyvale Google ML & Data Science, Product Strategy, and Business Intelligence - [Google](https://ai.google) (14 weeks at [Google Photos](https://www.google.com/photos/about/); 1 year at [Google Cloud](https://cloud.google.com/), [Google Play](https://play.google.com/store/games?hl=en_US), and [Google One](https://one.google.com/about/))
-2. San Francisco & Mountain View Microsoft ML & Data Science - [Microsoft Learn](https://learn.microsoft.com/en-us/users/shawnatuli-1762/?redeem=RN4ZKZ&WT.mc_id=ilt_partner_webpage_wwl&ocid=3103897&DCS=DEPR2550058&source=docs) (5+ years)
-3. San Francisco & Mountain View Amazon ML & Data Science and Product Strategy - [Amazon](https://www.aboutamazon.com/artificial-intelligence-ai-news) (2 years at Amazon Mailbox Core)
-4. San Francisco & Mountain View Accenture & Avanade ML & Data Science and Strategy - [Accenture](https://www.accenture.com/us-en/services/data-ai) & [Avanade](https://www.avanade.com/en-us/services/artificial-intelligence) (5+ years)
+2. Mountain View & San Francisco Microsoft ML & Data Science - [Microsoft Learn](https://learn.microsoft.com/en-us/users/shawnatuli-1762/?redeem=RN4ZKZ&WT.mc_id=ilt_partner_webpage_wwl&ocid=3103897&DCS=DEPR2550058&source=docs) (5+ years)
+3. Mountain View & San Francisco Amazon ML & Data Science and Product Strategy - [Amazon](https://www.aboutamazon.com/artificial-intelligence-ai-news) (2 years at Amazon Mailbox Core)
+4. Mountain View & San Francisco Accenture & Avanade ML & Data Science and Strategy - [Accenture](https://www.accenture.com/us-en/services/data-ai) & [Avanade](https://www.avanade.com/en-us/services/artificial-intelligence) (5+ years)
 5. Bay Area Accenture Poverty Alleviation ML & Data Science, Strategy, and Business Intelligence - [United Way Bay Area](https://uwba.org/) (2+ years)
 6. California Accenture ML & Data Science and Strategy - [Accenture California Data & AI Google Scholar](https://scholar.google.com/citations?hl=en&user=7F6YV8MAAAAJ) (5+ years)
 7. Mountain View Advisor - [Harvard Business Review](https://hbr.org/), [University of San Francisco School of Management](https://profed.usfca.edu/women-in-leadership.html), and [LinkedIn](https://www.linkedin.com/) (5+ years)
@@ -52,13 +52,13 @@ ________________________________________________________________________________
 * 🎃 Accenture San Francisco Innovation Hub Annual Oktoberfest Celebration
 * 📩 PayPal x Women Impact Tech | Hiring and Networking Event
 * 🇮🇳 Accenture New York Innovation Hub Diwali Party (3x)
-* 📐 Accenture San Francisco Innovation Hub & Mountain View AI & Automation Practice AI Solution Architect - solutioning AI
+* 📐 Accenture Mountain View & San Francisco Innovation Hub AI & Automation Practice AI Solution Architect - solutioning AI
 * 📫 Accenture San Francisco Innovation Hub Amazon All-People Connect
 * 🪔 KPMG Santa Clara Diwali Party
 * 🦚 Accenture Pleasanton Diwali Party (2x)
 * 🔗 Microsoft Discovery Hour: Empower Secure Business Transformation and Prepare for AI with Microsoft 365
 * 🗄 Microsoft Mountain View Executive Briefing Center Visit [(Repo)](https://github.com/shawna-tuli-silicon-valley/microsoft-mountain-view-visit/blob/main/README.md)
-* 🏃🏽‍♀️ Accenture San Francisco Innovation Hub & Mountain View J.P. Morgan Corporate Challenge San Francisco 
+* 🏃🏽‍♀️ Accenture Mountain View & San Francisco Innovation Hub J.P. Morgan Corporate Challenge San Francisco 
 * 👍🏽 Accenture Mountain View Northern California Celebration Support Team 
 * 👩🏽‍💼 Advisor at University of San Francisco School of Management Women in Leadership Program
 * 💐 Coordinator of Flower Bouquet Making Wellness Event at Accenture Mountain View - 100% reserved [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-11) 
@@ -83,7 +83,7 @@ ________________________________________________________________________________
 * 🍇 Owner of Build Your Own Whole Foods Charcuterie Board Wellness Event at Accenture Mountain View - 100% reserved [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-3)
 * 💬 Microsoft Me Myself and My Copilot: An Introduction to Microsoft 365 Copilot Chat + Agents
 * 💆🏽‍♀️ Accenture Mountain View Wellness Committee Member - orchestrating events
-* 🍽️ Accenture San Francisco Innovation Hub & Mountain View Third Thursdays (64x)
+* 🍽️ Accenture Mountain View & San Francisco Innovation Hub Third Thursdays (64x)
 * 모 Accenture Mountain View Computer History Museum Visit (2x)
 * 🎂 Avanade's 25th Anniversary San Francisco Happy Hour 
 * 🙏🏽 Hostess of Start Your Gratitude Journal to Improve Your Health Wellness Event at Accenture Mountain View - 100% full [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-2)
@@ -102,13 +102,13 @@ ________________________________________________________________________________
 * 🔍 4) Accenture V360 Awards - solutioned AI for utility rate case management, led 7 Data Scientists [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture/tree/main) [(Student Repo)](https://github.com/bsteier/GRCResponder)
 * 🚚 2. ML & Data Science Manager at Amazon Mountain View - led 4 Cloud Engineers on PB mailboxes
 * 🔈Orator at Accenture Mountain View DSSG at UWBA Phase 3 Presentation (6x)
-* 🌈 Accenture San Francisco Innovation Hub & Mountain View DSSG Lead at UWBA Phase 3, led 7 Data Scientists [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-uwba-ai-and-data-science-2/tree/main)
+* 🌈 Accenture Mountain View & San Francisco Innovation Hub DSSG Lead at UWBA Phase 3, led 7 Data Scientists [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-uwba-ai-and-data-science-2/tree/main)
 * 🏴󠁧󠁢󠁥󠁮󠁧󠁿 London Natural History Museum Visit 
-* 🗳️ Accenture San Francisco Innovation Hub & Mountain View DSSG Lead at UWBA Brunch & Ballots [(Repo)](https://github.com/shawna-tuli-silicon-valley/uwba-ai-and-data-science/tree/main)
-* 📘 Accenture San Francisco Innovation Hub & Mountain View Amazon Account Learn & Grow Mentor - teaching AI
+* 🗳️ Accenture Mountain View & San Francisco Innovation Hub DSSG Lead at UWBA Brunch & Ballots [(Repo)](https://github.com/shawna-tuli-silicon-valley/uwba-ai-and-data-science/tree/main)
+* 📘 Accenture Mountain View & San Francisco Innovation Hub Amazon Account Learn & Grow Mentor - teaching AI
 * 🏖️ Google Cloud Launchpad for Women: Edition 3 
 * 🔥 Microsoft Ignite (5x) [(Episodes)](https://ignite.microsoft.com/en-US/home)
-* ☀️ Accenture San Francisco Innovation Hub & Mountain View AI & Automation Practice Solution Architect - solutioned AI
+* ☀️ Accenture Mountain View & San Francisco Innovation Hub AI & Automation Practice Solution Architect - solutioned AI
 * 𓊍 Microsoft Avanade Northern California Climb to the Top: San Francisco 2024 [(Article)](https://events.nationalmssociety.org/index.cfm?fuseaction=donorDrive.participant&participantID=571802)
 * 🎁 Avanade San Francisco Innovation Hub & Mountain View AI & Automation Practice CA - advising 2 Data Scientists
 * 🧿 Accenture Mountain View Wellness Committee Ambassador - ran events [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness)
@@ -127,7 +127,7 @@ ________________________________________________________________________________
 * 💘 Google Bay Area International Women's Day - recruited to Google Mountain View ML & Data Science [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-bay-area-international-womens-day/tree/main)
 * 🗿 Avanade Mountain View Leadership Accelerator - chosen to inspire greatness and excel in People Leadership
 * 🌅 Avanade Mountain View AI Studio Forecasting Champion
-* 🌹 Accenture San Francisco Innovation Hub & Mountain View International Women's Day (5x)
+* 🌹 Accenture Mountain View & San Francisco Innovation Hub International Women's Day (5x)
 * 🌺 Avanade San Francisco Innovation Hub & Mountain View International Women's Day (5x)
 * ❣️ Google Cloud Launchpad for Women
 * 🆕 3) Accenture V360 Awards - used LLMs to reform call centers nationally and led 4 Data Scientists [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-call-centers-genai-and-predictive-analytics) [(Student Repo)](https://github.com/data-sci-capstone/copilot)
@@ -178,9 +178,9 @@ ________________________________________________________________________________
 * 👥 UCI Alumni Speaker at Accenture UCI Recruitment (4x) [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-university-of-california-irvine-recruitment)
 * 💙 Accenture Applied Intelligence Strategy Summer Conference San Francisco
 * 🎊 Avanade Go Team! Award (4x)
-* 🫧 Accenture San Francisco Innovation Hub & Mountain View First Fridays (64x)
+* 🫧 Accenture Mountain View & San Francisco Innovation Hub First Fridays (64x)
 * 🪩 Accenture San Francisco Innovation Hub Happy Hours (28x)
-* 🏛️ Accenture San Francisco Innovation Hub & Mountain View Quarterly Town Halls (25x)
+* 🏛️ Accenture Mountain View & San Francisco Innovation Hub Quarterly Town Halls (25x)
 * 📅 Avanade San Francisco Innovation Hub & Mountain View Quarterly Town Halls (25x)
 * 🖌️ San Francisco Museum of Modern Art Visit
 * 📊 24 Penn Medicine Radiation Oncology articles and led 30+ Surgeons, Doctors, and Students [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-penn-medicine-global-radiation-oncology-analytics) [(Google Scholar)](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en)
