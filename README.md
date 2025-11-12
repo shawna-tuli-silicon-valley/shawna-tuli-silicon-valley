@@ -44,6 +44,8 @@ ________________________________________________________________________________
 
 #### BIG TECH ML & DATA SCIENCE LEADERSHIP (2014-Present) 
 * 🎯 **Goal:** ML & Data Science Manager at Google Mountain View, Microsoft Mountain View, or Amazon Mountain View
+* ❤️‍🔥 Microsoft Ignite San Francisco
+* 💛 Google Cloud Next Conference Las Vegas 
 * 👩🏽‍🎓 Avanade Mountain View SISA Apprentice Program 
 * Ⓜ️ Data Scientist at Meta Menlo Park
 * 🩺 Data Scientist at Nonprofit Organization Santa Clara
@@ -150,7 +152,7 @@ ________________________________________________________________________________
 * 🎓 Google Data Science Panelist at The Reach Foundation Mountain View (2x) [(Article)](https://www.thereachfoundation.net/blog/j1ijbu5v5tz66u224ut8bsu9izojb9)
 * 📢 Software Engineer at Fortune 500 Company San Francisco
 * ✅ AI Data Scientist at Avanade San Francisco Innovation Hub
-* 🤍 Google Cloud Next Conference (6x) [(Next)](https://cloud.withgoogle.com/next/25)
+* 🤍 Google Cloud Next Conference (5x) [(Next)](https://cloud.withgoogle.com/next/25)
 * 💛 Databricks Data + AI Summit San Francisco [(Article)](https://www.databricks.com/blog/2022/06/24/know-before-you-go-data-ai-summit-2022.html)
 * ⚙️ Avanade San Francisco Innovation Hub Data & AI Data Science & Advanced Analytics Associate Manager [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics-2)
 * 🔮 2 National Science Foundation articles - predicted energy consumption with AI in California and led 5 Data Scientists [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-california-energy-and-ai-predictive-analytics-2)
