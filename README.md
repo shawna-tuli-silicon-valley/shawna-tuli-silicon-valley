@@ -45,7 +45,7 @@ ________________________________________________________________________________
 #### BIG TECH ML & DATA SCIENCE LEADERSHIP (2014-Present) 
 * 🎯 **Goal:** ML & Data Science Manager at Google Mountain View, Microsoft Mountain View, or Amazon Mountain View
 * ❤️‍🔥 Microsoft Ignite San Francisco
-* 💛 Google Cloud Next Conference Las Vegas 
+* 🩵 Google Cloud Next Conference Las Vegas 
 * 👩🏽‍🎓 Avanade Mountain View SISA Apprentice Program 
 * Ⓜ️ Data Scientist at Meta Menlo Park
 * 🩺 Data Scientist at Nonprofit Organization Santa Clara
