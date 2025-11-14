@@ -51,7 +51,7 @@ ________________________________________________________________________________
 * Ⓜ️ Data Scientist at Meta Menlo Park
 * 🩺 Data Scientist at Nonprofit Organization Santa Clara
 * 🎃 Accenture San Francisco Innovation Hub Annual Oktoberfest Celebration
-* 📩 PayPal x Women Impact Tech | Hiring and Networking Event
+* 📩 PayPal x Women Impact Tech | Hiring and Networking Event [(Repo)](https://github.com/shawna-tuli-silicon-valley/paypal-data-science-recruitment/tree/main)
 * 🇮🇳 Accenture New York Innovation Hub Diwali Party (3x)
 * 📐 Accenture Mountain View & San Francisco Innovation Hub AI & Automation Practice AI Solution Architect - solutioning AI
 * 📫 Accenture San Francisco Innovation Hub Amazon All-People Connect
