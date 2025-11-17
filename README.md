@@ -44,12 +44,13 @@ ________________________________________________________________________________
 
 #### BIG TECH ML & DATA SCIENCE LEADERSHIP (2014-Present) 
 * 🎯 **Goal:** ML & Data Science Manager at Google Mountain View, Microsoft Mountain View, or Amazon Mountain View
-* ֎ Data Scientist at OpenAI San Francisco 
+* </> Bay Area ICS Alumni Reception Palo Alto 
+* ֎ Incoming Data Scientist at OpenAI San Francisco 
 * ❤️‍🔥 Microsoft Ignite San Francisco
 * 🩵 Google Cloud Next Conference Las Vegas 
 * 👩🏽‍🎓 Avanade Mountain View SISA Apprentice Program 
-* Ⓜ️ Data Scientist at Meta Menlo Park
-* 🩺 Data Scientist at Nonprofit Organization Santa Clara
+* Ⓜ️ Incoming Data Scientist at Meta Menlo Park
+* 🩺 Incoming Data Scientist at Nonprofit Organization Santa Clara
 * 🎃 Accenture San Francisco Innovation Hub Annual Oktoberfest Celebration
 * 📩 PayPal x Women Impact Tech | Hiring and Networking Event San Jose [(Repo)](https://github.com/shawna-tuli-silicon-valley/paypal-data-science-recruitment/tree/main)
 * 🇮🇳 Accenture New York Innovation Hub Diwali Party (3x)
