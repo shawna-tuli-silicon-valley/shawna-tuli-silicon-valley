@@ -44,6 +44,7 @@ ________________________________________________________________________________
 
 #### BIG TECH ML & DATA SCIENCE LEADERSHIP (2014-Present) 
 * 🎯 **Goal:** ML & Data Science Manager at Google Mountain View, Microsoft Mountain View, or Amazon Mountain View
+* 🌿 Avanade Wellbeing AI & Automation Practice Lead 
 * 🤖 5) Accenture V360 Awards - developing Agentic AI for multiple industries and leading 4 Data Scientists 
 * </> Bay Area ICS Alumni Reception Palo Alto 
 * ֎ Incoming Data Scientist at OpenAI San Francisco 
