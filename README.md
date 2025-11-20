@@ -51,7 +51,6 @@ ________________________________________________________________________________
 * ❤️‍🔥 Microsoft Ignite San Francisco
 * 🩵 Google Cloud Next Conference Las Vegas 
 * 👩🏽‍🎓 Avanade Mountain View SISA Apprentice Program 
-* Ⓜ️ Incoming Data Scientist at Meta Menlo Park
 * 🩺 Incoming Data Scientist at Nonprofit Organization Santa Clara
 * 🎃 Accenture San Francisco Innovation Hub Annual Oktoberfest Celebration
 * 📩 PayPal x Women Impact Tech | Hiring and Networking Event San Jose [(Repo)](https://github.com/shawna-tuli-silicon-valley/paypal-data-science-recruitment/tree/main)
