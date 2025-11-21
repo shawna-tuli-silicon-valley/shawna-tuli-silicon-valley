@@ -45,7 +45,7 @@ ________________________________________________________________________________
 #### BIG TECH ML & DATA SCIENCE LEADERSHIP (2014-Present) 
 * 🎯 **Goal:** ML & Data Science Manager at Google Mountain View, Microsoft Mountain View, or Amazon Mountain View
 * 📄 Presenter at International Women's Day at Accenture Mountain View 
-* 🌁 Accenture Mountain View DSSG Lead at UWBA Phase 5, leading 3 Data Scientists
+* 💫 Accenture Mountain View DSSG Lead at UWBA Phase 5, leading 3 Data Scientists
 * 🌿 Avanade USA AI & Automation Practice Wellbeing Lead
 * 🤖 5) Accenture V360 Awards - developing Agentic AI for multiple industries and leading 4 Data Scientists 
 * </> Bay Area ICS Alumni Reception Palo Alto 
