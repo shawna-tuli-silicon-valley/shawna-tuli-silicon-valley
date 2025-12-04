@@ -44,7 +44,7 @@ ________________________________________________________________________________
 
 #### BIG TECH ML & DATA SCIENCE LEADERSHIP (2014-Present) 
 * 🎯 **Goal:** ML & Data Science Manager at Google Mountain View, Microsoft Mountain View, or Amazon Mountain
-* 🩺 Senior AI Engineer at Fortune 500 Biotechnology Company 
+* ⚕️ Senior AI Engineer at Fortune 500 Biotechnology Company 
 * 🔢 Incoming Data Scientist at Microsoft Sunnyvale
 * Ⓜ️ Incoming Data Scientist at Meta Menlo Park
 * 📄 Presenter at International Women's Day at Accenture Mountain View 
