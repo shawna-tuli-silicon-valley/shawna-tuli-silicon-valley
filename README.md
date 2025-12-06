@@ -54,7 +54,7 @@ ________________________________________________________________________________
 * </> Bay Area ICS Alumni Reception Palo Alto 
 * ֎ Incoming Data Scientist at OpenAI San Francisco 
 * ❤️‍🔥 Microsoft Ignite San Francisco
-* 🩵 Google Cloud Next Conference Las Vegas 
+* 🩵 Google Cloud Next Conference Las Vegas (2x)
 * 👩🏽‍🎓 Avanade Mountain View SISA Apprentice Program 
 * 🎃 Accenture San Francisco Innovation Hub Annual Oktoberfest Celebration
 * 📩 PayPal x Women Impact Tech | Hiring and Networking Event San Jose [(Repo)](https://github.com/shawna-tuli-silicon-valley/paypal-data-science-recruitment/tree/main)
