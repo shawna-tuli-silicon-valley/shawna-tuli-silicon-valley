@@ -50,7 +50,7 @@ ________________________________________________________________________________
 * Ⓜ️ Incoming Data Scientist at Meta Menlo Park
 * 📄 Presenter at International Women's Day at Accenture Mountain View 
 * 💫 Accenture Mountain View DSSG Lead at UWBA Phase 5, leading 3 Data Scientists
-* 🌿 Avanade USA AI & Automation Practice Wellbeing Lead
+* 🌿 Avanade USA AI & Automation Practice Well-being Lead
 * 🤖 5) Accenture V360 Awards - developing Agentic AI for multiple industries and leading 4 Data Scientists 
 * </> Bay Area ICS Alumni Reception Palo Alto 
 * ֎ Incoming Data Scientist at OpenAI San Francisco 
