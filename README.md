@@ -44,7 +44,7 @@ ________________________________________________________________________________
 
 #### BIG TECH ML & DATA SCIENCE LEADERSHIP (2014-Present) 
 * 🎯 **Goal:** ML & Data Science Manager at Google Mountain View, Microsoft Mountain View, or Amazon Mountain
-* ⛄ Owner of Hot Chocolate, Gingerbread Houses, and a Christmas Movie Wellness Event at Accenture Mountain View 
+* ⛄ Owner of Hot Chocolate Bombs, Gingerbread Houses, and Christmas Music Wellness Event at Accenture Mountain View 
 * ⚕️ Senior AI Engineer at Fortune 500 Biotechnology Company 
 * 🔢 Incoming Data Scientist at Microsoft Sunnyvale
 * Ⓜ️ Incoming Data Scientist at Meta Menlo Park
