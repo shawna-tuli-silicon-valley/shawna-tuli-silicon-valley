@@ -1,4 +1,4 @@
-![GOOGLE](https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=fff&style=for-the-badge) ![MICROSOFT](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white) ![AMAZON](https://img.shields.io/badge/Amazon-FF9900.svg?style=for-the-badge&logo=Amazon&logoColor=white) <img src="https://img.shields.io/badge/-Accenture-A100FF?style=flat&logo=accenture&logoColor=white"/>
+![GOOGLE](https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=fff&style=for-the-badge) ![MICROSOFT](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white) ![AMAZON](https://img.shields.io/badge/Amazon-FF9900.svg?style=for-the-badge&logo=Amazon&logoColor=white) <img src="https://img.shields.io/badge/Accenture-A100FF?style=flat&logo=accenture&logoColor=white"/>
 
 
 
