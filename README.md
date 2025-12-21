@@ -35,8 +35,8 @@ ________________________________________________________________________________
 10. Avanade Accelerate Impact Super Hero (2x)
 11. Avanade We Act with Integrity and Respect Ambassador (3x)
 12. Google International Women's Day (2x)
-13. Accenture International Women's Day (5x)
-14. Avanade International Women's Day (5x)
+13. Accenture International Women's Day (6x)
+14. Avanade International Women's Day (6x)
 15. Forbes 30 Under 30 Scholar in Innovation
 16. Alpha Kappa Psi Professional Co-ed Business Fraternity Most Likely to be a Billionaire
 17. Up to Us Top 20 Team
@@ -48,7 +48,7 @@ ________________________________________________________________________________
 #### BIG TECH ML & DATA SCIENCE LEADERSHIP (2014-Present) 
 * 🎯 **Goal:** ML & Data Science Manager at Google Mountain View, Microsoft Mountain View, or Amazon Mountain View
 * ⛄ Owner of Hot Chocolate Bombs, Gingerbread Houses, and White Elephant Wellness Event at Accenture Mountain View (Repo)
-* ⚕️ Senior AI Engineer at Fortune 500 Biotechnology Company Mountain View
+* ⚕️ Senior AI Engineer at Fortune 500 Company Mountain View
 * 🔢 Incoming Data Scientist at Microsoft Sunnyvale
 * Ⓜ️ Incoming Data Scientist at Meta Menlo Park
 * 📄 Presenter at International Women's Day at Accenture Mountain View 
