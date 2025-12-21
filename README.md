@@ -362,6 +362,9 @@ ________________________________________________________________________________
 * Agentic AI 601 Learning Series powered by Microsoft, M365 CoPilot Prompting Masterclass, M365 CoPilot License, The Copilot Experience Essentials, AI-102 Microsoft Designing and Implementing a MS Azure AI Solution, Microsoft Azure AI Partner Council | Azure AI Search, Microsoft Azure Data and AI - Microsoft Partner Sales Strategy Training, Visual Studio, Microsoft Azure AI Foundry, Azure AI Foundry and Agents Bootcamp
 
 #### ![AMAZON](https://img.shields.io/badge/Amazon-FF9900.svg?style=for-the-badge&logo=Amazon&logoColor=white)
+
+#### ![DATABRICKS](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
+* Databricks Certified Data Engineer Associate 
 ___________________________________________________________________________________________________________________________________________________________________________
 #### BOOKS & PODCASTS
 
