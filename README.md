@@ -363,7 +363,7 @@ ________________________________________________________________________________
 
 #### ![AMAZON](https://img.shields.io/badge/Amazon-FF9900.svg?style=for-the-badge&logo=Amazon&logoColor=white)
 
-#### ![DATABRICKS](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
+#### ![DATABRICKS](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 * Databricks Certified Data Engineer Associate 
 ___________________________________________________________________________________________________________________________________________________________________________
 #### BOOKS & PODCASTS
