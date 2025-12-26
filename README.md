@@ -47,9 +47,9 @@ ________________________________________________________________________________
 
 #### BIG TECH ML & DATA SCIENCE LEADERSHIP (2014-Present) 
 * 🎯 **Goal:** ML & Data Science Manager at Google Mountain View, Microsoft Mountain View, or Amazon Mountain View
-* 💵 Data Engineer at Fortune 500 Company Mountain View 
+* 💵 Data Engineer at Fortune 500 Financial Services Company Mountain View 
 * ⛄ Owner of Hot Chocolate Bombs, Gingerbread Houses, and White Elephant Wellness Event at Accenture Mountain View (Repo)
-* ⚕️ Senior AI Engineer at Fortune 500 Company Mountain View
+* ⚕️ Senior AI Engineer at Fortune 500 Biotechnology Company Mountain View
 * 📄 Presenter at International Women's Day at Accenture Mountain View 
 * 💫 Accenture Mountain View DSSG Lead at UWBA Phase 5, leading 3 Data Scientists
 * 🌿 Avanade USA AI & Automation Practice Well-being Lead
@@ -164,18 +164,18 @@ ________________________________________________________________________________
 * ⚙️ Avanade San Francisco Innovation Hub Data & AI Data Science & Advanced Analytics Associate Manager [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics-2)
 * 🔮 2 National Science Foundation articles - predicted energy consumption with AI in California and led 5 Data Scientists [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-california-energy-and-ai-predictive-analytics-2)
 * 📉 2) Accenture V360 Awards - forecasted energy with AI in California and led 4 Data Scientists [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-california-energy-ai-and-predictive-analytics) [(Student Repo)](https://github.com/shawna-tuli-silicon-valley/EnergyPredictionCA)
-* ☁️ ML & Data Science Lead at Google Cloud Sunnyvale and led a Data Engineer [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-sunnyvale-ai-and-data-science-3) [(Article)](https://www.cnbc.com/2023/04/25/googles-cloud-business-turns-profitable-for-the-first-time-on-record.html)
-* ▶️ Software Engineer at Google Play Mountain View [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-mountain-view-devops-advanced-analytics-4)
-* 1️⃣ Software Engineer at Google One Mountain View [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-mountain-view-product-analytics-data-science-2)
+* ☁️ ML & Data Science Lead at Fortune 500 Internet Company Sunnyvale and led a Data Engineer [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-sunnyvale-ai-and-data-science-3) [(Article)](https://www.cnbc.com/2023/04/25/googles-cloud-business-turns-profitable-for-the-first-time-on-record.html)
+* ▶️ Software Engineer at Fortune 500 Internet Company Mountain View [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-mountain-view-devops-advanced-analytics-4)
+* 1️⃣ Software Engineer at Fortune 500 Internet Company Mountain View [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-mountain-view-product-analytics-data-science-2)
 * 🔎 1) Accenture V360 Awards - foresaw Type 2 Diabetes with AI in California and led 4 Data Scientists [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-california-type-2-diabetes-ai-and-predictive-analytics) [(Student Repo)](https://github.com/shawna-tuli-silicon-valley/STATS170_Project-1)
 * 💗 Avanade San Francisco Innovation Hub Data & AI Data Science & Advanced Analytics Consultant [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics)
 * 🧩 Presenter at Avanade Advanced Analytics Community Call
 * 💎 Avanade We Believe Everyone Counts Super Hero Award (2x)
-* 🧾 Software Engineer at Fortune 500 Company San Francisco and led a Software Engineer
+* 🧾 Software Engineer at Fortune 500 Internet Company San Francisco and led a Software Engineer
 * 🖤 Software Engineering Lead at Nonprofit Organization San Francisco and led 4 Software Engineers
-* 💜 ML & Data Science Lead at Fortune 500 Company San Francisco and led a Data Engineer
-* 🍵 Software Engineer at Fortune 500 Company San Francisco
-* 💾 Advanced Analytics Lead at Fortune 500 Company San Francisco and led 2 Analysts
+* 💜 ML & Data Science Lead at Fortune 500 Internet Company San Francisco and led a Data Engineer
+* 🍵 Software Engineer at Fortune 500 Food & Beverage Company San Francisco
+* 💾 Advanced Analytics Lead at Fortune 500 Semiconductors Company San Francisco and led 2 Analysts
 * 🎉 Avanade Northern California Social Committee Member - organizing and hosting events monthly for 50+
 * ✔️ Avanade We Deliver with Excellence Super Hero Award
 * 📶 Avanade Advanced Analytics All-hands
