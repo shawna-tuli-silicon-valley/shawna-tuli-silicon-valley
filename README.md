@@ -47,6 +47,12 @@ ________________________________________________________________________________
 
 #### BIG TECH ML & DATA SCIENCE LEADERSHIP (2014-Present) 
 * 🎯 **Goal:** ML & Data Science Manager at Google Mountain View, Microsoft Mountain View, or Amazon Mountain View
+* 🌼 June Wellness Event at Accenture Mountain View (Repo)
+* 🥖 May Wellness Event at Accenture Mountain View (Repo)
+* 🧋 April Wellness Event at Accenture Mountain View (Repo)
+* 🔆 March Wellness Event at Accenture Mountain View (Repo)
+* 🧺 February Wellness Event at Accenture Mountain View (Repo)
+* 🍨 January Wellness Event at Accenture Mountain View (Repo)
 * 💵 Data Engineer at Fortune 500 Financial Services Company Mountain View 
 * ⛄ Owner of Hot Chocolate Bombs, Gingerbread Houses, and White Elephant Wellness Event at Accenture Mountain View (Repo)
 * ⚕️ Senior AI Engineer at Fortune 500 Biotechnology Company Mountain View
