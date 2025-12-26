@@ -2,7 +2,7 @@
 
 
 
-Shawna Tuli is a seasoned **Mountain View & San Francisco** Machine Learning & Data Science, Advanced Analytics, Business Intelligence, and Strategy Leader, Innovator, Advisor, and **San Jose native**, with **five and a half years** of experience as a Data Science & Advanced Analytics Associate Manager at Avanade, the Accenture Microsoft Business Group, and Accenture. She has a strong background in ***machine learning*** and ***data science***, interlacing ***agentic artificial intelligence, generative artificial intelligence***, ***advanced analytics***, ***software engineering***, ***business intelligence***, ***product strategy***, ***product analytics***, ***predictive modeling***, ***strategy***, and ***CFO & enterprise value***. Shawna is on the Executive and Corporate Board Director path with **eleven and a half consecutive years** of experience in ***big technology*** in **Silicon Valley**. Her strengths are Activator, Achiever, Futuristic, Competition, and Significance.   
+Shawna Tuli is a seasoned **Mountain View & San Francisco** Machine Learning & Data Science, Advanced Analytics, Business Intelligence, and Strategy Leader, Innovator, Advisor, and **San Jose native**, with **over five and a half years** of experience as a Data Science & Advanced Analytics Associate Manager at Avanade, the Accenture Microsoft Business Group, and Accenture. She has a strong background in ***machine learning*** and ***data science***, interlacing ***agentic artificial intelligence, generative artificial intelligence***, ***advanced analytics***, ***software engineering***, ***business intelligence***, ***product strategy***, ***product analytics***, ***predictive modeling***, ***strategy***, and ***CFO & enterprise value***. Shawna is on the Executive and Corporate Board Director path with **over eleven and a half consecutive years** of experience in ***big technology*** in **Silicon Valley**. Her strengths are Activator, Achiever, Futuristic, Competition, and Significance.   
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 #### LEADERSHIP HIGHLIGHTS
@@ -47,16 +47,14 @@ ________________________________________________________________________________
 
 #### BIG TECH ML & DATA SCIENCE LEADERSHIP (2014-Present) 
 * 🎯 **Goal:** ML & Data Science Manager at Google Mountain View, Microsoft Mountain View, or Amazon Mountain View
+* 💳 Data Engineer at TIAA Mountain View 
 * ⛄ Owner of Hot Chocolate Bombs, Gingerbread Houses, and White Elephant Wellness Event at Accenture Mountain View (Repo)
 * ⚕️ Senior AI Engineer at Fortune 500 Company Mountain View
-* 🔢 Incoming Data Scientist at Microsoft Sunnyvale
-* Ⓜ️ Incoming Data Scientist at Meta Menlo Park
 * 📄 Presenter at International Women's Day at Accenture Mountain View 
 * 💫 Accenture Mountain View DSSG Lead at UWBA Phase 5, leading 3 Data Scientists
 * 🌿 Avanade USA AI & Automation Practice Well-being Lead
 * 🤖 5) Accenture V360 Awards - developing Agentic AI for multiple industries and leading 4 Data Scientists 
 * </> Bay Area ICS Alumni Reception Palo Alto 
-* ֎ Incoming Data Scientist at OpenAI San Francisco 
 * ❤️‍🔥 Microsoft Ignite San Francisco
 * 🩵 Google Cloud Next Conference Las Vegas (2x)
 * 👩🏽‍🎓 Avanade Mountain View SISA Apprentice Program 
