@@ -49,12 +49,12 @@ ________________________________________________________________________________
 * 🎯 **Goal:** ML & Data Science Manager at Google Mountain View, Microsoft Mountain View, or Amazon Mountain View
 * 🌼 Leader of June Wellness Event at Accenture Mountain View (Repo)
 * 🥖 Chief of May Wellness Event at Accenture Mountain View (Repo)
-* 🧋 Head of April Wellness Event at Accenture Mountain View (Repo)
+* 🧋 Planner of April Wellness Event at Accenture Mountain View (Repo)
 * 🔆 Executive of March Wellness Event at Accenture Mountain View (Repo)
 * 🧺 Manager of February Wellness Event at Accenture Mountain View (Repo)
 * 🍨 Arranger of January Wellness Event at Accenture Mountain View (Repo)
 * 💵 Data Engineer at Fortune 500 Financial Services Company Mountain View 
-* ⛄ Planner of Hot Chocolate Bombs, Gingerbread Houses, and White Elephant Wellness Event at Accenture Mountain View (Repo)
+* ⛄ Head of Hot Chocolate Bombs, Gingerbread Houses, and White Elephant Wellness Event at Accenture Mountain View (Repo)
 * ⚕️ Senior AI Engineer at Fortune 500 Biotechnology Company Mountain View
 * 📄 Presenter at International Women's Day at Accenture Mountain View 
 * 💫 Accenture Mountain View DSSG Lead at UWBA Phase 5, leading 3 Data Scientists
