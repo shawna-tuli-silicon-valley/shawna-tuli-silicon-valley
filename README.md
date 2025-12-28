@@ -47,14 +47,14 @@ ________________________________________________________________________________
 
 #### BIG TECH ML & DATA SCIENCE LEADERSHIP (2014-Present) 
 * 🎯 **Goal:** ML & Data Science Manager at Google Mountain View, Microsoft Mountain View, or Amazon Mountain View
-* 🌼 June Wellness Event at Accenture Mountain View (Repo)
-* 🥖 May Wellness Event at Accenture Mountain View (Repo)
-* 🧋 April Wellness Event at Accenture Mountain View (Repo)
-* 🔆 March Wellness Event at Accenture Mountain View (Repo)
-* 🧺 February Wellness Event at Accenture Mountain View (Repo)
-* 🍨 January Wellness Event at Accenture Mountain View (Repo)
+* 🌼 Leader of June Wellness Event at Accenture Mountain View (Repo)
+* 🥖 Chief of May Wellness Event at Accenture Mountain View (Repo)
+* 🧋 Head of April Wellness Event at Accenture Mountain View (Repo)
+* 🔆 Executive of March Wellness Event at Accenture Mountain View (Repo)
+* 🧺 Manager of February Wellness Event at Accenture Mountain View (Repo)
+* 🍨 Arranger of January Wellness Event at Accenture Mountain View (Repo)
 * 💵 Data Engineer at Fortune 500 Financial Services Company Mountain View 
-* ⛄ Owner of Hot Chocolate Bombs, Gingerbread Houses, and White Elephant Wellness Event at Accenture Mountain View (Repo)
+* ⛄ Planner of Hot Chocolate Bombs, Gingerbread Houses, and White Elephant Wellness Event at Accenture Mountain View (Repo)
 * ⚕️ Senior AI Engineer at Fortune 500 Biotechnology Company Mountain View
 * 📄 Presenter at International Women's Day at Accenture Mountain View 
 * 💫 Accenture Mountain View DSSG Lead at UWBA Phase 5, leading 3 Data Scientists
@@ -79,11 +79,11 @@ ________________________________________________________________________________
 * 💐 Coordinator of Flower Bouquet Making Wellness Event at Accenture Mountain View - 100% reserved [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-11) 
 * 🕯️ Manager of Candle Making Wellness Event at Accenture Mountain View - 100% taken [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-10)
 * 🍫 Moderator of TinyB Chocolate Making Wellness Event at Accenture Mountain View - 100% reserved [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-9)
-* ☕ Owner of Coffee and Cake Tasting Wellness Event at Accenture Mountain View - 100% full [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-6/tree/main)
+* ☕ Administrator of Coffee and Cake Tasting Wellness Event at Accenture Mountain View - 100% full [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-6/tree/main)
 * 🏰 San Francisco Palace of Fine Arts Visit 
 * 🏠 Accenture Mountain View DSSG Lead at UWBA Phase 4, leading 6 Data Scientists - 1 article [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-uwba-ai-and-data-science-3)
 * 🔜 Avanade Create the Future Award
-* 🌼 Host of Massage Wellness Event at Accenture Mountain View - 100% taken [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-7/tree/main)
+* 🌼 Organizer of Massage Wellness Event at Accenture Mountain View - 100% taken [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-7/tree/main)
 * ⌨️ Communications, Media & Technology Industry Day at Accenture Mountain View 
 * 🍴 Accenture Mountain View Happy Hours (25x)
 * 💥 Avanade Accelerate Impact Super Hero Award (2x)
@@ -92,15 +92,15 @@ ________________________________________________________________________________
 * 📪 3. Data & AI Manager at Amazon Mountain View - responsible for $7M+
 * 🌏 World Summit AI USA San Francisco
 * 💅🏽 Moderator of Elegance Nails and Spa Manicure and Pedicure Wellness Event at Accenture Mountain View - 100% taken [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-5)
-* 🏺 Presenter of Sculpd Pottery Making and Ceramic Painting Wellness Event at Accenture Mountain View - 100% booked [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-4/tree/main)
-* 🍇 Owner of Build Your Own Whole Foods Charcuterie Board Wellness Event at Accenture Mountain View - 100% reserved [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-3)
+* 🏺 Owner of Sculpd Pottery Making and Ceramic Painting Wellness Event at Accenture Mountain View - 100% booked [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-4/tree/main)
+* 🍇 Facilitator of Build Your Own Whole Foods Charcuterie Board Wellness Event at Accenture Mountain View - 100% reserved [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-3)
 * 💬 Microsoft Me Myself and My Copilot: An Introduction to Microsoft 365 Copilot Chat + Agents
 * 💆🏽‍♀️ Accenture Mountain View Wellness Committee Member - orchestrating events
 * 🍽️ Accenture Mountain View & San Francisco Innovation Hub Third Thursdays (65x)
 * 모 Accenture Mountain View Computer History Museum Visit (2x)
 * 🎂 Avanade's 25th Anniversary San Francisco Happy Hour 
 * 🙏🏽 Hostess of Start Your Gratitude Journal to Improve Your Health Wellness Event at Accenture Mountain View - 100% full [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-2)
-* 🎤 Presenter of Powering Your Network at International Women's Day at Accenture Mountain View
+* 🎤 Elocutionist of Powering Your Network at International Women's Day at Accenture Mountain View
 * 📒 Microsoft's Better Together: Innovate, Inspire, Impact - The Future of Leadership Mountain View 
 * 🌸 Instructor at Accenture Mountain View Wellness Fair 
 * 🚋 ML & Data Science Educator at Accenture San Francisco Innovation Hub University of Washington Recruitment 
@@ -136,7 +136,7 @@ ________________________________________________________________________________
 * 🌇 Accenture New York Innovation Hub Generative AI Studio Visit (3x)
 * 🗽 Accenture New York Innovation Hub Visit (3x)
 * 🎙 Emcee at Avanade North America Data & AI Community Call 
-* 🔦 Presenter at Avanade AI & Automation Practice Mountain View Amazon Migration
+* 🔦 Storyteller at Avanade AI & Automation Practice Mountain View Amazon Migration
 * 💘 Google Bay Area International Women's Day - recruited to Google Mountain View ML & Data Science [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-bay-area-international-womens-day/tree/main)
 * 🗿 Avanade Mountain View Leadership Accelerator - chosen to inspire greatness and excel in People Leadership
 * 🌅 Avanade Mountain View AI Studio Forecasting Champion
@@ -146,7 +146,7 @@ ________________________________________________________________________________
 * 🆕 3) Accenture V360 Awards - used LLMs to reform call centers nationally and led 4 Data Scientists [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-call-centers-genai-and-predictive-analytics) [(Student Repo)](https://github.com/data-sci-capstone/copilot)
 * 🌉 Accenture Mountain View Data Science for Social Good (DSSG) Lead at UWBA Phase 2 and led 3 Data Scientists [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-uwba-data-science)
 * 📓 Accenture ML & Data Science Expert at Accenture Knowledge Exchange 
-* 📧 Presenter at Amazon Mountain View Mailbox Core All-hands 
+* 📧 Speechmaker at Amazon Mountain View Mailbox Core All-hands 
 * 🗃️ Avanade North America Data & AI Solution Architects West Champion
 * 🌌 Avanade Create the Future Super Hero Award (3x)
 * 💖 Google Bay Area AI for everyone - recruited to Google Mountain View Gemini ML & Data Science [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-bay-area-ai-for-everyone/tree/main)
@@ -159,7 +159,7 @@ ________________________________________________________________________________
 * 🦾 AI Lead at Fortune 500 Company San Francisco
 * 🧠 ML & Data Science Advisor at Harvard Business Review [(Repo)](https://github.com/shawna-tuli-silicon-valley/harvard-business-review-advisory-council) [(Magazine)](https://hbr.org/)
 * 🦄 Accenture Ventures & Open Innovation West Ambassador 
-* 🗂️ Presenter at Accenture CIO San Francisco Data Science Guild (4x)
+* 🗂️ Keynoter at Accenture CIO San Francisco Data Science Guild (4x)
 * 📋 Accenture ML & Data Science Panelist at UCI Merage Machine Learning for Analytics Graduate Class
 * 🧡 AI Data Scientist at Avanade - gained Best Baker Award on the West Region Chargeability Percent Team
 * 🎓 Google Data Science Panelist at The Reach Foundation Mountain View (2x) [(Article)](https://www.thereachfoundation.net/blog/j1ijbu5v5tz66u224ut8bsu9izojb9)
@@ -175,7 +175,7 @@ ________________________________________________________________________________
 * 1️⃣ Software Engineer at Fortune 500 Internet Company Mountain View [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-mountain-view-product-analytics-data-science-2)
 * 🔎 1) Accenture V360 Awards - foresaw Type 2 Diabetes with AI in California and led 4 Data Scientists [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-california-type-2-diabetes-ai-and-predictive-analytics) [(Student Repo)](https://github.com/shawna-tuli-silicon-valley/STATS170_Project-1)
 * 💗 Avanade San Francisco Innovation Hub Data & AI Data Science & Advanced Analytics Consultant [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics)
-* 🧩 Presenter at Avanade Advanced Analytics Community Call
+* 🧩 Narrator at Avanade Advanced Analytics Community Call
 * 💎 Avanade We Believe Everyone Counts Super Hero Award (2x)
 * 🧾 Software Engineer at Fortune 500 Internet Company San Francisco and led a Software Engineer
 * 🖤 Software Engineering Lead at Nonprofit Organization San Francisco and led 4 Software Engineers
@@ -205,7 +205,7 @@ ________________________________________________________________________________
 * 🥇 Olympics Games Bayesian Data Analysis - estimated U.S. Athletes' chances of winning gold in the Olympics [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-olympic-games-bayesian-data-analysis)
 * 💡 Forbes 30 Under 30 Scholar in Innovation Award - selected as 1 of 1,000 National University Students [(Repo)](https://github.com/shawna-tuli-silicon-valley/forbes-under-30-scholar-innovation) [(Article)](https://www.forbes.com/sites/forbesvideo/article/under-30-summit-2019/?sh=433d5b643cdc)
 * 🚢 Google Mountain View Interns San Francisco Yacht Party
-* 📸 Presenter at Google Photos Mountain View All-hands [(Article)](https://blog.google/products/photos/go-google-photos-tips-2018/)
+* 📸 Moderator at Google Photos Mountain View All-hands [(Article)](https://blog.google/products/photos/go-google-photos-tips-2018/)
 * 🖱️ Google Mountain View Computer History Museum Visit 
 * ✨ Google Mountain View Women in Engineering Conference [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-women-in-engineering/tree/main)
 * 💝 Google Mountain View TGIF (18x) [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-tgif/tree/main) [(Article)](https://www.cnbc.com/2019/11/15/google-cancels-tgif-weekly-all-hands-meetings.html)
