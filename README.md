@@ -53,7 +53,8 @@ ________________________________________________________________________________
 * 🔆 Executive of March Wellness Event at Accenture Mountain View (Repo)
 * 🧺 Manager of February Wellness Event at Accenture Mountain View (Repo)
 * 🍨 Arranger of January Wellness Event at Accenture Mountain View (Repo)
-* 💵 Data Engineer at Fortune 500 Financial Services Company Mountain View 
+* 💵 Data Engineer at Fortune 500 Financial Services Company Mountain View
+* 🇲🇽 Cacao Mágico, Puerto Vallarta 
 * 🧴 Head of Hot Chocolate Bombs, Gingerbread Houses, and White Elephant Wellness Event at Accenture Mountain View (Repo)
 * ⚕️ Senior AI Engineer at Fortune 500 Biotechnology Company Mountain View
 * 📄 Presenter at International Women's Day at Accenture Mountain View 
@@ -66,7 +67,7 @@ ________________________________________________________________________________
 * 👩🏽‍🎓 Avanade Mountain View SISA Apprentice Program 
 * 🎃 Accenture San Francisco Innovation Hub Annual Oktoberfest Celebration
 * 📩 PayPal x Women Impact Tech | Hiring and Networking Event San Jose [(Repo)](https://github.com/shawna-tuli-silicon-valley/paypal-data-science-recruitment/tree/main)
-* 🇮🇳 Accenture New York Innovation Hub Diwali Party (3x)
+* 🥂 Accenture New York Innovation Hub Diwali Party (3x)
 * 📐 Accenture Mountain View & San Francisco Innovation Hub AI & Automation Practice AI Solution Architect - solutioning AI
 * 📫 Accenture San Francisco Innovation Hub Amazon All-People Connect
 * 🪔 KPMG Santa Clara Diwali Party
@@ -233,7 +234,8 @@ ________________________________________________________________________________
 * 💽 Gates Computer Science Building Visit
 * 💸 HSHacks Hackathon at PayPal San Jose [(Article)](https://venturebeat.com/dev/teenagers-take-over-paypal-hold-their-own-hackathon/)
 * 📚 Stanford Splash [(Article)](https://stanforddaily.com/2016/04/13/behind-the-scenes-of-stanford-splash/)
-* 🐪 Rosicrucian Egyptian Museum Visit 
+* 🐪 Rosicrucian Egyptian Museum Visit
+* 🇮🇳 Taj Mahal Visit
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shawna-tuli-silicon-valley&layout=compact) 
 __________________________________________________________________________________________________________________________________________________________________________________________________
