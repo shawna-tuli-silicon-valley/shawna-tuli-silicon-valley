@@ -23,26 +23,26 @@ ________________________________________________________________________________
 15. Bicoastal Indian American (Brown) Community (Life)
 __________________________________________________________________________________________________________________________________________________________________________
 #### AWARD HIGHLIGHTS
-1. Google AI for everyone | Bay Area for significant contributions to AI
-2. Google’s cloud business turns profitable for the first time on record
-3. Google exploreCSR Workshop
-4. Accenture V360 Awards in Innovation Nominee (5x)
-5. Avanade Best Baker 
-6. Avanade We Believe Everyone Counts Super Hero (2x)
-7. Avanade We Deliver with Excellence Super Hero
-8. Avanade Create the Future Super Hero (3x)
-9. Avanade Create the Future
-10. Avanade Accelerate Impact Super Hero (2x)
-11. Avanade We Act with Integrity and Respect Ambassador (3x)
-12. Google International Women's Day (2x)
-13. Accenture International Women's Day (6x)
-14. Avanade International Women's Day (6x)
-15. Forbes 30 Under 30 Scholar in Innovation
-16. Alpha Kappa Psi Professional Co-ed Business Fraternity Most Likely to be a Billionaire
-17. Up to Us Top 20 Team
-18. Up to Us Top Pledge Earner
-19. Chartered Financial Analyst Society Orange County Request for Proposal Second Place
-20. Chartered Financial Analyst Society Orange County Research Challenge 
+1. Google AI for everyone | Bay Area
+2. Google’s cloud business turns profitable for the first time on record | Sunnyvale
+3. Google exploreCSR Workshop | Long Beach
+4. Accenture V360 Awards in Innovation Nominee | Mountain View & San Francisco (5x)
+5. Avanade Best Baker | Mountain View & San Francisco
+6. Avanade We Believe Everyone Counts Super Hero | Mountain View & San Francisco (2x)
+7. Avanade We Deliver with Excellence Super Hero | Mountain View & San Francisco
+8. Avanade Create the Future Super Hero | Mountain View & San Francisco (3x)
+9. Avanade Create the Future | Mountain View & San Francisco
+10. Avanade Accelerate Impact Super Hero | Mountain View & San Francisco (2x)
+11. Avanade We Act with Integrity and Respect Ambassador | Mountain View & San Francisco (3x)
+12. Google International Women’s Day | Mountain View & Venice (2x)
+13. Accenture International Women’s Day | Mountain View & San Francisco (6x)
+14. Avanade International Women’s Day | Mountain View & San Francisco (6x)
+15. Forbes 30 Under 30 Scholar in Innovation | Detroit
+16. Alpha Kappa Psi Professional Co-ed Business Fraternity Most Likely to be a Billionaire | Irvine
+17. Up to Us Top 20 Team | Irvine
+18. Up to Us Top Pledge Earner | Irvine 
+19. Chartered Financial Analyst Society Orange County Request for Proposal Second Place | Irvine
+20. Chartered Financial Analyst Society Orange County Research Challenge | Irvine 
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 #### BIG TECH ML & DATA SCIENCE LEADERSHIP (2014-Present) 
