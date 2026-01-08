@@ -54,7 +54,7 @@ ________________________________________________________________________________
 * 🧋 Planner of April Wellness Event at Accenture Mountain View (Repo)
 * 🔆 Executive of March Wellness Event at Accenture Mountain View (Repo)
 * 🧺 Manager of February Wellness Event at Accenture Mountain View (Repo)
-* 🍨 Arranger of Vision Boarding and Vitality Bowls Acai Bowls January Wellness Event at Accenture Mountain View (Repo)
+* 🍓 Arranger of Vision Boarding and Vitality Bowls Acai Bowls January Wellness Event at Accenture Mountain View (Repo)
 * 💵 Data Engineer at Fortune 500 Financial Services Company Mountain View
 * 🇲🇽 Cacao Mágico Puerto Vallarta Visit 
 * 🧴 Head of Hot Chocolate Bombs, Gingerbread Houses, and White Elephant Wellness Event at Accenture Mountain View (Repo)
