@@ -37,7 +37,7 @@ ________________________________________________________________________________
 12. Google International Women’s Day | Mountain View & Venice (2x)
 13. Accenture International Women’s Day | Mountain View & San Francisco (6x)
 14. Avanade International Women’s Day | Mountain View & San Francisco (6x)
-15. Forbes 30 Under 30 Scholar in Innovation | Detroit
+15. Forbes 30 Under 30 Scholar in Innovation
 16. Alpha Kappa Psi Professional Co-ed Business Fraternity Most Likely to be a Billionaire | Irvine
 17. Up to Us Top 20 Team | Irvine
 18. Up to Us Top Pledge Earner | Irvine 
@@ -48,7 +48,7 @@ ________________________________________________________________________________
 #### BIG TECH ML & DATA SCIENCE LEADERSHIP (2014-Present) 
 * 🎯 **Goal:** ML & Data Science Manager at Google Mountain View, Microsoft Mountain View, or Amazon Mountain View
 * 👑 Fortune 500 Financial Services Company Charlotte Visit
-* ➡️ Remote Accenture ML & Data Science Lecturer at UCI ICS Undergraduate Data Science Seminar
+* ➡️ Accenture Mountain View ML & Data Science Lecturer at UCI ICS Undergraduate Data Science Seminar
 * 📕 Facilitator of June Wellness Event at Accenture Mountain View (Repo)
 * 🥖 Chief of May Wellness Event at Accenture Mountain View (Repo)
 * 🧋 Planner of April Wellness Event at Accenture Mountain View (Repo)
