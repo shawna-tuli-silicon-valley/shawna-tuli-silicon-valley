@@ -240,57 +240,57 @@ ________________________________________________________________________________
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shawna-tuli-silicon-valley&layout=compact) 
 __________________________________________________________________________________________________________________________________________________________________________________________________
-#### PUBLISHED PAPERS & POSTERS
-1. “Comprehensive forecasting of California's energy consumption: a multi-source and sectoral analysis using ARIMA and
+#### PAPERS & POSTERS
+1. "Source of Supply | Product Group Shortages Due to Global Capacity Constraints" in Google Cloud.
+2. “Comprehensive forecasting of California's energy consumption: a multi-source and sectoral analysis using ARIMA and
 ARIMAX models” in World Journal of Advanced Research and Reviews (WJARR).
-2. “Comprehensive Forecasting of California's Energy Consumption: A Multi-Source and Sectoral Analysis Using ARIMA and
+3. “Comprehensive Forecasting of California's Energy Consumption: A Multi-Source and Sectoral Analysis Using ARIMA and
 ARIMAX Models” in Stanford Libraries, arxiv.org/pdf/2402.04432, Avanade AI Studio, and Accenture Knowledge Exchange.
-3. “Call Center CoPilot: Enhancing Customer Service with Large Language Models” in University of California, Irvine
+4. “Call Center CoPilot: Enhancing Customer Service with Large Language Models” in University of California, Irvine
 Undergraduate Research Opportunities Program (UROP), Avanade AI Studio, and Accenture Knowledge Exchange.
-4. “Accenture Call Center Co-Pilot” in Avanade AI Studio and Accenture Knowledge Exchange.
-5. “Predicting Energy Consumption in California” in National Science Foundation (NSF), Avanade AI Studio, and Accenture
+5. “Accenture Call Center Co-Pilot” in Avanade AI Studio and Accenture Knowledge Exchange.
+6. “Predicting Energy Consumption in California” in National Science Foundation (NSF), Avanade AI Studio, and Accenture
 Knowledge Exchange.
-6. “California Energy Consumption Prediction” in Accenture Knowledge Exchange and Avanade AI Studio.
-7. "Accenture GRC Response Assistant" in Avanade AI Studio and Accenture Knowledge Exchange.
-8. "GRCResponder: AI-Driven Optimization of General Rate Cases" in University of California, Irvine Undergraduate Research Opportunities Program (UROP), Avanade AI Studio, and Accenture Knowledge Exchange. 
-9. "BI Analysis (Partner Business Modeling: Uber)" in University of California, Irvine Undergraduate Research Opportunities Program (UROP), Avanade AI Studio, and Accenture Knowledge Exchange. 
-10. “Predicting risk of Type 2 diabetes with AI in California” in Accenture Knowledge Exchange and Avanade AI Studio.
-11. “Five-year overall survival following chemoradiation therapy for locally advanced cervical carcinoma in women living with
+7. “California Energy Consumption Prediction” in Accenture Knowledge Exchange and Avanade AI Studio.
+8. "Accenture GRC Response Assistant" in Avanade AI Studio and Accenture Knowledge Exchange.
+9. "GRCResponder: AI-Driven Optimization of General Rate Cases" in University of California, Irvine Undergraduate Research Opportunities Program (UROP), Avanade AI Studio, and Accenture Knowledge Exchange. 
+10. "BI Analysis (Partner Business Modeling: Uber)" in University of California, Irvine Undergraduate Research Opportunities Program (UROP), Avanade AI Studio, and Accenture Knowledge Exchange. 
+11. “Predicting risk of Type 2 diabetes with AI in California” in Accenture Knowledge Exchange and Avanade AI Studio.
+12. “Five-year overall survival following chemoradiation therapy for locally advanced cervical carcinoma in women living with
 and without HIV infection in Botswana” in Infectious Agents and Cancer and National Library of Medicine (NLM).
-12. “Stage and outcomes of invasive cervical cancer patients in Botswana: a prospective cohort study from 2013 to 2020” in
+13. “Stage and outcomes of invasive cervical cancer patients in Botswana: a prospective cohort study from 2013 to 2020” in
 International Journal of Radiation Oncology* Biology* Physics (IJROBP), American Society for Radiation Oncology (ASTRO), Gynecologic
 Oncology Reports, Stanford Libraries, and National Library of Medicine (NLM).
-13. “Delays in cervical cancer treatment initiation for patients living with or without HIV in Botswana: An observational cohort
+14. “Delays in cervical cancer treatment initiation for patients living with or without HIV in Botswana: An observational cohort
 analysis (2015-2019)” in International Journal of Radiation Oncology* Biology* Physics (IJROBP), Stanford Libraries, and National
 Library of Medicine (NLM).
-14. “Longitudinal Patterns of Survivorship Care in Cervical Cancer Patients Living With or Without HIV in Botswana” in American Society for Radiation Oncology (ASTRO).
-15. “729P Patterns of survivorship care of cervical cancer patients with or without HIV infection in Botswana 2015-2022” in
+15. “Longitudinal Patterns of Survivorship Care in Cervical Cancer Patients Living With or Without HIV in Botswana” in American Society for Radiation Oncology (ASTRO).
+16. “729P Patterns of survivorship care of cervical cancer patients with or without HIV infection in Botswana 2015-2022” in
 Annals of Oncology.
-16. “Treatment delays of cervical cancer with or without Human Immunodeficiency Virus infection in Botswana 2013-2020”
+17. “Treatment delays of cervical cancer with or without Human Immunodeficiency Virus infection in Botswana 2013-2020”
 in Penn Undergraduate Research Mentoring Program (PURM).
-17. “Stage and outcomes of cervical cancer with or without HIV infection in Botswana 2013-2020” in Penn Undergraduate
+18. “Stage and outcomes of cervical cancer with or without HIV infection in Botswana 2013-2020” in Penn Undergraduate
 Research Mentoring Program (PURM).
-18. “Role for Neoadjuvant chemotherapy and less invasive surgery in management of early stage cervical cancer in
+19. “Role for Neoadjuvant chemotherapy and less invasive surgery in management of early stage cervical cancer in
 Botswana” in International Gynecologic Cancer Society (IGCS).
-19. “Treatment toxicities of cervical cancer with or without HIV infection in Botswana 2013-2020” in European Society for
+20. “Treatment toxicities of cervical cancer with or without HIV infection in Botswana 2013-2020” in European Society for
 Radiotherapy and Oncology in Radiotherapy and Oncology (ESTRO).
-20. “PO-1315 Treatment toxicities of cervical cancer with or without HIV infection in Botswana 2013-2020” in Radiotherapy
+21. “PO-1315 Treatment toxicities of cervical cancer with or without HIV infection in Botswana 2013-2020” in Radiotherapy
 and Oncology.
 22. “EPV065/# 372 Role for neoadjuvant chemotherapy and less invasive surgery in management of early stage cervical
 cancer in Botswana” in International Journal of Gynecologic Cancer (IJGC).
-22. “Delays In Cervical Cancer Treatment Initiation For Patients Living With Or Without HIV In Botswana 2015-2019” in
+23. “Delays In Cervical Cancer Treatment Initiation For Patients Living With Or Without HIV In Botswana 2015-2019” in
 Institute of Child & Mother Health (ICMH). 
-23. “Patterns of Survivorship Care Of Cervical Cancer Patients With Or Without HIV Infection In Botswana 2015-2022” in
+24. “Patterns of Survivorship Care Of Cervical Cancer Patients With Or Without HIV Infection In Botswana 2015-2022” in
 Institute of Child & Mother Health (ICMH). 
-24. “Patterns of Survivorship Care of Cervical Cancer Patients with or without HIV Infection” in European Society for
+25. “Patterns of Survivorship Care of Cervical Cancer Patients with or without HIV Infection” in European Society for
 Medical Oncology (ESMO).
-25. “Patterns of Survivorship Care of Cervical Cancer Patients in Botswana” in JNCI Cancer Spectrum: Special Call for
+26. “Patterns of Survivorship Care of Cervical Cancer Patients in Botswana” in JNCI Cancer Spectrum: Special Call for
 Papers.
-26. "Adherence to Survivorship Care Visits in Patients with Cervical Cancer in Botswana" in JCO Global Oncology.
-27. UWBA in Academic Journal, Avanade AI Studio, and Accenture Knowledge Exchange.
-28. TBA in University of California, Irvine Undergraduate Research Opportunities Program (UROP), Avanade AI Studio, and Accenture Knowledge Exchange.
-29. "Breast and Chest Wall Radiation Initiation among Patients with Breast Cancer who Underwent Surgery in Botswana" in BMC Women's Health.
-30. "Source of Supply | Product Group Shortages Due to Global Capacity Constraints" in Google Cloud.
+27. "Adherence to Survivorship Care Visits in Patients with Cervical Cancer in Botswana" in JCO Global Oncology.
+28. UWBA in Academic Journal, Avanade AI Studio, and Accenture Knowledge Exchange.
+29. TBA in University of California, Irvine Undergraduate Research Opportunities Program (UROP), Avanade AI Studio, and Accenture Knowledge Exchange.
+30. "Breast and Chest Wall Radiation Initiation among Patients with Breast Cancer who Underwent Surgery in Botswana" in BMC Women's Health.
 _______________________________________________________________________________________________________________________________________________________________________________________________
 #### TECHNICAL SKILLS
 #### ![GOOGLE](https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=fff&style=for-the-badge)
