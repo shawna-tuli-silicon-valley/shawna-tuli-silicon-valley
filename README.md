@@ -163,7 +163,7 @@ ________________________________________________________________________________
 * 🧠 ML & Data Science Advisor at Harvard Business Review [(Repo)](https://github.com/shawna-tuli-silicon-valley/harvard-business-review-advisory-council) [(Magazine)](https://hbr.org/)
 * 🦄 Accenture Ventures & Open Innovation West Ambassador 
 * 🗂️ Keynoter at Accenture CIO San Francisco Data Science Guild (4x)
-* 📋 Remote Accenture ML & Data Science Panelist at UCI Merage Machine Learning for Analytics Graduate Class
+* 📋 Accenture Mountain View ML & Data Science Panelist at UCI Merage Machine Learning for Analytics Graduate Class
 * 🧡 AI Data Scientist at Avanade - gained Best Baker Award on the West Region Chargeability Percent Team
 * 🎓 Google Data Science Panelist at The Reach Foundation Mountain View (2x) [(Article)](https://www.thereachfoundation.net/blog/j1ijbu5v5tz66u224ut8bsu9izojb9)
 * 📢 Software Engineer at Fortune 500 Company San Francisco
@@ -191,7 +191,7 @@ ________________________________________________________________________________
 * 📖 STEM Mentor at Avanade STEM Scholars - mentored a Woman Cybersecurity Intern who converted to full-time
 * 💭 Avanade San Francisco Innovation Hub Data & AI Senior Data Science & Advanced Analytics Analyst [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics)
 * 💻 Accenture San Francisco Innovation Hub Data & AI Member
-* 👥 Remote Acenture UCI Recruitment Alumni Speaker (4x) [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-university-of-california-irvine-recruitment)
+* 👥 Acenture Mountain View UCI Recruitment Alumni Speaker (4x) [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-university-of-california-irvine-recruitment)
 * 💙 Accenture Applied Intelligence Strategy Summer Conference San Francisco
 * 🎊 Avanade Go Team! Award (4x)
 * 🫧 Accenture Mountain View & San Francisco Innovation Hub First Fridays (64x)
