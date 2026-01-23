@@ -197,8 +197,8 @@ ________________________________________________________________________________
 * 🎊 Avanade Go Team! Award (4x)
 * 🫧 Accenture Mountain View & San Francisco Innovation Hub First Fridays (64x)
 * 🪩 Accenture San Francisco Innovation Hub Happy Hours (29x)
-* 🏛️ Accenture Mountain View & San Francisco Innovation Hub Quarterly Town Halls (25x)
-* 📅 Avanade San Francisco Innovation Hub & Mountain View Quarterly Town Halls (25x)
+* 🏛️ Accenture Mountain View & San Francisco Innovation Hub Quarterly Town Halls (26x)
+* 📅 Avanade San Francisco Innovation Hub & Mountain View Quarterly Town Halls (26x)
 * 🖌️ San Francisco Museum of Modern Art Visit
 * 📊 24 Penn Medicine Radiation Oncology articles and led 30+ Surgeons, Doctors, and Students [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-penn-medicine-global-radiation-oncology-analytics) [(Google Scholar)](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en)
 * 🍊 Grace Hopper Celebration of Women in Computing Conference Orlando [(Repo)](https://github.com/shawna-tuli-silicon-valley/grace-hopper-celebration-of-women-in-engineering/tree/main)
