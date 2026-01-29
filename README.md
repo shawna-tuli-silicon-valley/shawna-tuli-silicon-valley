@@ -63,7 +63,7 @@ ________________________________________________________________________________
 * 📄 Presenter at International Women's Day at Accenture Mountain View 
 * 💫 Accenture Mountain View DSSG Lead at UWBA Phase 5, leading 3 Data Scientists
 * 🌿 Avanade USA AI & Automation Practice Well-being Lead
-* 🤖 5) Accenture V360 Awards - developing Agentic AI for multiple industries and leading 4 Data Scientists 
+* 🤖 5) Accenture V360 Awards - developing Agentic AI for multiple industries and leading 4 Data Scientists (Repo)
 * </> Bay Area ICS Alumni Reception Palo Alto 
 * ❤️‍🔥 Microsoft Ignite San Francisco
 * 🩵 Google Cloud Next Conference Las Vegas (2x)
