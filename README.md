@@ -89,7 +89,7 @@ ________________________________________________________________________________
 * 🔜 Avanade Create the Future Award
 * 🌼 Organizer of Massage Wellness Event at Accenture Mountain View - 100% taken [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-7/tree/main)
 * ⌨️ Communications, Media & Technology Industry Day at Accenture Mountain View 
-* 🍴 Accenture Mountain View Happy Hours (25x)
+* 🍴 Accenture Mountain View Happy Hours (26x)
 * 💥 Avanade Accelerate Impact Super Hero Award (2x)
 * ⚖️ Avanade We Act with Integrity and Respect Ambassador Award (3x) 
 * 🛒 Products Industry Day at Accenture San Francisco 
