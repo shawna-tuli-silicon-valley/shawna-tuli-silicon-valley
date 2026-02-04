@@ -53,8 +53,8 @@ ________________________________________________________________________________
 * 🥖 Chief of May Wellness Event at Accenture Mountain View (Repo)
 * 🍷 Creator of April Wellness Event at Accenture Mountain View (Repo)
 * 🔆 Executive of March Wellness Event at Accenture Mountain View (Repo)
-* 🧺 Manager of February Wellness Event at Accenture Mountain View (Repo)
-* 🧋 Planner of February Wellness Event at Accenture Mountain View (Repo)
+* 🧋 Manager of February Wellness Event at Accenture Mountain View (Repo)
+* ⛳ Planner of February Wellness Event at Accenture Mountain View (Repo)
 * 🪞 Arranger of Vision Boarding and Vitality Bowls Acai Bowls January Wellness Event at Accenture Mountain View (Repo)
 * 💵 Data Engineer at Fortune 500 Financial Services Company Mountain View - directing 3 Data Engineers 
 * 🇲🇽 Cacao Mágico Puerto Vallarta Visit 
