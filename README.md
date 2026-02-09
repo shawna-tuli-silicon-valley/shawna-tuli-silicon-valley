@@ -52,10 +52,10 @@ ________________________________________________________________________________
 * 📕 Facilitator of June Wellness Event at Accenture Mountain View (Repo)
 * 🥖 Chief of May Wellness Event at Accenture Mountain View (Repo)
 * 🍷 Creator of April Wellness Event at Accenture Mountain View (Repo)
-* 🔆 Executive of March Wellness Event at Accenture Mountain View (Repo)
-* 🧋 Manager of February Wellness Event at Accenture Mountain View (Repo)
-* ⛳ Planner of February Wellness Event at Accenture Mountain View (Repo)
-* 🪞 Arranger of Vision Boarding and Vitality Bowls Acai Bowls January Wellness Event at Accenture Mountain View [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-13)
+* 🧺 Executive of Beach Picnic Wellness Event at Accenture Mountain View (Repo)
+* 🧋 Manager of Boba and Board Games Wellness Event at Accenture Mountain View (Repo)
+* ⛳ Planner of Topgolf San Jose Wellness Event at Accenture Mountain View (Repo)
+* 🪞 Arranger of Vision Boarding and Vitality Bowls Acai Bowls Wellness Event at Accenture Mountain View [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-13)
 * 💵 Data Engineer at Fortune 500 Financial Services Company Mountain View - directing 3 Data Engineers 
 * 🇲🇽 Cacao Mágico Puerto Vallarta Visit 
 * 🧴 Head of Hot Chocolate Bombs, Gingerbread Houses, and White Elephant Wellness Event at Accenture Mountain View [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-12)
