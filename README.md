@@ -47,7 +47,7 @@ ________________________________________________________________________________
 
 #### BIG TECH ML & DATA SCIENCE LEADERSHIP (2014-Present) 
 * 🎯 **Goal:** ML & Data Science Manager at Google Mountain View, Microsoft Mountain View, or Amazon Mountain View
-* 📄 Financial Well-being Keynoter at International Women's Day at Accenture Mountain View 
+* 📄 Financial Well-being Keynoter at International Women's Day at Accenture Mountain View (Repo)
 * 🍝 Accenture San Francisco Innovation Hub Wellness Dinner
 * ➡️ Accenture Mountain View ML & Data Science Lecturer at UCI ICS STATS 5 Data Science Seminar - 100+ attendees (Repo)
 * 📕 Facilitator of June Wellness Event at Accenture Mountain View (Repo)
