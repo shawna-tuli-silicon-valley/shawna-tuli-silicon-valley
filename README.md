@@ -104,7 +104,7 @@ ________________________________________________________________________________
 * 모 Accenture Mountain View Computer History Museum Visit (2x)
 * 🎂 Avanade's 25th Anniversary San Francisco Happy Hour 
 * 🙏🏽 Hostess of Start Your Gratitude Journal to Improve Your Health Wellness Event at Accenture Mountain View - 100% in [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-2)
-* 🎤 Elocutionist of Powering Your Network at International Women's Day at Accenture Mountain View
+* 🎤 Elocutionist of Powering Your Network at International Women's Day at Accenture Mountain View (Repo)
 * 📒 Microsoft's Better Together: Innovate, Inspire, Impact - The Future of Leadership Mountain View 
 * 🌸 Instructor at Accenture Mountain View Wellness Fair 
 * 🚋 ML & Data Science Educator at Accenture San Francisco Innovation Hub University of Washington Recruitment 
