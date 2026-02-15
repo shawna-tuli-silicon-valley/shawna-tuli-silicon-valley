@@ -391,7 +391,7 @@ ________________________________________________________________________________
 * University of California, Davis - SQL for Data Science [(Certificate)](https://www.coursera.org/account/accomplishments/certificate/TG58RPJKTBB9)
 _____________________________________________________________________________________________________________________________________________________________________________
 #### INTERESTS
-I am strength training, running, walking, healthy cooking, reading, studying, and watching movies and shows. I enjoy dancing, playing tennis, playing badminton, shopping, oil painting, traveling, and going to beaches, lakes, restaurants, coffee shops, and concerts. 
+I am strength training, walking, healthy cooking, coding, reading, studying, and watching movies and shows. I enjoy dancing, playing tennis, playing badminton, shopping, oil painting, traveling, and going to beaches, lakes, restaurants, coffee shops, and concerts. 
 
 #### Dance
 * Cardio Dance
