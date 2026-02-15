@@ -61,7 +61,7 @@ ________________________________________________________________________________
 * 🇲🇽 Cacao Mágico Puerto Vallarta Visit 
 * 🧴 Head of Hot Chocolate Bombs, Gingerbread Houses, and White Elephant Wellness Event at Accenture Mountain View [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-12)
 * ⚕️ Senior AI Engineer at Fortune 500 Biotechnology Company Mountain View
-* 💫 Accenture Mountain View DSSG Lead at UWBA Phase 5, leading 5 Data Scientists
+* 💫 Accenture Mountain View DSSG Lead at UWBA Phase 5, leading 5 Data Scientists (Repo)
 * 🌿 Avanade USA AI & Automation Practice Well-being Lead
 * 🤖 5) Accenture V360 Awards - developing Agentic AI for multiple industries and leading 4 Data Scientists (Repo)
 * </> Bay Area ICS Alumni Reception Palo Alto 
