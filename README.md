@@ -54,7 +54,7 @@ ________________________________________________________________________________
 * 📕 Facilitator of June Wellness Event at Accenture Mountain View (Repo)
 * 🥖 Chief of Sourdough Bread Baking Wellness Event at Accenture Mountain View (Repo)
 * 🍷 Creator of Wine and Fine Dining Wellness Event at Accenture Mountain View (Repo)
-* 🧺 Executive of Beach Picnic Wellness Event at Accenture Mountain View (Repo)
+* 🧺 Executive of Santa Cruz Beach Picnic Wellness Event at Accenture Mountain View (Repo)
 * 🧋 Manager of Boba and Board Games Wellness Event at Accenture Mountain View (Repo)
 * ⛳ Planner of Topgolf San Jose Wellness Event at Accenture Mountain View - 100% booked [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-14)
 * 🪞 Arranger of Vision Boarding and Vitality Bowls Acai Bowls Wellness Event at Accenture Mountain View - 100% full [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-13)
