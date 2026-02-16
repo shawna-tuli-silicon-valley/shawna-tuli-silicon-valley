@@ -61,7 +61,7 @@ ________________________________________________________________________________
 * 💵 Data Engineer at Fortune 500 Financial Services Company Mountain View - directing 3 Data Engineers 
 * 🇲🇽 Cacao Mágico Puerto Vallarta Visit 
 * 🧴 Head of Hot Chocolate Bombs, Gingerbread Houses, and White Elephant Wellness Event at Accenture Mountain View [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-12)
-* ⚕️ Senior AI Engineer at Fortune 500 Biotechnology Company Mountain View
+* ⚕️ Senior AI Engineer at Fortune 500 Biotechnology Company Mountain View - led a Business Analyst 
 * 💫 Accenture Mountain View DSSG Lead at UWBA Phase 5, leading 5 Data Scientists (Repo)
 * 🌿 Avanade USA AI & Automation Practice Well-being Lead
 * 🤖 5) Accenture V360 Awards - developing Agentic AI for multiple industries and leading 4 Data Scientists (Repo)
@@ -186,7 +186,7 @@ ________________________________________________________________________________
 * 🖤 Software Engineering Lead at Nonprofit Organization San Francisco and led 4 Software Engineers
 * 💜 ML & Data Science Lead at Fortune 500 Internet Company San Francisco and led a Data Engineer
 * 🍵 Software Engineer at Fortune 500 Food & Beverage Company San Francisco
-* 💾 Advanced Analytics Lead at Fortune 500 Semiconductors Company San Francisco and led 2 Analysts
+* 💾 Advanced Analytics Lead at Fortune 500 Semiconductors Company San Francisco and led 2 Business Analysts
 * 🎉 Avanade Northern California Social Committee Member - organizing and hosting events monthly for 50+
 * ✔️ Avanade We Deliver with Excellence Super Hero Award
 * 📶 Avanade Advanced Analytics All-hands
