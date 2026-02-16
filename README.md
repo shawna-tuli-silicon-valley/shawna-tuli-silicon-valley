@@ -52,8 +52,8 @@ ________________________________________________________________________________
 * 🍝 Accenture San Francisco Innovation Hub Wellness Dinner
 * ➡️ Accenture Mountain View ML & Data Science Lecturer at UCI ICS STATS 5 Data Science Seminar - 100+ attendees (Repo)
 * 📕 Facilitator of June Wellness Event at Accenture Mountain View (Repo)
-* 🥖 Chief of May Wellness Event at Accenture Mountain View (Repo)
-* 🍷 Creator of April Wellness Event at Accenture Mountain View (Repo)
+* 🥖 Chief of Sourdough Making Wellness Event at Accenture Mountain View (Repo)
+* 🍷 Creator of Wine and Fine Dining Wellness Event at Accenture Mountain View (Repo)
 * 🧺 Executive of Beach Picnic Wellness Event at Accenture Mountain View (Repo)
 * 🧋 Manager of Boba and Board Games Wellness Event at Accenture Mountain View (Repo)
 * ⛳ Planner of Topgolf San Jose Wellness Event at Accenture Mountain View - 100% booked [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-14)
