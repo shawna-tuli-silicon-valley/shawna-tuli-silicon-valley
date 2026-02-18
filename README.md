@@ -81,10 +81,10 @@ ________________________________________________________________________________
 * 🏃🏽‍♀️ Accenture Mountain View & San Francisco Innovation Hub J.P. Morgan Corporate Challenge San Francisco 
 * 👍🏽 Accenture Mountain View Northern California Celebration Support Team 
 * 👩🏽‍💼 Advisor at University of San Francisco School of Management Women in Leadership Program
-* 💐 Coordinator of Flower Bouquet Making Wellness Event at Accenture Mountain View - 100% reserved [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-11) 
-* 🕯️ Manager of Candle Making Wellness Event at Accenture Mountain View - 100% taken [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-10)
+* 💐 Coordinator of Whole Foods Flower Bouquet Making Wellness Event at Accenture Mountain View - 100% reserved [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-11) 
+* 🕯️ Manager of Soy Candle Making Wellness Event at Accenture Mountain View - 100% taken [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-10)
 * 🍫 Moderator of TinyB Chocolate Making Wellness Event at Accenture Mountain View - 100% reserved [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-9)
-* ☕ Administrator of Coffee and Cake Tasting Wellness Event at Accenture Mountain View - 100% in [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-6/tree/main)
+* ☕ Administrator of International Coffee and Sa'ana Cafe Cake Tasting Wellness Event at Accenture Mountain View - 100% in [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-6/tree/main)
 * 🏰 San Francisco Palace of Fine Arts Visit 
 * 🏠 Accenture Mountain View DSSG Lead at UWBA Phase 4, leading 6 Data Scientists - 1 article [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-uwba-ai-and-data-science-3)
 * 🔜 Avanade Create the Future Award
