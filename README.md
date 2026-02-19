@@ -54,8 +54,8 @@ ________________________________________________________________________________
 * 📕 Facilitator of June Wellness Event at Accenture Mountain View (Repo)
 * 🥖 Chief of Sourdough Bread Baking Wellness Event at Accenture Mountain View (Repo)
 * 🍷 Creator of Fine Dining Wellness Event at Accenture Mountain View (Repo)
-* 🧺 Executive of Eagle Park & Pool Picnic Wellness Event at Accenture Mountain View (Repo)
-* 🧋 Manager of Boba Pup and Board Games Wellness Event at Accenture Mountain View (Repo)
+* 🧺 Executive of Eagle Park & Pool Picnic Wellness Event at Accenture Mountain View [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-16)
+* 🧋 Manager of Boba Pup and Board Games Wellness Event at Accenture Mountain View - 100% in [(Repo)](https://github.com/shawna-tuli-silicon-valley?tab=repositories)
 * ⛳ Planner of Topgolf Wellness Event at Accenture Mountain View - 100% booked [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-14)
 * 🪞 Arranger of Vision Boarding and Vitality Bowls Acai Bowls Wellness Event at Accenture Mountain View - 100% full [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-13)
 * 💵 Data Engineer at Fortune 500 Financial Services Company Mountain View - directing 3 Data Engineers 
