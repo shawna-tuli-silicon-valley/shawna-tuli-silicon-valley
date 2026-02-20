@@ -34,7 +34,7 @@ ________________________________________________________________________________
 9. Avanade Create the Future | Mountain View & San Francisco
 10. Avanade Accelerate Impact Super Hero | Mountain View & San Francisco (2x)
 11. Avanade We Act with Integrity and Respect Ambassador | Mountain View & San Francisco (3x)
-12. Google International Women’s Day | Mountain View & Venice (2x)
+12. Google International Women’s Day | Mountain View & Venice (3x)
 13. Accenture International Women’s Day | Mountain View & San Francisco (6x)
 14. Avanade International Women’s Day | Mountain View & San Francisco (6x)
 15. Forbes 30 Under 30 Scholar in Innovation
@@ -142,7 +142,7 @@ ________________________________________________________________________________
 * 🗽 Accenture New York Innovation Hub Visit (3x)
 * 🎙 Emcee at Avanade North America Data & AI Community Call 
 * 🔦 Storyteller at Avanade AI & Automation Practice Mountain View Amazon Migration
-* 💘 Google Bay Area International Women's Day - recruited to Google Mountain View ML & Data Science [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-bay-area-international-womens-day/tree/main)
+* 💘 Google Bay Area International Women's Day (2x) - recruited to Google Mountain View ML & Data Science [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-bay-area-international-womens-day/tree/main)
 * 🗿 Avanade Mountain View Leadership Accelerator - chosen to inspire greatness and excel in People Leadership
 * 🌅 Avanade Mountain View AI Studio Forecasting Champion
 * 🌹 Accenture Mountain View & San Francisco Innovation Hub International Women's Day (5x)
