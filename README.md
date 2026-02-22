@@ -29,7 +29,7 @@ ________________________________________________________________________________
 4. World Summit AI USA Conference | San Francisco
 5. Google AI for everyone | Bay Area
 6. Google’s cloud business turns profitable for the first time on record | Sunnyvale
-7. Google exploreCSR Workshop | Long Beach
+7. Google I/O | Mountain View (7x)
 8. Accenture V360 Awards in Innovation Nominee | Mountain View & San Francisco (5x)
 9. Avanade Best Baker | Mountain View & San Francisco
 10. Avanade We Believe Everyone Counts Super Hero | Mountain View & San Francisco (2x)
