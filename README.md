@@ -23,26 +23,26 @@ ________________________________________________________________________________
 15. Bicoastal Indian American (Brown) Community (Life)
 __________________________________________________________________________________________________________________________________________________________________________
 #### AWARD HIGHLIGHTS
-1. Google AI for everyone | Bay Area
-2. Google’s cloud business turns profitable for the first time on record | Sunnyvale
-3. Google exploreCSR Workshop | Long Beach
-4. Accenture V360 Awards in Innovation Nominee | Mountain View & San Francisco (5x)
-5. Avanade Best Baker | Mountain View & San Francisco
-6. Avanade We Believe Everyone Counts Super Hero | Mountain View & San Francisco (2x)
-7. Avanade We Deliver with Excellence Super Hero | Mountain View & San Francisco
-8. Avanade Create the Future Super Hero | Mountain View & San Francisco (3x)
-9. Avanade Create the Future | Mountain View & San Francisco
-10. Avanade Accelerate Impact Super Hero | Mountain View & San Francisco (2x)
-11. Avanade We Act with Integrity and Respect Ambassador | Mountain View & San Francisco (3x)
-12. Google International Women’s Day | Mountain View & Venice (3x)
-13. Accenture International Women’s Day | Mountain View & San Francisco (6x)
-14. Avanade International Women’s Day | Mountain View & San Francisco (6x)
-15. Forbes 30 Under 30 Scholar in Innovation
-16. Alpha Kappa Psi Professional Co-ed Business Fraternity Most Likely to be a Billionaire | Irvine
-17. Up to Us Top 20 Team | Irvine
-18. Up to Us Top Pledge Earner | Irvine 
-19. Chartered Financial Analyst Society Orange County Request for Proposal Second Place | Irvine
-20. Chartered Financial Analyst Society Orange County Research Challenge | Irvine 
+1. AWS re:Invent Conference | Las Vegas
+2. Accenture Communications, Media & Technology Industry Day | Mountain View & San Francisco (2x)
+3. PayPal x Women Impact Tech | Hiring & Networking Event | San Jose
+4. World Summit AI USA | San Francisco
+5. Google AI for everyone | Bay Area
+6. Google’s cloud business turns profitable for the first time on record | Sunnyvale
+7. Google exploreCSR Workshop | Long Beach
+8. Accenture V360 Awards in Innovation Nominee | Mountain View & San Francisco (5x)
+9. Avanade Best Baker | Mountain View & San Francisco
+10. Avanade We Believe Everyone Counts Super Hero | Mountain View & San Francisco (2x)
+11. Avanade We Deliver with Excellence Super Hero | Mountain View & San Francisco
+12. Avanade Create the Future Super Hero | Mountain View & San Francisco (3x)
+13. Avanade Create the Future | Mountain View & San Francisco
+14. Avanade Accelerate Impact Super Hero | Mountain View & San Francisco (2x)
+15. Avanade We Act with Integrity and Respect Ambassador | Mountain View & San Francisco (3x)
+16. Google International Women’s Day | Mountain View & Venice (3x)
+17. Accenture International Women’s Day | Mountain View & San Francisco (6x)
+18. Avanade International Women’s Day | Mountain View & San Francisco (6x)
+19. Google Cloud Next Conference | Mountain View & Las Vegas (8x)
+20. Microsoft Ignite | Mountain View & San Francisco (5x)
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 #### BIG TECH ML & DATA SCIENCE LEADERSHIP (2014-Present) 
