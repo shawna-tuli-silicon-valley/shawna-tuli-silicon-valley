@@ -25,8 +25,8 @@ ________________________________________________________________________________
 #### AWARD HIGHLIGHTS
 1. AWS re:Invent Conference | Las Vegas
 2. Accenture Communications, Media & Technology Industry Day | Mountain View & San Francisco (2x)
-3. PayPal x Women Impact Tech | Hiring & Networking Event | San Jose
-4. World Summit AI USA | San Francisco
+3. PayPal x Women Impact Tech Hiring & Networking Event | San Jose
+4. World Summit AI USA Conference | San Francisco
 5. Google AI for everyone | Bay Area
 6. Google’s cloud business turns profitable for the first time on record | Sunnyvale
 7. Google exploreCSR Workshop | Long Beach
@@ -42,7 +42,7 @@ ________________________________________________________________________________
 17. Accenture International Women’s Day | Mountain View & San Francisco (6x)
 18. Avanade International Women’s Day | Mountain View & San Francisco (6x)
 19. Google Cloud Next Conference | Mountain View & Las Vegas (8x)
-20. Microsoft Ignite | Mountain View & San Francisco (5x)
+20. Microsoft Ignite  Conference | Mountain View & San Francisco (5x)
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 #### BIG TECH ML & DATA SCIENCE LEADERSHIP (2014-Present) 
