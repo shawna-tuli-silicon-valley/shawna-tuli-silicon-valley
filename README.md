@@ -96,7 +96,7 @@ ________________________________________________________________________________
 * ⚖️ Avanade We Act with Integrity and Respect Ambassador Award (3x) 
 * 🛒 Products Industry Day at Accenture San Francisco 
 * 📪 3. Data & AI Manager at Amazon Mountain View - responsible for $7M+
-* 🌏 World Summit AI USA San Francisco
+* 🌏 World Summit AI USA Conference San Francisco
 * 💅🏽 Moderator of Elegance Nails and Spa Manicure and Pedicure Wellness Event at Accenture Mountain View - 100% taken [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-5)
 * 🏺 Owner of Sculpd Pottery Making and Ceramic Painting Wellness Event at Accenture Mountain View - 100% booked [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-4/tree/main)
 * 🍇 Leader of Build Your Own Whole Foods Charcuterie Board Wellness Event at Accenture Mountain View - 100% reserved [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-3)
