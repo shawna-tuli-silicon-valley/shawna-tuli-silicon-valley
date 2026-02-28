@@ -68,7 +68,7 @@ ________________________________________________________________________________
 * 🌿 Avanade USA AI & Automation Practice Well-being Lead
 * 🤖 5) Accenture V360 Awards - developing Agentic AI for multiple industries and leading 4 Data Scientists (Repo)
 * </> Bay Area ICS Alumni Reception Palo Alto 
-* ❤️‍🔥 Microsoft Ignite San Francisco
+* ❤️‍🔥 Microsoft Ignite Conference San Francisco
 * 🩵 Google Cloud Next Conference Las Vegas (2x)
 * 👩🏽‍🎓 Avanade Mountain View SISA Apprentice Program 
 * 🎃 Accenture San Francisco Innovation Hub Annual Oktoberfest Celebration
