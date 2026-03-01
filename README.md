@@ -59,7 +59,7 @@ ________________________________________________________________________________
 * 🧋 Manager of Boba Pup and Board Games Wellness Event at Accenture Mountain View - 100% in [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-15)
 * ⛳ Planner of Topgolf Wellness Event at Accenture Mountain View - 100% booked [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-14)
 * 🪞 Arranger of Vision Boarding and Vitality Bowls Acai Bowls Wellness Event at Accenture Mountain View - 100% full [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-13)
-* 💵 Data Engineer at Fortune 500 Financial Services Company Mountain View - directing 3 Data Engineers 
+* 💵 Data Engineer at Fortune 500 Financial Services Company Mountain View - directed 3 Data Engineers 
 * 🇲🇽 Cacao Mágico Puerto Vallarta Visit 
 * 🧴 Head of Hot Chocolate Bombs, Gingerbread Houses, and White Elephant Wellness Event at Accenture Mountain View [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-12)
 * ⚕️ Senior AI Engineer at Fortune 500 Biotechnology Company Mountain View - led a Business Analyst 
