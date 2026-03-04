@@ -47,8 +47,8 @@ ________________________________________________________________________________
 
 #### BIG TECH ML & DATA SCIENCE LEADERSHIP (2014-Present) 
 * 🎯 **Goal:** ML & Data Science Manager at Google Mountain View, Microsoft Mountain View, or Amazon Mountain View
-* 🩺 AI Develpoer at Fortune 500 Healthcare Company Santa Clara
-* 📐 AI Developer at Fortune 500 Semiconductor Company Fremont
+* 🩺 Senior Data Scientist at Fortune 500 Healthcare Company Santa Clara
+* 📐 Senior Data Scientist at Fortune 500 Semiconductor Company Fremont
 * 💲 Accenture Mountain View CFO & Enterprise Value Recruitment Lunch
 * 🔋 Communications, Media & Technology Industry Day at Accenture San Francisco Innovation Hub
 * ⚱️ Cantor Arts Center at Stanford University Visit
