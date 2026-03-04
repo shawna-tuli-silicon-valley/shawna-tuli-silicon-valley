@@ -359,7 +359,7 @@ ________________________________________________________________________________
 * Active Listening, Relationship Building, Adaptibility, Resilience, Persistence, Customer Service, Business Acumen, Sales Demoning, Product Knowledge, Time Management, Conflict Management, Customer Engagement
 
 #### Business Development
-* Project Management, Coachability
+* Project Management, Coachability, Market Research and Intelligence
 ___________________________________________________________________________________________________________________________________________________________________________
 #### LANGUAGES
 * English (Native), Hindi (Bilingual), Punjabi (Limited), Spanish (Professional)
