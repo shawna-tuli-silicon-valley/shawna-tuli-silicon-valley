@@ -292,12 +292,10 @@ Institute of Child & Mother Health (ICMH).
 Institute of Child & Mother Health (ICMH). 
 25. “Patterns of Survivorship Care of Cervical Cancer Patients with or without HIV Infection” in European Society for
 Medical Oncology (ESMO).
-26. “Patterns of Survivorship Care of Cervical Cancer Patients in Botswana” in JNCI Cancer Spectrum: Special Call for
-Papers.
-27. "Adherence to Survivorship Care Visits in Patients with Cervical Cancer in Botswana" in JCO Global Oncology.
-28. UWBA in Academic Journal, Avanade AI Studio, and Accenture Knowledge Exchange.
-29. TBA in University of California, Irvine Undergraduate Research Opportunities Program (UROP), Avanade AI Studio, and Accenture Knowledge Exchange.
-30. "Breast and Chest Wall Radiation Initiation among Patients with Breast Cancer who Underwent Surgery in Botswana" in BMC Women's Health.
+26. "Adherence to Survivorship Care Visits in Patients with Cervical Cancer in Botswana" in JCO Global Oncology.
+27. UWBA in Academic Journal, Avanade AI Studio, and Accenture Knowledge Exchange.
+28. TBA in University of California, Irvine Undergraduate Research Opportunities Program (UROP), Avanade AI Studio, and Accenture Knowledge Exchange.
+29. "Breast and Chest Wall Radiation Initiation among Patients with Breast Cancer who Underwent Surgery in Botswana" in BMC Women's Health.
 _______________________________________________________________________________________________________________________________________________________________________________________________
 #### TECHNICAL SKILLS
 #### ![GOOGLE](https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=fff&style=for-the-badge)
