@@ -48,7 +48,7 @@ ________________________________________________________________________________
 23. American Society for Radiation Oncology (ASTRO) Conference
 24. International Journal of Gynecological Cancer (IJGC) Conference
 25. International Conference on Maligancies in HIV/AIDS (ICMH) Conference
-26. European Society of Medical Onocology (ESMO) Conference
+26. European Society of Medical Oncology (ESMO) Conference
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 #### BIG TECH ML & DATA SCIENCE LEADERSHIP (2014-Present) 
