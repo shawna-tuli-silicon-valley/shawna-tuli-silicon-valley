@@ -43,10 +43,12 @@ ________________________________________________________________________________
 18. Avanade International Women’s Day | Mountain View & San Francisco (6x)
 19. Google Cloud Next Conference | Mountain View & Las Vegas (8x)
 20. Microsoft Ignite  Conference | Mountain View & San Francisco (5x)
+21. Microsoft Build Conference | San Francisco 
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 #### BIG TECH ML & DATA SCIENCE LEADERSHIP (2014-Present) 
 * 🎯 **Goal:** ML & Data Science Manager at Google Mountain View, Microsoft Mountain View, or Amazon Mountain View
+* 🛠️ Microsoft Build Conference San Francisco 
 * 🦅 Business Analyst at Federal Agency Mountain View (Repo)
 * 💲 Accenture Mountain View CFO & Enterprise Value Recruitment Lunch
 * 🔋 Communications, Media & Technology Industry Day at Accenture San Francisco Innovation Hub
