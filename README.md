@@ -43,7 +43,12 @@ ________________________________________________________________________________
 18. Avanade International Women’s Day | Mountain View & San Francisco (6x)
 19. Google Cloud Next Conference | Mountain View & Las Vegas (8x)
 20. Microsoft Ignite  Conference | Mountain View & San Francisco (5x)
-21. Microsoft Build Conference | San Francisco 
+21. Microsoft Build Conference | San Francisco
+22. Radiotherapy and Oncology Conference
+23. American Society for Radiation Oncology (ASTRO) Conference
+24. International Journal of Gynecological Cancerm (IJGC) Conference
+25. International Conference on Maligancies in HIV/AIDS (ICMH) Conference
+26. European Society of Medical Onocology (ESMO) Conference
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 #### BIG TECH ML & DATA SCIENCE LEADERSHIP (2014-Present) 
