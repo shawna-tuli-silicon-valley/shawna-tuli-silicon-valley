@@ -46,7 +46,7 @@ ________________________________________________________________________________
 21. Microsoft Build Conference | San Francisco
 22. Radiotherapy and Oncology Conference
 23. American Society for Radiation Oncology (ASTRO) Conference
-24. International Journal of Gynecological Cancerm (IJGC) Conference
+24. International Journal of Gynecological Cancer (IJGC) Conference
 25. International Conference on Maligancies in HIV/AIDS (ICMH) Conference
 26. European Society of Medical Onocology (ESMO) Conference
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________
