@@ -53,12 +53,12 @@ ________________________________________________________________________________
 
 #### BIG TECH ML & DATA SCIENCE LEADERSHIP (2014-Present) 
 * 🎯 **Goal:** ML & Data Science Manager at Google Mountain View, Microsoft Mountain View, or Amazon Mountain View
-* December Wellness Event at Accenture Mountain View (Repo)
-* November Wellness Event at Accenture Mountain View (Repo)
-* October Wellness Event at Accenture Mountain View (Repo)
-* September Wellness Event at Accenture Mountain View (Repo)
-* August Wellness Event at Accenture Mountain View (Repo)
-* July Wellness Event at Accenture Mountain View (Repo)
+* 🌷 December Wellness Event at Accenture Mountain View (Repo)
+* 🌷 November Wellness Event at Accenture Mountain View (Repo)
+* 🌷 October Wellness Event at Accenture Mountain View (Repo)
+* 🌷 September Wellness Event at Accenture Mountain View (Repo)
+* 🌷 August Wellness Event at Accenture Mountain View (Repo)
+* 🌷 July Wellness Event at Accenture Mountain View (Repo)
 * 💍 Accenture San Francisco Innovation Hub NorCal Engagement Leadership Bonding
 * 🛠️ Microsoft Build Conference San Francisco 
 * 🦅 Business Analyst at Federal Agency Mountain View (Repo)
