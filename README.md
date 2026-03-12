@@ -106,7 +106,7 @@ ________________________________________________________________________________
 * 🔜 Avanade Create the Future Award
 * 🌼 Organizer of Massage at Work Wellness Event at Accenture Mountain View - 100% taken [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-7/tree/main)
 * ⌨️ Communications, Media & Technology Industry Day at Accenture Mountain View 
-* 🍴 Accenture Mountain View Happy Hours (26x)
+* 🍴 Accenture Mountain View Happy Hours (28x)
 * 💥 Avanade Accelerate Impact Super Hero Award (2x)
 * ⚖️ Avanade We Act with Integrity and Respect Ambassador Award (3x) 
 * 🛒 Products Industry Day at Accenture San Francisco 
@@ -214,8 +214,8 @@ ________________________________________________________________________________
 * 🎊 Avanade Go Team! Award (4x)
 * 🫧 Accenture Mountain View & San Francisco Innovation Hub First Fridays (65x)
 * 🪩 Accenture San Francisco Innovation Hub Happy Hours (30x)
-* 🏛️ Accenture Mountain View & San Francisco Innovation Hub Quarterly Town Halls (26x)
-* 📅 Avanade San Francisco Innovation Hub & Mountain View Quarterly Town Halls (26x)
+* 🏛️ Accenture Mountain View & San Francisco Innovation Hub Quarterly Town Halls (28x)
+* 📅 Avanade San Francisco Innovation Hub & Mountain View Quarterly Town Halls (28x)
 * 🖌️ San Francisco Museum of Modern Art Visit
 * 📊 24 Penn Medicine Radiation Oncology articles and led 30+ Surgeons, Doctors, and Students [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-penn-medicine-global-radiation-oncology-analytics) [(Google Scholar)](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en)
 * 🍊 Grace Hopper Celebration of Women in Computing Conference Orlando [(Repo)](https://github.com/shawna-tuli-silicon-valley/grace-hopper-celebration-of-women-in-engineering/tree/main)
