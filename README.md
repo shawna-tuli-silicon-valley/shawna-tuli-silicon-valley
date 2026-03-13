@@ -14,8 +14,8 @@ ________________________________________________________________________________
 6. California Accenture ML & Data Science and Strategy - [Accenture California Data & AI Google Scholar](https://scholar.google.com/citations?hl=en&user=7F6YV8MAAAAJ) (6 years)
 7. Mountain View Advisor - [Harvard Business Review](https://hbr.org/), [University of San Francisco School of Management](https://profed.usfca.edu/women-in-leadership.html), and [LinkedIn](https://www.linkedin.com/) (6 years)
 8. Mountain View Penn Medicine Radiation Oncology Global Radiation Oncology Data Science - [UCI ICS Google Scholar](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en) (6 years)
-9. Mountain View Accenture Wellness - Health, Mental Agility, Skincare, Food, Practicing Gratitude (2 years)
-10. USA Avanade AI & Automation Practice Wellness (1 year)
+9. Mountain View Accenture Wellness - 🌸🙏🏽🍇🏺💅🏽💆🏽‍♀️☕🍫🕯️💐🪞⛳🧋🧺🍷🥖📕 (2 years)
+10. USA Avanade AI & Automation Practice Wellness - 🌿 (1 year)
 11. Mountain View Avanade & Accenture Office (6 years)
 12. Northern California Avanade & Accenture Office (6 years)
 13. Northern California Avanade & Accenture Social & Networking (6 years)
@@ -116,7 +116,7 @@ ________________________________________________________________________________
 * 🏺 Owner of Sculpd Pottery Making and Ceramic Painting Wellness Event at Accenture Mountain View - 100% booked [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-4/tree/main)
 * 🍇 Leader of Build Your Own Whole Foods Charcuterie Board Wellness Event at Accenture Mountain View - 100% in [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-3)
 * 💬 Microsoft Me Myself and My Copilot: An Introduction to Microsoft 365 Copilot Chat + Agents
-* 💆🏽‍♀️ Accenture Mountain View Wellness Committee Member - orchestrating events
+* 🌼 Accenture Mountain View Wellness Committee Member - orchestrating events
 * 🍽️ Accenture Mountain View & San Francisco Innovation Hub Third Thursdays (65x)
 * 모 Accenture Mountain View Computer History Museum Visit (2x)
 * 🎂 Avanade's 25th Anniversary San Francisco Happy Hour 
