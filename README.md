@@ -44,15 +44,17 @@ ________________________________________________________________________________
 19. Google Cloud Next Conference | Mountain View & Las Vegas (8x)
 20. Microsoft Ignite  Conference | Mountain View & San Francisco (5x)
 21. Microsoft Build Conference | San Francisco
-22. Radiotherapy and Oncology Conference
-23. American Society for Radiation Oncology (ASTRO) Conference
-24. International Journal of Gynecological Cancer (IJGC) Conference
-25. International Conference on Maligancies in HIV/AIDS (ICMH) Conference
-26. European Society of Medical Oncology (ESMO) Conference
+22. Microsoft Azure Summit: Migrate and Modernize with Agentic AI | Mountain View 
+23. Radiotherapy and Oncology Conference
+24. American Society for Radiation Oncology (ASTRO) Conference
+25. International Journal of Gynecological Cancer (IJGC) Conference
+26. International Conference on Maligancies in HIV/AIDS (ICMH) Conference
+27. European Society of Medical Oncology (ESMO) Conference
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 #### BIG TECH ML & DATA SCIENCE LEADERSHIP (2014-Present) 
 * 🎯 **Goal:** ML & Data Science Manager at Google Mountain View, Microsoft Mountain View, or Amazon Mountain View
+* 🗻 Accenture Mountain View Microsoft Azure Summit: Migrate and Modernize with Agentic AI
 * 🎆 Accenture Mountain View & San Francisco Innovation Hub Avanade Fireworks AI on Microsoft Foundry Lead
 * 🌷 December Wellness Event at Accenture Mountain View (Repo)
 * 🌷 November Wellness Event at Accenture Mountain View (Repo)
