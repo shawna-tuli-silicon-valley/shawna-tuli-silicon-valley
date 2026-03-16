@@ -15,7 +15,7 @@ ________________________________________________________________________________
 7. Mountain View Advisor - [Harvard Business Review](https://hbr.org/), [University of San Francisco School of Management](https://profed.usfca.edu/women-in-leadership.html), and [LinkedIn](https://www.linkedin.com/) (6 years)
 8. Mountain View Penn Medicine Radiation Oncology Global Radiation Oncology Data Science - [UCI ICS Google Scholar](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en) (6 years)
 9. Mountain View Accenture Wellness - 🌸🙏🏽🍇🏺💅🏽💆🏽‍♀️☕🍫🕯️💐🧴🪞⛳🧋🧺🍷🥖📕🌷 (2 years)
-10. Mountain View & San Francisco Avanade Fireworks AI on Microsoft Foundry Social & Networking Lead
+10. Mountain View & San Francisco Avanade Fireworks AI on Microsoft Foundry Social Lead
 11. Mountain View Avanade & Accenture Office (6 years)
 12. Northern California Avanade & Accenture Office (6 years)
 13. Northern California Avanade & Accenture Social & Networking (6 years)
