@@ -45,7 +45,7 @@ ________________________________________________________________________________
 20. Microsoft Ignite  Conference | Mountain View & San Francisco (5x)
 21. Microsoft Build Conference | San Francisco
 22. Microsoft Azure Summit: Migrate and Modernize with Agentic AI | Mountain View
-23. Better Together: Leading Ahead | Women, AI & the Future of Leadership Conference | Mountain View (2x)
+23. Microsoft Better Together: Leading Ahead | Women, AI & the Future of Leadership Conference | Mountain View (2x)
 24. Radiotherapy and Oncology Conference
 25. American Society for Radiation Oncology (ASTRO) Conference
 26. International Journal of Gynecological Cancer (IJGC) Conference
