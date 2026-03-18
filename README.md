@@ -67,7 +67,7 @@ ________________________________________________________________________________
 * 🌷 July Wellness Event at Accenture Mountain View (Repo)
 * 💍 Accenture San Francisco Innovation Hub NorCal Engagement Leadership Bonding
 * 🛠️ Microsoft Build Conference San Francisco 
-* 🦅 Business Analyst at Federal Agency Mountain View (Repo)
+* 🦅 Business Analyst at Fortune 500 Information Technology & Services Company Mountain View (Repo)
 * 💲 Accenture Mountain View CFO & Enterprise Value Recruitment Lunch
 * 🔋 Communications, Media & Technology Industry Day at Accenture San Francisco Innovation Hub
 * ⚱️ Cantor Arts Center at Stanford University Visit
@@ -183,7 +183,7 @@ ________________________________________________________________________________
 * ❤️ Google I/O Conference (7x)
 * ⚡ Generative AI, ML, Data Science, Advanced Analytics, and Data Visualization Expert at LinkedIn Collaborative Articles
 * 👾 Avanade Mountain View Data & AI Data Science & Advanced Analytics Associate Manager [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics-3)
-* 🦾 AI Lead at Fortune 500 Company San Francisco
+* 🦾 AI Lead at Fortune 500 Information Technology & Services Company San Francisco
 * 🧠 ML & Data Science Advisor at Harvard Business Review [(Repo)](https://github.com/shawna-tuli-silicon-valley/harvard-business-review-advisory-council) [(Magazine)](https://hbr.org/)
 * 🦄 Accenture Ventures & Open Innovation West Ambassador 
 * 🗂️ Keynoter at Accenture CIO San Francisco Data Science Guild (4x)
