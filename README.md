@@ -55,6 +55,7 @@ ________________________________________________________________________________
 
 #### BIG TECH ML & DATA SCIENCE LEADERSHIP (2014-Present) 
 * 🎯 **Goal:** ML & Data Science Manager at Google Mountain View, Microsoft Mountain View, or Amazon Mountain View
+* 🍀 Accenture Pleasanton Luck Meets Color St. Patrick's Day & Holi Celebration 
 * 🛸 Microsoft Mountain View Better Together: Leading Ahead | Women, AI & the Future of Leadership Conference (2x)
 * 🗻 Accenture Mountain View Microsoft Azure Summit: Migrate and Modernize with Agentic AI
 * 🎆 Accenture Mountain View & San Francisco Innovation Hub Avanade Fireworks AI on Microsoft Foundry Social Lead
@@ -111,7 +112,7 @@ ________________________________________________________________________________
 * 🔜 Avanade Create the Future Award
 * 🌼 Organizer of Massage at Work Wellness Event at Accenture Mountain View - 100% taken [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-7/tree/main)
 * ⌨️ Communications, Media & Technology Industry Day at Accenture Mountain View 
-* 🍴 Accenture Mountain View Happy Hours (28x)
+* 🍴 Accenture Mountain View Happy Hours (29x)
 * 💥 Avanade Accelerate Impact Super Hero Award (2x)
 * ⚖️ Avanade We Act with Integrity and Respect Ambassador Award (3x) 
 * 🛒 Products Industry Day at Accenture San Francisco 
