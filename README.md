@@ -204,6 +204,7 @@ ________________________________________________________________________________
 * 💗 Avanade San Francisco Innovation Hub Data & AI Data Science & Advanced Analytics Consultant [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics)
 * 🧩 Narrator at Avanade Advanced Analytics Community Call
 * 💎 Avanade We Believe Everyone Counts Super Hero Award (2x)
+* 🤝🏽 Data Scientist at Fortune 500 Information & Technology Services Company Mountain View 
 * 🧾 Software Engineer at Fortune 500 Internet Company San Francisco and led a Software Engineer
 * 🖤 Software Engineering Lead at Nonprofit Organization San Francisco and led 4 Software Engineers
 * 💜 ML & Data Science Lead at Fortune 500 Internet Company San Francisco and led a Data Engineer
