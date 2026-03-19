@@ -58,7 +58,7 @@ ________________________________________________________________________________
 * 🍀 Accenture Pleasanton Luck Meets Color St. Patrick's Day & Holi Celebration 
 * 🛸 Microsoft Mountain View Better Together: Leading Ahead | Women, AI & the Future of Leadership Conference (2x)
 * 🗻 Accenture Mountain View Microsoft Azure Summit: Migrate and Modernize with Agentic AI
-* 🎆 Accenture Mountain View & San Francisco Innovation Hub Avanade Fireworks AI on Microsoft Foundry Social Lead
+* 🎆 Microsoft San Francisco Fireworks on Microsoft Foundry Launch Event
 * 🌷 December Wellness Event at Accenture Mountain View (Repo)
 * 🌷 November Wellness Event at Accenture Mountain View (Repo)
 * 🌷 October Wellness Event at Accenture Mountain View (Repo)
