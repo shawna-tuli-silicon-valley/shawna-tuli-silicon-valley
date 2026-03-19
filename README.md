@@ -15,12 +15,11 @@ ________________________________________________________________________________
 7. Mountain View Advisor - [Harvard Business Review](https://hbr.org/), [University of San Francisco School of Management](https://profed.usfca.edu/women-in-leadership.html), and [LinkedIn](https://www.linkedin.com/) (6 years)
 8. Mountain View Penn Medicine Radiation Oncology Global Radiation Oncology Data Science - [UCI ICS Google Scholar](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en) (6 years)
 9. Mountain View Accenture Wellness - 🌸🙏🏽🍇🏺💅🏽💆🏽‍♀️☕🍫🕯️💐🧴🪞⛳🧋🧺🍷🥖📕🌷 (2 years)
-10. Mountain View & San Francisco Avanade Fireworks AI on Microsoft Foundry Social Lead
-11. Mountain View Avanade & Accenture Office (6 years)
-12. Northern California Avanade & Accenture Office (6 years)
-13. Northern California Avanade & Accenture Social & Networking (6 years)
-14. Irvine Up to Us National Debt Marketing Data Science, Strategy, and Business Intelligence - [UCI Merage Credly](https://www.credly.com/users/shawna-tuli/badges) (0.5 years)
-15. Bicoastal Indian American (Brown) Community (Life)
+10. Mountain View Avanade & Accenture Office (6 years)
+11. Northern California Avanade & Accenture Office (6 years)
+12. Northern California Avanade & Accenture Social & Networking (6 years)
+13. Irvine Up to Us National Debt Marketing Data Science, Strategy, and Business Intelligence - [UCI Merage Credly](https://www.credly.com/users/shawna-tuli/badges) (0.5 years)
+14. Bicoastal Indian American (Brown) Community (Life)
 __________________________________________________________________________________________________________________________________________________________________________
 #### AWARD HIGHLIGHTS
 1. AWS re:Invent Conference | Las Vegas
@@ -46,11 +45,12 @@ ________________________________________________________________________________
 21. Microsoft Build Conference | San Francisco
 22. Microsoft Azure Summit: Migrate and Modernize with Agentic AI | Mountain View
 23. Microsoft Better Together: Leading Ahead | Women, AI & the Future of Leadership Conference | Mountain View (2x)
-24. Radiotherapy and Oncology Conference
-25. American Society for Radiation Oncology (ASTRO) Conference
-26. International Journal of Gynecological Cancer (IJGC) Conference
-27. International Conference on Maligancies in HIV/AIDS (ICMH) Conference
-28. European Society of Medical Oncology (ESMO) Conference
+24. Microsoft Fireworks on Microsoft Foundry Launch Event | San Francisco
+25. Radiotherapy and Oncology Conference
+26. American Society for Radiation Oncology (ASTRO) Conference
+27. International Journal of Gynecological Cancer (IJGC) Conference
+28. International Conference on Maligancies in HIV/AIDS (ICMH) Conference
+29. European Society of Medical Oncology (ESMO) Conference
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 #### BIG TECH ML & DATA SCIENCE LEADERSHIP (2014-Present) 
