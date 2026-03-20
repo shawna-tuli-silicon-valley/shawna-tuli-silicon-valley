@@ -84,7 +84,7 @@ ________________________________________________________________________________
 * 🇲🇽 Cacao Mágico Puerto Vallarta Visit 
 * 🧴 Head of Hot Chocolate Bombs, Gingerbread Houses, and White Elephant Wellness Event at Accenture Mountain View [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-12)
 * ⚕️ Senior AI Engineer at Fortune 500 Biotechnology Company Mountain View - led a Business Analyst 
-* 💫 Accenture Mountain View DSSG Lead at UWBA Phase 5, leading 5 Data Scientists [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-uwba-ai-and-data-science-4/tree/main)
+* 💫 Accenture Mountain View DSSG Lead at UWBA Phase 5, leading 5 Data Scientists - 1 article [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-uwba-ai-and-data-science-4/tree/main)
 * 🌿 Avanade USA AI & Automation Practice Well-being Lead
 * 🤖 5) Accenture V360 Awards - developing Agentic AI for multiple industries and leading 4 Data Scientists (Repo)
 * </> Bay Area ICS Alumni Reception Palo Alto 
@@ -108,7 +108,7 @@ ________________________________________________________________________________
 * 🍫 Moderator of TinyB Chocolate Making Wellness Event at Accenture Mountain View - 100% reserved [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-9)
 * ☕ Administrator of Coffee and Sa'ana Cafe Cake Tasting Wellness Event at Accenture Mountain View - 100% in [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-6/tree/main)
 * 🏰 San Francisco Palace of Fine Arts Visit 
-* 🏠 Accenture Mountain View DSSG Lead at UWBA Phase 4, leading 6 Data Scientists - 1 article [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-uwba-ai-and-data-science-3)
+* 🏠 Accenture Mountain View DSSG Lead at UWBA Phase 4, leading 6 Data Scientists [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-uwba-ai-and-data-science-3)
 * 🔜 Avanade Create the Future Award
 * 🌼 Organizer of Massage at Work Wellness Event at Accenture Mountain View - 100% taken [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-7/tree/main)
 * ⌨️ Communications, Media & Technology Industry Day at Accenture Mountain View 
