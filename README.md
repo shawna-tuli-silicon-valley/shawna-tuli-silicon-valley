@@ -72,7 +72,7 @@ ________________________________________________________________________________
 * 🔋 Communications, Media & Technology Industry Day at Accenture San Francisco Innovation Hub
 * ⚱️ Cantor Arts Center at Stanford University Visit
 * 🍝 Accenture San Francisco Innovation Hub Wellness Dinner
-* ➡️ Accenture Mountain View ML & Data Science Lecturer at UCI ICS STATS 5 Data Science Seminar - 100+ attendees
+* ➡️ Accenture Mountain View ML & Data Science Lecturer at UCI ICS STATS 5 Data Science Seminar - 100+ Attendees
 * 📕 Facilitator of June Wellness Event at Accenture Mountain View (Repo)
 * 🥖 Chief of Sourdough Bread Baking Wellness Event at Accenture Mountain View (Repo)
 * 🍷 Creator of Fine Dining Wellness Event at Accenture Mountain View (Repo)
