@@ -5,7 +5,7 @@
 Shawna Tuli is a seasoned **Mountain View & San Francisco** Machine Learning & Data Science, Advanced Analytics, Business Intelligence, Strategy, and Software Engineering Leader, Innovator, Advisor, and **San Jose native**, with **six years** of experience as a Data Science & Advanced Analytics Associate Manager at Avanade, the Accenture Microsoft Business Group, and Accenture. She has a strong background in ***machine learning*** and ***data science***, interlacing ***agentic artificial intelligence, generative artificial intelligence***, ***advanced analytics***, ***software engineering***, ***business intelligence***, ***finance***, ***product strategy***, ***product analytics***, ***predictive modeling***, ***strategy***, ***data engineering***, and ***CFO & enterprise value***. Shawna is on the Executive and Corporate Board Director path with **twelve years** of experience in ***big technology*** in **Silicon Valley**. Her strengths are Activator, Achiever, Futuristic, Competition, and Significance.   
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-#### LEADERSHIP HIGHLIGHTS
+#### BIG TECH LEADERSHIP HIGHLIGHTS
 1. Mountain View & Sunnyvale Google ML & Data Science, Product Strategy, and Business Intelligence - [Google](https://ai.google) (14 weeks at [Google Photos](https://www.google.com/photos/about/); 1 year at [Google Cloud](https://cloud.google.com/), [Google Play](https://play.google.com/store/games?hl=en_US), and [Google One](https://one.google.com/about/))
 2. Mountain View & San Francisco Microsoft ML & Data Science - [Microsoft Learn](https://learn.microsoft.com/en-us/users/shawnatuli-1762/?redeem=RN4ZKZ&WT.mc_id=ilt_partner_webpage_wwl&ocid=3103897&DCS=DEPR2550058&source=docs) (6 years)
 3. Mountain View & San Francisco Amazon ML & Data Science and Product Strategy - [Amazon](https://www.aboutamazon.com/artificial-intelligence-ai-news) (2 years at Amazon Mailbox Core)
@@ -21,7 +21,7 @@ ________________________________________________________________________________
 13. Irvine Up to Us National Debt Marketing Data Science, Strategy, and Business Intelligence - [UCI Merage Credly](https://www.credly.com/users/shawna-tuli/badges) (0.5 years)
 14. Bicoastal Indian American (Brown) Community (Life)
 __________________________________________________________________________________________________________________________________________________________________________
-#### AWARD HIGHLIGHTS
+#### BIG TECH AWARD HIGHLIGHTS
 1. AWS re:Invent Conference | Las Vegas
 2. Accenture Communications, Media & Technology Industry Day | Mountain View & San Francisco (2x)
 3. PayPal x Women Impact Tech Hiring & Networking Event | San Jose
