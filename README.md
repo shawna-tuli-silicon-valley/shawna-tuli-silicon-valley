@@ -46,7 +46,7 @@ ________________________________________________________________________________
 22. Microsoft Azure Summit: Migrate and Modernize with Agentic AI | Mountain View
 23. Microsoft Better Together: Leading Ahead | Women, AI & the Future of Leadership Conference | Mountain View (2x)
 24. Microsoft Fireworks on Microsoft Foundry Launch Event | San Francisco
-25. Avanade Recognition | Mountain View
+25. Avanade Recognition | Mountain View & San Francisco
 26. Radiotherapy and Oncology Conference
 27. American Society for Radiation Oncology (ASTRO) Conference
 28. International Journal of Gynecological Cancer (IJGC) Conference
@@ -56,7 +56,7 @@ ________________________________________________________________________________
 
 #### BIG TECH ML & DATA SCIENCE LEADERSHIP (2014-Present) 
 * 🎯 **Goal:** ML & Data Science Manager at Google Mountain View, Microsoft Mountain View, or Amazon Mountain View
-* 🌿 Accenture Mountain View Avanade Recognition
+* 🌿 Accenture Mountain View & San Francisco Innovation Hub Avanade Recognition
 * 🍀 Accenture Pleasanton Luck Meets Color St. Patrick's Day & Holi Celebration 
 * 🛸 Microsoft Mountain View Better Together: Leading Ahead | Women, AI & the Future of Leadership Conference (2x)
 * 🗻 Accenture Mountain View Microsoft Azure Summit: Migrate and Modernize with Agentic AI
