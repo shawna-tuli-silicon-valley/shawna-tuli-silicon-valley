@@ -65,7 +65,7 @@ ________________________________________________________________________________
 * 🌷 November Wellness Event at Accenture Mountain View (Repo)
 * 🌷 October Wellness Event at Accenture Mountain View (Repo)
 * 🌷 September Wellness Event at Accenture Mountain View (Repo)
-* 🏞️ Stanford Dish Hike, Noah's Bagels, and Pressed Juicery Wellness Event at Accenture Mountain View (Repo)
+* 🏞️ Stanford Dish Hike, Noah's Bagels, and Pressed Juicery Wellness Event at Accenture Mountain View [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-18)
 * 🧘🏽‍♀️ Santana Row Yoga Wellness Event at Accenture Mountain View [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-17) 
 * 💍 Accenture San Francisco Innovation Hub NorCal Engagement Leadership Bonding
 * 🛠️ Microsoft Build Conference San Francisco 
