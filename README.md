@@ -403,7 +403,6 @@ ________________________________________________________________________________
 
 #### ![DATABRICKS](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 * Databricks Certified Data Engineer Associate Certificate
-* 
 ___________________________________________________________________________________________________________________________________________________________________________
 #### BOOKS & PODCASTS
 
