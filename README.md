@@ -51,7 +51,7 @@ ________________________________________________________________________________
 26. Radiotherapy and Oncology Conference
 27. American Society for Radiation Oncology (ASTRO) Conference
 28. International Journal of Gynecological Cancer (IJGC) Conference
-29. International Conference on Maligancies in HIV/AIDS (ICMH) Conference
+29. International Conference on Malignancies in HIV/AIDS (ICMH) Conference
 30. European Society of Medical Oncology (ESMO) Conference
 31. Stanford University Libraries (3x)
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________
