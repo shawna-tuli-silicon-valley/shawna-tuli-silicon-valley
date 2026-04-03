@@ -17,9 +17,10 @@ ________________________________________________________________________________
 9. Mountain View Accenture Wellness - 🌸🙏🏽🍇🏺💅🏽💆🏽‍♀️☕🍫🕯️💐🧴🪞⛳🧋🧺🍷🥖📕🌷🧘🏽‍♀️🏞️ (2 years)
 10. Mountain View Avanade & Accenture Office (6 years)
 11. Northern California Avanade & Accenture Office (6 years)
-12. Northern California Avanade & Accenture Social & Networking (6 years)
-13. Irvine Up to Us National Debt Marketing Data Science, Strategy, and Business Intelligence - [UCI Merage Credly](https://www.credly.com/users/shawna-tuli/badges) (0.5 years)
-14. Bicoastal Indian American (Brown) Community (Life)
+12. Mountain View Avanade & Accenture Social & Networking (6 years)
+13. Northern California Avanade & Accenture Social & Networking (6 years)
+14. Irvine Up to Us National Debt Marketing Data Science, Strategy, and Business Intelligence - [UCI Merage Credly](https://www.credly.com/users/shawna-tuli/badges) (0.5 years)
+15. Bicoastal Indian American (Brown) Community (Life)
 __________________________________________________________________________________________________________________________________________________________________________
 #### BIG TECH AWARD HIGHLIGHTS
 1. AWS re:Invent Conference | Las Vegas
