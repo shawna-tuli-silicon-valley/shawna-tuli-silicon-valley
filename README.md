@@ -53,6 +53,7 @@ ________________________________________________________________________________
 28. International Journal of Gynecological Cancer (IJGC) Conference
 29. International Conference on Maligancies in HIV/AIDS (ICMH) Conference
 30. European Society of Medical Oncology (ESMO) Conference
+31. Stanford Libraries (3x)
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 #### BIG TECH ML & DATA SCIENCE LEADERSHIP (2014-Present) 
