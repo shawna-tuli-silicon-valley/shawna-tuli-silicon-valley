@@ -57,7 +57,7 @@ ________________________________________________________________________________
 
 #### BIG TECH ML & DATA SCIENCE LEADERSHIP (2014-Present) 
 * 🎯 **Goal:** ML & Data Science Manager at Google Mountain View, Microsoft Mountain View, or Amazon Mountain View
-* 📖 Incoming Santa Clara University Leavey School of Business Evening Master of Business Administration Candidate 
+* 📖 Incoming Santa Clara University Leavey School of Business Evening MBA Candidate 
 * 🌿 Accenture Mountain View & San Francisco Innovation Hub Avanade Recognition
 * 🍀 Accenture Pleasanton Luck Meets Color St. Patrick's Day & Holi Celebration 
 * 🛸 Microsoft Mountain View Better Together: Leading Ahead | Women, AI & the Future of Leadership Conference (2x)
@@ -228,7 +228,7 @@ ________________________________________________________________________________
 * 🏛️ Accenture Mountain View & San Francisco Innovation Hub Quarterly Town Halls (23x)
 * 📅 Avanade San Francisco Innovation Hub & Mountain View Quarterly Town Halls (23x)
 * 🖌️ San Francisco Museum of Modern Art Visit
-* 🐜 University of California, Irvine Donald Bren School of Information and Computer Sciences Bachelor of Science in Data Science Graduate 
+* 🐜 University of California, Irvine Donald Bren School of Information and Computer Sciences B.S. in Data Science Graduate 
 * 📊 24 Penn Medicine Radiation Oncology articles and led 30+ Surgeons, Doctors, and Students [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-penn-medicine-global-radiation-oncology-analytics) [(Google Scholar)](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en)
 * 🍊 Grace Hopper Celebration of Women in Computing Conference Orlando [(Repo)](https://github.com/shawna-tuli-silicon-valley/grace-hopper-celebration-of-women-in-engineering/tree/main)
 * 🖼️ Avanade Irvine Intern to full-time - created an Azure AI product via computer vision and an one-shot GAN [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-irvine-ai-product)
@@ -258,6 +258,7 @@ ________________________________________________________________________________
 * ☑️ STEM Mentor at UCI Math Community Educational Outreach (CEO)
 * 🌐 STEM (Science, Technology, Engineering, and Math) Panelist at Girls Inc. of Orange County [(Report)](https://www.girlsinc-oc.org/wp-content/uploads/2018/08/GIOC_2017AnnualReport.pdf)
 * 💳 Eidebtic Vault Web App - made in 24 hours at the Capital One Santa Monica Hackathon [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-merage-ics-eidebtic-vault-web-app) [(Article)](https://medium.com/capital-one-tech/what-hosting-hackathons-taught-us-about-our-apis-b48d8304b74d) [(Article)](https://medium.com/capital-one-tech/5-things-we-learned-from-hosting-hackathons-1781b9728fde)
+* 🐱 Los Gatos High School Graduate 
 * 🛍️ Data Scientist Intern at eBay San Jose in the Office of the CIO - developed ML models to contextualize big data [(Repo)](https://github.com/shawna-tuli-silicon-valley/ebay-san-jose-product-analytics-data-science) 
 * 📲 Yaksee Interactive Broadcasting App - mentioned in SiliconValley.com for airing Steve Wozniack's talk [(Repo)](https://github.com/shawna-tuli-silicon-valley/lghs-yaksee-interactive-broadcasting-app) [(Article)](https://www.siliconvalley.com/2016/03/23/los-gatos-startup-debuts-interactive-broadcasting-app/)
 * 💓 Los Gatos High School Google, Netflix, and Intel Visits [(Repo)](https://github.com/shawna-tuli-silicon-valley/big-tech-visits/tree/main)
