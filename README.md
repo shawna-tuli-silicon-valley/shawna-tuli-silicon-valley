@@ -17,7 +17,7 @@ ________________________________________________________________________________
 9. Mountain View Accenture Wellness - 🌸🙏🏽🍇🏺💅🏽💆🏽‍♀️☕🍫🕯️💐🧴🪞⛳🧋🧺🍷🥖📕🌷🧘🏽‍♀️🏞️ (2 years)
 10. Mountain View & Northern California Avanade & Accenture Office (6 years)
 11. Mountain View & Northern California Avanade & Accenture Social & Networking (6 years)
-12. Mountain View Data Science for Social Good 
+12. Mountain View & San Francisco Data Science for Social Good 
 13. Irvine Up to Us National Debt Marketing Data Science, Strategy, and Business Intelligence - [UCI Merage Credly](https://www.credly.com/users/shawna-tuli/badges) (0.5 years)
 14. Bicoastal Indian American (Brown) Community (Life)
 __________________________________________________________________________________________________________________________________________________________________________
@@ -58,7 +58,7 @@ ________________________________________________________________________________
 #### BIG TECH ML & DATA SCIENCE LEADERSHIP (2014-Present) 
 * 🎯 **Goal:** ML & Data Science Manager at Google Mountain View, Microsoft Mountain View, or Amazon Mountain View
 * 📖 Incoming Santa Clara University Leavey School of Business Evening MBA Candidate
-* 📑 Accenture Mountain View Data Science for Social Good Co-Lead 
+* 📑 Accenture Mountain View & San Francisco Data Science for Social Good Co-Lead 
 * 📚 Stanford University Libraries (3x)
 * 🌿 Accenture Mountain View & San Francisco Innovation Hub Avanade Recognition
 * 🛸 Microsoft Mountain View Better Together: Leading Ahead | Women, AI & the Future of Leadership Conference (2x)
