@@ -425,7 +425,7 @@ ________________________________________________________________________________
 
 _____________________________________________________________________________________________________________________________________________________________________________
 #### INTERESTS
-I am strength training, walking, healthy cooking, coding, reading, studying, and watching movies and shows. I enjoy dancing, playing tennis, badminton, pickleball, and golf, shopping, oil painting, traveling, beaches, lakes, restaurants, coffee shops, and concerts. 
+I am strength training, walking, healthy cooking, coding, reading, studying, and watching movies and shows. I enjoy dancing, playing tennis, badminton, pickleball, and golf, shopping, oil painting, traveling, visiting beaches, lakes, restaurants, coffee shops, and concerts. 
 
 #### Dance
 * Cardio Dance
