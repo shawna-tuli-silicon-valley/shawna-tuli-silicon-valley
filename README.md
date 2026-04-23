@@ -66,7 +66,7 @@ ________________________________________________________________________________
 * 🎆 Microsoft San Francisco Fireworks on Microsoft Foundry Launch Event
 * 🌷 December Wellness Event at Accenture Mountain View (Repo)
 * 🌷 November Wellness Event at Accenture Mountain View (Repo)
-* 🍵 Matcha Making Wellness Event at Accenture Mountain View (Repo)
+* 🍃 Matcha Making Wellness Event at Accenture Mountain View (Repo)
 * 🐚 Santa Cruz West Cliff Drive Wellness Event at Accenture Mountain View (Repo)
 * 🏞️ Stanford Dish Hike, Noah's Bagels, and Pressed Juicery Wellness Event at Accenture Mountain View - 100% full [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-18)
 * 🧘🏽‍♀️ Santana Row Yoga Wellness Event at Accenture Mountain View - 100% booked [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-17) 
