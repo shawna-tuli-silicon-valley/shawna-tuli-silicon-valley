@@ -37,7 +37,7 @@ ________________________________________________________________________________
 13. Avanade Create the Future | Mountain View & San Francisco
 14. Avanade Accelerate Impact Super Hero | Mountain View & San Francisco (2x)
 15. Avanade We Act with Integrity and Respect Ambassador | Mountain View & San Francisco (3x)
-16. Google International Women’s Day | Mountain View & Venice (3x)
+16. Google International Women’s Day | Mountain View & Venice (2x)
 17. Accenture International Women’s Day | Mountain View & San Francisco (6x)
 18. Avanade International Women’s Day | Mountain View & San Francisco (6x)
 19. Google Cloud Next Conference | Mountain View & Las Vegas (8x)
@@ -57,6 +57,7 @@ ________________________________________________________________________________
 
 #### BIG TECH ML & DATA SCIENCE LEADERSHIP (2014-Present) 
 * 🎯 **Goal:** ML & Data Science Manager at Google Mountain View, Microsoft Mountain View, or Amazon Mountain View
+* 6) Accenture V360 Awards Nominee - TBA
 * 📖 Incoming Santa Clara University Leavey School of Business Evening MBA Candidate
 * 📑 Accenture Mountain View & San Francisco Innovation Hub Data Science for Social Good Co-Lead 
 * 📚 Stanford University Libraries (3x)
