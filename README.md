@@ -53,6 +53,7 @@ ________________________________________________________________________________
 29. International Conference on Malignancies in HIV/AIDS (ICMH) Conference
 30. European Society of Medical Oncology (ESMO) Conference
 31. Stanford University Libraries (3x)
+32. SparkPoint Summit 
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 #### BIG TECH ML & DATA SCIENCE LEADERSHIP (2014-Present) 
