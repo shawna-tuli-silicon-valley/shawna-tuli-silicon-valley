@@ -24,7 +24,7 @@ ________________________________________________________________________________
 #### BIG TECH AWARD HIGHLIGHTS
 1. AWS re:Invent Conference | Las Vegas
 2. Accenture Communications, Media & Technology Industry Day | Mountain View & San Francisco (2x)
-3. PayPal x Women Impact Tech Hiring & Networking Event | San Jose
+3. PayPal x Women Impact Tech Hiring & Networking | San Jose
 4. World Summit AI USA Conference | San Francisco
 5. Google AI for everyone | Bay Area
 6. Google’s cloud business turns profitable for the first time on record | Sunnyvale
@@ -45,7 +45,7 @@ ________________________________________________________________________________
 21. Microsoft Build Conference | San Francisco
 22. Microsoft Azure Summit: Migrate and Modernize with Agentic AI | Mountain View
 23. Microsoft Better Together: Leading Ahead | Women, AI & the Future of Leadership Conference | Mountain View (2x)
-24. Microsoft Fireworks on Microsoft Foundry Launch Event | San Francisco
+24. Microsoft Fireworks on Microsoft Foundry Launch | San Francisco
 25. Avanade Recognition | Mountain View & San Francisco
 26. Radiotherapy and Oncology Conference
 27. American Society for Radiation Oncology (ASTRO) Conference
