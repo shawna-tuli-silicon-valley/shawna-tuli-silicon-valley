@@ -67,7 +67,7 @@ ________________________________________________________________________________
 * 🎆 Microsoft San Francisco Fireworks on Microsoft Foundry Launch Event
 * 🌷 December Wellness Event at Accenture Mountain View (Repo)
 * 🌷 November Wellness Event at Accenture Mountain View (Repo)
-* ⚪ Off the Clock - Pickleball & Bocce Ball with Rebecca Lee (Repo)
+* ⚪ Off the Clock - Pickleball & Bocce Ball with Rebecca Lee
 * 🍃 Matcha Making Wellness Event at Accenture Mountain View (Repo)
 * 🐚 Santa Cruz West Cliff Drive Wellness Event at Accenture Mountain View (Repo)
 * 🍒 Mulberry Picking Wellness Event at Accenture Mountain View - 100% full [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-18)
