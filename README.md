@@ -58,6 +58,7 @@ ________________________________________________________________________________
 
 #### BIG TECH ML & DATA SCIENCE LEADERSHIP (2014-Present) 
 * 🎯 **Goal:** ML & Data Science Manager at Google Mountain View, Microsoft Mountain View, or Amazon Mountain View
+* ⛰️ SparkPoint Summit 
 * ☆ 6) Accenture V360 Awards Nominee - TBA
 * 📖 Incoming Santa Clara University Leavey School of Business Evening MBA Candidate
 * 📑 Accenture Mountain View & San Francisco Innovation Hub Data Science for Social Good Co-Lead 
