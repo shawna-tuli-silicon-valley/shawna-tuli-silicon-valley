@@ -66,7 +66,7 @@ ________________________________________________________________________________
 * 🌿 Accenture Mountain View & San Francisco Innovation Hub Avanade Recognition
 * 🛸 Microsoft Mountain View Better Together: Leading Ahead | Women, AI & the Future of Leadership Conference (2x)
 * 🗻 Accenture Mountain View Microsoft Azure Summit: Migrate and Modernize with Agentic AI
-* 🎆 Microsoft San Francisco Fireworks on Microsoft Foundry Launch Event
+* 🎆 Microsoft San Francisco Fireworks on Microsoft Foundry Launch
 * 🌷 December Wellness Event at Accenture Mountain View (Repo)
 * 🌷 November Wellness Event at Accenture Mountain View (Repo)
 * ⚪ Off the Clock - Pickleball & Bocce Ball with Rebecca Lee
@@ -100,7 +100,7 @@ ________________________________________________________________________________
 * 🩵 Google Cloud Next Conference Las Vegas (2x)
 * 👩🏽‍🎓 Avanade Mountain View SISA Apprentice Program 
 * 🎃 Accenture San Francisco Innovation Hub Annual Oktoberfest Celebration
-* 📩 PayPal x Women Impact Tech | Hiring and Networking Event San Jose [(Repo)](https://github.com/shawna-tuli-silicon-valley/paypal-data-science-recruitment/tree/main)
+* 📩 PayPal x Women Impact Tech | Hiring and Networking San Jose [(Repo)](https://github.com/shawna-tuli-silicon-valley/paypal-data-science-recruitment/tree/main)
 * 🥂 Accenture New York Innovation Hub Diwali Party (3x)
 * 📐 Accenture Mountain View & San Francisco Innovation Hub AI & Automation Practice AI Solution Architect - solutioning AI
 * 📫 Accenture San Francisco Innovation Hub Amazon All-People Connect
