@@ -2,7 +2,7 @@
 
 
 
-Shawna Tuli is a seasoned **Mountain View & San Francisco** Machine Learning & Data Science, Advanced Analytics, Business Intelligence, Strategy, and Software Engineering Leader, Innovator, Advisor, and **San Jose native**, with **six years** of experience as a Data Science & Advanced Analytics Associate Manager at Avanade, the Accenture Microsoft Business Group, and Accenture. She has a strong background in ***machine learning*** and ***data science***, interlacing ***agentic artificial intelligence, generative artificial intelligence***, ***advanced analytics***, ***software engineering***, ***business intelligence***, ***finance***, ***product strategy***, ***product analytics***, ***predictive modeling***, ***strategy***, ***data engineering***, and ***CFO & enterprise value***. Shawna is on the Executive and Corporate Board Director path with **twelve years** of experience in ***big technology*** in **Silicon Valley**. Her strengths are Activator, Achiever, Futuristic, Competition, and Significance.   
+Shawna Tuli is a seasoned **Mountain View & San Francisco** Machine Learning & Data Science, Advanced Analytics, Business Intelligence, Strategy, and Software Engineering Leader, Innovator, Advisor, and **San Jose native**, with **six years** of experience as an Incoming Data Science & Advanced Analytics Manager at Avanade, the Accenture Microsoft Business Group, and Accenture. She has a strong background in ***machine learning*** and ***data science***, interlacing ***agentic artificial intelligence, generative artificial intelligence***, ***advanced analytics***, ***software engineering***, ***business intelligence***, ***finance***, ***product strategy***, ***product analytics***, ***predictive modeling***, ***strategy***, ***data engineering***, and ***CFO & enterprise value***. Shawna is on the Executive and Corporate Board Director path with **twelve years** of experience in ***big technology*** in **Silicon Valley**. Her strengths are Activator, Achiever, Futuristic, Competition, and Significance.   
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 #### LEADERSHIP HIGHLIGHTS
@@ -58,6 +58,7 @@ ________________________________________________________________________________
 
 #### BIG TECH ML & DATA SCIENCE LEADERSHIP (2014-Present) 
 * 🎯 **Goal:** ML & Data Science Manager at Google Mountain View, Microsoft Mountain View, or Amazon Mountain View
+* 📰 Incoming Avanade Mountain View Data & AI Data Science & Advanced Analytics Manager (Repo)
 * ⛰️ SparkPoint Summit 
 * ☆ 6) Accenture V360 Awards Nominee - TBA
 * 📖 Incoming Santa Clara University Leavey School of Business Evening MBA Candidate
