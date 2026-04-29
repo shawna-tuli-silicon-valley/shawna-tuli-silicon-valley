@@ -28,8 +28,8 @@ ________________________________________________________________________________
 4. World Summit AI USA Conference | San Francisco
 5. Google AI for everyone | Bay Area
 6. Google’s cloud business turns profitable for the first time on record | Sunnyvale
-7. Google I/O | Mountain View (7x)
-8. Accenture V360 Awards in Innovation Nominee | Mountain View & San Francisco (5x)
+7. Google I/O | Mountain View (8x)
+8. Accenture V360 Awards in Innovation Nominee | Mountain View & San Francisco (6x)
 9. Avanade Best Baker | Mountain View & San Francisco
 10. Avanade We Believe Everyone Counts Super Hero | Mountain View & San Francisco (2x)
 11. Avanade We Deliver with Excellence Super Hero | Mountain View & San Francisco
@@ -37,14 +37,14 @@ ________________________________________________________________________________
 13. Avanade Create the Future | Mountain View & San Francisco
 14. Avanade Accelerate Impact Super Hero | Mountain View & San Francisco (2x)
 15. Avanade We Act with Integrity and Respect Ambassador | Mountain View & San Francisco (3x)
-16. Google International Women’s Day | Mountain View & Venice (2x)
-17. Accenture International Women’s Day | Mountain View & San Francisco (6x)
-18. Avanade International Women’s Day | Mountain View & San Francisco (6x)
-19. Google Cloud Next Conference | Mountain View & Las Vegas (8x)
-20. Microsoft Ignite  Conference | Mountain View & San Francisco (5x)
+16. Google International Women’s Day | Mountain View & Venice (3x)
+17. Accenture International Women’s Day | Mountain View & San Francisco (7x)
+18. Avanade International Women’s Day | Mountain View & San Francisco (7x)
+19. Google Cloud Next Conference | Mountain View & Las Vegas (9x)
+20. Microsoft Ignite  Conference | Mountain View & San Francisco (6x)
 21. Microsoft Build Conference | San Francisco
 22. Microsoft Azure Summit: Migrate and Modernize with Agentic AI | Mountain View
-23. Microsoft Better Together: Leading Ahead | Women, AI & the Future of Leadership Conference | Mountain View (2x)
+23. Microsoft Better Together: Leading Ahead | Women, AI & the Future of Leadership Conference | Mountain View (3x)
 24. Microsoft Fireworks on Microsoft Foundry Launch | San Francisco
 25. Avanade Recognition | Mountain View & San Francisco
 26. Radiotherapy and Oncology Conference
