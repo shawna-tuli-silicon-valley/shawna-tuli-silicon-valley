@@ -58,7 +58,7 @@ ________________________________________________________________________________
 
 #### BIG TECH ML & DATA SCIENCE LEADERSHIP (2014-Present) 
 * 🎯 **Goal:** ML & Data Science Manager at Google Mountain View, Microsoft Mountain View, or Amazon Mountain View
-* 🌻 Accenture Mountain View Spring Frame Making
+* 🌷 Accenture Mountain View Spring Frame Making
 * 📰 Incoming Avanade Mountain View Data & AI Data Science & Advanced Analytics Manager (Repo)
 * ⛰️ SparkPoint Summit 
 * ☆ 6) Accenture V360 Awards Nominee - TBA
@@ -69,8 +69,8 @@ ________________________________________________________________________________
 * 🛸 Microsoft Mountain View Better Together: Leading Ahead | Women, AI & the Future of Leadership Conference (2x)
 * 🗻 Accenture Mountain View Microsoft Azure Summit: Migrate and Modernize with Agentic AI
 * 🎆 Microsoft San Francisco Fireworks on Microsoft Foundry Launch
-* 🌷 December Wellness Event at Accenture Mountain View (Repo)
-* 🌷 November Wellness Event at Accenture Mountain View (Repo)
+* 🌻 December Wellness Event at Accenture Mountain View (Repo)
+* 🌻 November Wellness Event at Accenture Mountain View (Repo)
 * ⚪ Off the Clock - Pickleball & Bocce Ball with Rebecca Lee
 * 🍃 Matcha Making Wellness Event at Accenture Mountain View (Repo)
 * 🐚 Santa Cruz West Cliff Drive Wellness Event at Accenture Mountain View (Repo)
