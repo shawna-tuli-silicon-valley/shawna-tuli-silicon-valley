@@ -58,6 +58,7 @@ ________________________________________________________________________________
 
 #### BIG TECH ML & DATA SCIENCE LEADERSHIP (2014-Present) 
 * 🎯 **Goal:** ML & Data Science Manager at Google Mountain View, Microsoft Mountain View, or Amazon Mountain View
+* ❓ Accenture San Francisco Innovation Hub US Leadership Visit – Q&A and Happy Hour 
 * 🌷 Accenture Mountain View Spring Frame Making
 * 📰 Incoming Avanade Mountain View Data & AI Data Science & Advanced Analytics Manager (Repo)
 * ⛰️ SparkPoint Summit 
@@ -121,7 +122,7 @@ ________________________________________________________________________________
 * 🔜 Avanade Create the Future Award
 * 🌼 Organizer of Massage at Work Wellness Event at Accenture Mountain View - 100% taken [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-7/tree/main)
 * ⌨️ Communications, Media & Technology Industry Day at Accenture Mountain View 
-* 🍴 Accenture Mountain View Happy Hours (29x)
+* 🍴 Accenture Mountain View Happy Hours (30x)
 * 💥 Avanade Accelerate Impact Super Hero Award (2x)
 * ⚖️ Avanade We Act with Integrity and Respect Ambassador Award (3x) 
 * 🛒 Products Industry Day at Accenture San Francisco 
@@ -229,7 +230,7 @@ ________________________________________________________________________________
 * 💙 Accenture Applied Intelligence Strategy Summer Conference San Francisco
 * 🎊 Avanade Go Team! Award (4x)
 * 🫧 Accenture Mountain View & San Francisco Innovation Hub First Fridays (65x)
-* 🪩 Accenture San Francisco Innovation Hub Happy Hours (30x)
+* 🪩 Accenture San Francisco Innovation Hub Happy Hours (31x)
 * 🏛️ Accenture Mountain View & San Francisco Innovation Hub Quarterly Town Halls (39x)
 * 📅 Avanade San Francisco Innovation Hub & Mountain View Quarterly Town Halls (39x)
 * 🖌️ San Francisco Museum of Modern Art Visit
