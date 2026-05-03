@@ -58,8 +58,7 @@ ________________________________________________________________________________
 
 #### BIG TECH ML & DATA SCIENCE LEADERSHIP (2014-Present) 
 * 🎯 **Goal:** ML & Data Science Manager at Google Mountain View, Microsoft Mountain View, or Amazon Mountain View
-* 🧽 Accenture San Francisco Innovation Hub Massages
-* 🧼 Accenture Mountain View Massages 
+* 🧼 Accenture Mountain View & San Francisco Innovation Hub Massages 
 * ❓ Accenture San Francisco Innovation Hub US Leadership Visit – Q&A and Happy Hour 
 * 🌷 Accenture Mountain View Spring Frame Making
 * 📰 Incoming Avanade Mountain View Data & AI Data Science & Advanced Analytics Manager (Repo)
@@ -162,7 +161,7 @@ ________________________________________________________________________________
 * 🔥 Microsoft Ignite (5x) [(Episodes)](https://ignite.microsoft.com/en-US/home)
 * ☀️ Accenture Mountain View & San Francisco Innovation Hub AI & Automation Practice Solution Architect - solutioned AI
 * 𓊍 Microsoft Avanade Northern California Climb to the Top: San Francisco 2024 [(Article)](https://events.nationalmssociety.org/index.cfm?fuseaction=donorDrive.participant&participantID=571802)
-* 🎁 Avanade San Francisco Innovation Hub & Mountain View AI & Automation Practice CA - advising 2 Data Scientists
+* 🎁 Avanade Mountain View & San Francisco Innovation Hub AI & Automation Practice CA - advising 2 Data Scientists
 * 🧿 Accenture Mountain View Wellness Committee Ambassador - ran events [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness)
 * 🧁 Avanade Mountain View Chair - arranging events
 * 🏅 Avanade - honored as AI Breakthrough Awards Best AI Consulting Service Provider
@@ -180,7 +179,7 @@ ________________________________________________________________________________
 * 🗿 Avanade Mountain View Leadership Accelerator - chosen to inspire greatness and excel in People Leadership
 * 🌅 Avanade Mountain View AI Studio Forecasting Champion
 * 🌹 Accenture Mountain View & San Francisco Innovation Hub International Women's Day (6x)
-* 🌺 Avanade San Francisco Innovation Hub & Mountain View International Women's Day (6x)
+* 🌺 Avanade Mountain View & San Francisco Innovation Hub International Women's Day (6x)
 * ❣️ Google Cloud Launchpad for Women
 * 🆕 3) Accenture V360 Awards Nominee - used LLMs to reform call centers nationally, led 4 Data Scientists [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-call-centers-genai-and-predictive-analytics) [(Student Repo)](https://github.com/data-sci-capstone/copilot)
 * 🌉 Accenture Mountain View Data Science for Social Good (DSSG) Lead at UWBA Phase 2 and led 3 Data Scientists [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-uwba-data-science)
@@ -234,7 +233,7 @@ ________________________________________________________________________________
 * 🫧 Accenture Mountain View & San Francisco Innovation Hub First Fridays (65x)
 * 🪩 Accenture San Francisco Innovation Hub Happy Hours (31x)
 * 🏛️ Accenture Mountain View & San Francisco Innovation Hub Quarterly Town Halls (39x)
-* 📅 Avanade San Francisco Innovation Hub & Mountain View Quarterly Town Halls (39x)
+* 📅 Avanade Mountain View & San Francisco Innovation Hub Quarterly Town Halls (39x)
 * 🖌️ San Francisco Museum of Modern Art Visit
 * 🐜 University of California, Irvine Donald Bren School of Information and Computer Sciences B.S. in Data Science Graduate 
 * 📊 24 Penn Medicine Radiation Oncology articles and led 30+ Surgeons, Doctors, and Students [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-penn-medicine-global-radiation-oncology-analytics) [(Google Scholar)](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en)
