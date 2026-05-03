@@ -58,7 +58,7 @@ ________________________________________________________________________________
 
 #### BIG TECH ML & DATA SCIENCE LEADERSHIP (2014-Present) 
 * 🎯 **Goal:** ML & Data Science Manager at Google Mountain View, Microsoft Mountain View, or Amazon Mountain View
-* 🧼 Accenture Mountain View & San Francisco Innovation Hub Massages 
+* 🧼 Accenture Mountain View & San Francisco Innovation Hub Massages (2x)
 * ❓ Accenture San Francisco Innovation Hub US Leadership Visit – Q&A and Happy Hour 
 * 🌷 Accenture Mountain View Spring Frame Making
 * 📰 Incoming Avanade Mountain View Data & AI Data Science & Advanced Analytics Manager (Repo)
