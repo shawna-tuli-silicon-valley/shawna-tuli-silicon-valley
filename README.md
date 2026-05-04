@@ -62,7 +62,7 @@ ________________________________________________________________________________
 * ❓ Accenture San Francisco Innovation Hub US Leadership Visit – Q&A and Happy Hour 
 * 🌷 Accenture Mountain View Spring Frame Making
 * 📰 Incoming Avanade Mountain View Data & AI Data Science & Advanced Analytics Manager (Repo)
-* ⛰️ United Way Bay Area SparkPoint Summit 
+* ⛰️ Presenter at United Way Bay Area SparkPoint Summit 
 * ☆ 6) Accenture V360 Awards Nominee - TBA
 * 📖 Incoming Santa Clara University Leavey School of Business Evening MBA Candidate
 * 📑 Accenture Mountain View & San Francisco Innovation Hub Data Science for Social Good Co-Lead 
