@@ -53,7 +53,7 @@ ________________________________________________________________________________
 29. International Conference on Malignancies in HIV/AIDS (ICMH) Conference
 30. European Society of Medical Oncology (ESMO) Conference
 31. Stanford University Libraries (3x)
-32. SparkPoint Summit 
+32. United Way Bay Area SparkPoint Summit 
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 #### BIG TECH ML & DATA SCIENCE LEADERSHIP (2014-Present) 
@@ -62,7 +62,7 @@ ________________________________________________________________________________
 * ❓ Accenture San Francisco Innovation Hub US Leadership Visit – Q&A and Happy Hour 
 * 🌷 Accenture Mountain View Spring Frame Making
 * 📰 Incoming Avanade Mountain View Data & AI Data Science & Advanced Analytics Manager (Repo)
-* ⛰️ SparkPoint Summit 
+* ⛰️ United Way Bay Area SparkPoint Summit 
 * ☆ 6) Accenture V360 Awards Nominee - TBA
 * 📖 Incoming Santa Clara University Leavey School of Business Evening MBA Candidate
 * 📑 Accenture Mountain View & San Francisco Innovation Hub Data Science for Social Good Co-Lead 
