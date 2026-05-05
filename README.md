@@ -178,7 +178,7 @@ ________________________________________________________________________________
 * 💘 Google Bay Area International Women's Day (2x) - recruited to Google Mountain View ML & Data Science [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-bay-area-international-womens-day/tree/main)
 * 🗿 Avanade Mountain View Leadership Accelerator - chosen to inspire greatness and excel in People Leadership
 * 🌅 Avanade Mountain View AI Studio Forecasting Champion
-* 🌹 Accenture Mountain View & San Francisco Innovation Hub International Women's Day (6x)
+* 🎧 Accenture Mountain View & San Francisco Innovation Hub International Women's Day (6x)
 * 🌺 Avanade Mountain View & San Francisco Innovation Hub International Women's Day (6x)
 * ❣️ Google Cloud Launchpad for Women
 * 🆕 3) Accenture V360 Awards Nominee - used LLMs to reform call centers nationally, led 4 Data Scientists [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-call-centers-genai-and-predictive-analytics) [(Student Repo)](https://github.com/data-sci-capstone/copilot)
@@ -231,7 +231,7 @@ ________________________________________________________________________________
 * 💙 Accenture Applied Intelligence Strategy Summer Conference San Francisco
 * 🎊 Avanade Go Team! Award (4x)
 * 🫧 Accenture Mountain View & San Francisco Innovation Hub First Fridays (65x)
-* 🪩 Accenture San Francisco Innovation Hub Happy Hours (31x)
+* ✧˖° Accenture San Francisco Innovation Hub Happy Hours (31x)
 * 🏛️ Accenture Mountain View & San Francisco Innovation Hub Quarterly Town Halls (39x)
 * 📅 Avanade Mountain View & San Francisco Innovation Hub Quarterly Town Halls (39x)
 * 🖌️ San Francisco Museum of Modern Art Visit
