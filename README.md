@@ -58,6 +58,7 @@ ________________________________________________________________________________
 
 #### BIG TECH ML & DATA SCIENCE LEADERSHIP (2014-Present) 
 * 🎯 **Goal:** ML & Data Science Manager at Google Mountain View, Microsoft Mountain View, or Amazon Mountain View
+* 🥂 Accenture San Francisco Innovation Hub Wellness Happy Hour
 * 👑 Incoming Lead 
 * 🪑 Avanade Bench Status Series Speaker 
 * 🧼 Accenture Mountain View & San Francisco Innovation Hub Massages (2x)
@@ -233,7 +234,7 @@ ________________________________________________________________________________
 * 💙 Accenture Applied Intelligence Strategy Summer Conference San Francisco
 * 🎊 Avanade Go Team! Award (4x)
 * 🫧 Accenture Mountain View & San Francisco Innovation Hub First Fridays (65x)
-* ✧˖° Accenture San Francisco Innovation Hub Happy Hours (31x)
+* ✧˖° Accenture San Francisco Innovation Hub Happy Hours (32x)
 * 🏛️ Accenture Mountain View & San Francisco Innovation Hub Quarterly Town Halls (39x)
 * 📅 Avanade Mountain View & San Francisco Innovation Hub Quarterly Town Halls (39x)
 * 🖌️ San Francisco Museum of Modern Art Visit
