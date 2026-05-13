@@ -290,14 +290,14 @@ ARIMAX models” in World Journal of Advanced Research and Reviews (WJARR).
 ARIMAX Models” in Stanford Libraries, arxiv.org/pdf/2402.04432, Avanade AI Studio, and Accenture Knowledge Exchange.
 4. “Call Center CoPilot: Enhancing Customer Service with Large Language Models” in University of California, Irvine
 Undergraduate Research Opportunities Program (UROP), Avanade AI Studio, and Accenture Knowledge Exchange.
-5. “Accenture Call Center Co-Pilot” in Avanade AI Studio and Accenture Knowledge Exchange.
+5. “Accenture Call Center Co-Pilot” in UCI Donald Bren School of Information & Computer Sciences (ICS) STATS 170B, Avanade AI Studio, and Accenture Knowledge Exchange.
 6. “Predicting Energy Consumption in California” in National Science Foundation (NSF), Avanade AI Studio, and Accenture
 Knowledge Exchange.
-7. “California Energy Consumption Prediction” in Accenture Knowledge Exchange and Avanade AI Studio.
-8. "Accenture GRC Response Assistant" in Avanade AI Studio and Accenture Knowledge Exchange.
+7. “California Energy Consumption Prediction” in UCI Donald Bren School of Information & Computer Sciences (ICS) STATS 170B, Avanade AI Studio, and Accenture Knowledge Exchange.
+8. "GRCResponder: An AI-Powered Assistant for Utility GRC Filings" in UCI Donald Bren School of Information & Computer Sciences (ICS) COMPSCI 180B, Avanade AI Studio, and Accenture Knowledge Exchange.
 9. "GRCResponder: AI-Driven Optimization of General Rate Cases" in University of California, Irvine Undergraduate Research Opportunities Program (UROP), Avanade AI Studio, and Accenture Knowledge Exchange. 
 10. "BI Analysis (Partner Business Modeling: Uber)" in University of California, Irvine Undergraduate Research Opportunities Program (UROP), Avanade AI Studio, and Accenture Knowledge Exchange. 
-11. “Predicting risk of Type 2 diabetes with AI in California” in Accenture Knowledge Exchange and Avanade AI Studio.
+11. “Predicting risk of Type 2 diabetes with AI in California” in UCI Donald Bren School of Information & Computer Sciences (ICS) STATS 170B, Avanade AI Studio, and Accenture Knowledge Exchange.
 12. “Five-year overall survival following chemoradiation therapy for locally advanced cervical carcinoma in women living with
 and without HIV infection in Botswana” in Infectious Agents and Cancer and National Library of Medicine (NLM).
 13. “Stage and outcomes of invasive cervical cancer patients in Botswana: a prospective cohort study from 2013 to 2020” in
