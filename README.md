@@ -330,7 +330,8 @@ Medical Oncology (ESMO).
 26. "Adherence to Survivorship Care Visits in Patients with Cervical Cancer in Botswana" in JCO Global Oncology.
 27. "Breast and Chest Wall Radiation Initiation among Patients with Breast Cancer who Underwent Surgery in Botswana" in BMC Women's Health.
 28. UWBA in Academic Journal, Avanade AI Studio, and Accenture Knowledge Exchange.
-29. TBA in University of California, Irvine Undergraduate Research Opportunities Program (UROP), Avanade AI Studio, and Accenture Knowledge Exchange.
+29. Agentic AI in University of California, Irvine Undergraduate Research Opportunities Program (UROP), Avanade AI Studio, and Accenture Knowledge Exchange.
+30. TBA in University of California, Irvine Undergraduate Research Opportunities Program (UROP), Avanade AI Studio, and Accenture Knowledge Exchange.
 _______________________________________________________________________________________________________________________________________________________________________________________________
 #### TECHNICAL SKILLS
 #### ![GOOGLE](https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=fff&style=for-the-badge)
