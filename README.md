@@ -58,6 +58,8 @@ ________________________________________________________________________________
 
 #### BIG TECH ML & DATA SCIENCE LEADERSHIP (2014-Present) 
 * 🎯 **Goal:** ML & Data Science Manager at Google Mountain View, Microsoft Mountain View, or Amazon Mountain View
+* 🌹 Accenture Mountain View Wellness Kits Facilitator (2x)
+* ♠️ Accenture Mountain View Northern California APAERG Board Game Social across NorCal Offices Poker Hostess 
 * 🥂 Accenture San Francisco Innovation Hub Wellness Happy Hour
 * 👑 Incoming Lead 
 * 🪑 Avanade Bench Status Series Speaker 
