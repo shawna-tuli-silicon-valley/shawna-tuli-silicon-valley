@@ -58,10 +58,11 @@ ________________________________________________________________________________
 
 #### BIG TECH ML & DATA SCIENCE LEADERSHIP (2014-Present) 
 * 🎯 **Goal:** ML & Data Science Manager at Google Mountain View, Microsoft Mountain View, or Amazon Mountain View
+* 🫧 Wellness Event at Accenture Mountain View (Repo) 
 * 🌹 Accenture Mountain View Wellness Kits Facilitator (2x)
 * ♠️ Accenture Mountain View Northern California APAERG Board Game Social across NorCal Offices Poker Hostess 
 * 🥂 Accenture San Francisco Innovation Hub Wellness Happy Hour
-* 👑 Incoming Lead 
+* 👑 Incoming Lead at Fortune 500 Company Mountain View 
 * 🪑 Avanade Bench Status Series Speaker 
 * 🧼 Accenture Mountain View & San Francisco Innovation Hub Massages (2x)
 * ❓ Accenture San Francisco Innovation Hub US Leadership Visit – Q&A and Happy Hour 
@@ -77,7 +78,7 @@ ________________________________________________________________________________
 * 🗻 Accenture Mountain View Microsoft Azure Summit: Migrate and Modernize with Agentic AI
 * 🎆 Microsoft San Francisco Fireworks on Microsoft Foundry Launch
 * 🌻 December Wellness Event at Accenture Mountain View (Repo)
-* 🛁 Sauna Wellness Event at Accenture Mountain View (Repo)
+* 🛁 Immersion Spa San Jose Sauna Wellness Event at Accenture Mountain View (Repo)
 * ⚪ Off the Clock - Pickleball & Bocce Ball with Rebecca Lee - 100% reserved [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-20)
 * 🍃 Make Your Own Matcha Wellness Event at Accenture Mountain View (Repo)
 * 🐚 Santa Cruz West Cliff Drive Wellness Event at Accenture Mountain View (Repo)
