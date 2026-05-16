@@ -80,7 +80,7 @@ ________________________________________________________________________________
 * 🗻 Accenture Mountain View Microsoft Azure Summit: Migrate and Modernize with Agentic AI
 * 🎆 Microsoft San Francisco Fireworks on Microsoft Foundry Launch
 * 🌻 December Wellness Event at Accenture Mountain View (Repo)
-* 🛁 Immersion Spa San Jose Sauna Wellness Event at Accenture Mountain View (Repo)
+* 🛁 Immersion Spa Palo Alto Day Wellness Event at Accenture Mountain View (Repo)
 * ⚪ Off the Clock - Pickleball & Bocce Ball with Rebecca Lee - 100% reserved [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-20)
 * 🍃 Make Your Own Matcha Wellness Event at Accenture Mountain View (Repo)
 * 🐚 Santa Cruz West Cliff Drive Wellness Event at Accenture Mountain View (Repo)
@@ -95,7 +95,7 @@ ________________________________________________________________________________
 * 🍝 Accenture San Francisco Innovation Hub Wellness Dinner
 * ➡️ Accenture Mountain View ML & Data Science Lecturer at UCI ICS STATS 5 Data Science Seminar - 100+ Attendees
 * 📕 Facilitator of June Wellness Event at Accenture Mountain View (Repo)
-* 🥑 Chief of Guacamole Toast Making and Ice Cream Wellness Event at Accenture Mountain View (Repo)
+* 🥑 Chief of Guacamole Sourdough Toast Making and Ice Cream Wellness Event at Accenture Mountain View (Repo)
 * 🎨 Creator of Sip and Paint Wellness Event at Accenture Mountain View - 100% reserved [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-19)
 * 🧺 Executive of Rengstorff Park Picnic and Play Wellness Event at Accenture Mountain View - 100% taken [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-16)
 * 🧋 Manager of Boba Pup and Board Games Wellness Event at Accenture Mountain View - 100% in [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-15)
