@@ -16,9 +16,9 @@ ________________________________________________________________________________
 8. Mountain View Penn Medicine Radiation Oncology Global Radiation Oncology Data Science - [UCI ICS Google Scholar](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en) (6 years)
 9. Mountain View Avanade & Accenture Wellness - 🌸🙏🏼🍇🏺💅🏼💆🏻‍♀️☕🍫🕯️💐🏃🏻‍♀️🧴🪞⛳🧋🧺🎨🥑📕🌷🧘🏻‍♀️🐚🍃🍒⚪🫧🌹🌻🧼🍝🥂🛁 (2 years)
 10. Mountain View & Northern California Avanade & Accenture Office (6 years)
-11. Mountain View & Northern California Avanade & Accenture Social & Networking (6 years)
+11. Mountain View & Northern California Avanade & Accenture Social Engagement & Networking (6 years)
 12. Mountain View & San Francisco Avanade & Accenture Data Science for Social Good
-13. Northern California Avanade Social & Networking
+13. Northern California Avanade Social Engagement & Networking
 14. Irvine Up to Us National Debt Marketing Data Science, Strategy, and Business Intelligence - [UCI Merage Credly](https://www.credly.com/users/shawna-tuli/badges) (0.5 years)
 15. Bicoastal Indian American (Brown) Community (Life)
 __________________________________________________________________________________________________________________________________________________________________________
@@ -59,7 +59,7 @@ ________________________________________________________________________________
 
 #### BIG TECH ML & DATA SCIENCE LEADERSHIP (2014-Present) 
 * 🎯 **Goal:** ML & Data Science Manager at Google Mountain View, Microsoft Mountain View, or Amazon Mountain View
-* 👡 Avanade Northern California Social & Networking Lead
+* 👡 Avanade Northern California Social Engagement & Networking Lead
 * 🫧 Wellness Event at Accenture Mountain View (Repo) 
 * 🌹 Accenture Mountain View Wellness Kits Facilitator (2x)
 * ♠️ Accenture Mountain View Northern California APAERG Board Game Social across NorCal Offices Poker Hostess 
@@ -156,7 +156,7 @@ ________________________________________________________________________________
 * 🍏 Freakonomics Radio Live with Stephen Dubner and special guests San Francisco
 * ❄️ Accenture San Francisco Innovation Hub AI Holiday Party
 * 🎄 Accenture San Francisco Innovation Hub Holidays Party (6x)
-* 👠 Avanade Northern California Social & Networking Champion - assembling and holding monthly events for 50+
+* 👠 Avanade Northern California Social Engagement & Networking Champion - assembling and holding monthly events for 50+
 * 🌎 Google AI for everyone Global Virtual Summit [(Videos)](https://careersonair.withgoogle.com/events/aiforeveryone24)
 * 🔍 4) Accenture V360 Awards Nominee - created AI utility rate case management, led 7 Data Scientists [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture/tree/main) [(Student Repo)](https://github.com/bsteier/GRCResponder)
 * 🚚 2. ML & Data Science Manager at Amazon Mountain View - led 4 Cloud Engineers on PB mailboxes
