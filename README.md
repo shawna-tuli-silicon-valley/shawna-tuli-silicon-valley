@@ -17,7 +17,7 @@ ________________________________________________________________________________
 9. Mountain View Avanade & Accenture Wellness - 🌸🙏🏼🍇🏺💅🏼💆🏻‍♀️☕🍫🕯️💐🏃🏻‍♀️🧴🪞⛳🧋🧺🎨🥑📕🌷🧘🏻‍♀️🐚🍃🍒⚪🫧🌹🌻🧼🍝🥂🛁 (2 years)
 10. Mountain View & Northern California Avanade & Accenture Office (6 years)
 11. Mountain View & Northern California Avanade & Accenture Social Engagement & Networking (6 years)
-12. Mountain View & Northern California Avanade & Accenture Social Engagement & Networking Events
+12. Mountain View & Northern California Avanade & Accenture Social Engagement & Networking Events - 🏖️🎄
 13. Mountain View & San Francisco Avanade & Accenture Data Science for Social Good
 14. Irvine Up to Us National Debt Marketing Data Science, Strategy, and Business Intelligence - [UCI Merage Credly](https://www.credly.com/users/shawna-tuli/badges) (0.5 years)
 15. Bicoastal Indian American (Brown) Community (Life)
@@ -59,6 +59,8 @@ ________________________________________________________________________________
 
 #### BIG TECH ML & DATA SCIENCE LEADERSHIP (2014-Present) 
 * 🎯 **Goal:** ML & Data Science Manager at Google Mountain View, Microsoft Mountain View, or Amazon Mountain View
+* 🎄 Initiator of Holiday Party at Accenture San Francisco Innovation Hub (Repo) 
+* 🏖️ Originator of Beach Picnic Event at Accenture Mountain View (Repo) 
 * 👡 Avanade Mountain View & Northern California Social Engagement & Networking Events Lead
 * 🧼 Artisanal Soap Making Wellness Event at Accenture Mountain View (Repo) 
 * 🌹 Accenture Mountain View Wellness Kits Facilitator (2x)
@@ -80,12 +82,12 @@ ________________________________________________________________________________
 * 🗻 Accenture Mountain View Microsoft Azure Summit: Migrate and Modernize with Agentic AI
 * 🎆 Microsoft San Francisco Fireworks on Microsoft Foundry Launch
 * 🌻 December Wellness Event at Accenture Mountain View (Repo)
-* 🛁 Immersion Spa Palo Alto Day Wellness Event at Accenture Mountain View (Repo)
+* 🛁 Pioneer of Immersion Spa Palo Alto Day Wellness Event at Accenture Mountain View (Repo)
 * ⚪ Off the Clock - Pickleball & Bocce Ball with Rebecca Lee - 100% reserved [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-20)
-* 🍃 Make Your Own Matcha Wellness Event at Accenture Mountain View (Repo)
-* 🐚 Santa Cruz West Cliff Drive Wellness Event at Accenture Mountain View (Repo)
-* 🍒 Mulberry Picking Wellness Event at Accenture Mountain View - 100% full [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-18)
-* 🧘🏻‍♀️ Equinox Fusion Pilates Wellness Event at Accenture Mountain View - 100% booked [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-17) 
+* 🍃 Generator of Make Your Own Matcha Wellness Event at Accenture Mountain View (Repo)
+* 🐚 Facilitator of Santa Cruz West Cliff Drive Wellness Event at Accenture Mountain View (Repo)
+* 🍒 Designer of Mulberry Picking Wellness Event at Accenture Mountain View - 100% full [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-18)
+* 🧘🏻‍♀️ Coordinator of Equinox Fusion Pilates Wellness Event at Accenture Mountain View - 100% booked [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-17) 
 * 💍 Accenture San Francisco Innovation Hub NorCal Engagement Leadership Bonding
 * 🛠️ Microsoft Build Conference San Francisco 
 * 🦅 Business Analyst at Fortune 500 Information Technology & Services Company Mountain View [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-federal-services-arlington-business-analytics/tree/main)
