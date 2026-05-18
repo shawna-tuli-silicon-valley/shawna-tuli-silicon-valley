@@ -149,7 +149,7 @@ ________________________________________________________________________________
 * 🎤 Elocutionist of Powering Your Network at International Women's Day at Accenture Mountain View - 100% full [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-iwd-1)
 * 📒 Microsoft's Better Together: Innovate, Inspire, Impact - The Future of Leadership Mountain View 
 * 🌸 Instructor at Accenture Mountain View Wellness Fair 
-* 🚋 ML & Data Science Educator at Accenture San Francisco Innovation Hub University of Washington Recruitment 
+* 🚋 ML & Data Science Panelist at Accenture San Francisco Innovation Hub University of Washington MSIS Recruitment 
 * 🗣️ Accenture San Francisco Innovation Hub FY25 Asian Pacific American Employee Resource Group Leadership Summit
 * 🛢️ CES [(Videos)](https://videos.ces.tech/)
 * 🚗 5) Accenture ML & Data Science Advisor - business modeled Uber and led 5 Data Scientists [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-bi-and-data-science/tree/main) [(Student Repo)](https://github.com/jiangyue-amber/uber-analysis) 
