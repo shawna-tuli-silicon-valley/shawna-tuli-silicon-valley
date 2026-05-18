@@ -19,9 +19,8 @@ ________________________________________________________________________________
 11. Mountain View & Northern California Avanade & Accenture Social Engagement & Networking (6 years)
 12. Mountain View & Northern California Avanade & Accenture Social Engagement & Networking Events
 13. Mountain View & San Francisco Avanade & Accenture Data Science for Social Good
-14. Northern California Avanade Social Engagement & Networking
-15. Irvine Up to Us National Debt Marketing Data Science, Strategy, and Business Intelligence - [UCI Merage Credly](https://www.credly.com/users/shawna-tuli/badges) (0.5 years)
-16. Bicoastal Indian American (Brown) Community (Life)
+14. Irvine Up to Us National Debt Marketing Data Science, Strategy, and Business Intelligence - [UCI Merage Credly](https://www.credly.com/users/shawna-tuli/badges) (0.5 years)
+15. Bicoastal Indian American (Brown) Community (Life)
 __________________________________________________________________________________________________________________________________________________________________________
 #### BIG TECH AWARD HIGHLIGHTS
 1. AWS re:Invent Conference | Las Vegas
