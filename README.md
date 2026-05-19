@@ -59,7 +59,7 @@ ________________________________________________________________________________
 
 #### BIG TECH ML & DATA SCIENCE LEADERSHIP (2014-Present) 
 * 🎯 **Goal:** ML & Data Science Manager at Google Mountain View, Microsoft Mountain View, or Amazon Mountain View
-* 🎄 Initiator of Holidays Party at Accenture San Francisco Innovation Hub (Repo) 
+* 🎄 Initiator of Holiday Party at Accenture San Francisco Innovation Hub (Repo) 
 * 🏖️ Originator of Beach Picnic Event at Accenture Mountain View (Repo) 
 * 👡 Avanade Mountain View & Northern California Social Engagement & Networking Events Lead
 * 🧼 Artisanal Soap Making Wellness Event at Accenture Mountain View (Repo) 
@@ -156,8 +156,8 @@ ________________________________________________________________________________
 * 🛢️ CES [(Videos)](https://videos.ces.tech/)
 * 🚗 5) Accenture ML & Data Science Advisor - business modeled Uber and led 5 Data Scientists [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-bi-and-data-science/tree/main) [(Student Repo)](https://github.com/jiangyue-amber/uber-analysis) 
 * 🍏 Freakonomics Radio Live with Stephen Dubner and special guests San Francisco
-* ❄️ Accenture San Francisco Innovation Hub AI Holidays Party
-* 🎄 Accenture San Francisco Innovation Hub Holidayss Party (6x)
+* ❄️ Accenture San Francisco Innovation Hub AI Holiday Party
+* 🎄 Accenture San Francisco Innovation Hub Holidays Party (6x)
 * 👠 Avanade Northern California Social Engagement & Networking Champion - assembling and holding monthly events for 50+
 * 🌎 Google AI for everyone Global Virtual Summit [(Videos)](https://careersonair.withgoogle.com/events/aiforeveryone24)
 * 🔍 4) Accenture V360 Awards Nominee - created AI utility rate case management, led 7 Data Scientists [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture/tree/main) [(Student Repo)](https://github.com/bsteier/GRCResponder)
