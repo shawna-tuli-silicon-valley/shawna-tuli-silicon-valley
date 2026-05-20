@@ -14,10 +14,10 @@ ________________________________________________________________________________
 6. California Accenture ML & Data Science and Strategy - [Accenture California Data & AI Google Scholar](https://scholar.google.com/citations?hl=en&user=7F6YV8MAAAAJ) (6 years)
 7. Mountain View & San Francisco Advisor - [Harvard Business Review](https://hbr.org/) and [LinkedIn](https://www.linkedin.com/) (6 years)
 8. Mountain View Penn Medicine Radiation Oncology Global Radiation Oncology Data Science - [UCI ICS Google Scholar](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en) (6 years)
-9. Mountain View Avanade & Accenture Wellness - 🌸🙏🏼🍇🏺💅🏼💆🏻‍♀️☕🍫🕯️💐🏃🏻‍♀️🧴🪞⛳🧋🧺🎨🥑📕🌷🧘🏻‍♀️🐚🍃🍒⚪🫧🌹🌻🧼🍝🥂🛁 (2 years)
+9. Mountain View Avanade & Accenture Wellness - 🌸🙏🏼🍇🏺💅🏼💆🏻‍♀️☕🍫🕯️💐🏃🏻‍♀️🧴🪞⛳🧋🧺🎨🥑🌷🧘🏻‍♀️🐚🍃🍒⚪🫧🌹🌻🧼🍝🥂🛁🌬️ (2 years)
 10. Mountain View & Northern California Avanade & Accenture Office (6 years)
 11. Mountain View & Northern California Avanade & Accenture Social Engagement & Networking (6 years)
-12. Mountain View & Northern California Avanade & Accenture Social Engagement & Networking Events - 🏖️🎄
+12. Mountain View & Northern California Avanade & Accenture Social Engagement & Networking Events - 📕🏖️🎄
 13. Mountain View & San Francisco Avanade & Accenture Data Science for Social Good
 14. Irvine Up to Us National Debt Marketing Data Science, Strategy, and Business Intelligence - [UCI Merage Credly](https://www.credly.com/users/shawna-tuli/badges) (0.5 years)
 15. Bicoastal Indian American (Brown) Community (Life)
@@ -60,7 +60,7 @@ ________________________________________________________________________________
 #### BIG TECH ML & DATA SCIENCE LEADERSHIP (2014-Present) 
 * 🎯 **Goal:** ML & Data Science Manager at Google Mountain View, Microsoft Mountain View, or Amazon Mountain View
 * 🎄 Initiator of Holiday Party at Accenture San Francisco Innovation Hub (Repo) 
-* 🏖️ Originator of Beach Picnic Event at Accenture Mountain View (Repo) 
+* 🏖️ Originator of Beach Picnic at Accenture Mountain View (Repo) 
 * 👡 Avanade Mountain View & Northern California Social Engagement & Networking Events Lead
 * 🧼 Artisanal Soap Making Wellness Event at Accenture Mountain View (Repo) 
 * 🌹 Accenture Mountain View Wellness Kits Facilitator (2x)
@@ -81,6 +81,7 @@ ________________________________________________________________________________
 * 🛸 Microsoft Mountain View Better Together: Leading Ahead | Women, AI & the Future of Leadership Conference (2x)
 * 🗻 Accenture Mountain View Microsoft Azure Summit: Migrate and Modernize with Agentic AI
 * 🎆 Microsoft San Francisco Fireworks on Microsoft Foundry Launch
+* 📕 Director of Book Club at Accenture Mountain View (Repo) 
 * 🌻 December Wellness Event at Accenture Mountain View (Repo)
 * 🛁 Pioneer of Immersion Spa Palo Alto Day Wellness Event at Accenture Mountain View (Repo)
 * ⚪ Off the Clock - Pickleball & Bocce Ball with Rebecca Lee - 100% reserved [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-20)
@@ -96,7 +97,7 @@ ________________________________________________________________________________
 * ⚱️ Cantor Arts Center at Stanford University Visit
 * 🍝 Accenture San Francisco Innovation Hub Wellness Dinner
 * ➡️ Accenture Mountain View ML & Data Science Lecturer at UCI ICS STATS 5 Data Science Seminar - 100+ Attendees
-* 📕 Facilitator of June Wellness Event at Accenture Mountain View (Repo)
+* 🌬️ Facilitator of Breathwork Wellness Event at Accenture Mountain View (Repo)
 * 🥑 Chief of Guacamole Sourdough Toast Making and Ice Cream Wellness Event at Accenture Mountain View (Repo)
 * 🎨 Creator of Sip and Paint Wellness Event at Accenture Mountain View - 100% reserved [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-19)
 * 🧺 Executive of Rengstorff Park Picnic and Play Wellness Event at Accenture Mountain View - 100% taken [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-16)
