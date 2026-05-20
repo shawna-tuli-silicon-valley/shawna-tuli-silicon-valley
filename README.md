@@ -78,11 +78,12 @@ ________________________________________________________________________________
 * 📑 Accenture Mountain View & San Francisco Innovation Hub Data Science for Social Good Co-Lead 
 * 📚 Stanford University Libraries (3x)
 * 🌿 Accenture Mountain View & San Francisco Innovation Hub Avanade Recognition
-* 🛸 Microsoft Mountain View Better Together: Leading Ahead | Women, AI & the Future of Leadership Conference (2x)
+* 🛸 Microsoft Mountain View Better Together: Leading Ahead | Women, AI & the Future of Leadership Conference (3x)
 * 🗻 Accenture Mountain View Microsoft Azure Summit: Migrate and Modernize with Agentic AI
 * 🎆 Microsoft San Francisco Fireworks on Microsoft Foundry Launch
 * 📕 Director of Book Club at Accenture Mountain View (Repo) 
 * 🌻 December Wellness Event at Accenture Mountain View (Repo)
+* ❤️‍🔥 Microsoft Better Together: Leading Ahead | Women, AI & the Future of Leadership Conference | Mountain View (3x)
 * 🛁 Pioneer of Immersion Spa Palo Alto Day Wellness Event at Accenture Mountain View (Repo)
 * ⚪ Off the Clock - Pickleball & Bocce Ball with Rebecca Lee - 100% reserved [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-20)
 * 🍃 Generator of Make Your Own Matcha Wellness Event at Accenture Mountain View - 100% in (Repo)
@@ -110,9 +111,9 @@ ________________________________________________________________________________
 * ⚕️ Senior AI Engineer at Fortune 500 Biotechnology Company Mountain View - led a Business Analyst 
 * 💫 Accenture Mountain View DSSG Lead at UWBA Phase 5, leading 5 Data Scientists - 1 article [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-uwba-ai-and-data-science-4/tree/main)
 * 🤖 5) Accenture V360 Awards Nominee - developing Agentic AI for multiple industries and leading 4 Data Scientists [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-agentic-ai/)
-* </> Bay Area ICS Alumni Reception Palo Alto 
-* ❤️‍🔥 Microsoft Ignite Conference San Francisco
-* 🩵 Google Cloud Next Conference Las Vegas (2x)
+* </> Bay Area ICS Alumni Reception Palo Alto
+* 🌥️ AWS re:Invent Conference
+* 🩵 Google Cloud Next Conference Las Vegas
 * 👩🏻‍🎓 Avanade Mountain View SISA Apprentice Program 
 * 🎃 Accenture San Francisco Innovation Hub Annual Oktoberfest Celebration
 * 📩 PayPal x Women Impact Tech | Hiring and Networking San Jose [(Repo)](https://github.com/shawna-tuli-silicon-valley/paypal-data-science-recruitment/tree/main)
@@ -169,7 +170,7 @@ ________________________________________________________________________________
 * 🗳️ Accenture Mountain View & San Francisco Innovation Hub DSSG Lead at UWBA Brunch & Ballots [(Repo)](https://github.com/shawna-tuli-silicon-valley/uwba-ai-and-data-science/tree/main)
 * 📘 Accenture Mountain View & San Francisco Innovation Hub Amazon Account Learn & Grow Mentor - teaching AI
 * 🏖️ Google Cloud Launchpad for Women: Edition 3 
-* 🔥 Microsoft Ignite (5x) [(Episodes)](https://ignite.microsoft.com/en-US/home)
+* 🔥 Microsoft Ignite (6x) [(Episodes)](https://ignite.microsoft.com/en-US/home)
 * ☀️ Accenture Mountain View & San Francisco Innovation Hub AI & Automation Practice Solution Architect - solutioned AI
 * 𓊍 Microsoft Avanade Northern California Climb to the Top: San Francisco 2024 [(Article)](https://events.nationalmssociety.org/index.cfm?fuseaction=donorDrive.participant&participantID=571802)
 * 🎁 Avanade Mountain View & San Francisco Innovation Hub AI & Automation Practice CA - advising 2 Data Scientists
@@ -186,11 +187,11 @@ ________________________________________________________________________________
 * 🗽 Accenture New York Innovation Hub Visit (3x)
 * 🎙 Emcee at Avanade North America Data & AI Community Call 
 * 🔦 Storyteller at Avanade AI & Automation Practice Mountain View Amazon Migration
-* 💘 Google Bay Area International Women's Day (2x) - recruited to Google Mountain View ML & Data Science [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-bay-area-international-womens-day/tree/main)
+* 💘 Google Bay Area International Women's Day (3x) - recruited to Google Mountain View ML & Data Science [(Repo)](https://github.com/shawna-tuli-silicon-valley/google-bay-area-international-womens-day/tree/main)
 * 🗿 Avanade Mountain View Leadership Accelerator - chosen to inspire greatness and excel in People Leadership
 * 🌅 Avanade Mountain View AI Studio Forecasting Champion
-* 🎧 Accenture Mountain View & San Francisco Innovation Hub International Women's Day (6x)
-* 🌺 Avanade Mountain View & San Francisco Innovation Hub International Women's Day (6x)
+* 🎧 Accenture Mountain View & San Francisco Innovation Hub International Women's Day (7x)
+* 🌺 Avanade Mountain View & San Francisco Innovation Hub International Women's Day (7x)
 * ❣️ Google Cloud Launchpad for Women
 * 🆕 3) Accenture V360 Awards Nominee - used LLMs to reform call centers nationally, led 4 Data Scientists [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-call-centers-genai-and-predictive-analytics) [(Student Repo)](https://github.com/data-sci-capstone/copilot)
 * 🌉 Accenture Mountain View Data Science for Social Good (DSSG) Lead at UWBA Phase 2 and led 3 Data Scientists [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-uwba-data-science)
@@ -202,7 +203,7 @@ ________________________________________________________________________________
 * 🌁 Accenture San Francisco Innovation Hub Generative AI Studio Member [(Article)](https://newsroom.accenture.com/news/2023/accenture-to-launch-network-of-generative-ai-studios-to-help-clients-accelerate-use-of-data-and-ai-technologies)
 * 🌄 Avanade AI & Automation and Intelligent Data Platform Practices Northern California Lead - arranged events for 8
 * 📦 1. ML & Data Science Manager at Amazon Mountain View - analyzed PB mailboxes and led 4 Cloud Engineers [(Repo)](https://github.com/shawna-tuli-silicon-valley/amazon-mountain-view-ai-and-data-science/tree/main)
-* ❤️ Google I/O Conference (7x)
+* ❤️ Google I/O Conference (8x)
 * ⚡ Generative AI, ML, Data Science, Advanced Analytics, and Data Visualization Expert at LinkedIn Collaborative Articles
 * 👾 Avanade Mountain View Data & AI Forward Deployed Data Science & Advanced Analytics Associate Manager [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics-3)
 * 🦾 AI Lead at Fortune 500 Information Technology & Services Company San Francisco
@@ -214,7 +215,7 @@ ________________________________________________________________________________
 * 🎓 Google Data Science Panelist at The Reach Foundation Mountain View (2x) [(Article)](https://www.thereachfoundation.net/blog/j1ijbu5v5tz66u224ut8bsu9izojb9)
 * 📢 Software Engineer at Fortune 500 Company San Francisco
 * ✅ AI Data Scientist at Avanade San Francisco Innovation Hub
-* 🤍 Google Cloud Next Conference (5x) [(Next)](https://cloud.withgoogle.com/next/25)
+* 🤍 Google Cloud Next Conference (9x) [(Next)](https://cloud.withgoogle.com/next/25)
 * 💛 Databricks Data + AI Summit San Francisco [(Article)](https://www.databricks.com/blog/2022/06/24/know-before-you-go-data-ai-summit-2022.html)
 * ⚙️ Avanade San Francisco Innovation Hub Data & AI Data Science & Advanced Analytics Associate Manager [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics-2)
 * 🔮 2 National Science Foundation articles - predicted energy consumption with AI in California and led 5 Data Scientists [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-california-energy-and-ai-predictive-analytics-2)
@@ -246,7 +247,12 @@ ________________________________________________________________________________
 * 🏛️ Accenture Mountain View & San Francisco Innovation Hub Quarterly Town Halls (39x)
 * 📅 Avanade Mountain View & San Francisco Innovation Hub Quarterly Town Halls (39x)
 * 🖌️ San Francisco Museum of Modern Art Visit
-* 🐜 University of California, Irvine Donald Bren School of Information and Computer Sciences B.S. in Data Science Graduate 
+* 🐜 University of California, Irvine Donald Bren School of Information and Computer Sciences B.S. in Data Science Graduate
+* 🔬 Radiotherapy and Oncology Conference
+* 🥽 American Society for Radiation Oncology (ASTRO) Conference
+* 🧬 International Journal of Gynecological Cancer (IJGC) Conference
+* 🥼 International Conference on Malignancies in HIV/AIDS (ICMH) Conference
+* 🩺 European Society of Medical Oncology (ESMO) Conference
 * 📊 24 Penn Medicine Radiation Oncology articles and led 30+ Surgeons, Doctors, and Students [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-penn-medicine-global-radiation-oncology-analytics) [(Google Scholar)](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en)
 * 🍊 Grace Hopper Celebration of Women in Computing Conference Orlando [(Repo)](https://github.com/shawna-tuli-silicon-valley/grace-hopper-celebration-of-women-in-engineering/tree/main)
 * 🖼️ Avanade Irvine Data Engineer Intern - created an Azure AI product via computer vision and an one-shot GAN [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-irvine-ai-product)
