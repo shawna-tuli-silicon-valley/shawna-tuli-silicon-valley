@@ -84,8 +84,8 @@ ________________________________________________________________________________
 * 🌻 December Wellness Event at Accenture Mountain View (Repo)
 * 🛁 Pioneer of Immersion Spa Palo Alto Day Wellness Event at Accenture Mountain View (Repo)
 * ⚪ Off the Clock - Pickleball & Bocce Ball with Rebecca Lee - 100% reserved [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-20)
-* 🍃 Generator of Make Your Own Matcha Wellness Event at Accenture Mountain View (Repo)
-* 🐚 Facilitator of Santa Cruz West Cliff Drive Wellness Event at Accenture Mountain View (Repo)
+* 🍃 Generator of Make Your Own Matcha Wellness Event at Accenture Mountain View - 100% in (Repo)
+* 🐚 Facilitator of Santa Cruz West Cliff Drive Steps Wellness Event at Accenture Mountain View - 100% taken (Repo)
 * 🍒 Designer of Mulberry Picking Wellness Event at Accenture Mountain View - 100% full [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-18)
 * 🧘🏻‍♀️ Coordinator of Equinox Fusion Pilates Wellness Event at Accenture Mountain View - 100% booked [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-17) 
 * 💍 Accenture San Francisco Innovation Hub NorCal Engagement Leadership Bonding
