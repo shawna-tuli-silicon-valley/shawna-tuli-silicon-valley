@@ -59,7 +59,7 @@ ________________________________________________________________________________
 
 #### BIG TECH ML & DATA SCIENCE LEADERSHIP (2014-Present) 
 * 🎯 **Goal:** ML & Data Science Manager at Google Mountain View, Microsoft Mountain View, or Amazon Mountain View
-* ✴️ Claude Specialist at Avanade & Accenture Mountain View & Northern California Social Engagement & Networking Training
+* ✴️ Claude Specialist at Avanade & Accenture Mountain View & Northern California Social Engagement & Networking Training (Repo)
 * 🎄 Initiator of Holiday Party at Accenture San Francisco Innovation Hub (Repo) 
 * 🏖️ Originator of Beach Picnic at Accenture Mountain View (Repo) 
 * 👡 Avanade Mountain View & Northern California Social Engagement & Networking Events Lead
@@ -67,7 +67,7 @@ ________________________________________________________________________________
 * 🌹 Accenture Mountain View Wellness Kits Facilitator (2x)
 * ♠️ Accenture Mountain View Northern California APAERG Board Game Social across NorCal Offices Poker Hostess 
 * 🥂 Accenture San Francisco Innovation Hub Wellness Happy Hour
-* 👑 Incoming Lead at Fortune 500 Company Mountain View 
+* 👑 Incoming ML & Data Science Lead at Fortune 500 Company Mountain View 
 * 🪑 Avanade Bench Status Series Speaker 
 * 🫧 Accenture Mountain View & San Francisco Innovation Hub Massages (2x)
 * ❓ Accenture San Francisco Innovation Hub US Leadership Visit – Q&A and Happy Hour 
