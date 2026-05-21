@@ -14,7 +14,7 @@ ________________________________________________________________________________
 6. California Accenture ML & Data Science and Strategy - [Accenture California Data & AI Google Scholar](https://scholar.google.com/citations?hl=en&user=7F6YV8MAAAAJ) (6 years)
 7. Mountain View & San Francisco Advisor - [Harvard Business Review](https://hbr.org/) and [LinkedIn](https://www.linkedin.com/) (6 years)
 8. Mountain View Penn Medicine Radiation Oncology Global Radiation Oncology Data Science - [UCI ICS Google Scholar](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en) (6 years)
-9. Mountain View Avanade & Accenture Wellness - 🌸🙏🏼🍇🏺💅🏼💆🏻‍♀️☕🍫🕯️💐🏃🏻‍♀️🧴🪞⛳🧋🧺🎨🥑🌷🧘🏻‍♀️🐚🍃🍒⚪🫧🌹🌻🧼🍝🥂🛁🌬️ (2 years)
+9. Mountain View Avanade & Accenture Wellness - 🌸🙏🏼🍇🏺💅🏼💆🏻‍♀️☕🍫🕯️💐🏃🏻‍♀️🧴🪞⛳🧋🧺🎨🥑🌷🧘🏻‍♀️🐚🍃🍒⚪🫧🌹☀️🌻🧼🍝🥂🛁🌬️ (2 years)
 10. Mountain View & Northern California Avanade & Accenture Office (6 years)
 11. Mountain View & Northern California Avanade & Accenture Social Engagement & Networking (6 years)
 12. Mountain View & Northern California Avanade & Accenture Social Engagement & Networking Events - 📕🏖️🎄
@@ -84,6 +84,7 @@ ________________________________________________________________________________
 * 🎆 Microsoft San Francisco Fireworks on Microsoft Foundry Launch
 * 📕 Director of Book Club at Accenture Mountain View (Repo) 
 * 🌻 December Wellness Event at Accenture Mountain View (Repo)
+* ☀️ November Wellness Event at Accenture Mountain View (Repo)
 * ❤️‍🔥 Microsoft Better Together: Leading Ahead | Women, AI & the Future of Leadership Conference | Mountain View (3x)
 * 🛁 Pioneer of Immersion Spa Palo Alto Day Wellness Event at Accenture Mountain View (Repo)
 * ⚪ Off the Clock - Pickleball & Bocce Ball with Rebecca Lee - 100% reserved [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-20)
@@ -119,7 +120,7 @@ ________________________________________________________________________________
 * 🎃 Accenture San Francisco Innovation Hub Annual Oktoberfest Celebration
 * 📩 PayPal x Women Impact Tech | Hiring and Networking San Jose [(Repo)](https://github.com/shawna-tuli-silicon-valley/paypal-data-science-recruitment/tree/main)
 * 🥂 Accenture New York Innovation Hub Diwali Party (3x)
-* 📐 Accenture Mountain View & San Francisco Innovation Hub AI & Automation Practice AI Solution Architect - solutioning AI
+* 📐 Accenture Mountain View & San Francisco Innovation Hub AI & Automation Practice AI Solution Architect - solutioning AI (2x)
 * 📫 Accenture San Francisco Innovation Hub Amazon All-People Connect
 * 🪔 KPMG Santa Clara Diwali Party
 * 🦚 Accenture Pleasanton Diwali Party (2x)
@@ -171,8 +172,7 @@ ________________________________________________________________________________
 * 🗳️ Accenture Mountain View & San Francisco Innovation Hub DSSG Lead at UWBA Brunch & Ballots [(Repo)](https://github.com/shawna-tuli-silicon-valley/uwba-ai-and-data-science/tree/main)
 * 📘 Accenture Mountain View & San Francisco Innovation Hub Amazon Account Learn & Grow Mentor - teaching AI
 * 🏖️ Google Cloud Launchpad for Women: Edition 3 
-* 🔥 Microsoft Ignite (6x) [(Episodes)](https://ignite.microsoft.com/en-US/home)
-* ☀️ Accenture Mountain View & San Francisco Innovation Hub AI & Automation Practice Solution Architect - solutioned AI
+* 🔥 Microsoft Ignite (6x) [(Episodes)](https://ignite.microsoft.com/en-US/home) 
 * 𓊍 Microsoft Avanade Northern California Climb to the Top: San Francisco 2024 [(Article)](https://events.nationalmssociety.org/index.cfm?fuseaction=donorDrive.participant&participantID=571802)
 * 🎁 Avanade Mountain View & San Francisco Innovation Hub AI & Automation Practice CA - advising 2 Data Scientists
 * 🧿 Accenture Mountain View Wellness Committee Ambassador - ran events [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness)
