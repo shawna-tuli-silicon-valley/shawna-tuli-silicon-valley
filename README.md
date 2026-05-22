@@ -121,7 +121,7 @@ ________________________________________________________________________________
 * 🎃 Accenture San Francisco Innovation Hub Annual Oktoberfest Celebration
 * 📩 PayPal x Women Impact Tech | Hiring and Networking San Jose [(Repo)](https://github.com/shawna-tuli-silicon-valley/paypal-data-science-recruitment/tree/main)
 * 🥂 Accenture New York Innovation Hub Diwali Party (3x)
-* 📐 Accenture Mountain View & San Francisco Innovation Hub AI & Automation Practice AI Solution Architect - solutioning AI (2x)
+* 📐 Accenture Mountain View & San Francisco Innovation Hub AI & Automation Practice AI Solution Architect - solutioning AI (3x)
 * 📫 Accenture San Francisco Innovation Hub Amazon All-People Connect
 * 🪔 KPMG Santa Clara Diwali Party
 * 🦚 Accenture Pleasanton Diwali Party (2x)
