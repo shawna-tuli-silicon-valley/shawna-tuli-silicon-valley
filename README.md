@@ -103,8 +103,8 @@ ________________________________________________________________________________
 * 🍝 Accenture San Francisco Innovation Hub Wellness Dinner
 * ➡️ Accenture Mountain View ML & Data Science Lecturer at UCI ICS STATS 5 Data Science Seminar - 100+ Attendees
 * 🌬️ Facilitator of Breathwork Wellness Event at Accenture Mountain View (Repo)
-* 🥑 Chief of Guacamole Sourdough Toast Making and Ice Cream Wellness Event at Accenture Mountain View (Repo)
-* 🎨 Creator of Sip and Paint Wellness Event at Accenture Mountain View - 100% reserved [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-19)
+* 🥑 Chief of Whole Foods Guacamole Sourdough Toast Making and Ice Cream Wellness Event at Accenture Mountain View (Repo)
+* 🎨 Creator of Teaspoon Sip and Paint Wellness Event at Accenture Mountain View - 100% reserved [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-19)
 * 🧺 Executive of Rengstorff Park Picnic and Play Wellness Event at Accenture Mountain View - 100% taken [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-16)
 * 🧋 Manager of Boba Pup Boba and Board Games Wellness Event at Accenture Mountain View - 100% in [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-15)
 * ⛳ Planner of Topgolf Wellness Event at Accenture Mountain View - 100% booked [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-14)
