@@ -147,13 +147,13 @@ ________________________________________________________________________________
 * 🌏 World Summit AI USA Conference San Francisco
 * 💅🏼 Moderator of Elegance Nails and Spa Manicure and Pedicure Wellness Event at Accenture Mountain View - 100% full [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-5)
 * 🏺 Owner of Sculpd Pottery Making and Ceramic Painting Wellness Event at Accenture Mountain View - 100% booked [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-4/tree/main)
-* 🍇 Leader of Build Your Own Whole Foods Charcuterie Board Wellness Event at Accenture Mountain View - 100% in [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-3)
+* 🍇 Leader of Whole Foods Charcuterie Boarding Wellness Event at Accenture Mountain View - 100% in [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-3)
 * 💬 Microsoft Me Myself and My Copilot: An Introduction to Microsoft 365 Copilot Chat + Agents
 * 🌼 Accenture Mountain View Wellness Committee Member - orchestrating events
 * 🍽️ Accenture Mountain View & San Francisco Innovation Hub Third Thursdays (65x)
 * 모 Accenture Mountain View Computer History Museum Visit (2x)
 * 🎂 Avanade's 25th Anniversary San Francisco Happy Hour 
-* 🙏🏼 Hostess of Start Your Gratitude Journal to Improve Your Health Wellness Event at Accenture Mountain View - 100% in [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-2)
+* 🙏🏼 Hostess of Gratitude Journaling Wellness Event at Accenture Mountain View - 100% in [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-2)
 * 🎤 Elocutionist of Powering Your Network at International Women's Day at Accenture Mountain View - 100% full [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-iwd-1)
 * 📒 Microsoft's Better Together: Innovate, Inspire, Impact - The Future of Leadership Mountain View 
 * 🌸 Instructor at Accenture Mountain View Wellness Fair 
