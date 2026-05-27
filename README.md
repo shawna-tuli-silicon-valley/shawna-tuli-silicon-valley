@@ -84,13 +84,13 @@ ________________________________________________________________________________
 * 🛸 Microsoft Mountain View Better Together: Leading Ahead | Women, AI & the Future of Leadership Conference (3x)
 * 🗻 Accenture Mountain View Microsoft Azure Summit: Migrate and Modernize with Agentic AI
 * 🎆 Microsoft San Francisco Fireworks on Microsoft Foundry Launch
-* 🥗 Director of Sweetgreen Salads and Steps at Accenture Mountain View (Repo) 
+* 🥗 Director of Steps and Sweetgreen Salads at Accenture Mountain View (Repo) 
 * 🌻 December Wellness Event at Accenture Mountain View (Repo)
 * ☀️ November Wellness Event at Accenture Mountain View (Repo)
 * ❤️‍🔥 Microsoft Better Together: Leading Ahead | Women, AI & the Future of Leadership Conference | Mountain View (3x)
 * 🏊🏻 Pioneer of Immersion Spa Palo Alto Day Swimming Wellness Event at Accenture Mountain View (Repo)
 * ⚪ Off the Clock - Pickleball & Bocce Ball with Rebecca Lee - 100% reserved [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-20)
-* 🍃 Generator of Make Your Own Matcha Wellness Event at Accenture Mountain View - 100% in (Repo)
+* 🍃 Generator of Matcha Making and Vitality Bowls Acai Bowls Wellness Event at Accenture Mountain View - 100% in (Repo)
 * 🐚 Facilitator of Santa Cruz West Cliff Drive Steps Wellness Event at Accenture Mountain View - 100% taken (Repo)
 * 🍒 Designer of Mulberry Picking Wellness Event at Accenture Mountain View - 100% full [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-18)
 * 🧘🏻‍♀️ Coordinator of Equinox Fusion Pilates Wellness Event at Accenture Mountain View - 100% booked [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-17) 
