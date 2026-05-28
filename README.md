@@ -59,6 +59,7 @@ ________________________________________________________________________________
 
 #### BIG TECH ML & DATA SCIENCE LEADERSHIP (2014-Present) 
 * 🎯 **Goal:** ML & Data Science Manager at Google Mountain View, Microsoft Mountain View, or Amazon Mountain View
+* 🤎 Virtual Coffee Painting Social at Accenture Mountain View (Repo) 
 * 🌱 Amarin Thai High Protein Meals Wellness Event at Accenture Mountain View (Repo)
 * 🏸 Badminton Wellness Event at Accenture Mountain View (Repo)
 * ✴️ Claude Specialist at Avanade & Accenture Mountain View & Northern California Social Engagement & Networking (Repo)
@@ -133,7 +134,7 @@ ________________________________________________________________________________
 * 💐 Coordinator of Whole Foods Flower Bouquet Making Wellness Event at Accenture Mountain View - 100% reserved [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-11) 
 * 🕯️ Manager of Soy Candle Making Wellness Event at Accenture Mountain View - 100% taken [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-10)
 * 🍫 Moderator of TinyB Chocolate Making Wellness Event at Accenture Mountain View - 100% reserved [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-9)
-* ☕ Administrator of Coffee and Sa'ana Cafe Cake Tasting Wellness Event at Accenture Mountain View - 100% in [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-6/tree/main)
+* ☕ Administrator of Atlas Coffee Club World of Coffee and Sa'ana Cafe Cake Tasting Wellness Event at Accenture Mountain View - 100% in [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-6/tree/main)
 * 🏰 San Francisco Palace of Fine Arts Visit 
 * 🏠 Accenture Mountain View DSSG Lead at UWBA Phase 4, led 6 Data Scientists [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-uwba-ai-and-data-science-3)
 * 🔜 Avanade Create the Future Award
