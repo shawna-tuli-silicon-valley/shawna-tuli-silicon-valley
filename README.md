@@ -251,7 +251,7 @@ ________________________________________________________________________________
 * 🏛️ Accenture Mountain View & San Francisco Innovation Hub Quarterly Town Halls (39x)
 * 📅 Avanade Mountain View & San Francisco Innovation Hub Quarterly Town Halls (39x)
 * 🖌️ San Francisco Museum of Modern Art Visit
-* 🐜 University of California, Irvine Donald Bren School of Information and Computer Sciences B.S. in Data Science Graduate
+* 🐜 University of California, Irvine Donald Bren School of Information and Computer Sciences BS in Data Science Graduate
 * 🔬 Radiotherapy and Oncology Conference
 * 🥽 American Society for Radiation Oncology (ASTRO) Conference
 * 🧬 International Journal of Gynecological Cancer (IJGC) Conference
