@@ -429,18 +429,14 @@ ________________________________________________________________________________
 
 #### ![MICROSOFT](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)
 * Agentic AI 601 Learning Series powered by Microsoft, M365 CoPilot Prompting Masterclass, M365 CoPilot License, The Copilot Experience Essentials, AI-102 Microsoft Designing and Implementing a MS Azure AI Solution, Microsoft Azure AI Partner Council | Azure AI Search, Microsoft Azure Data and AI - Microsoft Partner Sales Strategy Training, Visual Studio, Microsoft Azure AI Foundry, AI-102 Azure AI Foundry and Agents Bootcamp, AI-102 Microsoft Certified: Azure AI Engineer Associate Certificate
-
-#### ![AMAZON](https://img.shields.io/badge/Amazon-FF9900.svg?style=for-the-badge&logo=Amazon&logoColor=white)
-
-#### ![DATABRICKS](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-* Databricks Certified Data Engineer Associate Certificate
+  
 ___________________________________________________________________________________________________________________________________________________________________________
 #### BOOKS & PODCASTS
 
 * Principles by Ray Dalio, Think Fast, Talk Smart: The Podcast, Think Fast Talk Smart: Communication Techniques, Strategy & Management [(Repo)](https://github.com/shawna-tuli-silicon-valley/strategy-and-management-books), Venture Capital [(Repo)](https://github.com/shawna-tuli-silicon-valley/venture-capital-books), National Public Radio, People I (Mostly) Admire, Likeable Badass: How Women Get the Success They Deserve, Stanford Business Magazine, TED Talks, Harvard Business Review, Freakonomics, Rich Habits Podcast
 ___________________________________________________________________________________________________________________________________________________________________________
 #### EDUCATION
-* Incoming Santa Clara University Leavey School of Business Evening Master of Business Administration, Entrepreneurship and New Venture Creation Concentration
+* Incoming Santa Clara University Leavey School of Business Evening Master of Business Administration, Entrepreneurship and New Venture Creation Concentration - Dean's Scholarship
 * Accenture Stanford University Department of Computer Science Certificate in Reinvention Agentic AI (Certificate)
 * Accenture Kellogg Education Education Certificate in Leading with Analytics & Artificial Intelligence Virtual Program [(Certificate)](https://execedcertificate.kellogg.northwestern.edu/308a9e71-d504-4194-9c74-22667c48e450#gs.utv39r)
 * Coursera Stanford University Department of Computer Science Certificate in Machine Learning [(Certificate)](https://www.coursera.org/account/accomplishments/certificate/47XPJRBC4F5C)
