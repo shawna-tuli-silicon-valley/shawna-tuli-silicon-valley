@@ -429,6 +429,8 @@ ________________________________________________________________________________
 
 #### ![MICROSOFT](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)
 * Agentic AI 601 Learning Series powered by Microsoft, M365 CoPilot Prompting Masterclass, M365 CoPilot License, The Copilot Experience Essentials, AI-102 Microsoft Designing and Implementing a MS Azure AI Solution, Microsoft Azure AI Partner Council | Azure AI Search, Microsoft Azure Data and AI - Microsoft Partner Sales Strategy Training, Visual Studio, Microsoft Azure AI Foundry, AI-102 Azure AI Foundry and Agents Bootcamp, AI-102 Microsoft Certified: Azure AI Engineer Associate Certificate
+
+#### ![AMAZON](https://img.shields.io/badge/Amazon-FF9900.svg?style=for-the-badge&logo=Amazon&logoColor=white)
   
 ___________________________________________________________________________________________________________________________________________________________________________
 #### BOOKS & PODCASTS
