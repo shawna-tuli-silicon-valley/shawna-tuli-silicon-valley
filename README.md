@@ -2,7 +2,7 @@
 
 
 
-Shawna Tuli is a seasoned **Mountain View & San Francisco** Machine Learning & Data Science, Advanced Analytics, Business Intelligence, Strategy, and Software Engineering Leader, Innovator, Advisor, and **San Jose native**, with **six years** as a Senior Data Scientist, Incoming Forward Deployed Data Science & Advanced Analytics Manager at Avanade, the Accenture Microsoft Business Group, and Accenture, and an Incoming MBA Candidate at Santa Clara University Leavey School of Business. She has a strong background in ***machine learning*** and ***data science***, interlacing ***agentic artificial intelligence, generative artificial intelligence***, ***advanced analytics***, ***software engineering***, ***business intelligence***, ***finance***, ***product strategy***, ***product analytics***, ***predictive modeling***, ***strategy***, ***data engineering***, and ***CFO & enterprise value***. Shawna is on the Executive and Corporate Board Director path with **twelve years** in ***big technology*** in **Silicon Valley**. Her strengths are Activator, Achiever, Futuristic, Competition, and Significance.   
+Shawna Tuli is a seasoned **Mountain View & San Francisco** Machine Learning & Data Science, Advanced Analytics, Business Intelligence, Strategy, and Software Engineering Leader, Innovator, Advisor, and **San Jose native**, with **six years** as a Senior Data Scientist, Incoming AI Forward Deployed Engineering Manager at Avanade, the Accenture Microsoft Business Group, and Accenture, and an Incoming MBA Candidate at Santa Clara University Leavey School of Business. She has a strong background in ***machine learning*** and ***data science***, interlacing ***agentic artificial intelligence, generative artificial intelligence***, ***advanced analytics***, ***software engineering***, ***business intelligence***, ***finance***, ***product strategy***, ***product analytics***, ***predictive modeling***, ***strategy***, ***data engineering***, and ***CFO & enterprise value***. Shawna is on the Executive and Corporate Board Director path with **twelve years** in ***big technology*** in **Silicon Valley**. Her strengths are Activator, Achiever, Futuristic, Competition, and Significance.   
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 #### LEADERSHIP HIGHLIGHTS
@@ -75,7 +75,7 @@ ________________________________________________________________________________
 * 🫧 Accenture Mountain View & San Francisco Innovation Hub Massages (2x)
 * ❓ Accenture San Francisco Innovation Hub US Leadership Visit – Q&A and Happy Hour 
 * 🌷 Accenture Mountain View Spring Frame Making
-* 📰 Incoming Avanade Mountain View Data & AI Forward Deployed Data Science & Advanced Analytics Manager (Repo)
+* 📰 Incoming Avanade Mountain View AI Forward Deployed Engineering Manager (Repo)
 * ⛰️ Presenter at United Way Bay Area SparkPoint Summit 
 * ☆ 6) Accenture V360 Awards Nominee - TBA
 * 📖 Incoming Santa Clara University Leavey School of Business Evening MBA Candidate
@@ -209,7 +209,7 @@ ________________________________________________________________________________
 * 📦 1. ML & Data Science Manager at Amazon Mountain View - analyzed PB mailboxes and led 4 Cloud Engineers [(Repo)](https://github.com/shawna-tuli-silicon-valley/amazon-mountain-view-ai-and-data-science/tree/main)
 * ❤️ Google I/O Conference (8x)
 * ⚡ Generative AI, ML, Data Science, Advanced Analytics, and Data Visualization Expert at LinkedIn Collaborative Articles
-* 👾 Avanade Mountain View Data & AI Forward Deployed Data Science & Advanced Analytics Associate Manager [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics-3)
+* 👾 Avanade Mountain View AI Forward Deployed Engineering Associate Manager [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics-3)
 * 🦾 AI Lead at Fortune 500 Information Technology & Services Company San Francisco
 * 🧠 ML & Data Science Advisor at Harvard Business Review [(Repo)](https://github.com/shawna-tuli-silicon-valley/harvard-business-review-advisory-council) [(Magazine)](https://hbr.org/)
 * 🦄 Accenture Ventures & Open Innovation West Ambassador 
