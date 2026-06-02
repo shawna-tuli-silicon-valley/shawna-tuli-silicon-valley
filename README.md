@@ -54,7 +54,8 @@ ________________________________________________________________________________
 29. International Conference on Malignancies in HIV/AIDS (ICMH) Conference
 30. European Society of Medical Oncology (ESMO) Conference
 31. Stanford University Libraries (3x)
-32. United Way Bay Area SparkPoint Summit 
+32. United Way Bay Area SparkPoint Summit
+33. Databricks Data + AI Summit | San Francisco (2x)
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 #### BIG TECH ML & DATA SCIENCE LEADERSHIP (2014-Present) 
