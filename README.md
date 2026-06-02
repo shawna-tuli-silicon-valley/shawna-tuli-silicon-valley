@@ -221,7 +221,7 @@ ________________________________________________________________________________
 * 📢 Software Engineer at Fortune 500 Company San Francisco
 * ✅ AI Data Scientist at Avanade San Francisco Innovation Hub
 * 🤍 Google Cloud Next Conference (9x) [(Next)](https://cloud.withgoogle.com/next/25)
-* 💛 Databricks Data + AI Summit San Francisco [(Article)](https://www.databricks.com/blog/2022/06/24/know-before-you-go-data-ai-summit-2022.html)
+* 💛 Databricks Data + AI Summit San Francisco (2x)
 * ⚙️ Avanade San Francisco Innovation Hub Data & AI Data Science & Advanced Analytics Associate Manager [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics-2)
 * 🔮 2 National Science Foundation articles - predicted energy consumption with AI in California and led 5 Data Scientists [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-california-energy-and-ai-predictive-analytics-2)
 * 📉 2) Accenture V360 Awards Nominee - forecasted energy with AI in California and led 4 Data Scientists [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-california-energy-ai-and-predictive-analytics) [(Student Repo)](https://github.com/shawna-tuli-silicon-valley/EnergyPredictionCA)
