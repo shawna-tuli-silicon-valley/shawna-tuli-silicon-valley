@@ -14,7 +14,7 @@ ________________________________________________________________________________
 6. California Accenture ML & Data Science and Strategy - [Accenture California Data & AI Google Scholar](https://scholar.google.com/citations?hl=en&user=7F6YV8MAAAAJ) (6 years)
 7. Mountain View & San Francisco Advisor - [Harvard Business Review](https://hbr.org/) and [LinkedIn](https://www.linkedin.com/) (6 years)
 8. Mountain View Penn Medicine Radiation Oncology Global Radiation Oncology Data Science - [UCI ICS Google Scholar](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en) (6 years)
-9. Mountain View Avanade & Accenture Wellness - 🌸🙏🏼🍇🏺💅🏼💆🏻‍♀️☕🍫🕯️💐🏃🏻‍♀️🧴🪞⛳🧋🧺🎨🥑🌷🧘🏻‍♀️🐚🍃🍒⚪🫧🌹☀️🌻🧼🍝🥂🏊🏻🌬️🏸🥗🌱 (2 years)
+9. Mountain View Avanade & Accenture Wellness - 🫒🌸🙏🏼🍇🏺💅🏼💆🏻‍♀️☕🍫🕯️💐🏃🏻‍♀️🧴🪞⛳🧋🧺🎨🥑🌷🧘🏻‍♀️🐚🍃🍒⚪🫧🌹☀️🌻🧼🍝🥂🏊🏻🌬️🏸🥗🌱 (2 years)
 10. Mountain View & Northern California Avanade & Accenture Office (6 years)
 11. Mountain View & Northern California Avanade & Accenture Social Engagement & Networking (6 years)
 12. Mountain View & Northern California Avanade & Accenture Social Engagement & Networking Events - 🏖️🎄
@@ -157,7 +157,8 @@ ________________________________________________________________________________
 * 🙏🏼 Hostess of Gratitude Journaling Wellness Event at Accenture Mountain View - 100% in [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-2)
 * 🎤 Elocutionist of Powering Your Network at International Women's Day at Accenture Mountain View - 100% full [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-iwd-1)
 * 📒 Microsoft's Better Together: Innovate, Inspire, Impact - The Future of Leadership Mountain View 
-* 🌸 Instructor at Accenture Mountain View Wellness Fair 
+* 🌸 Instructor at Accenture Mountain View Wellness Fair
+* 🫒 Olive Oil Tasting at Accenture Mountain View 
 * 🚋 ML & Data Science Panelist at Accenture San Francisco Innovation Hub University of Washington MSIS Recruitment 
 * 🗣️ Accenture San Francisco Innovation Hub FY25 Asian Pacific American Employee Resource Group Leadership Summit
 * 🛢️ CES [(Videos)](https://videos.ces.tech/)
