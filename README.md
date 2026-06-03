@@ -14,7 +14,7 @@ ________________________________________________________________________________
 6. California Accenture ML & Data Science and Strategy - [Accenture California Data & AI Google Scholar](https://scholar.google.com/citations?hl=en&user=7F6YV8MAAAAJ) (6 years)
 7. Mountain View & San Francisco Advisor - [Harvard Business Review](https://hbr.org/) and [LinkedIn](https://www.linkedin.com/) (6 years)
 8. Mountain View Penn Medicine Radiation Oncology Global Radiation Oncology Data Science - [UCI ICS Google Scholar](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en) (6 years)
-9. Mountain View Avanade & Accenture Wellness - 🫒🌸🙏🏼🍇🏺💅🏼💆🏻‍♀️☕🍫🕯️💐🏃🏻‍♀️🧴🪞⛳🧋🧺🎨🥑🌷🧘🏻‍♀️🐚🍃🍒⚪🫧🌹☀️🌻🧼🍝🥂🏊🏻🌬️🏸🥗🌱 (2 years)
+9. Mountain View Avanade & Accenture Wellness - 🫒🌸🙏🏼🍇🏺💅🏼💆🏻‍♀️☕🍫🕯️💐🏃🏻‍♀️🧴🪞⛳🧋🧺🎨🥑🌷🧘🏻‍♀️🐚🍃🍒🏓🫧🌹☀️🌻🧼🍝🥂🏊🏻🌬️🏸🥗🌱 (2 years)
 10. Mountain View & Northern California Avanade & Accenture Office (6 years)
 11. Mountain View & Northern California Avanade & Accenture Social Engagement & Networking (6 years)
 12. Mountain View & Northern California Avanade & Accenture Social Engagement & Networking Events - 🏖️🎄
@@ -79,7 +79,7 @@ ________________________________________________________________________________
 * 📰 Incoming Avanade Mountain View AI Forward Deployed Engineering Manager (Repo)
 * ⛰️ Presenter at United Way Bay Area SparkPoint Summit 
 * ☆ 6) Accenture V360 Awards Nominee - TBA
-* 📖 Incoming Santa Clara University Leavey School of Business Evening MBA Candidate
+* 📖 Incoming Santa Clara University Leavey School of Business Evening MBA Finance Candidate
 * 📑 Accenture Mountain View & San Francisco Innovation Hub Data Science for Social Good Co-Lead 
 * 📚 Stanford University Libraries (3x)
 * 🌿 Accenture Mountain View & San Francisco Innovation Hub Avanade Recognition
@@ -91,7 +91,7 @@ ________________________________________________________________________________
 * ☀️ November Wellness Event at Accenture Mountain View (Repo)
 * ❤️‍🔥 Microsoft Better Together: Leading Ahead | Women, AI & the Future of Leadership Conference | Mountain View (3x)
 * 🏊🏻 Pioneer of Immersion Spa Palo Alto Day Swimming Wellness Event at Accenture Mountain View (Repo)
-* ⚪ Off the Clock - Pickleball & Bocce Ball with Rebecca Lee - 100% reserved [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-20)
+* 🏓 Off the Clock - Pickleball & Bocce Ball with Rebecca Lee - 100% reserved [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-20)
 * 🍃 Generator of Matcha Making and Vitality Bowls Acai Bowls Wellness Event at Accenture Mountain View - 100% in [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-21)
 * 🐚 Facilitator of Santa Cruz West Cliff Drive Walk Wellness Event at Accenture Mountain View - 100% taken (Repo)
 * 🍒 Administrator of Mulberry Picking Wellness Event at Accenture Mountain View - 100% full [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-18)
