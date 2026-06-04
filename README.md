@@ -55,7 +55,7 @@ ________________________________________________________________________________
 30. European Society of Medical Oncology (ESMO) Conference
 31. Stanford University Libraries (3x)
 32. United Way Bay Area SparkPoint Summit
-33. Databricks Data + AI Summit | San Francisco (2x)
+33. Databricks Data + AI Summit | San Francisco
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 #### BIG TECH ML & DATA SCIENCE LEADERSHIP (2014-Present) 
@@ -162,7 +162,7 @@ ________________________________________________________________________________
 * 🎤 Elocutionist of Powering Your Network at International Women's Day at Accenture Mountain View - 100% full [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-iwd-1)
 * 📒 Microsoft's Better Together: Innovate, Inspire, Impact - The Future of Leadership Mountain View 
 * 🌸 Instructor at Accenture Mountain View Wellness Fair
-* 🫒 Olive Oil Tasting at Accenture Mountain View 
+* 🫒 Olive Oil Tasting Wellness Event at Accenture Mountain View 
 * 🚋 ML & Data Science Panelist at Accenture San Francisco Innovation Hub University of Washington MSIS Recruitment 
 * 🗣️ Accenture San Francisco Innovation Hub FY25 Asian Pacific American Employee Resource Group Leadership Summit
 * 🛢️ CES [(Videos)](https://videos.ces.tech/)
@@ -225,7 +225,7 @@ ________________________________________________________________________________
 * 📢 Software Engineer at Fortune 500 Company San Francisco
 * ✅ AI Data Scientist at Avanade San Francisco Innovation Hub
 * 🤍 Google Cloud Next Conference (9x) [(Next)](https://cloud.withgoogle.com/next/25)
-* 💛 Databricks Data + AI Summit San Francisco (2x)
+* 💛 Databricks Data + AI Summit San Francisco
 * ⚙️ Avanade San Francisco Innovation Hub Data & AI Data Science & Advanced Analytics Associate Manager [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics-2)
 * 🔮 2 National Science Foundation articles - predicted energy consumption with AI in California and led 5 Data Scientists [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-california-energy-and-ai-predictive-analytics-2)
 * 📉 2) Accenture V360 Awards Nominee - forecasted energy with AI in California and led 4 Data Scientists [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-california-energy-ai-and-predictive-analytics) [(Student Repo)](https://github.com/shawna-tuli-silicon-valley/EnergyPredictionCA)
