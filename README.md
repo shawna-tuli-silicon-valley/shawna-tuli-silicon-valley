@@ -60,11 +60,11 @@ ________________________________________________________________________________
 
 #### BIG TECH ML & DATA SCIENCE LEADERSHIP (2014-Present) 
 * 🎯 **Goal:** ML & Data Science Manager at Google Mountain View, Microsoft Mountain View, or Amazon Mountain View
-* 🫖 Tea Time Wellness Event at Accenture Mountain View (Repo) 
-* 🌶️ From Mild to Wild Wellness Event at Accenture Mountain View (Repo)
+* 🫖 Whole Foods Tea Time Wellness Event at Accenture Mountain View (Repo) 
+* 🌶️ Sakoon From Mild to Wild Wellness Event at Accenture Mountain View (Repo)
 * 🎾 Serve & Thrive Wellness Event at Accenture Mountain View (Repo) 
 * 🤎 Virtual Coffee Painting Social at Accenture Mountain View (Repo) 
-* 🌱 Protein-Powered Plates Wellness Event at Accenture Mountain View (Repo)
+* 🌱 Amarin Thai Protein-Powered Plates Wellness Event at Accenture Mountain View (Repo)
 * 🏸 Racket & Recharge Wellness Event at Accenture Mountain View (Repo)
 * ✴️ Claude Specialist at Avanade & Accenture Mountain View & Northern California Social Engagement & Networking (Repo)
 * 🎄 Initiator of Holiday Party at Accenture San Francisco Innovation Hub (Repo) 
@@ -89,16 +89,16 @@ ________________________________________________________________________________
 * 🛸 Microsoft Mountain View Better Together: Leading Ahead | Women, AI & the Future of Leadership Conference (3x)
 * 🗻 Accenture Mountain View Microsoft Azure Summit: Migrate and Modernize with Agentic AI
 * 🎆 Microsoft San Francisco Fireworks on Microsoft Foundry Launch
-* 🥗 Director of Steps and Sweetgreen Salads at Accenture Mountain View (Repo) 
+* 🥗 Director of Sweetgreen Salads and Steps at Accenture Mountain View (Repo) 
 * 🌻 December Wellness Event at Accenture Mountain View (Repo)
 * ☀️ November Wellness Event at Accenture Mountain View (Repo)
 * ❤️‍🔥 Microsoft Better Together: Leading Ahead | Women, AI & the Future of Leadership Conference | Mountain View (3x)
-* 🏊🏻 Pioneer of Soak, Swim & Soothe Wellness Event at Accenture Mountain View (Repo)
+* 🏊🏻 Pioneer of Immpersion Spa Palo Alto Soak, Swim & Soothe Wellness Event at Accenture Mountain View (Repo)
 * 🏓 Off the Clock - Pickleball & Bocce Ball with Rebecca Lee - 100% reserved [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-20)
 * 🍃 Generator of Matcha Making Experience Wellness Event at Accenture Mountain View - 100% in [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-21)
 * 🐚 Facilitator of Santa Cruz West Cliff Drive Walk Wellness Event at Accenture Mountain View - 100% taken (Repo)
 * 🍒 Administrator of Mindful Moments: Mulberry Picking Wellness Event at Accenture Mountain View - 100% full [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-18)
-* 🧘🏻‍♀️ Coordinator of Equinox Fusion Pilates Wellness Event at Accenture Mountain View - 100% booked [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-17) 
+* 🧘🏻‍♀️ Coordinator of Equinox Dynamic Flow: Pilates Fusion Wellness Event at Accenture Mountain View - 100% booked [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-17) 
 * 💍 Accenture San Francisco Innovation Hub NorCal Engagement Leadership Bonding
 * 🛠️ Microsoft Build Conference San Francisco 
 * 🦅 Business Analyst at Fortune 500 Information Technology & Services Company Mountain View [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-business-analytics)
