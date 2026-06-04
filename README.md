@@ -90,15 +90,15 @@ ________________________________________________________________________________
 * 🗻 Accenture Mountain View Microsoft Azure Summit: Migrate and Modernize with Agentic AI
 * 🎆 Microsoft San Francisco Fireworks on Microsoft Foundry Launch
 * 🥗 Director of Sweetgreen Salads and Steps at Accenture Mountain View (Repo) 
-* 🌻 December Wellness Event at Accenture Mountain View (Repo)
-* ☀️ November Wellness Event at Accenture Mountain View (Repo)
+* 🌻 Flowers Wellness Event at Accenture Mountain View (Repo)
+* ☀️ Sunshine Wellness Event at Accenture Mountain View (Repo)
 * ❤️‍🔥 Microsoft Better Together: Leading Ahead | Women, AI & the Future of Leadership Conference | Mountain View (3x)
-* 🏊🏻 Pioneer of Immpersion Spa Palo Alto Soak, Swim & Soothe Wellness Event at Accenture Mountain View (Repo)
+* 🏊🏻 Pioneer of Immersion Spa Palo Alto Soak, Swim & Soothe Wellness Event at Accenture Mountain View (Repo)
 * 🏓 Off the Clock - Pickleball & Bocce Ball with Rebecca Lee - 100% reserved [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-20)
 * 🍃 Generator of Matcha Making Experience Wellness Event at Accenture Mountain View - 100% in [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-21)
 * 🐚 Facilitator of Santa Cruz West Cliff Drive Walk Wellness Event at Accenture Mountain View - 100% taken (Repo)
-* 🍒 Administrator of Mindful Moments: Mulberry Picking Wellness Event at Accenture Mountain View - 100% full [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-18)
-* 🧘🏻‍♀️ Coordinator of Equinox Dynamic Flow: Pilates Fusion Wellness Event at Accenture Mountain View - 100% booked [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-17) 
+* 🍒 Administrator of Mulberry Picking Wellness Event at Accenture Mountain View - 100% full [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-18)
+* 🧘🏻‍♀️ Coordinator of Equinox Pilates Wellness Event at Accenture Mountain View - 100% booked [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-17) 
 * 💍 Accenture San Francisco Innovation Hub NorCal Engagement Leadership Bonding
 * 🛠️ Microsoft Build Conference San Francisco 
 * 🦅 Business Analyst at Fortune 500 Information Technology & Services Company Mountain View [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-business-analytics)
