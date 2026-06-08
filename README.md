@@ -74,7 +74,7 @@ ________________________________________________________________________________
 * 🌹 Accenture Mountain View Wellness Kits Facilitator (2x)
 * ♟️ Accenture Mountain View Northern California APAERG Board Game Social across NorCal Offices Poker Hostess 
 * 🥂 Accenture San Francisco Innovation Hub Wellness Happy Hour
-* 👑 Incoming ML & Data Science Lead at Fortune 500 Healthcare Company Mountain View 
+* 👑 Incoming ML & Data Science Lead at Fortune 500 Information Technology Company Mountain View 
 * 🪑 Avanade Bench Status Series Speaker 
 * 🫧 Accenture Mountain View & San Francisco Innovation Hub Massages (2x)
 * ❓ Accenture San Francisco Innovation Hub US Leadership Visit – Q&A and Happy Hour 
@@ -443,7 +443,7 @@ ________________________________________________________________________________
 * Principles by Ray Dalio, Think Fast, Talk Smart: The Podcast, Think Fast Talk Smart: Communication Techniques, Strategy & Management [(Repo)](https://github.com/shawna-tuli-silicon-valley/strategy-and-management-books), Venture Capital [(Repo)](https://github.com/shawna-tuli-silicon-valley/venture-capital-books), National Public Radio, People I (Mostly) Admire, Likeable Badass: How Women Get the Success They Deserve, Stanford Business Magazine, TED Talks, Harvard Business Review, Freakonomics, Rich Habits Podcast
 ___________________________________________________________________________________________________________________________________________________________________________
 #### EDUCATION
-* Incoming Santa Clara University Leavey School of Business Evening Master of Business Administration Finance - Dean's Scholarship
+* Incoming Santa Clara University Leavey School of Business Evening Master of Business Administration Finance - Dean's Scholarship, Unicorn VC, Venture Virtuoso, Bronco Accelerator 
 * Accenture Stanford University Department of Computer Science Certificate in Reinvention Agentic AI (Certificate)
 * Accenture Kellogg Education Education Certificate in Leading with Analytics & Artificial Intelligence Virtual Program [(Certificate)](https://execedcertificate.kellogg.northwestern.edu/308a9e71-d504-4194-9c74-22667c48e450#gs.utv39r)
 * Coursera Stanford University Department of Computer Science Certificate in Machine Learning [(Certificate)](https://www.coursera.org/account/accomplishments/certificate/47XPJRBC4F5C)
