@@ -59,9 +59,9 @@ ________________________________________________________________________________
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 #### BIG TECH ML & DATA SCIENCE LEADERSHIP (2014-Present) 
-* SCU
-* SCU
-* SCU
+* 🦄 SCU Unicorn VC
+* 💱 SCU Venture Virtuoso
+* 🐎 SCU Bronco Accelerator
 * 🌯 Roll With It Wellness Event at Accenture Mountain View (Repo)
 * 🫖 Whole Foods Tea Time Wellness Event at Accenture Mountain View (Repo) 
 * 🌶️ Sakoon From Mild to Wild Wellness Event at Accenture Mountain View (Repo)
@@ -220,7 +220,7 @@ ________________________________________________________________________________
 * 👾 Avanade Mountain View AI Forward Deployed Engineering Associate Manager [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics-3)
 * 🦾 AI Lead at Fortune 500 Information Technology & Services Company San Francisco
 * 🧠 ML & Data Science Advisor at Harvard Business Review [(Repo)](https://github.com/shawna-tuli-silicon-valley/harvard-business-review-advisory-council) [(Magazine)](https://hbr.org/)
-* 🦄 Accenture Ventures & Open Innovation West Ambassador 
+* 🍀 Accenture Ventures & Open Innovation West Ambassador 
 * 🗂️ Keynoter at Accenture CIO San Francisco Data Science Guild (4x)
 * 📋 Accenture Mountain View ML & Data Science Panelist at UCI Merage Machine Learning for Analytics Graduate Class
 * 🧡 AI Data Scientist at Avanade - gained Best Baker Award on the West Region Chargeability Percent Team
