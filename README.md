@@ -67,7 +67,7 @@ ________________________________________________________________________________
 * 🫖 Whole Foods Tea Time Wellness Event at Accenture Mountain View (Repo) 
 * 🌶️ Sakoon From Mild to Wild Wellness Event at Accenture Mountain View (Repo)
 * 🎾 Serve & Thrive Wellness Event at Accenture Mountain View (Repo) 
-* 🤎 Virtual Coffee Painting Social at Accenture Mountain View (Repo) 
+* 🤎 Avanade Mountain View Virtual US Data & AI Coffee Painting Social (Repo) 
 * 🌱 Amarin Thai Protein-Powered Plates Wellness Event at Accenture Mountain View (Repo)
 * 🏸 Racket & Recharge Wellness Event at Accenture Mountain View (Repo)
 * ✴️ Claude Specialist at Avanade & Accenture Mountain View & Northern California Social Engagement & Networking (Repo)
