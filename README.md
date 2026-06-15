@@ -62,7 +62,7 @@ ________________________________________________________________________________
 * 🦄 SCU Unicorn VC
 * 💱 SCU Venture Virtuoso
 * 🐎 SCU Bronco Accelerator
-* 🍓 Shoreline Lake Whole Foods Steps & Snacks Wellness Event at Accenture Mountain View (Repo)
+* 🍓 Castro Street Whole Foods Steps & Snacks Wellness Event at Accenture Mountain View (Repo)
 * 🌯 Roll With It Wellness Event at Accenture Mountain View (Repo)
 * 🫖 Whole Foods Tea Time Wellness Event at Accenture Mountain View (Repo) 
 * 🌶️ Sakoon From Mild to Wild Wellness Event at Accenture Mountain View (Repo)
