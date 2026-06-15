@@ -75,7 +75,7 @@ ________________________________________________________________________________
 * 🏖️ Originator of Beach Picnic at Accenture Mountain View (Repo) 
 * 👡 Avanade Mountain View & Northern California Social Engagement & Networking Events Lead
 * 🧼 Self-Care Studio Wellness Event at Accenture Mountain View (Repo) 
-* 🌹 Accenture Mountain View Wellness Kits Facilitator (2x)
+* 🌹 Accenture Mountain View Wellness Kits Facilitator (3x)
 * ♟️ Accenture Mountain View Northern California APAERG Board Game Social across NorCal Offices Poker Hostess 
 * 🥂 Accenture San Francisco Innovation Hub Wellness Happy Hour
 * 👑 Incoming ML & Data Science Lead at Fortune 500 Information Technology Company Mountain View 
