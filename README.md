@@ -59,9 +59,10 @@ ________________________________________________________________________________
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 #### BIG TECH ML & DATA SCIENCE LEADERSHIP (2014-Present) 
-* 🦄 SCU Unicorn VC
-* 💱 SCU Venture Virtuoso
-* 🐎 SCU Bronco Accelerator
+* 🗒️ Incoming SCU Ciocca Center Graduate Business Consultant
+* 🦄 Incoming SCU Ciocca Center Graduate Venture Fellow & Scout
+* 💱 Incoming SCU Leavey Gradaute Student Ambassador
+* 🐎 Incoming SCU Bronco Venture Accelerator Cohort Member & Startup Scout
 * 🍓 Castro Street Whole Foods Steps & Snacks Wellness Event at Accenture Mountain View (Repo)
 * 🌯 Roll With It Wellness Event at Accenture Mountain View (Repo)
 * 🫖 Whole Foods Tea Time Wellness Event at Accenture Mountain View (Repo) 
@@ -426,9 +427,6 @@ ________________________________________________________________________________
 #### LANGUAGES
 * English (Native), Hindi (Bilingual), Punjabi (Limited), Spanish (Professional)
 ___________________________________________________________________________________________________________________________________________________________________________
-#### TEST SCORE
-* GMAT - Waived
-___________________________________________________________________________________________________________________________________________________________________________
 #### INDUSTRY EDUCATION
 #### ![ACCENTURE](https://img.shields.io/badge/Accenture-A100FF.svg?style=for-the-badge&logo=Accenture&logoColor=white)
 * Avanade Full Stack FDE Foundational Training, Avanade Full Stack FDE Core Training, Avanade Full Stack FDE Platform Training, Talent Quotient Generative AI Training, Talent Quotient Agentic AI Training, Avanade SISA Apprentice Program, Avanade License to Hire Recertification (2x), Avanade Leadership Accelerator, Avanade Generative AI Learning Path, Avanade Growth Mindset Training, Avanade License to Hire Certification
@@ -447,7 +445,7 @@ ________________________________________________________________________________
 * Principles by Ray Dalio, Think Fast, Talk Smart: The Podcast, Think Fast Talk Smart: Communication Techniques, Strategy & Management [(Repo)](https://github.com/shawna-tuli-silicon-valley/strategy-and-management-books), Venture Capital [(Repo)](https://github.com/shawna-tuli-silicon-valley/venture-capital-books), National Public Radio, People I (Mostly) Admire, Likeable Badass: How Women Get the Success They Deserve, Stanford Business Magazine, TED Talks, Harvard Business Review, Freakonomics, Rich Habits Podcast
 ___________________________________________________________________________________________________________________________________________________________________________
 #### EDUCATION
-* Incoming Santa Clara University Leavey School of Business Evening Master of Business Administration Finance - Dean's Scholarship, Unicorn VC, Venture Virtuoso, Bronco Accelerator 
+* Incoming Santa Clara University Leavey School of Business Evening Master of Business Administration Finance - Dean's Scholarship
 * Accenture Stanford University Department of Computer Science Certificate in Reinvention Agentic AI (Certificate)
 * Accenture Kellogg Education Education Certificate in Leading with Analytics & Artificial Intelligence Virtual Program [(Certificate)](https://execedcertificate.kellogg.northwestern.edu/308a9e71-d504-4194-9c74-22667c48e450#gs.utv39r)
 * Coursera Stanford University Department of Computer Science Certificate in Machine Learning [(Certificate)](https://www.coursera.org/account/accomplishments/certificate/47XPJRBC4F5C)
