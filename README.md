@@ -357,7 +357,7 @@ Institute of Child & Mother Health (ICMH).
 Medical Oncology (ESMO).
 26. "Adherence to Survivorship Care Visits in Patients with Cervical Cancer in Botswana" in JCO Global Oncology.
 27. "Breast and Chest Wall Radiation Initiation among Patients with Breast Cancer who Underwent Surgery in Botswana" in BMC Women's Health.
-28. UWBA in Academic Journal, Avanade AI Studio, and Accenture Knowledge Exchange.
+28. "An Analysis of United Way Bay Area (UWBA)" in Academic Journal, Avanade AI Studio, and Accenture Knowledge Exchange.
 29. "UUO: The Universal Utility Orchestrator" in University of California, Irvine Undergraduate Research Opportunities Program (UROP), Avanade AI Studio, and Accenture Knowledge Exchange.
 30. "A Cloud-Native Multi-Agent Orchestration Framework for Autonomous Utility Services" in UCI Donald Bren School of Information & Computer Sciences (ICS) CS 295P, Avanade AI Studio, and Accenture Knowledge Exchange.
 31. TBA in University of California, Irvine Undergraduate Research Opportunities Program (UROP), Avanade AI Studio, and Accenture Knowledge Exchange.
