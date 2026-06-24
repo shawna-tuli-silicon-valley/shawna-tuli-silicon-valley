@@ -359,7 +359,8 @@ Medical Oncology (ESMO).
 27. "Breast and Chest Wall Radiation Initiation among Patients with Breast Cancer who Underwent Surgery in Botswana" in BMC Women's Health.
 28. UWBA in Academic Journal, Avanade AI Studio, and Accenture Knowledge Exchange.
 29. "UUO: The Universal Utility Orchestrator" in University of California, Irvine Undergraduate Research Opportunities Program (UROP), Avanade AI Studio, and Accenture Knowledge Exchange.
-30. TBA in University of California, Irvine Undergraduate Research Opportunities Program (UROP), Avanade AI Studio, and Accenture Knowledge Exchange.
+30. "A Cloud-Native Multi-Agent Orchestration Framework for Autonomous Utility Services" in UCI Donald Bren School of Information & Computer Sciences (ICS) CS 295P, Avanade AI Studio, and Accenture Knowledge Exchange.
+31. TBA in University of California, Irvine Undergraduate Research Opportunities Program (UROP), Avanade AI Studio, and Accenture Knowledge Exchange.
 _______________________________________________________________________________________________________________________________________________________________________________________________
 #### TECHNICAL SKILLS
 #### ![GOOGLE](https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=fff&style=for-the-badge)
