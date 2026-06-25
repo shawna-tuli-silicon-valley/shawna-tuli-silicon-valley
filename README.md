@@ -79,7 +79,7 @@ ________________________________________________________________________________
 * 🌹 Accenture Mountain View Wellness Kits Facilitator (3x)
 * ♟️ Accenture Mountain View Northern California APAERG Board Game Social across NorCal Offices Poker Hostess 
 * 🥂 Accenture San Francisco Innovation Hub Wellness Happy Hour
-* 👑 Incoming ML & Data Science Lead at Fortune 500 Information Technology Company Mountain View 
+* 👑 Incoming ML & Data Science Lead at Fortune 500 Healthcare Company Mountain View 
 * 🪑 Avanade Bench Status Series Speaker 
 * 🫧 Accenture Mountain View & San Francisco Innovation Hub Massages (2x)
 * ❓ Accenture San Francisco Innovation Hub US Leadership Visit – Q&A and Happy Hour 
