@@ -63,9 +63,9 @@ ________________________________________________________________________________
 * 🦄 Incoming SCU Ciocca Center Graduate Venture Fellow & Scout
 * 💱 Incoming SCU Leavey Gradaute Student Ambassador
 * 🐎 Incoming SCU Bronco Venture Accelerator Cohort Member & Startup Scout
-* 🍓 Castro Street Whole Foods Steps & Snacks Wellness Event at Accenture Mountain View (Repo)
+* 🍓 Castro Street Whole Foods Steps & Snacks Wellness Event at Accenture Mountain View [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-22) 
 * 🌯 Roll With It Wellness Event at Accenture Mountain View (Repo)
-* 🫖 Whole Foods Steps & Snacks Wellness Event at Accenture Mountain View [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-22) 
+* 🫖 Whole Foods Steps & Snacks Wellness Event at Accenture Mountain View (Repo)
 * 🌶️ Sakoon From Mild to Wild Wellness Event at Accenture Mountain View (Repo)
 * 🎾 Serve & Thrive Wellness Event at Accenture Mountain View (Repo) 
 * 🤎 Avanade Mountain View Virtual US Data & AI Coffee Painting Social (Repo) 
