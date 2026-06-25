@@ -63,6 +63,9 @@ ________________________________________________________________________________
 * 🦄 Incoming SCU Ciocca Center Graduate Venture Fellow & Scout
 * 💱 Incoming SCU Leavey Gradaute Student Ambassador
 * 🐎 Incoming SCU Bronco Venture Accelerator Cohort Member & Startup Scout
+* 📖 Incoming Santa Clara University Leavey School of Business Evening MBA Finance Candidate
+* 📰 Incoming Avanade Mountain View AI Forward Deployed Engineering Manager (Repo)
+* 👑 Incoming ML & Data Science Lead at Fortune 500 Healthcare Company Mountain View 
 * 🍓 Castro Street Whole Foods Steps & Snacks Wellness Event at Accenture Mountain View [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-22) 
 * 🌯 Roll With It Wellness Event at Accenture Mountain View (Repo)
 * 🫖 Whole Foods Tea Time Wellness Event at Accenture Mountain View (Repo)
@@ -79,15 +82,12 @@ ________________________________________________________________________________
 * 🌹 Accenture Mountain View Wellness Kits Facilitator (3x)
 * ♟️ Accenture Mountain View Northern California APAERG Board Game Social across NorCal Offices Poker Hostess 
 * 🥂 Accenture San Francisco Innovation Hub Wellness Happy Hour
-* 👑 Incoming ML & Data Science Lead at Fortune 500 Healthcare Company Mountain View 
 * 🪑 Avanade Bench Status Series Speaker 
 * 🫧 Accenture Mountain View & San Francisco Innovation Hub Massages (2x)
 * ❓ Accenture San Francisco Innovation Hub US Leadership Visit – Q&A and Happy Hour 
 * 🌷 Accenture Mountain View Spring Frame Making
-* 📰 Incoming Avanade Mountain View AI Forward Deployed Engineering Manager (Repo)
 * ⛰️ Presenter at United Way Bay Area SparkPoint Summit 
 * ☆ 6) Accenture V360 Awards Nominee - TBA
-* 📖 Incoming Santa Clara University Leavey School of Business Evening MBA Finance Candidate
 * 📑 Accenture Mountain View & San Francisco Innovation Hub Data Science for Social Good Co-Lead 
 * 📚 Stanford University Libraries (3x)
 * 🌿 Accenture Mountain View & San Francisco Innovation Hub Avanade Recognition
