@@ -65,7 +65,7 @@ ________________________________________________________________________________
 * 🐎 Incoming SCU Bronco Venture Accelerator Cohort Member & Startup Scout
 * 🍓 Castro Street Whole Foods Steps & Snacks Wellness Event at Accenture Mountain View (Repo)
 * 🌯 Roll With It Wellness Event at Accenture Mountain View (Repo)
-* 🫖 Whole Foods Tea Time Wellness Event at Accenture Mountain View (Repo) 
+* 🫖 Whole Foods Steps & Snacks Wellness Event at Accenture Mountain View (Repo) 
 * 🌶️ Sakoon From Mild to Wild Wellness Event at Accenture Mountain View (Repo)
 * 🎾 Serve & Thrive Wellness Event at Accenture Mountain View (Repo) 
 * 🤎 Avanade Mountain View Virtual US Data & AI Coffee Painting Social (Repo) 
