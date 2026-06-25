@@ -65,7 +65,8 @@ ________________________________________________________________________________
 * 🐎 Incoming SCU Bronco Venture Accelerator Cohort Member & Startup Scout
 * 📖 Incoming Santa Clara University Leavey School of Business Evening MBA Finance Candidate
 * 📰 Incoming Avanade Mountain View AI Forward Deployed Engineering Manager (Repo)
-* 👑 Incoming ML & Data Science Lead at Fortune 500 Healthcare Company Mountain View 
+* 👑 Incoming ML & Data Science Lead at Fortune 500 Healthcare Company Mountain View
+* 🏵️ Orange Day Celebrations Planning
 * 🍓 Castro Street Whole Foods Steps & Snacks Wellness Event at Accenture Mountain View [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-22) 
 * 🌯 Roll With It Wellness Event at Accenture Mountain View (Repo)
 * 🫖 Whole Foods Tea Time Wellness Event at Accenture Mountain View (Repo)
