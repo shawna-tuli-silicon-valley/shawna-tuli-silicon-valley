@@ -66,6 +66,7 @@ ________________________________________________________________________________
 * 📖 Incoming Santa Clara University Leavey School of Business Evening MBA Finance Candidate
 * 📰 Incoming Avanade Mountain View AI Forward Deployed Engineering Manager (Repo)
 * 👑 Incoming ML & Data Science Lead at Fortune 500 Healthcare Company Mountain View
+* 🌟 Accenture Mountain View DSSG Lead at UWBA Phase 6, led 5 Data Scientists (Repo)
 * 🏵️ Orange Day Celebrations Planning
 * 🍓 Castro Street Whole Foods Steps & Snacks Wellness Event at Accenture Mountain View [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-22) 
 * 🌯 Roll With It Wellness Event at Accenture Mountain View (Repo)
@@ -124,7 +125,7 @@ ________________________________________________________________________________
 * 🇲🇽 Cacao Mágico Puerto Vallarta Visit 
 * 🧴 Head of Hot Chocolate Bombs, Gingerbread Houses, and White Elephant Wellness Event at Accenture Mountain View [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-12)
 * ⚕️ Senior AI Engineer at Fortune 500 Biotechnology Company Mountain View - led a Business Analyst 
-* 💫 Accenture Mountain View DSSG Lead at UWBA Phase 5, leading 5 Data Scientists - 1 article [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-uwba-ai-and-data-science-4/tree/main)
+* 💫 Accenture Mountain View DSSG Lead at UWBA Phase 5, led 5 Data Scientists - 1 article [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-uwba-ai-and-data-science-4/tree/main)
 * 🤖 5) Accenture V360 Awards Nominee - developed Agentic AI for multiple industries and led 4 Data Scientists [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-agentic-ai/)
 * </> Bay Area ICS Alumni Reception Palo Alto
 * 🌥️ AWS re:Invent Conference
