@@ -128,7 +128,7 @@ ________________________________________________________________________________
 * 🧴 Head of Hot Chocolate Bombs, Gingerbread Houses, and White Elephant Wellness Event at Accenture Mountain View [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-12)
 * ⚕️ Senior AI Engineer at Fortune 500 Biotechnology Company Mountain View - led a Business Analyst 
 * 💫 Accenture Mountain View DSSG Lead at UWBA Phase 5, led 5 Data Scientists - 1 article [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-uwba-ai-and-data-science-4/tree/main)
-* 🤖 5) Accenture V360 Awards Nominee - developed Agentic AI for multiple industries and led 4 Data Scientists [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-agentic-ai/) [(Student Repo)](https://github.com/HersheyHarish/UniversalUtilityOrchestrator)
+* 🤖 5) Accenture V360 Awards Nominee - created Agentic AI for multiple industries and led 4 Data Scientists [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-agentic-ai/) [(Student Repo)](https://github.com/HersheyHarish/UniversalUtilityOrchestrator)
 * </> Bay Area ICS Alumni Reception Palo Alto
 * 🌥️ AWS re:Invent Conference
 * 🩵 Google Cloud Next Conference Las Vegas
@@ -181,7 +181,7 @@ ________________________________________________________________________________
 * 🎄 Accenture San Francisco Innovation Hub Holidays Party (6x)
 * 👠 Avanade Northern California Social Engagement & Networking Champion - assembling and holding monthly events for 50+
 * 🌎 Google AI for everyone Global Virtual Summit [(Videos)](https://careersonair.withgoogle.com/events/aiforeveryone24)
-* 🔍 4) Accenture V360 Awards Nominee - created AI utility rate case management, led 7 Data Scientists [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture/tree/main) [(Student Repo)](https://github.com/bsteier/GRCResponder)
+* 🔍 4) Accenture V360 Awards Nominee - developed AI utility rate case management, led 7 Data Scientists [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture/tree/main) [(Student Repo)](https://github.com/bsteier/GRCResponder)
 * 🚚 2. ML & Data Science Manager at Amazon Mountain View - led 4 Cloud Engineers on PB mailboxes
 * 🔈Orator at Accenture Mountain View DSSG at UWBA Phase 3 Presentation (6x)
 * 🌈 Accenture Mountain View & San Francisco Innovation Hub DSSG Lead at UWBA Phase 3, led 7 Data Scientists [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-uwba-ai-and-data-science-2/tree/main)
