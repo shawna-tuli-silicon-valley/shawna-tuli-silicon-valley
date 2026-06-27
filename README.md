@@ -128,7 +128,7 @@ ________________________________________________________________________________
 * 🧴 Head of Hot Chocolate Bombs, Gingerbread Houses, and White Elephant Wellness Event at Accenture Mountain View [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-12)
 * ⚕️ Senior AI Engineer at Fortune 500 Biotechnology Company Mountain View - led a Business Analyst 
 * 💫 Accenture Mountain View DSSG Lead at UWBA Phase 5, led 5 Data Scientists - 1 article [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-uwba-ai-and-data-science-4/tree/main)
-* 🤖 5) Accenture V360 Awards Nominee - developed Agentic AI for multiple industries and led 4 Data Scientists [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-agentic-ai/)
+* 🤖 5) Accenture V360 Awards Nominee - developed Agentic AI for multiple industries and led 4 Data Scientists [(Repo)] (https://github.com/shawna-tuli-silicon-valley/accenture-agentic-ai/) [(Repo)](https://github.com/HersheyHarish/UniversalUtilityOrchestrator)
 * </> Bay Area ICS Alumni Reception Palo Alto
 * 🌥️ AWS re:Invent Conference
 * 🩵 Google Cloud Next Conference Las Vegas
