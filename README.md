@@ -2,7 +2,7 @@
 
 
 
-Shawna Tuli is a seasoned **Mountain View & San Francisco** Machine Learning & Data Science, Advanced Analytics, Business Intelligence, Strategy, and Software Engineering Leader, Innovator, Advisor, and **San Jose native**, with **six years** as a Senior Data Scientist, Incoming AI Forward Deployed Engineering Manager at Avanade, the Accenture Microsoft Business Group, and Accenture, and an Incoming MBA Finance Candidate at Santa Clara University Leavey School of Business. She has a strong background in ***machine learning*** and ***data science***, interlacing ***agentic artificial intelligence, generative artificial intelligence***, ***advanced analytics***, ***software engineering***, ***business intelligence***, ***finance***, ***product strategy***, ***product analytics***, ***predictive modeling***, ***strategy***, ***data engineering***, and ***CFO & enterprise value***. Shawna is on the Venture Capitalist, CFO, and Corporate Board Director path with **twelve years** in ***big technology*** in **Silicon Valley**. Her strengths are Activator, Achiever, Futuristic, Competition, and Significance.   
+Shawna Tuli is a seasoned **Mountain View & San Francisco** Machine Learning & Data Science, Advanced Analytics, Business Intelligence, Strategy, and Software Engineering Leader, Innovator, Advisor, and **San Jose native**, with **six years** as a Lead Data Scientist, Incoming AI Forward Deployed Engineering Manager at Avanade, the Accenture Microsoft Business Group, and Accenture, and an Incoming MBA Finance Candidate at Santa Clara University Leavey School of Business. She has a strong background in ***machine learning*** and ***data science***, interlacing ***agentic artificial intelligence, generative artificial intelligence***, ***advanced analytics***, ***software engineering***, ***business intelligence***, ***finance***, ***product strategy***, ***product analytics***, ***predictive modeling***, ***strategy***, ***data engineering***, and ***CFO & enterprise value***. Shawna is on the Venture Capitalist, CFO, and Corporate Board Director path with **twelve years** in ***big technology*** in **Silicon Valley**. Her strengths are Activator, Achiever, Futuristic, Competition, and Significance.   
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 #### LEADERSHIP HIGHLIGHTS
@@ -68,7 +68,7 @@ ________________________________________________________________________________
 * 📰 Incoming Avanade Mountain View AI Forward Deployed Engineering Manager (Repo)
 * 👑 Incoming ML & Data Science Lead at Fortune 500 Healthcare Company Mountain View
 * 📍 UCI ICS Project Expo (6x) 
-* 🌟 Accenture Mountain View DSSG Lead at UWBA Phase 6, led 5 Data Scientists (Repo)
+* 🌟 Accenture Mountain View DSSG Lead at UWBA Phase 6, leading 5 Data Scientists (Repo)
 * 🏵️ Orange Day Celebrations Planning
 * 🍓 Castro Street Whole Foods Steps & Snacks Wellness Event at Accenture Mountain View [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-22) 
 * 🌯 Roll With It Wellness Event at Accenture Mountain View (Repo)
