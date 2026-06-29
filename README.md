@@ -17,7 +17,7 @@ ________________________________________________________________________________
 9. Mountain View Avanade & Accenture Wellness - 🫒🌸🙏🏼🍇🏺💅🏼💆🏻‍♀️☕🍫🕯️💐🏃🏻‍♀️🧴🪞⛳🧋🧺🎨🥑🌷🧘🏻‍♀️🐚🍃🍒🏓🫧🌹☀️🌻🧼🍝🥂🏊🏻🌬️🏸🥗🌱🎾🌶️🫖🌯🍓 (2 years)
 10. Mountain View & Northern California Avanade & Accenture Office (6 years)
 11. Mountain View & Northern California Avanade & Accenture Social Engagement & Networking (6 years)
-12. Mountain View & Northern California Avanade & Accenture Social Engagement & Networking Events - 🏖️🎄
+12. Mountain View & Northern California Avanade & Accenture Social Engagement & Networking Events - 🏖️🛥️🎄
 13. Mountain View & San Francisco Avanade & Accenture Data Science for Social Good
 14. Irvine Up to Us National Debt Marketing Data Science, Strategy, and Business Intelligence - [UCI Merage Credly](https://www.credly.com/users/shawna-tuli/badges) (0.5 years)
 15. Bicoastal Indian American (Brown) Community (Life)
@@ -67,9 +67,10 @@ ________________________________________________________________________________
 * 📖 Incoming Santa Clara University Leavey School of Business Evening MBA Finance Candidate
 * 📰 Incoming Avanade Mountain View AI Forward Deployed Engineering Manager (Repo)
 * 👑 Incoming ML & Data Science Lead at Fortune 500 Healthcare Company Mountain View
+* 📙 Internship Pitch Competition Lead
 * 📍 UCI ICS Project Expo (6x) 
 * 🌟 Accenture Mountain View DSSG Lead at UWBA Phase 6, leading 5 Data Scientists (Repo)
-* 🏵️ Orange Day Celebrations Planning
+* 🛥️ Orange Day Celebrations Planning
 * 🍓 Castro Street Whole Foods Steps & Snacks Wellness Event at Accenture Mountain View [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-22) 
 * 🌯 Roll With It Wellness Event at Accenture Mountain View (Repo)
 * 🫖 Whole Foods Tea Time Wellness Event at Accenture Mountain View (Repo)
