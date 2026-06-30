@@ -67,7 +67,7 @@ ________________________________________________________________________________
 * 📖 Incoming Santa Clara University Leavey School of Business Evening MBA Finance Candidate
 * 📰 Incoming Avanade Mountain View AI Forward Deployed Engineering Manager (Repo)
 * 👑 Incoming ML & Data Science Lead at Fortune 500 Healthcare Company Mountain View
-* 📙 Internship Pitch Competition Lead
+* 📙 Avanade Internship Pitch Competition Lead
 * 📍 UCI ICS Project Expo (6x) 
 * 🌟 Accenture Mountain View DSSG Lead at UWBA Phase 6, leading 5 Data Scientists (Repo)
 * 🛥️ Orange Day Celebrations Planning
