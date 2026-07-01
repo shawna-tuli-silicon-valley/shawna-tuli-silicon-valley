@@ -2,7 +2,7 @@
 
 
 
-Shawna Tuli is a seasoned **Mountain View & San Francisco** Machine Learning & Data Science, Advanced Analytics, Business Intelligence, Strategy, and Software Engineering Leader, Innovator, Advisor, and **San Jose native**, with **over six years** as a Lead Data Scientist, Incoming AI Forward Deployed Engineering Manager at Avanade, the Accenture Microsoft Business Group, and Accenture, and an Incoming MBA Finance Candidate at Santa Clara University Leavey School of Business. She has a strong background in ***machine learning*** and ***data science***, interlacing ***agentic artificial intelligence, generative artificial intelligence***, ***advanced analytics***, ***software engineering***, ***business intelligence***, ***finance***, ***product strategy***, ***product analytics***, ***predictive modeling***, ***strategy***, ***data engineering***, and ***CFO & enterprise value***. Shawna is on the Venture Capitalist, CFO, and Corporate Board Director path with **over twelve years** in ***big technology*** in **Silicon Valley**. Her strengths are Activator, Achiever, Futuristic, Competition, and Significance.   
+Shawna Tuli is a seasoned **Mountain View & San Francisco** Machine Learning & Data Science, Advanced Analytics, Business Intelligence, Strategy, and Software Engineering Leader, Innovator, Advisor, and **San Jose native**, with **over six years** as a Lead Data Scientist, Incoming AI Forward Deployed Engineering Manager at Avanade, the Accenture Microsoft Business Group, and Accenture, and an MBA Finance Candidate at Santa Clara University Leavey School of Business. She has a strong background in ***machine learning*** and ***data science***, interlacing ***agentic artificial intelligence, generative artificial intelligence***, ***advanced analytics***, ***software engineering***, ***business intelligence***, ***finance***, ***product strategy***, ***product analytics***, ***predictive modeling***, ***strategy***, ***data engineering***, and ***CFO & enterprise value***. Shawna is on the Venture Capitalist, CFO, and Corporate Board Director path with **over twelve years** in ***big technology*** in **Silicon Valley**. Her strengths are Activator, Achiever, Futuristic, Competition, and Significance.   
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 #### LEADERSHIP HIGHLIGHTS
@@ -64,7 +64,7 @@ ________________________________________________________________________________
 * 🦄 Incoming SCU Ciocca Center Graduate Venture Fellow & Scout
 * 💱 Incoming SCU Leavey Gradaute Student Ambassador
 * 🐎 Incoming SCU Bronco Venture Accelerator Cohort Member & Startup Scout
-* 📖 Incoming Santa Clara University Leavey School of Business Evening MBA Finance Candidate
+* 📖 Santa Clara University Leavey School of Business Evening MBA Finance Candidate
 * 📰 Incoming Avanade Mountain View AI Forward Deployed Engineering Manager (Repo)
 * 👑 Incoming ML & Data Science Lead at Fortune 500 Healthcare Company Mountain View
 * 📙 Avanade Internship Pitch Competition Lead
@@ -451,7 +451,7 @@ ________________________________________________________________________________
 * Principles by Ray Dalio, Think Fast, Talk Smart: The Podcast, Think Fast Talk Smart: Communication Techniques, Strategy & Management [(Repo)](https://github.com/shawna-tuli-silicon-valley/strategy-and-management-books), Venture Capital [(Repo)](https://github.com/shawna-tuli-silicon-valley/venture-capital-books), National Public Radio, People I (Mostly) Admire, Likeable Badass: How Women Get the Success They Deserve, Stanford Business Magazine, TED Talks, Harvard Business Review, Freakonomics, Rich Habits Podcast
 ___________________________________________________________________________________________________________________________________________________________________________
 #### EDUCATION
-* Incoming Santa Clara University Leavey School of Business Evening Master of Business Administration Finance - Dean's Scholarship
+* Santa Clara University Leavey School of Business Evening Master of Business Administration Finance - Dean's Scholarship
 * Accenture Stanford University Department of Computer Science Certificate in Reinvention Agentic AI (Certificate)
 * Accenture Kellogg Education Education Certificate in Leading with Analytics & Artificial Intelligence Virtual Program [(Certificate)](https://execedcertificate.kellogg.northwestern.edu/308a9e71-d504-4194-9c74-22667c48e450#gs.utv39r)
 * Coursera Stanford University Department of Computer Science Certificate in Machine Learning [(Certificate)](https://www.coursera.org/account/accomplishments/certificate/47XPJRBC4F5C)
