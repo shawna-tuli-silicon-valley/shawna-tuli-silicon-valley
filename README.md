@@ -7,18 +7,18 @@ ________________________________________________________________________________
 
 #### LEADERSHIP HIGHLIGHTS
 1. Mountain View & Sunnyvale Google ML & Data Science, Product Strategy, and Business Intelligence - [Google](https://ai.google) (14 weeks at [Google Photos](https://www.google.com/photos/about/); 1 year at [Google Cloud](https://cloud.google.com/), [Google Play](https://play.google.com/store/games?hl=en_US), and [Google One](https://one.google.com/about/))
-2. Mountain View & San Francisco Microsoft ML & Data Science - [Microsoft Learn](https://learn.microsoft.com/en-us/users/shawnatuli-1762/?redeem=RN4ZKZ&WT.mc_id=ilt_partner_webpage_wwl&ocid=3103897&DCS=DEPR2550058&source=docs) (6 years)
+2. Mountain View & San Francisco Microsoft ML & Data Science - [Microsoft Learn](https://learn.microsoft.com/en-us/users/shawnatuli-1762/?redeem=RN4ZKZ&WT.mc_id=ilt_partner_webpage_wwl&ocid=3103897&DCS=DEPR2550058&source=docs) (6+ years)
 3. Mountain View & San Francisco Amazon ML & Data Science and Product Strategy - [Amazon](https://www.aboutamazon.com/artificial-intelligence-ai-news) (2 years at Amazon Mailbox Core)
-4. Mountain View & San Francisco Avanade & Accenture ML & Data Science and Strategy - [Avanade](https://www.avanade.com/en-us/services/artificial-intelligence) & [Accenture](https://www.accenture.com/us-en/services/data-ai) (6 years)
-5. Bay Area Accenture Poverty Alleviation ML & Data Science, Strategy, and Business Intelligence - [United Way Bay Area](https://uwba.org/) (3 years)
-6. California Accenture ML & Data Science and Strategy - [Accenture California Data & AI Google Scholar](https://scholar.google.com/citations?hl=en&user=7F6YV8MAAAAJ) (6 years)
-7. Mountain View & San Francisco Advisor - [Harvard Business Review](https://hbr.org/) and [LinkedIn](https://www.linkedin.com/) (6 years)
+4. Mountain View & San Francisco Avanade & Accenture ML & Data Science and Strategy - [Avanade](https://www.avanade.com/en-us/services/artificial-intelligence) & [Accenture](https://www.accenture.com/us-en/services/data-ai) (6+ years)
+5. Bay Area Accenture Poverty Alleviation ML & Data Science, Strategy, and Business Intelligence - [United Way Bay Area](https://uwba.org/) (3+ years)
+6. California Accenture ML & Data Science and Strategy - [Accenture California Data & AI Google Scholar](https://scholar.google.com/citations?hl=en&user=7F6YV8MAAAAJ) (6+ years)
+7. Mountain View & San Francisco Advisor - [Harvard Business Review](https://hbr.org/) and [LinkedIn](https://www.linkedin.com/) (6+ years)
 8. Mountain View Penn Medicine Radiation Oncology Global Radiation Oncology Data Science - [UCI ICS Google Scholar](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en) (6 years)
-9. Mountain View Avanade & Accenture Wellness - 🫒🌸🙏🏼🍇🏺💅🏼💆🏻‍♀️☕🍫🕯️💐🏃🏻‍♀️🧴🪞⛳🧋🧺🎨🥑🌷🧘🏻‍♀️🐚🍃🍒🏓🫧🌹☀️🌻🧼🍝🥂🏊🏻🌬️🏸🥗🌱🎾🌶️🫖🌯🍓⛱️ (2 years)
-10. Mountain View & Northern California Avanade & Accenture Office (6 years)
-11. Mountain View & Northern California Avanade & Accenture Social Engagement & Networking (6 years)
-12. Mountain View & Northern California Avanade & Accenture Social Engagement & Networking Events - 🏖️🛥️🎄
-13. Mountain View & San Francisco Avanade & Accenture Data Science for Social Good
+9. Mountain View Avanade & Accenture Wellness - 🫒🌸🙏🏼🍇🏺💅🏼💆🏻‍♀️☕🍫🕯️💐🏃🏻‍♀️🧴🪞⛳🧋🧺🎨🥑🌷🧘🏻‍♀️🐚🍃🍒🏓🫧🌹☀️🌻🧼🍝🥂🏊🏻🌬️🏸🥗🌱🎾🌶️🫖🌯🍓⛱️ (2+ years)
+10. Mountain View & Northern California Avanade & Accenture Office (6+ years)
+11. Mountain View & Northern California Avanade & Accenture Social Engagement & Networking (6+ years)
+12. Mountain View & Northern California Avanade & Accenture Social Engagement & Networking Events - 🏖️🛥️🎄(0.5 years)
+13. Mountain View & San Francisco Avanade & Accenture Data Science for Social Good (0.5 years)
 14. Irvine Up to Us National Debt Marketing Data Science, Strategy, and Business Intelligence - [UCI Merage Credly](https://www.credly.com/users/shawna-tuli/badges) (0.5 years)
 15. Bicoastal Indian American (Brown) Community (Life)
 __________________________________________________________________________________________________________________________________________________________________________
