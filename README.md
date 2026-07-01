@@ -13,13 +13,13 @@ ________________________________________________________________________________
 5. Bay Area Accenture Poverty Alleviation ML & Data Science, Strategy, and Business Intelligence - [United Way Bay Area](https://uwba.org/) (3+ years)
 6. California Avanade & Accenture ML & Data Science and Strategy - [Google Scholar 2](https://scholar.google.com/citations?hl=en&user=7F6YV8MAAAAJ) (6+ years)
 7. Mountain View & San Francisco Advisor - [Harvard Business Review](https://hbr.org/) and [LinkedIn](https://www.linkedin.com/) (6+ years)
-8. Mountain View UCI ICS Penn Medicine Radiation Oncology Global Radiation Oncology Data Science - [Google Scholar 1](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en) (6 years)
+8. Mountain View UCI ICS & Penn Medicine Radiation Oncology Global Radiation Oncology Data Science - [Google Scholar 1](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en) (6 years)
 9. Mountain View Avanade & Accenture Wellness - 🫒🌸🙏🏼🍇🏺💅🏼💆🏻‍♀️☕🍫🕯️💐🏃🏻‍♀️🧴🪞⛳🧋🧺🎨🥑🌷🧘🏻‍♀️🐚🍃🍒🏓🫧🌹☀️🌻🧼🍝🥂🏊🏻🌬️🏸🥗🌱🎾🌶️🫖🌯🍓⛱️ (2+ years)
 10. Mountain View & Northern California Avanade & Accenture Office (6+ years)
 11. Mountain View & Northern California Avanade & Accenture Social Engagement & Networking (6+ years)
 12. Mountain View & Northern California Avanade & Accenture Social Engagement & Networking Events - 🏖️🛥️🎄(0.5 years)
 13. Mountain View & San Francisco Avanade & Accenture Data Science for Social Good (0.5 years)
-14. Irvine UCI Merage Up to Us National Debt Marketing Data Science, Strategy, and Business Intelligence - [Credly](https://www.credly.com/users/shawna-tuli/badges) (0.5 years)
+14. Irvine UCI ICS & UCI Merage Up to Us National Debt Marketing Data Science, Strategy, and Business Intelligence - [Credly](https://www.credly.com/users/shawna-tuli/badges) (0.5 years)
 15. Bicoastal Indian American (Brown) Community (Life)
 __________________________________________________________________________________________________________________________________________________________________________
 #### BIG TECH AWARD HIGHLIGHTS
