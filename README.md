@@ -14,7 +14,7 @@ ________________________________________________________________________________
 6. Mountain View & San Francisco Avanade & Accenture ML & Data Science and Strategy - [Google Scholar 2](https://scholar.google.com/citations?hl=en&user=7F6YV8MAAAAJ) (6+ years)
 7. Mountain View & San Francisco Advisor - [Harvard Business Review](https://hbr.org/) and [LinkedIn](https://www.linkedin.com/) (6+ years)
 8. Mountain View UCI ICS & Penn Medicine Global Radiation Oncology Data Science - [Google Scholar 1](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en) (6 years)
-9. Mountain View Avanade & Accenture Wellness - 🫒🌸🙏🏼🍇🏺💅🏼💆🏻‍♀️☕🍫🕯️💐🏃🏻‍♀️🧴🪞⛳🧋🧺🎨🥑🌷🧘🏻‍♀️🐚🍃🍒🏓🫧🌹☀️🌻🧼🍝🥂🏊🏻🌬️🏸🥗🌱🎾🌶️🫖🌯🍓⛱️ (2+ years)
+9. Mountain View Avanade & Accenture Wellness - 🫒🌸🙏🏼🍇🏺💅🏼💆🏻‍♀️☕🍫🕯️💐🏃🏻‍♀️🧴🪞⛳🧋🧺🎨🥑🌷🧘🏻‍♀️🐚🍃🍒🏓🫧🌹☀️🌻🧼🍝🥂🏊🏻🌬️🏸🥗🌱🎾🌶️🫖🌯🚶🏻‍♀️⛱️ (2+ years)
 10. Mountain View & Northern California Avanade & Accenture Office (6+ years)
 11. Mountain View & Northern California Avanade & Accenture Social Engagement & Networking (6+ years)
 12. Mountain View & Northern California Avanade & Accenture Social Engagement & Networking Events - 🏖️🛥️🎄(0.5 years)
@@ -71,7 +71,7 @@ ________________________________________________________________________________
 * 📍 UCI ICS Project Expo (6x) 
 * 🌟 Accenture Mountain View DSSG Lead at UWBA Phase 6, leading 6 Data Scientists (Repo)
 * 🛥️ Avanade Orange Day Celebrations Planning
-* 🍓 Castro Street Whole Foods Steps & Snacks Wellness Event at Accenture Mountain View [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-22) 
+* 🚶🏻‍♀️ Castro Street Whole Foods Steps & Snacks Wellness Event at Accenture Mountain View [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-22) 
 * 🌯 Roll With It Wellness Event at Accenture Mountain View (Repo)
 * 🫖 Whole Foods Tea Time Wellness Event at Accenture Mountain View (Repo)
 * 🌶️ Sakoon From Mild to Wild Wellness Event at Accenture Mountain View (Repo)
@@ -451,7 +451,7 @@ ________________________________________________________________________________
 * Principles by Ray Dalio, Think Fast, Talk Smart: The Podcast, Think Fast Talk Smart: Communication Techniques, Strategy & Management [(Repo)](https://github.com/shawna-tuli-silicon-valley/strategy-and-management-books), Venture Capital [(Repo)](https://github.com/shawna-tuli-silicon-valley/venture-capital-books), National Public Radio, People I (Mostly) Admire, Likeable Badass: How Women Get the Success They Deserve, Stanford Business Magazine, TED Talks, Harvard Business Review, Freakonomics, Rich Habits Podcast
 ___________________________________________________________________________________________________________________________________________________________________________
 #### EDUCATION
-* Santa Clara University Leavey School of Business Evening Master of Business Administration Finance - Dean's Scholarship
+* Santa Clara University Leavey School of Business Evening Master of Business Administration Finance - Dean's Merit Scholarship
 * Accenture Stanford University Department of Computer Science Certificate in Reinvention Agentic AI (Certificate)
 * Accenture Kellogg Education Education Certificate in Leading with Analytics & Artificial Intelligence Virtual Program [(Certificate)](https://execedcertificate.kellogg.northwestern.edu/308a9e71-d504-4194-9c74-22667c48e450#gs.utv39r)
 * Coursera Stanford University Department of Computer Science Certificate in Machine Learning [(Certificate)](https://www.coursera.org/account/accomplishments/certificate/47XPJRBC4F5C)
