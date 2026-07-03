@@ -165,7 +165,7 @@ ________________________________________________________________________________
 * 🍇 Leader of Whole Foods Charcuterie Boarding Wellness Event at Accenture Mountain View - 100% in [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-3)
 * 💬 Microsoft Me Myself and My Copilot: An Introduction to Microsoft 365 Copilot Chat + Agents
 * 🌼 Accenture Mountain View Wellness Committee Member - orchestrating events
-* 🍽️ Accenture Mountain View & San Francisco Innovation Hub Third Thursdays (65x)
+* 🍽️ Accenture Mountain View & San Francisco Innovation Hub Third Thursdays (71x)
 * 모 Accenture Mountain View Computer History Museum Visit (2x)
 * 🎂 Avanade's 25th Anniversary San Francisco Happy Hour 
 * 🙏🏼 Hostess of Gratitude Journaling Wellness Event at Accenture Mountain View - 100% in [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-2)
@@ -261,10 +261,10 @@ ________________________________________________________________________________
 * 👥 Acenture Mountain View UCI Recruitment Alumni Speaker (4x) [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-university-of-california-irvine-recruitment)
 * 💙 Accenture Applied Intelligence Strategy Summer Conference San Francisco
 * 🎊 Avanade Go Team! Award (4x)
-* 🫧 Accenture Mountain View & San Francisco Innovation Hub First Fridays (65x)
+* 🫧 Accenture Mountain View & San Francisco Innovation Hub First Fridays (71x)
 * ✧˖° Accenture San Francisco Innovation Hub Happy Hours (32x)
-* 🏛️ Accenture Mountain View & San Francisco Innovation Hub Quarterly Town Halls (39x)
-* 📅 Avanade Mountain View & San Francisco Innovation Hub Quarterly Town Halls (39x)
+* 🏛️ Accenture Mountain View & San Francisco Innovation Hub Quarterly Town Halls (24x)
+* 📅 Avanade Mountain View & San Francisco Innovation Hub Quarterly Town Halls (24x)
 * 🖌️ San Francisco Museum of Modern Art Visit
 * 🐜 University of California, Irvine Donald Bren School of Information & Computer Sciences BS in Data Science Graduate
 * 🔬 Radiotherapy and Oncology Conference
