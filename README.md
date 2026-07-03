@@ -175,7 +175,7 @@ ________________________________________________________________________________
 * 🫒 Olive Oil Tasting Wellness Event at Accenture Mountain View 
 * 🚋 ML & Data Science Panelist at Accenture San Francisco Innovation Hub University of Washington MSIS Recruitment 
 * 🗣️ Accenture San Francisco Innovation Hub FY25 Asian Pacific American Employee Resource Group Leadership Summit
-* 🛢️ CES [(Videos)](https://videos.ces.tech/)
+* 🛢️ CES 
 * 🚗 5) Accenture ML & Data Science Advisor - business modeled Uber and led 5 Data Scientists [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-bi-and-data-science/tree/main) [(Student Repo)](https://github.com/jiangyue-amber/uber-analysis) 
 * 🍏 Freakonomics Radio Live with Stephen Dubner and special guests San Francisco
 * ❄️ Accenture San Francisco Innovation Hub AI Holiday Party
