@@ -181,7 +181,7 @@ ________________________________________________________________________________
 * ❄️ Accenture San Francisco Innovation Hub AI Holiday Party
 * 🎄 Accenture San Francisco Innovation Hub Holidays Party (6x)
 * 👠 Avanade Northern California Social Engagement & Networking Champion - assembling and holding monthly events for 50+
-* 🌎 Google AI for everyone Global Virtual Summit [(Videos)](https://careersonair.withgoogle.com/events/aiforeveryone24)
+* 🌎 Google AI for everyone Global Virtual Summit
 * 🔍 4) Accenture V360 Awards Nominee - developed AI utility rate case management, led 7 Data Scientists [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture/tree/main) [(Student Repo)](https://github.com/bsteier/GRCResponder)
 * 🚚 2. ML & Data Science Manager at Amazon Mountain View - led 4 Cloud Engineers on PB mailboxes
 * 🔈Orator at Accenture Mountain View DSSG at UWBA Phase 3 Presentation (6x)
@@ -190,7 +190,7 @@ ________________________________________________________________________________
 * 🗳️ Accenture Mountain View & San Francisco Innovation Hub DSSG Lead at UWBA Brunch & Ballots [(Repo)](https://github.com/shawna-tuli-silicon-valley/uwba-ai-and-data-science/tree/main)
 * 📘 Accenture Mountain View & San Francisco Innovation Hub Amazon Account Learn & Grow Mentor - teaching AI
 * 🏖️ Google Cloud Launchpad for Women: Edition 3 
-* 🔥 Microsoft Ignite (6x) [(Episodes)](https://ignite.microsoft.com/en-US/home) 
+* 🔥 Microsoft Ignite (6x)
 * 𓊍 Microsoft Avanade Northern California Climb to the Top: San Francisco 2024 [(Article)](https://events.nationalmssociety.org/index.cfm?fuseaction=donorDrive.participant&participantID=571802)
 * 🎁 Avanade Mountain View & San Francisco Innovation Hub AI & Automation Practice CA - advising 2 Data Scientists
 * 🧿 Accenture Mountain View Wellness Committee Ambassador - ran events [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness)
