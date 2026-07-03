@@ -59,7 +59,7 @@ ________________________________________________________________________________
 34. UCI ICS Project Expo | Irvine (6x)
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-#### BIG TECH ML & DATA SCIENCE LEADERSHIP (2014-Present) 
+#### BIG TECH AI FDE LEADERSHIP (2014-Present) 
 * 🗒️ Incoming SCU Ciocca Center Graduate Business Consultant
 * 🦄 Incoming SCU Ciocca Center Graduate Venture Fellow & Scout
 * 💱 Incoming SCU Leavey Gradaute Student Ambassador
