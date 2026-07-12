@@ -66,7 +66,7 @@ ________________________________________________________________________________
 * 🐎 Incoming SCU Bronco Venture Accelerator Cohort Member & Startup Scout
 * 📖 Santa Clara University Leavey School of Business Evening MBA Finance Candidate
 * 📰 Incoming Avanade Mountain View AI Forward Deployed Engineering Manager (Repo)
-* 👑 Incoming ML & Data Science Lead at Fortune 500 Healthcare Company Mountain View
+* 👑 ML & Data Science Lead at Fortune 500 Healthcare Company Mountain View
 * 🏘️ Python Developer at Fortune 500 Real Estate Company Mountain View
 * 📙 Avanade Internship Pitch Competition Lead
 * 📍 UCI ICS Project Expo (6x) 
