@@ -58,6 +58,7 @@ ________________________________________________________________________________
 33. Databricks Data + AI Summit | San Francisco
 34. UCI ICS Project Expo | Irvine (6x)
 35. Harvard Business Review Advisor
+36. LinkedIn Expert Contributor in ML & Data Science
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 #### BIG TECH AI FDE LEADERSHIP (2014-Present) 
@@ -225,7 +226,7 @@ ________________________________________________________________________________
 * 🌄 Avanade AI & Automation and Intelligent Data Platform Practices Northern California Lead - arranged events for 8
 * 📦 1. ML & Data Science Manager at Amazon Mountain View - analyzed PB mailboxes and led 4 Cloud Engineers [(Repo)](https://github.com/shawna-tuli-silicon-valley/amazon-mountain-view-ai-and-data-science/tree/main)
 * ❤️ Google I/O Conference (8x)
-* ⚡ Generative AI, ML, Data Science, Advanced Analytics, and Data Visualization Expert at LinkedIn Collaborative Articles
+* ⚡ LinkedIn Expert Contributor in ML & Data Science
 * 👾 Avanade Mountain View AI Forward Deployed Engineering Associate Manager [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-ai-and-advanced-analytics-3)
 * 🦾 AI Lead at Fortune 500 Information Technology & Services Company San Francisco
 * 🧠 ML & Data Science Advisor at Harvard Business Review [(Repo)](https://github.com/shawna-tuli-silicon-valley/harvard-business-review-advisory-council) [(Magazine)](https://hbr.org/)
