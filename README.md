@@ -11,7 +11,7 @@ ________________________________________________________________________________
 3. Mountain View & San Francisco Amazon ML & Data Science and Product Strategy - [Amazon](https://www.aboutamazon.com/artificial-intelligence-ai-news) (2 years at Amazon Mailbox Core)
 4. Mountain View & San Francisco Avanade & Accenture ML & Data Science and Strategy - [Avanade](https://www.avanade.com/en-us/services/artificial-intelligence) & [Accenture](https://www.accenture.com/us-en/services/data-ai) (6+ years)
 5. Mountain View & San Francisco Avanade & Accenture Financial Stability ML & Data Science - [United Way Bay Area](https://uwba.org/) (3+ years)
-6. Santa Clara Leavey [(Google Scholar 3)]
+6. Santa Clara Leavey [(Google Scholar 3)](https://scholar.google.com/citations?hl=en&user=Ikhq9U0AAAAJ)
 7. Mountain View & San Francisco Avanade & Accenture ML & Data Science and Strategy [(Google Scholar 2)](https://scholar.google.com/citations?hl=en&user=7F6YV8MAAAAJ) (6+ years)
 8. Mountain View UCI ICS & Penn Medicine Global Radiation Oncology Data Science [(Google Scholar 1)](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en) (6 years)
 9. Mountain View Avanade & Accenture Wellness - 🫒🌸🙏🏼🍇🏺💅🏼💆🏻‍♀️☕🍫🕯️💐🏃🏻‍♀️🧴🪞⛳🧋🧺🎨🥑🌷🧘🏻‍♀️🐚🍃🍒🏓🫧🌹☀️🌻🧼🍝🥂🏊🏻🌬️🏸🥗🌱🎾🌶️🫖🌯🚶🏻‍♀️⛱️ (2 years)
