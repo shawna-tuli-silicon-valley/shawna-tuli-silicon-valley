@@ -14,7 +14,7 @@ ________________________________________________________________________________
 6. Mountain View & San Francisco Avanade & Accenture ML & Data Science and Strategy [(Google Scholar 2)](https://scholar.google.com/citations?hl=en&user=7F6YV8MAAAAJ) (6+ years)
 7. Mountain View & San Francisco Advisor - [Harvard Business Review](https://hbr.org/) and [LinkedIn](https://www.linkedin.com/) (6+ years)
 8. Mountain View UCI ICS & Penn Medicine Global Radiation Oncology Data Science [(Google Scholar 1)](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en) (6 years)
-9. Mountain View Avanade & Accenture Wellness - 🫒🌸🙏🏼🍇🏺💅🏼💆🏻‍♀️☕🍫🕯️💐🏃🏻‍♀️🧴🪞⛳🧋🧺🎨🥑🌷🧘🏻‍♀️🐚🍃🍒🏓🫧🌹☀️🌻🧼🍝🥂🏊🏻🌬️🏸🥗🌱🎾🌶️🫖🌯🚶🏻‍♀️⛱️ (2+ years)
+9. Mountain View Avanade & Accenture Wellness - 🫒🌸🙏🏼🍇🏺💅🏼💆🏻‍♀️☕🍫🕯️💐🏃🏻‍♀️🧴🪞⛳🧋🧺🎨🥑🌷🧘🏻‍♀️🐚🍃🍒🏓🫧🌹☀️🌻🧼🍝🥂🏊🏻🌬️🏸🥗🌱🎾🌶️🫖🌯🚶🏻‍♀️⛱️ (2 years)
 10. Mountain View & Northern California Avanade & Accenture Office (6+ years)
 11. Mountain View & Northern California Avanade & Accenture Social Engagement & Networking (6+ years)
 12. Mountain View & Northern California Avanade & Accenture Social Engagement & Networking Events - 🏖️🛥️🎄(0.5 years)
