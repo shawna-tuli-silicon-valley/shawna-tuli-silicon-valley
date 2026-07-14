@@ -73,6 +73,7 @@ ________________________________________________________________________________
 * 📙 Avanade Internship Pitch Competition Lead
 * 📍 UCI ICS Project Expo (6x) 
 * 🌟 Accenture Mountain View DSSG Lead at UWBA Phase 6, leading 6 Data Scientists (Repo)
+* 🏵️ Avanade Northern California Orange Day San Francisco Celebration
 * 🛥️ Avanade Northern California Orange Day Celebrations Planning
 * 🚶🏻‍♀️ Castro Street Whole Foods Steps & Snacks Wellness Event at Accenture Mountain View [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-22) 
 * 🌯 Roll With It Wellness Event at Accenture Mountain View (Repo)
