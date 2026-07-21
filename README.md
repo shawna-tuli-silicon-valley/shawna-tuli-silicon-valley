@@ -117,7 +117,7 @@ ________________________________________________________________________________
 * 🧘🏻‍♀️ Coordinator of Equinox Pilates Wellness Event at Accenture Mountain View [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-17) 
 * 💍 Accenture San Francisco Innovation Hub NorCal Engagement Leadership Bonding
 * 🛠️ Microsoft Build Conference San Francisco 
-* 🦅 Business Analyst at Fortune 500 Information Technology & Services Company Mountain View [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture-business-analytics)
+* 🦅 Business Analyst at Fortune 500 Information Technology & Services Company Mountain View
 * 💲 Accenture Mountain View CFO & Enterprise Value Recruitment Lunch
 * 🔋 Communications, Media & Technology Industry Day at Accenture San Francisco Innovation Hub
 * ⚱️ Cantor Arts Center at Stanford University Visit
