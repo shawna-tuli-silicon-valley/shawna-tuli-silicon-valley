@@ -435,6 +435,9 @@ ________________________________________________________________________________
 
 #### Business Development
 * Project Management, Coachability, Market Research and Intelligence, Data Analysis
+
+#### Finance
+* Accounting, Financial Management
 ___________________________________________________________________________________________________________________________________________________________________________
 #### LANGUAGES
 * English (Native), Hindi (Bilingual), Punjabi (Limited), Spanish (Professional)
