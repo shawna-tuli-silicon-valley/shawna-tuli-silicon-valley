@@ -419,7 +419,7 @@ ________________________________________________________________________________
 __________________________________________________________________________________________________________________________________________________________________________ 
 #### BUSINESS SKILLS
 #### Venture Capital
-* Networking, Industry Knowledge
+* Networking, Industry Knowledge, Startups, Negotiation 
 
 #### Investment Management
 * Confidence, Curiosity, Emotional Intelligence, Problem Solving, Math, Portfolio Management, Risk Management, Asset Management, Due Diligence, Fixed Income Analysis, Bloomberg Terminal
@@ -437,7 +437,7 @@ ________________________________________________________________________________
 * Project Management, Coachability, Market Research and Intelligence, Data Analysis
 
 #### Finance
-* Accounting, Financial Management
+* Financial Accounting, Financial Management
 ___________________________________________________________________________________________________________________________________________________________________________
 #### LANGUAGES
 * English (Native), Hindi (Bilingual), Punjabi (Limited), Spanish (Professional)
