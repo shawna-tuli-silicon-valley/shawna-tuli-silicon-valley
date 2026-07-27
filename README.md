@@ -118,7 +118,7 @@ ________________________________________________________________________________
 * 💍 Accenture San Francisco Innovation Hub NorCal Engagement Leadership Bonding
 * 🛠️ Microsoft Build Conference San Francisco 
 * 🦅 Business Analyst at Fortune 500 Information Technology & Services Company Mountain View
-* 💲 Accenture Mountain View CFO & Enterprise Value Recruitment Lunch
+* 💲 Accenture Mountain View CFO & Enterprise Value Recruitment Lunch (3x)
 * 🔋 Communications, Media & Technology Industry Day at Accenture San Francisco Innovation Hub
 * ⚱️ Cantor Arts Center at Stanford University Visit
 * 🍝 Accenture San Francisco Innovation Hub Wellness Dinner
