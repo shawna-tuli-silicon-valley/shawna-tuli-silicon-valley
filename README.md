@@ -66,7 +66,7 @@ ________________________________________________________________________________
 * 🦄 Incoming SCU Ciocca Center Graduate Venture Fellow & Scout
 * 💱 Incoming SCU Leavey Gradaute Student Ambassador
 * 🐎 Incoming SCU Bronco Venture Accelerator Cohort Member & Startup Scout
-* 🍾 Accenture San Francisco Northern California Engagement Leadership End-of-Year Celebration @ Bare Bottles
+* 🍾 Accenture San Francisco Northern California Engagement Leadership End-of-Year Celebration at Bare Bottles
 * 📖 Santa Clara University Leavey School of Business Evening MBA Finance Candidate
 * 📰 Incoming Avanade Mountain View AI Forward Deployed Engineering Manager (Repo)
 * 🟡 Pickleball & Positivity Wellness Event at Accenture Mountain View (Repo)
