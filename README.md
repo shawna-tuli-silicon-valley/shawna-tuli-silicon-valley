@@ -68,7 +68,7 @@ ________________________________________________________________________________
 * 🐎 Incoming SCU Bronco Venture Accelerator Cohort Member & Startup Scout
 * 📖 Santa Clara University Leavey School of Business Evening MBA Finance Candidate
 * 📰 Incoming Avanade Mountain View AI Forward Deployed Engineering Manager (Repo)
-* 🟡 Pickleball & Positive Vibes Wellness Event at Accenture Mountain View (Repo)
+* 🟡 Pickleball & Positivity Wellness Event at Accenture Mountain View (Repo)
 * 𓂃🪶 Collaborator at Avanade Client Stories (2x)
 * 👑 ML & Data Science Lead at Fortune 500 Healthcare Company Mountain View
 * 🏘️ Python Developer at Fortune 500 Real Estate Company Mountain View
