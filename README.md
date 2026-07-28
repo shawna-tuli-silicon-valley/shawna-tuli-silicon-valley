@@ -66,7 +66,7 @@ ________________________________________________________________________________
 * 🦄 Incoming SCU Ciocca Center Graduate Venture Fellow & Scout
 * 💱 Incoming SCU Leavey Gradaute Student Ambassador
 * 🐎 Incoming SCU Bronco Venture Accelerator Cohort Member & Startup Scout
-* 🍾 Accenture San Franicsco NorCal Engagement Leadership End-of-Year Celebration @ Bare Bottles
+* 🍾 Accenture San Francisco Northern California Engagement Leadership End-of-Year Celebration @ Bare Bottles
 * 📖 Santa Clara University Leavey School of Business Evening MBA Finance Candidate
 * 📰 Incoming Avanade Mountain View AI Forward Deployed Engineering Manager (Repo)
 * 🟡 Pickleball & Positivity Wellness Event at Accenture Mountain View (Repo)
@@ -92,7 +92,7 @@ ________________________________________________________________________________
 * 👡 Avanade Mountain View & Northern California Social Engagement & Networking Events Lead
 * 🧼 Self-Care Studio Wellness Event at Accenture Mountain View (Repo) 
 * 🌹 Accenture Mountain View Wellness Kits Facilitator (3x)
-* ♟️ Accenture Mountain View Northern California APAERG Board Game Social across NorCal Offices Poker Hostess 
+* ♟️ Accenture Mountain View Northern California APAERG Board Game Social Poker Hostess 
 * 🥂 Accenture San Francisco Innovation Hub Wellness Happy Hour
 * 🪑 Avanade Bench Status Series Speaker 
 * 🫧 Accenture Mountain View & San Francisco Innovation Hub Massages (2x)
@@ -116,7 +116,7 @@ ________________________________________________________________________________
 * 🐚 Facilitator of Santa Cruz West Cliff Drive Walk Wellness Event at Accenture Mountain View - 100% taken (Repo)
 * 🍒 Administrator of Mulberry Picking Wellness Event at Accenture Mountain View - 100% full [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-18)
 * 🧘🏻‍♀️ Coordinator of Equinox Pilates Wellness Event at Accenture Mountain View [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-17) 
-* 💍 Accenture San Francisco Innovation Hub NorCal Engagement Leadership Bonding
+* 💍 Accenture San Francisco Innovation Hub Northern California Engagement Leadership Bonding
 * 🛠️ Microsoft Build Conference San Francisco 
 * 🦅 Business Analyst at Fortune 500 Information Technology & Services Company Mountain View
 * 💲 Accenture Mountain View CFO & Enterprise Value Recruitment Lunch (3x)
