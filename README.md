@@ -439,7 +439,7 @@ ________________________________________________________________________________
 * Project Management, Coachability, Market Research and Intelligence, Data Analysis
 
 #### Finance
-* Financial Accounting, Financial Management
+* Financial Accounting, Financial Management, Attention to Detail, Strategic Thinking
 ___________________________________________________________________________________________________________________________________________________________________________
 #### LANGUAGES
 * English (Native), Hindi (Bilingual), Punjabi (Limited), Spanish (Professional)
