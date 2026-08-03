@@ -2,7 +2,7 @@
 
 
 
-Shawna Tuli is a seasoned **Mountain View & San Francisco** AI Forward Deployed Engineering Leader, Innovator, Advisor, and **San Jose native**, with **over six years** as a Lead Data Scientist, Incoming AI Forward Deployed Engineering Manager at Avanade, the Accenture Microsoft Business Group, and Accenture, and MBA Finance Candidate at Santa Clara University Leavey School of Business. She has a strong background in ***artificial intelligence forward deployed engineering***, interlacing ***machine learning***, ***data science***, ***agentic artificial intelligence, generative artificial intelligence***, ***advanced analytics***, ***software engineering***, ***business intelligence***, ***finance***, ***product strategy***, ***product analytics***, ***predictive modeling***, ***strategy***, ***data engineering***, and ***CFO & enterprise value***. Shawna is on the Venture Capitalist, CFO, and Corporate Board Director path with **over twelve years** in ***big technology*** in **Silicon Valley**.
+Shawna Tuli is a seasoned **Mountain View & San Francisco** AI Forward Deployed Engineering Leader, Innovator, Advisor, and **San Jose native**, with **over six years** as a Lead Data Scientist, AI Forward Deployed Engineering Associate Manager at Avanade, the Accenture Microsoft Business Group, and Accenture, and MBA Finance Candidate at Santa Clara University Leavey School of Business. She has a strong background in ***artificial intelligence forward deployed engineering***, interlacing ***machine learning***, ***data science***, ***agentic artificial intelligence, generative artificial intelligence***, ***advanced analytics***, ***software engineering***, ***business intelligence***, ***finance***, ***product strategy***, ***product analytics***, ***predictive modeling***, ***strategy***, ***data engineering***, and ***CFO & enterprise value***. Shawna is on the Venture Capitalist, CFO, and Corporate Board Director path with **over twelve years** in ***big technology*** in **Silicon Valley**.
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 #### BIG TECH LEADERSHIP HIGHLIGHTS
@@ -69,7 +69,6 @@ ________________________________________________________________________________
 * 🪄 Reflect, Reset, Manifest Wellness Event at Accenture Mountain View (Repo) 
 * 🍾 Accenture San Francisco Northern California Engagement Leadership End-of-Year Celebration at Bare Bottles
 * 📖 Santa Clara University Leavey School of Business Evening MBA Finance Candidate
-* 📰 Incoming Avanade Mountain View AI Forward Deployed Engineering Manager (Repo)
 * 🟡 Pickleball & Positivity Wellness Event at Accenture Mountain View (Repo)
 * 𓂃🪶 Collaborator at Avanade Client Stories (2x)
 * 👑 ML & Data Science Lead at Fortune 500 Healthcare Company Mountain View
