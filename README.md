@@ -59,6 +59,7 @@ ________________________________________________________________________________
 34. UCI ICS Project Expo | Irvine (6x)
 35. Harvard Business Review Advisor
 36. LinkedIn Expert Contributor in ML & Data Science
+37. Databricks Partner Tech Summit
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 #### BIG TECH AI FDE LEADERSHIP (2014-Present) 
@@ -66,6 +67,7 @@ ________________________________________________________________________________
 * 🦄 Incoming SCU Ciocca Center Graduate Venture Fellow & Scout
 * 💱 Incoming SCU Leavey Gradaute Student Ambassador
 * 🐎 Incoming SCU Bronco Venture Accelerator Cohort Member & Startup Scout
+* 📅 Databricks Partner Tech Summit 
 * 📝 Google Cloud Launchpad for Women - Gen AI Leader Edition 
 * 🪄 Reflect, Reset, Manifest Wellness Event at Accenture Mountain View (Repo) 
 * 🍾 Accenture San Francisco Northern California Engagement Leadership End-of-Year Celebration at Bare Bottles
