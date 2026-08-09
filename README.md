@@ -65,7 +65,7 @@ ________________________________________________________________________________
 #### BIG TECH AI FDE LEADERSHIP (2014-Present) 
 * 🗒️ Incoming SCU Ciocca Center Graduate Business Consultant
 * 🦄 Incoming SCU Ciocca Center Graduate Venture Fellow & Scout
-* 💱 Incoming SCU Leavey Gradaute Student Ambassador
+* 💵 Incoming SCU Leavey Gradaute Student Ambassador
 * 🐎 Incoming SCU Bronco Venture Accelerator Cohort Member & Startup Scout
 * 📅 Databricks Partner Tech Summit 
 * 📝 Google Cloud Launchpad for Women - Gen AI Leader Edition 
@@ -122,7 +122,7 @@ ________________________________________________________________________________
 * 💍 Accenture San Francisco Innovation Hub Northern California Engagement Leadership Bonding
 * 🛠️ Microsoft Build Conference San Francisco 
 * 🦅 Business Analyst at Fortune 500 Information Technology & Services Company Mountain View
-* 💲 Accenture Mountain View CFO & Enterprise Value Recruitment Lunch (3x)
+* 💲 Accenture Mountain View CFO & Enterprise Value Recruitment Lunch (2x)
 * 🔋 Communications, Media & Technology Industry Day at Accenture San Francisco Innovation Hub
 * ⚱️ Cantor Arts Center at Stanford University Visit
 * 🍝 Accenture San Francisco Innovation Hub Wellness Dinner
