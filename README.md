@@ -75,7 +75,7 @@ ________________________________________________________________________________
 * 🟡 Pickleball & Positivity Wellness Event at Accenture Mountain View (Repo)
 * 𓂃🪶 Collaborator at Avanade Client Stories (2x)
 * 👑 ML & Data Science Lead SISA at Fortune 500 Healthcare Company Mountain View
-* 🏘️ Python Developer SISA at Fortune 500 Real Estate Company Mountain View
+* 🏘️ Python Developer at Fortune 500 Real Estate Company Mountain View
 * 📙 Avanade Internship Pitch Competition Lead
 * 📍 UCI ICS Project Expo (6x) 
 * 🌟 Accenture Mountain View DSSG Lead at UWBA Phase 6, leading 6 Data Scientists (Repo)
