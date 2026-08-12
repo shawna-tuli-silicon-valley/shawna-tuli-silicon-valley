@@ -67,7 +67,7 @@ ________________________________________________________________________________
 * 🦄 Incoming SCU Ciocca Center Graduate Venture Fellow & Scout
 * 💵 Incoming SCU Leavey Gradaute Student Ambassador
 * 🐎 Incoming SCU Bronco Venture Accelerator Cohort Member & Startup Scout
-* 🌈 Accenture Mountain View Wellness for Welcome to NorCal Speaker
+* 🌈 Accenture Mountain View Wellness for Welcome to Northern California Speaker
 * 📅 Databricks Partner Tech Summit 
 * 📝 Google Cloud Launchpad for Women - Gen AI Leader Edition 
 * 🪄 Reflect, Reset, Manifest Wellness Event at Accenture Mountain View (Repo) 
