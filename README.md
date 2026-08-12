@@ -67,7 +67,7 @@ ________________________________________________________________________________
 * 🦄 Incoming SCU Ciocca Center Graduate Venture Fellow & Scout
 * 💵 Incoming SCU Leavey Gradaute Student Ambassador
 * 🐎 Incoming SCU Bronco Venture Accelerator Cohort Member & Startup Scout
-* ➡️ Accenture Interns Storytelling, Mastering Your Presentation Skills, and Executive Presence + Public Speaking Speaker
+* ➡️ Avanade Interns Storytelling, Mastering Your Presentation Skills, and Executive Presence + Public Speaking Speaker
 * 🌈 Accenture Mountain View Wellness for Welcome to Northern California Speaker
 * 📅 Databricks Partner Tech Summit 
 * 📝 Google Cloud Launchpad for Women - Gen AI Leader Edition 
