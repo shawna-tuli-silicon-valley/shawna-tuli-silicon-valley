@@ -14,10 +14,10 @@ ________________________________________________________________________________
 6. Santa Clara SCU Leavey [(Google Scholar 3)](https://scholar.google.com/citations?hl=en&user=Ikhq9U0AAAAJ)
 7. Mountain View & San Francisco Avanade & Accenture ML & Data Science and Strategy [(Google Scholar 2)](https://scholar.google.com/citations?hl=en&user=7F6YV8MAAAAJ) (6+ years)
 8. Mountain View UCI ICS & Penn Medicine Global Radiation Oncology Data Science [(Google Scholar 1)](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en) (6 years)
-9. Mountain View Avanade & Accenture Wellness - 🫒🌸🙏🏼🍇🏺💅🏼💆🏻‍♀️☕🍫🕯️💐🏃🏻‍♀️🧴🪞⛳🧋🧺🎨🥑🌷🧘🏻‍♀️🐚🍃🍒🏓🫧🌹☀️🌻🧼🍝🥂🏊🏻🌬️🏸🥗🌱🎾🌶️🫖🌯🚶🏻‍♀️⛱️🟡🪄🌈2 years)
+9. Mountain View Avanade & Accenture Wellness - 🫒🌸🙏🏼🍇🏺💅🏼💆🏻‍♀️☕🍫🕯️💐🏃🏻‍♀️🧴🪞⛳🧋🧺🎨🥑🌷🧘🏻‍♀️🐚🍃🍒🏓🫧🌹☀️🌻🧼🍝🥂🏊🏻🌬️🏸🥗🌱🎾🌶️🫖🌯🚶🏻‍♀️⛱️🟡🪄🌈🍂 (2 years)
 10. Mountain View & Northern California Avanade & Accenture Office (6+ years)
 11. Mountain View & Northern California Avanade & Accenture Social Engagement & Networking (6+ years)
-12. Mountain View & Northern California Avanade & Accenture Social Engagement & Networking Events - 🏖️🛥️🎄(0.5 years)
+12. Mountain View & Northern California Avanade & Accenture Social Engagement & Networking Events - 🛥️🏵️✏️🎄(0.5 years)
 13. Mountain View & San Francisco Avanade & Accenture Data Science for Social Good (0.5 years)
 14. Irvine UCI ICS & UCI Merage Up to Us National Debt Marketing Data Science, Strategy, and BI [(Credly)](https://www.credly.com/users/shawna-tuli/badges) (0.5 years)
 15. Bicoastal Indian American (Brown) Community (Life)
@@ -64,10 +64,11 @@ ________________________________________________________________________________
 
 #### BIG TECH AI FDE LEADERSHIP (2014-Present) 
 * 🗒️ Incoming SCU Ciocca Center Graduate Business Consultant
-* 🦄 Incoming SCU Ciocca Center Graduate Venture Fellow & Scout
+* 🦄 Incoming SCU Ciocca Center Graduate Fellow
 * 💵 Incoming SCU Leavey Gradaute Student Ambassador
-* 🐎 Incoming SCU Bronco Venture Accelerator Cohort Member & Startup Scout
-* ➡️ Avanade Interns Storytelling, Mastering Your Presentation Skills, and Executive Presence + Public Speaking Speaker
+* 🖱️ 3. Technical Lead at Amazon Mountain View 
+* ✏️ Accenture Mountain View Back to School Drive 
+* 📝 Avanade Interns Storytelling, Mastering Your Presentation Skills, and Executive Presence + Public Speaking Speaker
 * 🌈 Accenture Mountain View Wellness for Welcome to Northern California Speaker
 * 📅 Databricks Partner Tech Summit 
 * 📝 Google Cloud Launchpad for Women - Gen AI Leader Edition 
@@ -93,7 +94,6 @@ ________________________________________________________________________________
 * 🏸 Racket & Recharge Wellness Event at Accenture Mountain View (Repo)
 * ✴️ Claude Specialist at Avanade & Accenture Mountain View & Northern California Social Engagement & Networking (Repo)
 * 🎄 Initiator of Holiday Party at Accenture San Francisco Innovation Hub (Repo) 
-* 🏖️ Originator of Beach Picnic at Accenture Mountain View (Repo) 
 * 👡 Avanade Mountain View & Northern California Social Engagement & Networking Events Lead
 * 🧼 Self-Care Studio Wellness Event at Accenture Mountain View (Repo) 
 * 🌹 Accenture Mountain View Wellness Kits Facilitator (3x)
@@ -466,17 +466,17 @@ ________________________________________________________________________________
 * Principles by Ray Dalio, Think Fast, Talk Smart: The Podcast, Think Fast Talk Smart: Communication Techniques, Strategy & Management [(Repo)](https://github.com/shawna-tuli-silicon-valley/strategy-and-management-books), Venture Capital [(Repo)](https://github.com/shawna-tuli-silicon-valley/venture-capital-books), National Public Radio, People I (Mostly) Admire, Likeable Badass: How Women Get the Success They Deserve, Stanford Business Magazine, TED Talks, Harvard Business Review, Freakonomics, Rich Habits Podcast
 ___________________________________________________________________________________________________________________________________________________________________________
 #### EDUCATION
-* Santa Clara University Leavey School of Business Evening Master of Business Administration Finance - Dean's Merit Scholarship
+* Santa Clara University Leavey School of Business Evening Master of Business Administration in Finance & Leading Innovative Organizations - Dean's Merit Scholarship
 * Accenture Stanford University Department of Computer Science Certificate in Reinvention Agentic AI (Certificate)
 * Accenture Kellogg Education Education Certificate in Leading with Analytics & Artificial Intelligence Virtual Program [(Certificate)](https://execedcertificate.kellogg.northwestern.edu/308a9e71-d504-4194-9c74-22667c48e450#gs.utv39r)
 * Coursera Stanford University Department of Computer Science Certificate in Machine Learning [(Certificate)](https://www.coursera.org/account/accomplishments/certificate/47XPJRBC4F5C)
 * Coursera The Wharton School - Introduction to Marketing [(Certificate)](https://www.coursera.org/account/accomplishments/certificate/NMFXW69JVDJX)
 * Coursera University of California, Davis - SQL for Data Science [(Certificate)](https://www.coursera.org/account/accomplishments/certificate/TG58RPJKTBB9)
-* University of California, Irvine Donald Bren School of Information & Computer Sciences Bachelor of Science Data Science (Computer Science & Statistics) - Dean's Honor List, Penn Medicine Radiation Oncology Data Science Capstone and Twenty-Four Articles, Butterworth Product Development Competition (Software) Finalist, Research Assistant for Professor Gloria Mark, Women in Information & Computer Sciences, Math Community Educational Outreach Science, Technology, Engineering, and Mathematics Mentor, Girls Inc. of Orange County Science, Technology, Engineering, and Mathematics Mentor, Freshmen Edge, and Dance [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-data-science)
+* University of California, Irvine Donald Bren School of Information & Computer Sciences Bachelor of Science in Data Science (Computer Science & Statistics) - Dean's Honor List, Penn Medicine Radiation Oncology Data Science Capstone and Twenty-Four Articles, Butterworth Product Development Competition (Software) Finalist, Research Assistant for Professor Gloria Mark, Women in Information & Computer Sciences, Math Community Educational Outreach Science, Technology, Engineering, and Mathematics Mentor, Girls Inc. of Orange County Science, Technology, Engineering, and Mathematics Mentor, Freshmen Edge, and Dance [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-data-science)
 * University of California, Irvine Paul Merage School of Business - Alpha Kappa Psi Professional Co-ed Business Fraternity | Pi Psi Professional Chair, Theta Class Treasurer, Brother, and "Most Likely to be a Billionaire," UptoUCI Co-Founder & Marketing Director, "Top 20 Team," and "Top Pledge Earner," Student Managed Investment Fund Executive Vice President and Chartered Financial Analyst Society Orange County Request for Proposal Second Place, Chartered Financial Analyst Society Orange County Research Challenge, and Chartered Financial Analyst Society Orange County
 * Los Gatos High School High School Diploma - Los Gatos-Saratoga Union High School District Scholar, Advanced Placement Scholar with Distinction, Christine Guenther Brienzo Merit Scholarship, Stanford Splash, LIVEbeyond Foundation California President, Future Business Leaders of America Treasurer and Bay Section "Top 10" in Securities & Investments, California Council on Economic Education Personal Finance Challenge "Top 5," Science Olympiad Santa Clara County "Top 3" (2x), Link Crew Leader, Women in Computer Science, Women's Doubles Tennis, and Mixed Doubles Badminton [(Repo)](https://github.com/shawna-tuli-silicon-valley/lghs-advanced-placement)
 * Stanford University Department of Computer Science Certificate in Girl Code Program in Computer Science [(Repo)](https://github.com/shawna-tuli-silicon-valley/stanford-engineering-computer-science-girl-code)
-* Marvin Ridge High School - Valedictorian*, International Baccalaureate, National Speech & Debate Association Degree of Excellence, Future Business Leaders of America, North Carolina Council on Economic Education Economics Challenge "Top 5," Science Olympiad Union County "Top 3" (2x), National Honor Society, 700+ Volunteer Hours in Radiation Oncology at Atrium Health Pineville and Novant Health Presbyterian Medical Center, and Kathak North Indian Classical Dance (10 years) [(Repo)](https://github.com/shawna-tuli-silicon-valley/mrhs-international-baccalaureate) [(Repo)](https://github.com/shawna-tuli-silicon-valley/mrhs-north-carolina-forensic-league-state-championship)
+* Marvin Ridge High School - Valedictorian*, International Baccalaureate, National Speech & Debate Association Degree of Excellence*, Future Business Leaders of America, North Carolina Council on Economic Education Economics Challenge "Top 5," Science Olympiad Union County "Top 3" (2x), National Honor Society, 700+ Volunteer Hours in Radiation Oncology at Atrium Health Pineville and Novant Health Presbyterian Medical Center, and Kathak North Indian Classical Dance (10 years) [(Repo)](https://github.com/shawna-tuli-silicon-valley/mrhs-international-baccalaureate) [(Repo)](https://github.com/shawna-tuli-silicon-valley/mrhs-north-carolina-forensic-league-state-championship)
 
 _____________________________________________________________________________________________________________________________________________________________________________
 #### INTERESTS
