@@ -64,7 +64,7 @@ ________________________________________________________________________________
 
 #### BIG TECH AI FDE LEADERSHIP (2014-Present) 
 * 🗒️ Incoming SCU Ciocca Center Graduate Business Consultant
-* 🦄 Incoming SCU Ciocca Center Graduate Fellow
+* 📜 Incoming SCU Ciocca Center Graduate Fellow
 * 💵 Incoming SCU Leavey Gradaute Student Ambassador
 * 🍂 Autumn Soy Candle Making at Accenture Mountain View (Repo)
 * 🖱️ 3. Technical Lead at Amazon Mountain View 
