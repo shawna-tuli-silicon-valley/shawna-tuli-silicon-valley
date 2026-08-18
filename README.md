@@ -2,7 +2,7 @@
 
 
 
-Shawna Tuli is a seasoned **Mountain View & San Francisco** AI Forward Deployed Engineering Leader, Innovator, Advisor, and **San Jose native**, with **over six years** as a Lead Data Scientist, AI Forward Deployed Engineering Associate Manager at Avanade, the Accenture-Microsoft Joint Venture, and Accenture, and Master of Business Administration in Finance and Leading Innovative Organizations Candidate at Santa Clara University Leavey School of Business. She has a strong background in ***artificial intelligence forward deployed engineering***, interlacing ***machine learning***, ***data science***, ***agentic artificial intelligence, generative artificial intelligence***, ***advanced analytics***, ***software engineering***, ***business intelligence***, ***finance***, ***product strategy***, ***product analytics***, ***predictive modeling***, ***strategy***, ***data engineering***, and ***CFO & enterprise value***. Shawna is on the Chief Financial Officer and Corporate Board Director path with **over twelve years** in ***Big Technology*** in **Silicon Valley**.
+Shawna Tuli is a seasoned **Mountain View & San Francisco** AI Forward Deployed Engineering Leader, Innovator, Advisor, and **San Jose native**, with **over six years** as a Lead Data Scientist, AI Forward Deployed Engineering Associate Manager at Avanade, the Accenture-Microsoft Joint Venture, and Accenture, and Evening Master of Business Administration in Finance and Leading Innovative Organizations Candidate at Santa Clara University Leavey School of Business. She has a strong background in ***artificial intelligence forward deployed engineering***, interlacing ***machine learning***, ***data science***, ***agentic artificial intelligence, generative artificial intelligence***, ***advanced analytics***, ***software engineering***, ***business intelligence***, ***finance***, ***product strategy***, ***product analytics***, ***predictive modeling***, ***strategy***, ***data engineering***, and ***CFO & enterprise value***. Shawna is on the Chief Financial Officer and Corporate Board Director path with **over twelve years** in ***Big Technology*** in **Silicon Valley**.
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 #### BIG TECH LEADERSHIP HIGHLIGHTS
@@ -14,7 +14,7 @@ ________________________________________________________________________________
 6. Santa Clara SCU Leavey [(Google Scholar 3)](https://scholar.google.com/citations?hl=en&user=Ikhq9U0AAAAJ)
 7. Mountain View & San Francisco Avanade & Accenture ML & Data Science and Strategy [(Google Scholar 2)](https://scholar.google.com/citations?hl=en&user=7F6YV8MAAAAJ) (6+ years)
 8. Mountain View UCI ICS & Penn Medicine Global Radiation Oncology Data Science [(Google Scholar 1)](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en) (6 years)
-9. Mountain View Avanade & Accenture Wellness - 🫒🌸🙏🏼🍇🏺💅🏼💆🏻‍♀️☕🍫🕯️💐🏃🏻‍♀️🧴🪞⛳🧋🧺🎨🥑🌷🧘🏻‍♀️🐚🍃🍒🏓🫧🌹☀️🌻🧼🍝🥂🏊🏻🌬️🏸🥗🌱🎾🌶️🫖🌯🚶🏻‍♀️⛱️🟡🪄🌈 (2 years)
+9. Mountain View Avanade & Accenture Wellness - 🫒🌸🙏🏼🍇🏺💅🏼💆🏻‍♀️☕🍫🕯️💐🏃🏻‍♀️🧴🪞⛳🧋🧺🎨🥑🌷🧘🏻‍♀️🐚🍃🍒🏓🫧🌹☀️🌻🧼🍝🥂🏊🏻🌬️🏸🥗🌱🎾🌶️🫖🌯🚶🏻‍♀️⛱️🟡🪄🌈2 years)
 10. Mountain View & Northern California Avanade & Accenture Office (6+ years)
 11. Mountain View & Northern California Avanade & Accenture Social Engagement & Networking (6+ years)
 12. Mountain View & Northern California Avanade & Accenture Social Engagement & Networking Events - 🏖️🛥️🎄(0.5 years)
