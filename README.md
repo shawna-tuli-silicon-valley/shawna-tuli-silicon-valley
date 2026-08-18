@@ -377,7 +377,6 @@ Medical Oncology (ESMO).
 28. "Strategy as Iterative Inquiry: A Longitudinal Case Study of Organizational Learning at United Way Bay Area (UWBA)" in Academic Journal, Avanade AI Studio, and Accenture Knowledge Exchange.
 29. "UUO: The Universal Utility Orchestrator" in University of California, Irvine Undergraduate Research Opportunities Program (UROP), Avanade AI Studio, and Accenture Knowledge Exchange.
 30. "A Cloud-Native Multi-Agent Orchestration Framework for Autonomous Utility Services" in UCI Donald Bren School of Information & Computer Sciences (ICS) CS 295P, Avanade AI Studio, and Accenture Knowledge Exchange.
-31. TBA in University of California, Irvine Undergraduate Research Opportunities Program (UROP), Avanade AI Studio, and Accenture Knowledge Exchange.
 _______________________________________________________________________________________________________________________________________________________________________________________________
 #### TECHNICAL SKILLS
 #### ![GOOGLE](https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=fff&style=for-the-badge)
