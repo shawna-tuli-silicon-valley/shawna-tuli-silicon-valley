@@ -374,9 +374,9 @@ Institute of Child & Mother Health (ICMH).
 Medical Oncology (ESMO).
 26. "Adherence to Survivorship Care Visits in Patients with Cervical Cancer in Botswana" in JCO Global Oncology.
 27. "Breast and Chest Wall Radiation Initiation among Patients with Breast Cancer who Underwent Surgery in Botswana" in BMC Women's Health.
-28. "Strategy as Iterative Inquiry: A Longitudinal Case Study of Organizational Learning at United Way Bay Area (UWBA)" in Academic Journal, Avanade AI Studio, and Accenture Knowledge Exchange.
-29. "UUO: The Universal Utility Orchestrator" in University of California, Irvine Undergraduate Research Opportunities Program (UROP), Avanade AI Studio, and Accenture Knowledge Exchange.
-30. "A Cloud-Native Multi-Agent Orchestration Framework for Autonomous Utility Services" in UCI Donald Bren School of Information & Computer Sciences (ICS) CS 295P, Avanade AI Studio, and Accenture Knowledge Exchange.
+28. "Strategy as Iterative Inquiry: A Longitudinal Case Study of Organizational Learning at United Way Bay Area (UWBA)" in Academic Journal, Avanade AI Studio, and Accenture Reinvention Console.
+29. "UUO: The Universal Utility Orchestrator" in University of California, Irvine Undergraduate Research Opportunities Program (UROP), Avanade AI Studio, and Accenture Reinvention Console.
+30. "A Cloud-Native Multi-Agent Orchestration Framework for Autonomous Utility Services" in UCI Donald Bren School of Information & Computer Sciences (ICS) CS 295P, Avanade AI Studio, and Accenture Reinvention Console.
 _______________________________________________________________________________________________________________________________________________________________________________________________
 #### TECHNICAL SKILLS
 #### ![GOOGLE](https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=fff&style=for-the-badge)
