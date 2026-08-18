@@ -30,7 +30,7 @@ ________________________________________________________________________________
 5. Google AI for everyone | Bay Area
 6. Google’s cloud business turns profitable for the first time on record | Sunnyvale
 7. Google I/O | Mountain View (8x)
-8. Accenture V360 Awards in Innovation Nominee | Mountain View & San Francisco (6x)
+8. Accenture V360 Awards in Innovation Nominee | Mountain View & San Francisco (5x)
 9. Avanade Best Baker | Mountain View & San Francisco
 10. Avanade We Believe Everyone Counts Super Hero | Mountain View & San Francisco (2x)
 11. Avanade We Deliver with Excellence Super Hero | Mountain View & San Francisco
@@ -105,7 +105,6 @@ ________________________________________________________________________________
 * ❓ Accenture San Francisco Innovation Hub US Leadership Visit – Q&A and Happy Hour 
 * 🌷 Accenture Mountain View Spring Frame Making
 * ⛰️ Presenter at United Way Bay Area SparkPoint Summit 
-* ☆ 6) Accenture V360 Awards Nominee - TBA
 * 📑 Accenture Mountain View & San Francisco Innovation Hub Data Science for Social Good Co-Lead 
 * 📚 Stanford University Libraries (3x)
 * 🌿 Accenture Mountain View & San Francisco Innovation Hub Avanade Recognition
