@@ -66,6 +66,7 @@ ________________________________________________________________________________
 * 🗒️ Incoming SCU Ciocca Center Graduate Business Consultant
 * 📜 Incoming SCU Ciocca Center Graduate Fellow
 * 💵 Incoming SCU Leavey Gradaute Student Ambassador
+* 🎇 Microsoft Mountain View Diwali Party
 * 🍂 Autumn Soy Candle Making at Accenture Mountain View (Repo)
 * 🖱️ 3. Technical Lead at Amazon Mountain View 
 * ✏️ Accenture Mountain View Back to School Drive 
@@ -152,7 +153,7 @@ ________________________________________________________________________________
 * 📐 Accenture Mountain View & San Francisco Innovation Hub AI & Automation Practice AI SISA - solutioning AI (3x)
 * 📫 Accenture San Francisco Innovation Hub Amazon All-People Connect
 * 🪔 KPMG Santa Clara Diwali Party
-* 🦚 Accenture Pleasanton Diwali Party (2x)
+* 🦚 Accenture Pleasanton Diwali Party (3x)
 * 🔗 Microsoft Discovery Hour: Empower Secure Business Transformation and Prepare for AI with Microsoft 365
 * 🗄 Microsoft Mountain View Executive Briefing Center Visit [(Repo)](https://github.com/shawna-tuli-silicon-valley/microsoft-mountain-view-visit/blob/main/README.md)
 * 🏃🏻‍♀️ Accenture Mountain View & San Francisco Innovation Hub J.P. Morgan Corporate Challenge San Francisco (2x)
