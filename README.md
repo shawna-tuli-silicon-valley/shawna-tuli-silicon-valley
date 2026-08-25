@@ -53,7 +53,7 @@ ________________________________________________________________________________
 28. International Journal of Gynecological Cancer (IJGC) Conference
 29. International Conference on Malignancies in HIV/AIDS (ICMH) Conference
 30. European Society of Medical Oncology (ESMO) Conference
-31. Stanford University Libraries (3x)
+31. Stanford University Libraries (5x)
 32. United Way Bay Area SparkPoint Summit
 33. Databricks Data + AI Summit | San Francisco
 34. UCI ICS Project Expo | Irvine (6x)
@@ -107,7 +107,7 @@ ________________________________________________________________________________
 * 🌷 Accenture Mountain View Spring Frame Making
 * ⛰️ Presenter at United Way Bay Area SparkPoint Summit 
 * 📑 Accenture Mountain View & San Francisco Innovation Hub Data Science for Social Good Co-Lead 
-* 📚 Stanford University Libraries (3x)
+* 📚 Stanford University Libraries (5x)
 * 🌿 Accenture Mountain View & San Francisco Innovation Hub Avanade Recognition
 * 🛸 Microsoft Mountain View Better Together: Leading Ahead | Women, AI & the Future of Leadership Conference (3x)
 * 🗻 Accenture Mountain View Microsoft Azure Summit: Migrate and Modernize with Agentic AI
@@ -333,7 +333,7 @@ ________________________________________________________________________________
 2. “Comprehensive forecasting of California's energy consumption: a multi-source and sectoral analysis using ARIMA and
 ARIMAX models” in World Journal of Advanced Research and Reviews (WJARR).
 3. “Comprehensive Forecasting of California's Energy Consumption: A Multi-Source and Sectoral Analysis Using ARIMA and
-ARIMAX Models” in Stanford Libraries, arxiv.org/pdf/2402.04432, Avanade AI Studio, and Accenture Knowledge Exchange.
+ARIMAX Models” in Stanford University Libraries, arxiv.org/pdf/2402.04432, Avanade AI Studio, and Accenture Knowledge Exchange.
 4. “Call Center CoPilot: Enhancing Customer Service with Large Language Models” in University of California, Irvine
 Undergraduate Research Opportunities Program (UROP), Avanade AI Studio, and Accenture Knowledge Exchange.
 5. “Accenture Call Center Co-Pilot” in UCI Donald Bren School of Information & Computer Sciences (ICS) STATS 170B, Avanade AI Studio, and Accenture Knowledge Exchange.
@@ -345,12 +345,10 @@ Knowledge Exchange.
 10. "BI Analysis (Partner Business Modeling: Uber)" in University of California, Irvine Undergraduate Research Opportunities Program (UROP), Avanade AI Studio, and Accenture Knowledge Exchange. 
 11. “Predicting risk of Type 2 diabetes with AI in California” in UCI Donald Bren School of Information & Computer Sciences (ICS) STATS 170B, Avanade AI Studio, and Accenture Knowledge Exchange.
 12. “Five-year overall survival following chemoradiation therapy for locally advanced cervical carcinoma in women living with
-and without HIV infection in Botswana” in Infectious Agents and Cancer and National Library of Medicine (NLM).
+and without HIV infection in Botswana” in Infectious Agents and Cancer, National Library of Medicine (NLM), and Stanford University Libraries.
 13. “Stage and outcomes of invasive cervical cancer patients in Botswana: a prospective cohort study from 2013 to 2020” in
-International Journal of Radiation Oncology* Biology* Physics (IJROBP), American Society for Radiation Oncology (ASTRO), Gynecologic
-Oncology Reports, Stanford Libraries, and National Library of Medicine (NLM).
-14. “Delays in cervical cancer treatment initiation for patients living with or without HIV in Botswana: An observational cohort
-analysis (2015-2019)” in International Journal of Radiation Oncology* Biology* Physics (IJROBP), Stanford Libraries, and National
+International Journal of Radiation Oncology* Biology* Physics (IJROBP), American Society for Radiation Oncology (ASTRO), Gynecologic Oncology Reports, Stanford University Libraries, and National Library of Medicine (NLM).
+14. “Delays in cervical cancer treatment initiation for patients living with or without HIV in Botswana: An observational cohort analysis (2015-2019)” in International Journal of Radiation Oncology* Biology* Physics (IJROBP) and National
 Library of Medicine (NLM).
 15. “Longitudinal Patterns of Survivorship Care in Cervical Cancer Patients Living With or Without HIV in Botswana” in American Society for Radiation Oncology (ASTRO).
 16. “729P Patterns of survivorship care of cervical cancer patients with or without HIV infection in Botswana 2015-2022” in
@@ -373,11 +371,12 @@ Institute of Child & Mother Health (ICMH).
 Institute of Child & Mother Health (ICMH). 
 25. “Patterns of Survivorship Care of Cervical Cancer Patients with or without HIV Infection” in European Society for
 Medical Oncology (ESMO).
-26. "Adherence to Survivorship Care Visits in Patients with Cervical Cancer in Botswana" in JCO Global Oncology.
+26. "Adherence to Survivorship Care Visits in Patients with Cervical Cancer in Botswana" in JCO Global Oncology and Stanford University Libraries.
 27. "Breast and Chest Wall Radiation Initiation among Patients with Breast Cancer who Underwent Surgery in Botswana" in BMC Women's Health.
 28. "Strategy as Iterative Inquiry: A Longitudinal Case Study of Organizational Learning at United Way Bay Area (UWBA)" in Academic Journal, Avanade AI Studio, and Accenture Reinvention Console.
 29. "UUO: The Universal Utility Orchestrator" in University of California, Irvine Undergraduate Research Opportunities Program (UROP), Avanade AI Studio, and Accenture Reinvention Console.
 30. "A Cloud-Native Multi-Agent Orchestration Framework for Autonomous Utility Services" in UCI Donald Bren School of Information & Computer Sciences (ICS) CS 295P, Avanade AI Studio, and Accenture Reinvention Console.
+31. "Delays in Cervical Cancer Treatment Initiation for Patients Living With or Without HIV in Botswana: An Observational Cohort Analysis (2015-2019)" in Stanford University Libraries. 
 _______________________________________________________________________________________________________________________________________________________________________________________________
 #### TECHNICAL SKILLS
 #### ![GOOGLE](https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=fff&style=for-the-badge)
