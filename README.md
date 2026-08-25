@@ -45,7 +45,7 @@ ________________________________________________________________________________
 20. Microsoft Ignite  Conference | Mountain View & San Francisco (6x)
 21. Microsoft Build Conference | San Francisco
 22. Microsoft Azure Summit: Migrate and Modernize with Agentic AI | Mountain View
-23. Microsoft Better Together: Leading Ahead | Women, AI & the Future of Leadership Conference | Mountain View (3x)
+23. Microsoft Better Together: Leading Ahead | Women, AI & the Future of Leadership Conference | Mountain View (2x)
 24. Microsoft Fireworks on Microsoft Foundry Launch | San Francisco
 25. Avanade Recognition | Mountain View & San Francisco
 26. Radiotherapy and Oncology Conference
@@ -109,13 +109,12 @@ ________________________________________________________________________________
 * 📑 Accenture Mountain View & San Francisco Innovation Hub Data Science for Social Good Co-Lead 
 * 📚 Stanford University Libraries (5x)
 * 🌿 Accenture Mountain View & San Francisco Innovation Hub Avanade Recognition
-* 🛸 Microsoft Mountain View Better Together: Leading Ahead | Women, AI & the Future of Leadership Conference (3x)
+* ❤️‍🔥 Microsoft Mountain View Better Together: Leading Ahead | Women, AI & the Future of Leadership Conference (2x)
 * 🗻 Accenture Mountain View Microsoft Azure Summit: Migrate and Modernize with Agentic AI
 * 🎆 Microsoft San Francisco Fireworks on Microsoft Foundry Launch
 * 🥗 Director of Sweetgreen Salads at Accenture Mountain View (Repo) 
 * 🌻 Flowers Wellness Event at Accenture Mountain View (Repo)
 * ☀️ Sunshine Wellness Event at Accenture Mountain View (Repo)
-* ❤️‍🔥 Microsoft Better Together: Leading Ahead | Women, AI & the Future of Leadership Conference | Mountain View (3x)
 * 🏊🏻 Pioneer of Immersion Spa Soak, Swim & Soothe Wellness Event at Accenture Mountain View (Repo)
 * 🏓 Off the Clock - Pickleball & Bocce Ball with Rebecca Lee - 100% reserved [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-20)
 * 🍃 Generator of Matcha Making Wellness Event at Accenture Mountain View - 100% in [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-21)
