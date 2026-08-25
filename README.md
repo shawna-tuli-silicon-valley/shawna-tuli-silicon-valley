@@ -209,7 +209,7 @@ ________________________________________________________________________________
 * 🧿 Accenture Mountain View Wellness Committee Ambassador - ran events [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness)
 * 🧁 Avanade Mountain View Chair - arranging events
 * 🏅 Avanade - honored as AI Breakthrough Awards Best AI Consulting Service Provider
-* 🏆 Accenture - honored as Forbes #1 Management Consulting Firm
+* 🏆 Accenture - honored as Forbes #1 Management Consulting Firm (2x)
 * 🖥️ Mountain View Technology Showcase (3x) [(Article)](https://chambermv.org/technology-showcase)
 * 🎲 Accenture San Francisco Strategy & Consulting Day
 * ⭐ Google Visitor Experience Visit [(Article)](https://blog.google/inside-google/company-announcements/google-office-tour/)
