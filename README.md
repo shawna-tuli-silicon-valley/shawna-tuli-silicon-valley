@@ -4,8 +4,7 @@ As a proud San Jose local, I have spent the last 12+ years immersed in Silicon V
 
 My work centers on connecting the dots between cutting-edge AI — like generative and agentic models — and everyday business impact. I am endlessly curious about how technology drives enterprise value, which is why you will also find me pursuing my Evening MBA in Finance & Leading Innovative Organizations at Santa Clara University Leavey School of Business.
 
-I love building smart solutions, leading high-performing teams, and looking toward future corporate board leadership. Let’s connect and chat about where tech is taking us next! 
-
+I love building smart solutions, leading high-performing teams, and bridging the gap between technical innovation and executive financial strategy. Let’s connect and chat about where tech is taking us next!
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 #### BIG TECH LEADERSHIP HIGHLIGHTS
