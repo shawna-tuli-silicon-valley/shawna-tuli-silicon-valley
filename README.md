@@ -10,7 +10,7 @@ ________________________________________________________________________________
 #### BIG TECH LEADERSHIP HIGHLIGHTS
 1. Mountain View & Sunnyvale Google ML & Data Science, Product Strategy, and BI - [Google](https://ai.google) (14 weeks at [Google Photos](https://www.google.com/photos/about/); 1 year at [Google Cloud](https://cloud.google.com/), [Google Play](https://play.google.com/store/games?hl=en_US), and [Google One](https://one.google.com/about/))
 2. Mountain View & San Francisco Microsoft ML & Data Science [(Microsoft Learn)](https://learn.microsoft.com/en-us/users/shawnatuli-1762/?redeem=RN4ZKZ&WT.mc_id=ilt_partner_webpage_wwl&ocid=3103897&DCS=DEPR2550058&source=docs) (6+ years)
-3. Mountain View & San Francisco Amazon ML & Data Science and Product Strategy - [Amazon](https://www.aboutamazon.com/artificial-intelligence-ai-news) (2 years at Amazon Mailbox Core; 5 weeks at [AWS Sharecare](https://www.sharecare.com/))
+3. Mountain View & San Francisco Amazon ML & Data Science and Product Strategy - [Amazon](https://www.aboutamazon.com/artificial-intelligence-ai-news) (2 years at Amazon Mailbox Core; 5 weeks at [Amazon Web Services Sharecare](https://www.sharecare.com/))
 4. Mountain View & San Francisco Avanade & Accenture ML & Data Science and Strategy - [Avanade](https://www.avanade.com/en-us/services/artificial-intelligence) & [Accenture](https://www.accenture.com/us-en/services/data-ai) (6+ years)
 5. Mountain View & San Francisco Avanade & Accenture Financial Stability ML & Data Science - [United Way Bay Area](https://uwba.org/) (3+ years)
 6. Santa Clara SCU Leavey [(Google Scholar 3)](https://scholar.google.com/citations?hl=en&user=Ikhq9U0AAAAJ)
@@ -70,7 +70,7 @@ ________________________________________________________________________________
 * 💵 Incoming SCU Leavey Gradaute Student Ambassador
 * 🎇 Microsoft Mountain View Diwali Party
 * 🍂 Autumn Soy Candle Making at Accenture Mountain View (Repo)
-* 🖱️ 3. Technical Lead at AWS Sharecare Mountain View 
+* 🖱️ 3. Technical Lead at Amazon Web Services Sharecare Mountain View 
 * ✏️ Accenture Mountain View Back to School Drive 
 * 📝 Avanade Interns Storytelling, Mastering Your Presentation Skills, and Executive Presence + Public Speaking Speaker
 * 🌈 Accenture Mountain View Wellness for Welcome to Northern California Speaker
