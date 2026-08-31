@@ -70,7 +70,7 @@ ________________________________________________________________________________
 * 💵 Incoming SCU Leavey Gradaute Student Ambassador
 * 🎇 Microsoft Mountain View Diwali Party
 * 🍂 Autumn Soy Candle Making at Accenture Mountain View (Repo)
-* 🖱️ 3. Technical Lead at Amazon Mountain View 
+* 🖱️ 3. Technical Lead at AWS Sharecare Mountain View 
 * ✏️ Accenture Mountain View Back to School Drive 
 * 📝 Avanade Interns Storytelling, Mastering Your Presentation Skills, and Executive Presence + Public Speaking Speaker
 * 🌈 Accenture Mountain View Wellness for Welcome to Northern California Speaker
