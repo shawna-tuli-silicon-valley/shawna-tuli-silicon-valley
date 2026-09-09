@@ -79,7 +79,7 @@ ________________________________________________________________________________
 * ♊️ Google Cloud Launchpad for Women - Gen AI Leader Edition 
 * 🪄 Reflect, Reset, Manifest Wellness Event at Accenture Mountain View (Repo) 
 * 🍾 Accenture San Francisco Northern California Engagement Leadership End-of-Year Celebration at Bare Bottles
-* 📖 Santa Clara University Leavey School of Business Evening MBA Finance Candidate
+* 📖 Santa Clara University Leavey School of Business Evening MBA Finance & Leading Innovative Organizations Candidate
 * 🟡 The Dome SJ Pickleball & Positivity Wellness Event at Accenture Mountain View (Repo)
 * 𓂃🪶 Collaborator at Avanade Client Stories (2x)
 * 👑 ML & Data Science Lead SISA at Fortune 500 Healthcare Company Mountain View
