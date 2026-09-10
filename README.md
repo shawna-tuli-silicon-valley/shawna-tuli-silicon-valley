@@ -479,7 +479,7 @@ ________________________________________________________________________________
 
 _____________________________________________________________________________________________________________________________________________________________________________
 #### INTERESTS
-I am strength training, walking, healthy cooking, coding, reading, studying, watching movies and shows, dancing, playing tennis, badminton, pickleball, and golf, shopping, oil painting, traveling, and visiting beaches, lakes, restaurants, coffee shops, and concerts. 
+I am strength training, walking, healthy cooking, coding, reading, studying, watching movies and shows, dancing, playing tennis, badminton, pickleball, and golf, shopping, painting, traveling, and visiting beaches, lakes, restaurants, coffee, concerts, and festivals. 
 
 #### Dance
 * Cardio Dance
