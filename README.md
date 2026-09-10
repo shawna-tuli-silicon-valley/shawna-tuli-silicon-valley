@@ -68,6 +68,7 @@ ________________________________________________________________________________
 * 🗒️ Incoming SCU Ciocca Center Graduate Business Consultant
 * 📜 Incoming SCU Ciocca Center Graduate Fellow
 * 💵 Incoming SCU Leavey Gradaute Student Ambassador
+* 🟣 Avanade Mountain View Claude AI Pilot User
 * 🎇 Microsoft Mountain View Diwali Party
 * 🍂 Autumn Soy Candle Making at Accenture Mountain View (Repo)
 * ⚪️ 3. Technical Lead at Amazon Web Services Sharecare Mountain View
