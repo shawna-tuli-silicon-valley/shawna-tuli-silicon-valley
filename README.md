@@ -32,37 +32,38 @@ ________________________________________________________________________________
 5. Google AI for everyone | Bay Area
 6. Google’s cloud business turns profitable for the first time on record | Sunnyvale
 7. Google I/O | Mountain View (8x)
-8. Accenture V360 Awards in Innovation Submit | Mountain View & San Francisco (5x)
-9. Avanade Best Baker | Mountain View & San Francisco
-10. Avanade We Believe Everyone Counts Super Hero | Mountain View & San Francisco (2x)
-11. Avanade We Deliver with Excellence Super Hero | Mountain View & San Francisco
-12. Avanade Create the Future Super Hero | Mountain View & San Francisco (3x)
-13. Avanade Create the Future | Mountain View & San Francisco
-14. Avanade Accelerate Impact Super Hero | Mountain View & San Francisco (2x)
-15. Avanade We Act with Integrity and Respect Ambassador | Mountain View & San Francisco (3x)
-16. Google International Women’s Day | Mountain View & Venice (3x)
-17. Accenture International Women’s Day | Mountain View & San Francisco (7x)
-18. Avanade International Women’s Day | Mountain View & San Francisco (7x)
-19. Google Cloud Next Conference | Mountain View & Las Vegas (9x)
-20. Microsoft Ignite  Conference | Mountain View & San Francisco (6x)
-21. Microsoft Build Conference | San Francisco
-22. Microsoft Azure Summit: Migrate and Modernize with Agentic AI | Mountain View
-23. Microsoft Better Together: Leading Ahead | Women, AI & the Future of Leadership Conference | Mountain View (2x)
-24. Microsoft Fireworks on Microsoft Foundry Launch | San Francisco
-25. Avanade Recognition | Mountain View & San Francisco
-26. Radiotherapy and Oncology Conference
-27. American Society for Radiation Oncology (ASTRO) Conference
-28. International Journal of Gynecological Cancer (IJGC) Conference
-29. International Conference on Malignancies in HIV/AIDS (ICMH) Conference
-30. European Society of Medical Oncology (ESMO) Conference
-31. Stanford University Libraries (5x)
-32. United Way Bay Area SparkPoint Summit
-33. Databricks Data + AI Summit | San Francisco
-34. UCI ICS Project Expo | Irvine (6x)
-35. Harvard Business Review Advisor
-36. LinkedIn Expert Contributor in ML & Data Science
-37. Databricks Partner Tech Summit
-38. Accenture Innovation Experience at Dreamforce San Francisco
+8. Accenture Applied Intelligence Strategy Summer Conference San Francisco
+9. Accenture V360 Awards in Innovation Submit | Mountain View & San Francisco (5x)
+10. Avanade Best Baker | Mountain View & San Francisco
+11. Avanade We Believe Everyone Counts Super Hero | Mountain View & San Francisco (2x)
+12. Avanade We Deliver with Excellence Super Hero | Mountain View & San Francisco
+13. Avanade Create the Future Super Hero | Mountain View & San Francisco (3x)
+14. Avanade Create the Future | Mountain View & San Francisco
+15. Avanade Accelerate Impact Super Hero | Mountain View & San Francisco (2x)
+16. Avanade We Act with Integrity and Respect Ambassador | Mountain View & San Francisco (3x)
+17. Google International Women’s Day | Mountain View & Venice (3x)
+18. Accenture International Women’s Day | Mountain View & San Francisco (7x)
+19. Avanade International Women’s Day | Mountain View & San Francisco (7x)
+20. Google Cloud Next Conference | Mountain View & Las Vegas (9x)
+21. Microsoft Ignite  Conference | Mountain View & San Francisco (6x)
+22. Microsoft Build Conference | San Francisco
+23. Microsoft Azure Summit: Migrate and Modernize with Agentic AI | Mountain View
+24. Microsoft Better Together: Leading Ahead | Women, AI & the Future of Leadership Conference | Mountain View (2x)
+25. Microsoft Fireworks on Microsoft Foundry Launch | San Francisco
+26. Avanade Recognition | Mountain View & San Francisco
+27. Radiotherapy and Oncology Conference
+28. American Society for Radiation Oncology (ASTRO) Conference
+29. International Journal of Gynecological Cancer (IJGC) Conference
+30. International Conference on Malignancies in HIV/AIDS (ICMH) Conference
+31. European Society of Medical Oncology (ESMO) Conference
+32. Stanford University Libraries (5x)
+33. United Way Bay Area SparkPoint Summit
+34. Databricks Data + AI Summit | San Francisco
+35. UCI ICS Project Expo | Irvine (6x)
+36. Harvard Business Review Advisor
+37. LinkedIn Expert Contributor in ML & Data Science
+38. Databricks Partner Tech Summit
+39. Accenture Innovation Experience at Dreamforce San Francisco
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 #### BIG TECH AI FDE LEADERSHIP (2014-Present) 
