@@ -62,12 +62,14 @@ ________________________________________________________________________________
 35. Harvard Business Review Advisor
 36. LinkedIn Expert Contributor in ML & Data Science
 37. Databricks Partner Tech Summit
+38. Accenture Innovation Experience at Dreamforce San Francisco
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 #### BIG TECH AI FDE LEADERSHIP (2014-Present) 
 * 🗒️ Incoming SCU Ciocca Center Graduate Business Consultant
 * 📜 Incoming SCU Ciocca Center Graduate Fellow
 * 💵 Incoming SCU Leavey Gradaute Student Ambassador
+* ☁️ Accenture Innovation Experience at Dreamforce San Francisco 
 * 🟣 Avanade Mountain View Claude AI Pilot User
 * 🎇 Microsoft Mountain View Diwali Party
 * 🍂 Autumn Soy Candle Making at Accenture Mountain View (Repo)
