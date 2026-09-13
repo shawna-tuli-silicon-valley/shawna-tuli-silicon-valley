@@ -332,7 +332,7 @@ ________________________________________________________________________________
 * 🐪 Rosicrucian Egyptian Museum Visit
 * 🇮🇳 Taj Mahal Visit
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shawna-tuli-silicon-valley&layout=compact) 
+![Top Langs](https://github-readme.app/api/top-langs/?username=shawna-tuli-silicon-valley&layout=compact)
 __________________________________________________________________________________________________________________________________________________________________________________________________
 #### PAPERS & POSTERS
 1. "Source of Supply | Product Group Shortages Due to Global Capacity Constraints" in Google Cloud.
