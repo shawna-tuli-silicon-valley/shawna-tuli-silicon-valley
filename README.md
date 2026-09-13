@@ -331,8 +331,6 @@ ________________________________________________________________________________
 * 📚 Stanford Splash [(Article)](https://stanforddaily.com/2016/04/13/behind-the-scenes-of-stanford-splash/)
 * 🐪 Rosicrucian Egyptian Museum Visit
 * 🇮🇳 Taj Mahal Visit
-
-[![GitHub Stats](https://github-readmep/api?username=shawna-tuli-silicon-valley&show_icons=true&theme=default)](https://github.com/shawna-tuli-silicon-valley)
 __________________________________________________________________________________________________________________________________________________________________________________________________
 #### PAPERS & POSTERS
 1. "Source of Supply | Product Group Shortages Due to Global Capacity Constraints" in Google Cloud.
