@@ -16,7 +16,7 @@ ________________________________________________________________________________
 6. Santa Clara SCU Leavey [(Google Scholar 3)](https://scholar.google.com/citations?hl=en&user=Ikhq9U0AAAAJ)
 7. Mountain View & San Francisco Avanade & Accenture ML & Data Science and Strategy [(Google Scholar 2)](https://scholar.google.com/citations?hl=en&user=7F6YV8MAAAAJ) (6+ years)
 8. Mountain View UCI ICS & Penn Medicine Global Radiation Oncology Data Science [(Google Scholar 1)](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en) (6 years)
-9. Mountain View Avanade & Accenture Wellness - 🫒🌸🙏🏼🍇🏺💅🏼💆🏻‍♀️☕🍫🕯️💐🏃🏻‍♀️🧴🪞⛳🧋🧺🎨🥑🌷🧘🏻‍♀️🐚🍃🍒🏓🫧🌹☀️🌻🧼🍝🥂🏊🏻🌬️🏸🥗🌱🎾🌶️🫖🌯🚶🏻‍♀️⛱️🟡🪄🌈🍂 (2 years)
+9. Mountain View Avanade & Accenture Wellness - 🫒🌸🙏🏼🍇🏺💅🏼💆🏻‍♀️☕🍫🕯️💐🏃🏻‍♀️🧴🪞⛳🧋🧺🎨🥑🌷🧘🏻‍♀️🐚🍃🍒🏓🫧🌹☀️🌻🧼🍝🥂🏊🏻🌬️🏸🥗🌱🎾🌶️🫖🌯🚶🏻‍♀️⛱️🟡🪄🌈🍂🎃 (2 years)
 10. Mountain View & Northern California Avanade & Accenture Office (6+ years)
 11. Mountain View & Northern California Avanade & Accenture Social Engagement & Networking (6+ years)
 12. Mountain View & Northern California Avanade & Accenture Social Engagement & Networking Events - 🛥️🏵️✏️🎄(0.5 years)
@@ -70,6 +70,7 @@ ________________________________________________________________________________
 * 🗒️ Incoming SCU Ciocca Center Graduate Business Consultant
 * 📜 Incoming SCU Ciocca Center Graduate Fellow
 * 💵 Incoming SCU Leavey Gradaute Student Ambassador
+* 🎃 Halloween Hot Cocoa Bar Wellness Event at Accenture Mountain View (Repo)
 * ☁️ Accenture Innovation Experience at Dreamforce San Francisco 
 * 🟣 Avanade Mountain View Claude AI Pilot User
 * 🎇 Microsoft Mountain View Diwali Party
@@ -153,7 +154,7 @@ ________________________________________________________________________________
 * 🌥️ AWS re:Invent Conference
 * 🩵 Google Cloud Next Conference Las Vegas
 * 👩🏻‍🎓 Avanade Mountain View SISA Apprentice Program 
-* 🎃 Accenture San Francisco Innovation Hub Annual Oktoberfest Celebration (2x)
+* 🍻 Accenture San Francisco Innovation Hub Annual Oktoberfest Celebration (2x)
 * 📩 PayPal x Women Impact Tech | Hiring and Networking San Jose [(Repo)](https://github.com/shawna-tuli-silicon-valley/paypal-data-science-recruitment/tree/main)
 * 🥂 Accenture New York Innovation Hub Diwali Party (3x)
 * 📐 Accenture Mountain View & San Francisco Innovation Hub AI & Automation Practice AI SISA - solutioning AI (3x)
