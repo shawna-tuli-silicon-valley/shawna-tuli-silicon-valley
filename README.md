@@ -19,8 +19,8 @@ ________________________________________________________________________________
 9. Mountain View Avanade & Accenture Wellness - 🫒🌸🙏🏼🍇🏺💅🏼💆🏻‍♀️☕🍫🕯️💐🏃🏻‍♀️🧴🪞⛳🧋🧺🎨🥑🌷🧘🏻‍♀️🐚🍃🍒🏓🫧🌹☀️🌻🧼🍝🥂🏊🏻🌬️🏸🥗🌱🎾🌶️🫖🌯🚶🏻‍♀️⛱️🟡🪄🌈🍂🎃 (2+ years)
 10. Mountain View & Northern California Avanade & Accenture Office (6+ years)
 11. Mountain View & Northern California Avanade & Accenture Social Engagement & Networking (6+ years)
-12. Mountain View & Northern California Avanade & Accenture Social Engagement & Networking Events - 🛥️🏵️✏️🎄(0.5 years)
-13. Mountain View & San Francisco Avanade & Accenture Data Science for Social Good (0.5 years)
+12. Mountain View & Northern California Avanade & Accenture Social Engagement & Networking Events - 🛥️🏵️✏️🎄(0.5+ years)
+13. Mountain View & San Francisco Avanade & Accenture Data Science for Social Good (0.5+ years)
 14. Irvine UCI ICS & UCI Merage Up to Us National Debt Marketing Data Science, Strategy, and BI [(Credly)](https://www.credly.com/users/shawna-tuli/badges) (0.5 years)
 15. Bicoastal Indian American (Brown) Community (Life)
 __________________________________________________________________________________________________________________________________________________________________________
