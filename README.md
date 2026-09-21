@@ -70,7 +70,7 @@ ________________________________________________________________________________
 * 🗒️ Incoming SCU Ciocca Center Graduate Business Consultant
 * 📜 Incoming SCU Ciocca Center Graduate Fellow
 * 💵 Incoming SCU Leavey Gradaute Student Ambassador
-* 🍸 Avanade Representative at MS Society Bay Area Dinner of Champions 
+* 🍸 Microsoft Avanade Northern California Representative at National MS Society Bay Area Dinner of Champions 
 * 😸 Los Gatos High School 10-Year Reunion
 * 🎃 Halloween Hot Cocoa Bar Wellness Event at Accenture Mountain View (Repo)
 * ☁️ Accenture Innovation Experience at Dreamforce San Francisco 
@@ -213,7 +213,7 @@ ________________________________________________________________________________
 * 📘 Accenture Mountain View & San Francisco Innovation Hub Amazon Account Learn & Grow Mentor - teaching AI
 * 🏖️ Google Cloud Launchpad for Women: Edition 3 
 * 🔥 Microsoft Ignite (6x)
-* 𓊍 Microsoft Avanade Northern California Climb to the Top: San Francisco 2024 [(Article)](https://events.nationalmssociety.org/index.cfm?fuseaction=donorDrive.participant&participantID=571802)
+* 𓊍 Microsoft Avanade Northern California National MS Society Climb to the Top: San Francisco [(Article)](https://events.nationalmssociety.org/index.cfm?fuseaction=donorDrive.participant&participantID=571802)
 * 🎁 Avanade Mountain View & San Francisco Innovation Hub AI & Automation Practice CA - advising 2 Data Scientists
 * 🧿 Accenture Mountain View Wellness Committee Ambassador - ran events [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness)
 * 🧁 Avanade Mountain View Chair - arranging events
