@@ -432,6 +432,9 @@ ________________________________________________________________________________
 __________________________________________________________________________________________________________________________________________________________________________ 
 #### BUSINESS SKILLS
 
+#### Management
+* Management 
+
 #### Investment Management
 * Confidence, Curiosity, Emotional Intelligence, Problem Solving, Math, Portfolio Management, Risk Management, Asset Management, Due Diligence, Fixed Income Analysis, Bloomberg Terminal
 
