@@ -397,6 +397,9 @@ ________________________________________________________________________________
 #### ![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
 * ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white) ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0) ![Zsh](https://img.shields.io/badge/Zsh-F15A24.svg?style=for-the-badge&logo=Zsh&logoColor=white)
 
+#### Forward Deployed Engineering
+* Forward Deployed Engineering, AI Forward Deployed Engineering 
+
 #### Agentic Artificial Intelligence
 * Prompt Engineering, Responsible AI
 
