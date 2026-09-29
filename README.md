@@ -70,6 +70,7 @@ ________________________________________________________________________________
 * 🗒️ Incoming SCU Ciocca Center Graduate Business Consultant
 * 📜 Incoming SCU Ciocca Center Graduate Fellow
 * 💵 Incoming SCU Leavey Gradaute Student Ambassador
+* 🪎 USLT Happy Hour at The Treasury
 * ✈️ Agentic AI Engineer at Fortune 500 Aerospace and Defense Company Mountain View
 * 🍸 Microsoft Avanade Northern California Representative at National MS Society Bay Area Dinner of Champions 
 * 😸 Los Gatos High School 10-Year Reunion
@@ -285,7 +286,7 @@ ________________________________________________________________________________
 * 💙 Accenture Applied Intelligence Strategy Summer Conference San Francisco
 * 🎊 Avanade Go Team! Award (4x)
 * 🫧 Accenture Mountain View & San Francisco Innovation Hub First Fridays (72x)
-* ✧˖° Accenture San Francisco Innovation Hub Happy Hours (33x)
+* ✧˖° Accenture San Francisco Innovation Hub Happy Hours (34x)
 * 🏛️ Accenture Mountain View & San Francisco Innovation Hub Quarterly Town Halls (24x)
 * 📅 Avanade Mountain View & San Francisco Innovation Hub Quarterly Town Halls (24x)
 * 🖌️ San Francisco Museum of Modern Art Visit
