@@ -16,7 +16,7 @@ ________________________________________________________________________________
 6. Santa Clara SCU Leavey [(Google Scholar 3)](https://scholar.google.com/citations?hl=en&user=Ikhq9U0AAAAJ)
 7. Mountain View & San Francisco Avanade & Accenture ML & Data Science and Strategy [(Google Scholar 2)](https://scholar.google.com/citations?hl=en&user=7F6YV8MAAAAJ) (6+ years)
 8. Mountain View UCI ICS & Penn Medicine Global Radiation Oncology Data Science [(Google Scholar 1)](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en) (6 years)
-9. Mountain View Avanade & Accenture Wellness - 🫒🌸🙏🏼🍇🏺💅🏼💆🏻‍♀️☕🍫🕯️💐🏃🏻‍♀️🧴🪞⛳🧋🧺🎨🥑🌷🧘🏻‍♀️🐚🍃🍒🏓🫧🌹☀️🌻🧼🍝🥂🏊🏻🌬️🏸🥗🌱🎾🌶️🫖🌯🚶🏻‍♀️⛱️🟡🪄🌈🍂🎃 (2+ years)
+9. Mountain View Avanade & Accenture Wellness - 🫒🌸🙏🏼🍇🏺💅🏼💆🏻‍♀️☕🍫🕯️💐🏃🏻‍♀️🧴🪞⛳🧋🧺🎨🥑🌷🧘🏻‍♀️🐚🍃🍒🏓🫧🌹☀️🌻🧼🍝🥂🏊🏻🌬️🏸🥗🌱🎾🌶️🫖🌯🚶🏻‍♀️⛱️🟡🪄🌈🍂🎃⚯ ͛ (2+ years)
 10. Mountain View & Northern California Avanade & Accenture Office (6+ years)
 11. Mountain View & Northern California Avanade & Accenture Social Engagement & Networking (6+ years)
 12. Mountain View & Northern California Avanade & Accenture Social Engagement & Networking Events - 🛥️🏵️✏️🎄(0.5+ years)
@@ -70,6 +70,7 @@ ________________________________________________________________________________
 * 🗒️ Incoming SCU Ciocca Center Graduate Business Consultant
 * 📜 Incoming SCU Ciocca Center Graduate Fellow
 * 💵 Incoming SCU Leavey Gradaute Student Ambassador
+* ⚯ ͛ Harry Potter Wellness Event at Accenture Mountain View (Repo)
 * 🪙 Avanade Northern California USLT Happy Hour at The Treasury
 * ✈️ Agentic AI Engineer at Fortune 500 Aerospace and Defense Company Mountain View
 * 🍸 Microsoft Avanade Northern California Representative at National MS Society Bay Area Dinner of Champions 
