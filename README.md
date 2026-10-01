@@ -72,7 +72,7 @@ ________________________________________________________________________________
 * 💵 Incoming SCU Leavey Gradaute Student Ambassador
 * ⚯ ͛ Harry Potter Wellness Event at Accenture Mountain View (Repo)
 * 🪙 Avanade Northern California USLT Happy Hour at The Treasury
-* ✈️ ML & Data Science Lead at Fortune 500 Healthcare Company Mountain View
+* 🩸 ML & Data Science Lead at Fortune 500 Healthcare Company Mountain View
 * 🍸 Microsoft Avanade Northern California Representative at National MS Society Bay Area Dinner of Champions 
 * 😸 Los Gatos High School 10-Year Reunion
 * 🎃 Halloween Hot Cocoa Bar Wellness Event at Accenture Mountain View (Repo)
