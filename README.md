@@ -1,6 +1,6 @@
 ![GOOGLE](https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=fff&style=for-the-badge) ![MICROSOFT](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white) ![AMAZON](https://img.shields.io/badge/Amazon-FF9900.svg?style=for-the-badge&logo=Amazon&logoColor=white) <img src="https://img.shields.io/badge/Accenture-A100FF?style=for-the-badge&logo=Amazon&logoColor=white"/> 
 
-As a proud San Jose local, I have spent the last 12+ years immersed in Silicon Valley tech — including 6+ rewarding years as a Lead Data Scientist and Associate Manager at Avanade (Accenture-Microsoft Joint Venture) and Accenture in Mountain View and San Francisco.
+As a proud San Jose local, I have spent the last 12.5 years immersed in Silicon Valley tech — including 6.5 rewarding years as a Lead Data Scientist and Associate Manager at Avanade (Accenture-Microsoft Joint Venture) and Accenture in Mountain View and San Francisco.
 
 My work centers on connecting the dots between cutting-edge AI — like generative and agentic models — and everyday business impact. I am endlessly curious about how technology drives enterprise value, which is why you will also find me pursuing my Evening MBA in Finance & Leading Innovative Organizations at Santa Clara University Leavey School of Business while looking toward future corporate board leadership.
 
@@ -9,18 +9,18 @@ ________________________________________________________________________________
 
 #### BIG TECH LEADERSHIP HIGHLIGHTS
 1. Mountain View & Sunnyvale Google ML & Data Science, Product Strategy, and BI - [Google](https://ai.google) (14 weeks at [Google Photos](https://www.google.com/photos/about/); 1 year at [Google Cloud](https://cloud.google.com/), [Google Play](https://play.google.com/store/games?hl=en_US), and [Google One](https://one.google.com/about/))
-2. Mountain View & San Francisco Microsoft ML & Data Science [(Microsoft Learn)](https://learn.microsoft.com/en-us/users/shawnatuli-1762/?redeem=RN4ZKZ&WT.mc_id=ilt_partner_webpage_wwl&ocid=3103897&DCS=DEPR2550058&source=docs) (6+ years)
+2. Mountain View & San Francisco Microsoft ML & Data Science [(Microsoft Learn)](https://learn.microsoft.com/en-us/users/shawnatuli-1762/?redeem=RN4ZKZ&WT.mc_id=ilt_partner_webpage_wwl&ocid=3103897&DCS=DEPR2550058&source=docs) (6.5 years)
 3. Mountain View & San Francisco Amazon ML & Data Science and Product Strategy - [Amazon](https://www.aboutamazon.com/artificial-intelligence-ai-news) (2 years at Amazon Mailbox Core; 4 weeks at [Amazon Web Services Sharecare](https://www.sharecare.com/))
-4. Mountain View & San Francisco Avanade & Accenture ML & Data Science and Strategy - [Avanade](https://www.avanade.com/en-us/services/artificial-intelligence) & [Accenture](https://www.accenture.com/us-en/services/data-ai) (6+ years)
-5. Mountain View & San Francisco Avanade & Accenture Financial Stability ML & Data Science - [United Way Bay Area](https://uwba.org/) (3+ years)
+4. Mountain View & San Francisco Avanade & Accenture ML & Data Science and Strategy - [Avanade](https://www.avanade.com/en-us/services/artificial-intelligence) & [Accenture](https://www.accenture.com/us-en/services/data-ai) (6.5 years)
+5. Mountain View & San Francisco Avanade & Accenture Financial Stability ML & Data Science - [United Way Bay Area](https://uwba.org/) (3.5 years)
 6. Santa Clara SCU Leavey [(Google Scholar 3)](https://scholar.google.com/citations?hl=en&user=Ikhq9U0AAAAJ)
-7. Mountain View & San Francisco Avanade & Accenture ML & Data Science and Strategy [(Google Scholar 2)](https://scholar.google.com/citations?hl=en&user=7F6YV8MAAAAJ) (6+ years)
+7. Mountain View & San Francisco Avanade & Accenture ML & Data Science and Strategy [(Google Scholar 2)](https://scholar.google.com/citations?hl=en&user=7F6YV8MAAAAJ) (6.5 years)
 8. Mountain View UCI ICS & Penn Medicine Global Radiation Oncology Data Science [(Google Scholar 1)](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en) (6 years)
-9. Mountain View Avanade & Accenture Wellness - 🫒🌸🙏🏼🍇🏺💅🏼💆🏻‍♀️☕🍫🕯️💐🏃🏻‍♀️🧴🪞⛳🧋🧺🎨🥑🌷🧘🏻‍♀️🐚🍃🍒🏓🫧🌹☀️🌻🧼🍝🥂🏊🏻🌬️🏸🥗🌱🎾🌶️🫖🌯🚶🏻‍♀️⛱️🟡🪄🌈🍂🎃⚯ ͛ (2+ years)
-10. Mountain View & Northern California Avanade & Accenture Office (6+ years)
-11. Mountain View & Northern California Avanade & Accenture Social Engagement & Networking (6+ years)
-12. Mountain View & Northern California Avanade & Accenture Social Engagement & Networking Events - 🛥️🏵️✏️🎄(0.5+ years)
-13. Mountain View & San Francisco Avanade & Accenture Data Science for Social Good (0.5+ years)
+9. Mountain View Avanade & Accenture Wellness - 🫒🌸🙏🏼🍇🏺💅🏼💆🏻‍♀️☕🍫🕯️💐🏃🏻‍♀️🧴🪞⛳🧋🧺🎨🥑🌷🧘🏻‍♀️🐚🍃🍒🏓🫧🌹☀️🌻🧼🍝🥂🏊🏻🌬️🏸🥗🌱🎾🌶️🫖🌯🚶🏻‍♀️⛱️🟡🪄🌈🍂🎃⚯ ͛ (2.5 years)
+10. Mountain View & Northern California Avanade & Accenture Office (6.5 years)
+11. Mountain View & Northern California Avanade & Accenture Social Engagement & Networking (6.5 years)
+12. Mountain View & Northern California Avanade & Accenture Social Engagement & Networking Events - 🛥️🏵️✏️🎄(1 year)
+13. Mountain View & San Francisco Avanade & Accenture Data Science for Social Good (1 year)
 14. Irvine UCI ICS & UCI Merage Up to Us National Debt Marketing Data Science, Strategy, and BI [(Credly)](https://www.credly.com/users/shawna-tuli/badges) (0.5 years)
 15. Bicoastal Indian American (Brown) Community (Life)
 __________________________________________________________________________________________________________________________________________________________________________
