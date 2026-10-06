@@ -70,6 +70,7 @@ ________________________________________________________________________________
 * 🗒️ Incoming SCU Ciocca Center Graduate Business Consultant
 * 📜 Incoming SCU Ciocca Center Graduate Fellow
 * 💵 Incoming SCU Leavey Gradaute Student Ambassador
+* 🏢 HPE Campus Tour
 * ⚯ ͛ Harry Potter Wellness Event at Accenture Mountain View (Repo)
 * 🪙 Avanade Northern California USLT Happy Hour at The Treasury
 * 🩸 ML & Data Science Lead at Fortune 500 Healthcare Company Mountain View
@@ -179,7 +180,7 @@ ________________________________________________________________________________
 * 🔜 Avanade Create the Future Award
 * 🌼 Organizer of Massage at Work Massages Wellness Event at Accenture Mountain View - 100% taken [(Repo)](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-wellness-7/tree/main)
 * ⌨️ Communications, Media & Technology Industry Day at Accenture Mountain View 
-* 🍴 Accenture Mountain View Happy Hours (30x)
+* 🍴 Accenture Mountain View Happy Hours (31x)
 * 💥 Avanade Accelerate Impact Super Hero Award (2x)
 * ⚖️ Avanade We Act with Integrity and Respect Ambassador Award (3x) 
 * 🛒 Products Industry Day at Accenture San Francisco 
