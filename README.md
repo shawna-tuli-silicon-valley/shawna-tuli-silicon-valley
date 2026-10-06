@@ -70,7 +70,7 @@ ________________________________________________________________________________
 * 🗒️ Incoming SCU Ciocca Center Graduate Business Consultant
 * 📜 Incoming SCU Ciocca Center Graduate Fellow
 * 💵 Incoming SCU Leavey Gradaute Student Ambassador
-* 🏢 SCU Leavey Graduate Women in Business HPE Campus Tour
+* 🏢 SCU Leavey Graduate Women in Business HPE Visit
 * ⚯ ͛ Harry Potter Wellness Event at Accenture Mountain View (Repo)
 * 🪙 Avanade Northern California USLT Happy Hour at The Treasury
 * ⚙️ ML & Data Science Lead at Fortune 500 Information Technology Company Mountain View
