@@ -70,7 +70,7 @@ ________________________________________________________________________________
 * 🗒️ Incoming SCU Ciocca Center Graduate Business Consultant
 * 📜 Incoming SCU Ciocca Center Graduate Fellow
 * 💵 Incoming SCU Leavey Gradaute Student Ambassador
-* 🏢 HPE Campus Tour
+* 🏢 SCU Leavey Graduate Women in Business HPE Campus Tour
 * ⚯ ͛ Harry Potter Wellness Event at Accenture Mountain View (Repo)
 * 🪙 Avanade Northern California USLT Happy Hour at The Treasury
 * ⚙️ ML & Data Science Lead at Fortune 500 Information Technology Company Mountain View
@@ -330,7 +330,7 @@ ________________________________________________________________________________
 * 🐱 Los Gatos High School Graduate 
 * 🛍️ Data Scientist Intern at eBay San Jose in the Office of the CIO - developed ML models to contextualize big data [(Repo)](https://github.com/shawna-tuli-silicon-valley/ebay-san-jose-product-analytics-data-science) 
 * 📲 Yaksee Interactive Broadcasting App - mentioned in SiliconValley.com for airing Steve Wozniack's talk [(Repo)](https://github.com/shawna-tuli-silicon-valley/lghs-yaksee-interactive-broadcasting-app) [(Article)](https://www.siliconvalley.com/2016/03/23/los-gatos-startup-debuts-interactive-broadcasting-app/)
-* 💓 Los Gatos High School Google, Netflix, and Intel Visits [(Repo)](https://github.com/shawna-tuli-silicon-valley/big-tech-visits/tree/main)
+* 💓 Los Gatos High School Women in Computer Science Google, Netflix, and Intel Visits [(Repo)](https://github.com/shawna-tuli-silicon-valley/big-tech-visits/tree/main)
 * ✉️ Stanford University Department of Computer Science Yahoo! Visit 
 * 🌲 Stanford University Department of Computer Science Girl Code Program - sponsored as 1 of 12 Juniors [(Repo)](https://github.com/shawna-tuli-silicon-valley/stanford-engineering-computer-science) [(Article)](https://cs.stanford.edu/sites/default/files/Girl%20Code.pdf)
 * 💽 Gates Computer Science Building Visit
