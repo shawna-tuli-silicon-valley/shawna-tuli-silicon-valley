@@ -70,6 +70,7 @@ ________________________________________________________________________________
 * 🗒️ Incoming SCU Ciocca Center Graduate Business Consultant
 * 📜 Incoming SCU Ciocca Center Graduate Fellow
 * 💵 Incoming SCU Leavey Gradaute Student Ambassador
+* ⚛︎ SCU Multicultural & First Generation in STEM Dinner 
 * 🏢 SCU Leavey Graduate Women in Business HPE Visit
 * ⚯ ͛ Harry Potter Wellness Event at Accenture Mountain View (Repo)
 * 🪙 Avanade Northern California USLT Happy Hour at The Treasury
