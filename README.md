@@ -82,7 +82,7 @@ ________________________________________________________________________________
 * ☁️ Accenture Innovation Experience at Dreamforce San Francisco 
 * 🟣 Avanade Mountain View Claude AI Pilot User
 * 🎇 Microsoft Mountain View Diwali Party
-* 🍂 Autumn Soy Candle Making at Accenture Mountain View (Repo)
+* 🍂 Autumn Soy Candle Making Wellness Event at Accenture Mountain View (Repo)
 * ⚪️ 3. Technical Lead at Amazon Web Services Sharecare Mountain View
 * 🔵 Intel Santa Clara Museum Visit 
 * ✏️ Accenture Mountain View Back to School Drive 
