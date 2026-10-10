@@ -78,7 +78,7 @@ ________________________________________________________________________________
 * ⚙️ ML & Data Science Lead at Fortune 500 Information Technology Company Mountain View
 * 🍸 Microsoft Avanade Northern California Representative at National MS Society Bay Area Dinner of Champions 
 * 😸 Los Gatos High School 10-Year Reunion
-* 🎃 Halloween Hot Cocoa Bar Wellness Event at Accenture Mountain View (Repo)
+* 🎃 Halloween Hot Cocoa Bar & Trivia Wellness Event at Accenture Mountain View (Repo)
 * ☁️ Accenture Innovation Experience at Dreamforce San Francisco 
 * 🟣 Avanade Mountain View Claude AI Pilot User
 * 🎇 Microsoft Mountain View Diwali Party
