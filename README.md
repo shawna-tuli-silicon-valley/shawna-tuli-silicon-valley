@@ -68,7 +68,8 @@ ________________________________________________________________________________
 
 #### BIG TECH AI FDE LEADERSHIP (2014-Present) 
 * 🗒️ Incoming SCU Ciocca Center Graduate Business Consultant
-* 📜 Incoming SCU Ciocca Center Graduate 
+* 📜 Incoming SCU Ciocca Center Graduate
+* 📂 SCU Leavey Navigating the AI Workspace 
 * 🐴 SCU Bronco Ventures Accelerator Demo Day
 * ⚛︎ SCU Multicultural & First Generation in STEM Dinner 
 * 🏢 SCU Leavey Graduate Women in Business HPE Visit
