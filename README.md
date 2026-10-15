@@ -94,7 +94,7 @@ ________________________________________________________________________________
 * 🍾 Accenture San Francisco Northern California Engagement Leadership End-of-Year Celebration at Bare Bottles
 * 📖 Santa Clara University Leavey School of Business Evening MBA Finance & Leading Innovative Organizations Candidate
 * 🟡 The Dome SJ Pickleball & Positivity Wellness Event at Accenture Mountain View (Repo)
-* 𓂃🪶 Collaborator at Avanade Client Stories (2x)
+* 𓂃🪶 Collaborator at Avanade Client Stories (3x)
 * 👑 ML & Data Science Lead SISA at Fortune 500 Healthcare Company Mountain View
 * 🏘️ Data Scientist at Fortune 500 Real Estate Company Mountain View
 * 📙 Avanade Internship Pitch Competition Lead
