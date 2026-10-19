@@ -69,7 +69,7 @@ ________________________________________________________________________________
 #### BIG TECH AI FDE LEADERSHIP (2014-Present) 
 * 🗒️ Incoming SCU Ciocca Center Graduate Business Consultant
 * 📜 Incoming SCU Ciocca Center Graduate
-* 📣 SCU Leavey Graduate Business Programs LinkedIn Career Trek San Francisco 
+* 📣 SCU Leavey LinkedIn Career Trek San Francisco 
 * 🌲 Christmas Wellness Event at Accenture Mountain View (Repo)
 * 🦃 Thanksgiving Wellness Event at Accenture Mountain View (Repo)
 * 🥻 Diwali Wellness Event at Accenture Mountain View (Repo)
