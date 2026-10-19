@@ -1,4 +1,4 @@
-![GOOGLE](https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=fff&style=for-the-badge) ![MICROSOFT](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white) ![AMAZON](https://img.shields.io/badge/Amazon-FF9900.svg?style=for-the-badge&logo=Amazon&logoColor=white) <img src="https://img.shields.io/badge/Accenture-A100FF?style=for-the-badge&logo=Amazon&logoColor=white"/> 
+![MICROSOFT](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white) ![GOOGLE](https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=fff&style=for-the-badge) ![AMAZON](https://img.shields.io/badge/Amazon-FF9900.svg?style=for-the-badge&logo=Amazon&logoColor=white) <img src="https://img.shields.io/badge/Accenture-A100FF?style=for-the-badge&logo=Amazon&logoColor=white"/> 
 
 As a proud San Jose local, I have spent the last 12.5 years immersed in Silicon Valley tech — including 6.5 rewarding years as a Lead Data Scientist and Associate Manager at Avanade (Accenture-Microsoft Joint Venture) and Accenture in Mountain View and San Francisco.
 
