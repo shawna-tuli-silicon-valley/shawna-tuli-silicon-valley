@@ -64,6 +64,7 @@ ________________________________________________________________________________
 37. LinkedIn Expert Contributor in ML & Data Science
 38. Databricks Partner Tech Summit
 39. Accenture Innovation Experience at Dreamforce San Francisco
+40. NASA Astrophysics Data System (ADS), Harvard University
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 #### BIG TECH AI FDE LEADERSHIP (2014-Present) 
@@ -352,7 +353,7 @@ ________________________________________________________________________________
 2. “Comprehensive forecasting of California's energy consumption: a multi-source and sectoral analysis using ARIMA and
 ARIMAX models” in World Journal of Advanced Research and Reviews (WJARR).
 3. “Comprehensive Forecasting of California's Energy Consumption: A Multi-Source and Sectoral Analysis Using ARIMA and
-ARIMAX Models” in Stanford University Libraries, arxiv.org/pdf/2402.04432, Avanade AI Studio, and Accenture Knowledge Exchange.
+ARIMAX Models” in NASA Astrophysics Data System (ADS), Harvard University, Stanford University Libraries, arxiv.org/pdf/2402.04432, Avanade AI Studio, and Accenture Knowledge Exchange.
 4. “Call Center CoPilot: Enhancing Customer Service with Large Language Models” in University of California, Irvine
 Undergraduate Research Opportunities Program (UROP), Avanade AI Studio, and Accenture Knowledge Exchange.
 5. “Accenture Call Center Co-Pilot” in UCI Donald Bren School of Information & Computer Sciences (ICS) STATS 170B, Avanade AI Studio, and Accenture Knowledge Exchange.
