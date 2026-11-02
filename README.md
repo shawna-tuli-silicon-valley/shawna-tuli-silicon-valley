@@ -119,7 +119,7 @@ ________________________________________________________________________________
 * 🌱 Amarin Thai Protein-Powered Plates Wellness Event at Accenture Mountain View (Repo)
 * 🏸 Racket & Recharge Wellness Event at Accenture Mountain View (Repo)
 * ✴️ Claude Specialist at Avanade & Accenture Mountain View & Northern California Social Engagement & Networking (Repo)
-* 🎄 Initiator of Holiday Party at Accenture San Francisco Innovation Hub (Repo) 
+* 🎄 Initiator of Holidays Party at Accenture San Francisco Innovation Hub (2x) (Repo) 
 * 👡 Avanade Mountain View & Northern California Social Engagement & Networking Events Lead
 * 🧼 Self-Care Studio Wellness Event at Accenture Mountain View (Repo) 
 * 🌹 Accenture Mountain View Wellness Kits Facilitator (3x)
@@ -214,8 +214,8 @@ ________________________________________________________________________________
 * 🛢️ CES 
 * 🚗 5) Accenture ML & Data Science Advisor - business modeled Uber and led 5 Data Scientists [(Repo)](https://github.com/shawna-tuli-silicon-valley/uci-ics-bi-and-data-science/tree/main) [(Student Repo)](https://github.com/jiangyue-amber/uber-analysis) 
 * 🍏 Freakonomics Radio Live with Stephen Dubner and special guests San Francisco
-* ❄️ Accenture San Francisco Innovation Hub AI Holiday Party
-* 🎄 Accenture San Francisco Innovation Hub Holidays Party (6x)
+* ❄️ Accenture San Francisco Innovation Hub AI Holidays Party
+* 🎄 Accenture San Francisco Innovation Hub Holidays Party (7x)
 * 👠 Avanade Northern California Social Engagement & Networking Champion - assembling and holding monthly events for 50+
 * 🌎 Google AI for everyone Global Virtual Summit
 * 🔍 4) Accenture V360 Awards Submit - developed AI utility rate case management, led 7 Data Scientists [(Repo)](https://github.com/shawna-tuli-silicon-valley/accenture/tree/main) [(Student Repo)](https://github.com/bsteier/GRCResponder)
