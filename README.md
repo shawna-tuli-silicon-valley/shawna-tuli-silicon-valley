@@ -70,9 +70,9 @@ ________________________________________________________________________________
 #### BIG TECH AI FDE LEADERSHIP (2014-Present) 
 * 🗒️ Incoming SCU Ciocca Center Graduate Business Consultant
 * 📜 Incoming SCU Ciocca Center Graduate
+* 🧮 TBA
 * 🌌 NASA Astrophysics Data System (ADS), Harvard University
 * 🖨️ Incoming ML & Data Science Lead at Fortune 500 Information Technology Company Mountain View
-* 🧮 SCU Leavey Executive Panel Discussion: AI-powered Data & Analytics
 * 📣 SCU Leavey LinkedIn Career Trek San Francisco 
 * 🌲 Christmas Wellness Event at Accenture Mountain View (Repo)
 * 🥧 Thanksgiving Pie & Gratitude Wellness Event at Accenture Mountain View (Repo)
