@@ -51,20 +51,21 @@ ________________________________________________________________________________
 24. Microsoft Better Together: Leading Ahead | Women, AI & the Future of Leadership Conference | Mountain View (2x)
 25. Microsoft Fireworks on Microsoft Foundry Launch | San Francisco
 26. Avanade Recognition | Mountain View & San Francisco
-27. Radiotherapy and Oncology Conference
-28. American Society for Radiation Oncology (ASTRO) Conference
-29. International Journal of Gynecological Cancer (IJGC) Conference
-30. International Conference on Malignancies in HIV/AIDS (ICMH) Conference
-31. European Society of Medical Oncology (ESMO) Conference
-32. Stanford University Libraries (5x)
-33. United Way Bay Area SparkPoint Summit
-34. Databricks Data + AI Summit | San Francisco
-35. UCI ICS Project Expo | Irvine (6x)
-36. Harvard Business Review Advisor
-37. LinkedIn Expert Contributor in ML & Data Science
-38. Databricks Partner Tech Summit
-39. Accenture Innovation Experience at Dreamforce San Francisco
-40. NASA Astrophysics Data System (ADS), Harvard University
+27. Penn Undergraduate Research Mentoring Program (PURM) (2x)
+28. Radiotherapy and Oncology Conference
+29. American Society for Radiation Oncology (ASTRO) Conference
+30. International Journal of Gynecological Cancer (IJGC) Conference
+31. International Conference on Malignancies in HIV/AIDS (ICMH) Conference
+32. European Society of Medical Oncology (ESMO) Conference
+33. Stanford University Libraries (5x)
+34. United Way Bay Area SparkPoint Summit
+35. Databricks Data + AI Summit | San Francisco
+36. UCI ICS Project Expo | Irvine (6x)
+37. Harvard Business Review Advisor
+38. LinkedIn Expert Contributor in ML & Data Science
+39. Databricks Partner Tech Summit
+40. Accenture Innovation Experience at Dreamforce San Francisco
+41. NASA Astrophysics Data System (ADS), Harvard University
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 #### BIG TECH AI FDE LEADERSHIP (2014-Present) 
