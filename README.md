@@ -71,7 +71,7 @@ ________________________________________________________________________________
 #### BIG TECH AI FDE LEADERSHIP (2014-Present) 
 * 🗒️ Incoming SCU Ciocca Center Graduate Business Consultant
 * 📜 Incoming SCU Ciocca Center Graduate
-* 🎀 Planner at Avanade Virtual Holidays Party 
+* 🎀 Planner at Avanade North America Virtual Holidays Party 
 * 🌲 Christmas Wellness Event at Accenture Mountain View (Repo)
 * 🌌 NASA Astrophysics Data System (ADS), Harvard University
 * 🖨️ ML & Data Science Lead at Fortune 500 Information Technology Company Mountain View
