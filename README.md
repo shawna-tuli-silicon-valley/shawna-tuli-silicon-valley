@@ -429,7 +429,7 @@ ________________________________________________________________________________
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD22E.svg?style=for-the-badge&logo=Hugging-Face&logoColor=black) ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2.svg?style=for-the-badge&logo=Google-Gemini&logoColor=white) ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000.svg?style=for-the-badge&logo=GitHub-Copilot&logoColor=white)
 
 #### Artificial Intelligence
-* Artificial Intelligence, Algorithms, Natural Language Processing, Creativity, Machine Learning, Deep Learning
+* Artificial Intelligence, Algorithms, Natural Language Processing, Creativity, Machine Learning, Deep Learning, Glean, Genie One
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
 #### Data Science
