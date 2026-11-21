@@ -50,7 +50,7 @@ ________________________________________________________________________________
 23. Microsoft Azure Summit: Migrate and Modernize with Agentic AI | Mountain View
 24. Microsoft Better Together: Leading Ahead | Women, AI & the Future of Leadership Conference | Mountain View (2x)
 25. Microsoft Fireworks on Microsoft Foundry Launch | San Francisco
-26. Avanade Recognition | Mountain View & San Francisco
+26. Avanade Supporting Our Communities Recognition | Mountain View & San Francisco
 27. Penn Undergraduate Research Mentoring Program (PURM) (2x)
 28. Radiotherapy and Oncology Conference
 29. American Society for Radiation Oncology (ASTRO) Conference
@@ -66,6 +66,7 @@ ________________________________________________________________________________
 39. Databricks Partner Tech Summit
 40. Accenture Innovation Experience at Dreamforce San Francisco
 41. NASA Astrophysics Data System (ADS), Harvard University
+42. Avanade Client Value Creation Recognition | Mountain View & San Francisco
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 #### BIG TECH AI FDE LEADERSHIP (2014-Present) 
@@ -73,7 +74,8 @@ ________________________________________________________________________________
 * 📜 Incoming SCU Ciocca Center Graduate
 * 🧮 Incoming AI at Fortune 500 Information Technology Company Mountain View 
 * 🏡 Incoming Accenture Mountain View DSSG Lead at UWBA Phase 7, leading 6 Data Scientists (Repo)
-* ❗ Incoming ML Full Stack Developer at Amazon Mountain View 
+* ❗ Incoming ML Full Stack Developer at Amazon Mountain View
+* 🧭 Accenture Mountain View & San Francisco Innovation Hub Avanade Client Value Creation Recognition 
 * 🎀 Planner at Avanade North America Virtual Holidays Party 
 * 🌲 Christmas Wellness Event at Accenture Mountain View (Repo)
 * 🌌 NASA Astrophysics Data System (ADS), Harvard University
@@ -136,7 +138,7 @@ ________________________________________________________________________________
 * ⛰️ Presenter at United Way Bay Area SparkPoint Summit 
 * 📑 Accenture Mountain View & San Francisco Innovation Hub Data Science for Social Good Co-Lead 
 * 📚 Stanford University Libraries (5x)
-* 🌿 Accenture Mountain View & San Francisco Innovation Hub Avanade Recognition
+* 🌿 Accenture Mountain View & San Francisco Innovation Hub Avanade Supporting Our Communities Recognition
 * ❤️‍🔥 Microsoft Mountain View Better Together: Leading Ahead | Women, AI & the Future of Leadership Conference (2x)
 * 🗻 Accenture Mountain View Microsoft Azure Summit: Migrate and Modernize with Agentic AI
 * 🎆 Microsoft San Francisco Fireworks on Microsoft Foundry Launch
