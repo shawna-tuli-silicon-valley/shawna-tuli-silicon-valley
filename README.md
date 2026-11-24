@@ -372,7 +372,7 @@ Knowledge Exchange.
 10. "BI Analysis (Partner Business Modeling: Uber)" in University of California, Irvine Undergraduate Research Opportunities Program (UROP), Avanade AI Studio, and Accenture Knowledge Exchange. 
 11. “Predicting risk of Type 2 diabetes with AI in California” in UCI Donald Bren School of Information & Computer Sciences (ICS) STATS 170B, Avanade AI Studio, and Accenture Knowledge Exchange.
 12. “Five-year overall survival following chemoradiation therapy for locally advanced cervical carcinoma in women living with
-and without HIV infection in Botswana” in Infectious Agents and Cancer, National Library of Medicine (NLM), and Stanford University Libraries.
+and without HIV infection in Botswana” in Infectious Agents and Cancer, National Library of Medicine (NLM), Stanford University Libraries, and University of Botswana.
 13. “Stage and outcomes of invasive cervical cancer patients in Botswana: a prospective cohort study from 2013 to 2020” in
 International Journal of Radiation Oncology* Biology* Physics (IJROBP), American Society for Radiation Oncology (ASTRO), Gynecologic Oncology Reports, Stanford University Libraries, University of California San Francisco, and National Library of Medicine (NLM).
 14. “Delays in cervical cancer treatment initiation for patients living with or without HIV in Botswana: An observational cohort analysis (2015-2019)” in International Journal of Radiation Oncology* Biology* Physics (IJROBP) and National
