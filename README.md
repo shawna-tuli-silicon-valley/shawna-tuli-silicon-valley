@@ -73,7 +73,7 @@ ________________________________________________________________________________
 #### BIG TECH AI FDE LEADERSHIP (2014-Present) 
 * 🗒️ Incoming SCU Ciocca Center Graduate Business Consultant
 * 📜 Incoming SCU Ciocca Center Graduate
-* 🗂️ Incoming AI at Fortune 500 Information Technology Company Mountain View 
+* ‼️ Incoming AI at Fortune 500 Information Technology Company Mountain View 
 * 🧮 Incoming AI at Fortune 500 Information Technology Company Mountain View 
 * 🏡 Incoming Accenture Mountain View DSSG Lead at UWBA Phase 7, leading 6 Data Scientists (Repo)
 * ❗ Incoming ML Full Stack Developer at Amazon Mountain View
