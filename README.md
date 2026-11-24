@@ -76,7 +76,7 @@ ________________________________________________________________________________
 * 🏡 Incoming Accenture Mountain View DSSG Lead at UWBA Phase 7, leading 6 Data Scientists (Repo)
 * ❗ Incoming ML Full Stack Developer at Amazon Mountain View
 * 🧭 Accenture Mountain View & San Francisco Innovation Hub Avanade Client Value Creation Recognition 
-* 🎀 Planner at Avanade North America Virtual Holidays Party 
+* 🎀 Strategist at Avanade North America Virtual Holidays Party 
 * 🌲 Christmas Wellness Event at Accenture Mountain View (Repo)
 * 🌌 NASA Astrophysics Data System (ADS), Harvard University
 * 🖨️ ML & Data Science Lead at Fortune 500 Information Technology Company Mountain View
