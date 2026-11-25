@@ -71,7 +71,7 @@ ________________________________________________________________________________
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 #### BIG TECH AI FDE LEADERSHIP (2014-Present) 
-* 💟 Incoming Accenture AI Forward Deployed Engineering Associate Manager 
+* 💟 Incoming Accenture Mountain View AI Forward Deployed Engineering Associate Manager 
 * ‼️ Incoming AI at Fortune 500 Information Technology Company Mountain View 
 * 🧮 Incoming AI at Fortune 500 Information Technology Company Mountain View 
 * 🏡 Incoming Accenture Mountain View DSSG Lead at UWBA Phase 7, leading 6 Data Scientists (Repo)
