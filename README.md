@@ -491,6 +491,8 @@ ________________________________________________________________________________
 
 #### ![AMAZON](https://img.shields.io/badge/Amazon-FF9900.svg?style=for-the-badge&logo=Amazon&logoColor=white)
 
+#### ![META](https://img.shields.io/badge/Meta-0082FB?style=for-the-badge&logo=meta&logoColor=white)
+
 #### ![ACCENTURE](https://img.shields.io/badge/Accenture-A100FF.svg?style=for-the-badge&logo=Accenture&logoColor=white)
 * Avanade Full Stack FDE Foundational Training, Avanade Full Stack FDE Core Training, Avanade Full Stack FDE Platform Training, Talent Quotient Generative AI Training, Talent Quotient Agentic AI Training, Avanade SISA Apprentice Program, Avanade License to Hire Recertification (2x), Avanade Leadership Accelerator, Avanade Generative AI Learning Path, Avanade Growth Mindset Training, Avanade License to Hire Certification
 ___________________________________________________________________________________________________________________________________________________________________________
