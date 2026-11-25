@@ -71,12 +71,13 @@ ________________________________________________________________________________
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 #### BIG TECH AI FDE LEADERSHIP (2014-Present) 
-* 🗒️ Incoming SCU Ciocca Center Graduate Business Consultant
-* 📜 Incoming SCU Ciocca Center Graduate
+* 💟 Incoming Accenture AI Forward Deployed Engineering Associate Manager 
 * ‼️ Incoming AI at Fortune 500 Information Technology Company Mountain View 
 * 🧮 Incoming AI at Fortune 500 Information Technology Company Mountain View 
 * 🏡 Incoming Accenture Mountain View DSSG Lead at UWBA Phase 7, leading 6 Data Scientists (Repo)
 * ❗ Incoming ML Full Stack Developer at Amazon Mountain View
+* 🗒️ Incoming SCU Ciocca Center Graduate Business Consultant
+* 📜 Incoming SCU Ciocca Center Graduate
 * 🧭 Accenture Mountain View & San Francisco Innovation Hub Avanade Client Value Creation Recognition 
 * 🎀 Strategist at Avanade North America Virtual Holidays Party 
 * 🌲 Christmas Wellness Event at Accenture Mountain View (Repo)
