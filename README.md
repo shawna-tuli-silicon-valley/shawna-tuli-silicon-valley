@@ -21,7 +21,7 @@ ________________________________________________________________________________
 10. Mountain View Accenture & Avanade Wellness - 🫒🌸🙏🏼🍇🏺💅🏼💆🏻‍♀️☕🍫🕯️💐🏃🏻‍♀️🧴🪞⛳🧋🧺🎨🥑🌷🧘🏻‍♀️🐚🍃🍒🏓🫧🌹☀️🌻🧼🍝🥂🏊🏻🌬️🏸🥗🌱🎾🌶️🫖🌯🚶🏻‍♀️⛱️🟡🪄🌈🍂🎃🥻🥧⚯ ͛ 🌲(2.5 years)
 11. Mountain View & Northern California Accenture & Avanade Office (6.5 years)
 12. Mountain View & Northern California Accenture & Avanade Social Engagement & Networking (6.5 years)
-13. Mountain View & Northern California Accenture & Avanade Social Engagement & Networking Events - 🛥️🏵️✏️🌲🎀(1 year)
+13. Mountain View & Northern California Accenture & Avanade Social Engagement & Networking Events - 🛥️🏵️✏️🎄🎀(1 year)
 14. Mountain View & San Francisco Accenture & Avanade Data Science for Social Good (1 year)
 15. Bicoastal Indian American (Brown) Community (Life)
 __________________________________________________________________________________________________________________________________________________________________________
